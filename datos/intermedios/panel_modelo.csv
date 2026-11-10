@@ -1,0 +1,109 @@
+anio,region,casos,poblacion,inmunidad,arrastre,oni,arrastre_fuente,poblacion_fuente
+2015,Brunca,1921,358791.0,6.20488,3.89057,0.296,crudo_asis_2014,2015_aprox
+2015,C.Este,23,559998.0,2.460812,2.005337,0.296,crudo_asis_2014,2015_aprox
+2015,Central Norte,858,931066.0,5.092216,3.531868,0.296,crudo_asis_2014,2015_aprox
+2015,Central Sur,436,1412029.0,3.583105,2.350412,0.296,crudo_asis_2014,2015_aprox
+2015,Chorotega,2582,416006.0,5.330426,5.797153,0.296,crudo_asis_2014,2015_aprox
+2015,H. Caribe,535,433523.0,6.153605,3.749981,0.296,crudo_asis_2014,2015_aprox
+2015,H.Norte,37,232896.0,3.884873,0.619906,0.296,crudo_asis_2014,2015_aprox
+2015,Occidente,54,207864.0,2.216856,0.392774,0.296,crudo_asis_2014,2015_aprox
+2015,Pacífico Central,1303,280054.0,6.398402,4.990727,0.296,crudo_asis_2014,2015_aprox
+2016,Brunca,3843,361143.0,6.284897,5.463405,1.96,escalado,anio_anterior
+2016,C.Este,64,564586.0,1.630643,2.36073,1.96,escalado,anio_anterior
+2016,Central Norte,5636,944829.0,4.534237,5.275241,1.96,escalado,anio_anterior
+2016,Central Sur,2037,1426017.0,3.461902,3.641101,1.96,escalado,anio_anterior
+2016,Chorotega,2184,422573.0,6.4324,6.973395,1.96,escalado,anio_anterior
+2016,H. Caribe,1222,439013.0,4.823563,3.213348,1.96,escalado,anio_anterior
+2016,H.Norte,224,237073.0,2.826539,2.227212,1.96,escalado,anio_anterior
+2016,Occidente,62,210432.0,3.295041,2.175504,1.96,escalado,anio_anterior
+2016,Pacífico Central,4047,284706.0,6.144759,6.486892,1.96,escalado,anio_anterior
+2017,Brunca,252,363471.0,6.970844,4.839729,-0.9,escalado,anio_anterior
+2017,C.Este,42,569046.0,2.512501,1.754796,-0.9,escalado,anio_anterior
+2017,Central Norte,1225,958330.0,6.392771,5.056291,-0.9,escalado,anio_anterior
+2017,Central Sur,309,1439614.0,4.968739,3.559655,-0.9,escalado,anio_anterior
+2017,Chorotega,338,429066.0,6.249654,5.029957,-0.9,escalado,anio_anterior
+2017,H. Caribe,1972,444447.0,5.632471,4.469694,-0.9,escalado,anio_anterior
+2017,H.Norte,33,241213.0,4.558976,2.244555,-0.9,escalado,anio_anterior
+2017,Occidente,21,212950.0,3.416519,0.886095,-0.9,escalado,anio_anterior
+2017,Pacífico Central,630,289344.0,7.260148,5.203393,-0.9,escalado,anio_anterior
+2018,Brunca,65,365772.0,4.25322,2.763596,-0.802,escalado,anio_anterior
+2018,C.Este,41,573398.0,2.12594,2.262898,-0.802,escalado,anio_anterior
+2018,Central Norte,885,971638.0,4.858467,2.855473,-0.802,escalado,anio_anterior
+2018,Central Sur,83,1452752.0,3.111918,1.365441,-0.802,escalado,anio_anterior
+2018,Chorotega,195,435472.0,4.37922,2.941591,-0.802,escalado,anio_anterior
+2018,H. Caribe,538,449781.0,6.097394,4.051344,-0.802,escalado,anio_anterior
+2018,H.Norte,9,245253.0,2.686544,0.603847,-0.802,escalado,anio_anterior
+2018,Occidente,0,,2.385222,0.0,-0.802,escalado,anio_anterior
+2018,Pacífico Central,190,293903.0,5.387856,3.637065,-0.802,escalado,anio_anterior
+2019,Brunca,37,367971.0,2.932294,2.456368,0.546,escalado,anio_anterior
+2019,C.Este,637,577545.0,2.098062,2.031715,0.546,escalado,anio_anterior
+2019,Central Norte,2642,984656.0,4.522694,3.057535,0.546,escalado,anio_anterior
+2019,Central Sur,283,1465625.0,1.90409,1.120063,0.546,escalado,anio_anterior
+2019,Chorotega,478,441758.0,3.823825,3.375716,0.546,escalado,anio_anterior
+2019,H. Caribe,1433,455024.0,4.792593,3.536589,0.546,escalado,anio_anterior
+2019,H.Norte,314,249221.0,1.541091,0.967352,0.546,escalado,anio_anterior
+2019,Occidente,45,217806.0,0.0,0.0,0.546,escalado,sin_poblacion_0_casos
+2019,Pacífico Central,773,298393.0,4.184295,3.938796,0.546,escalado,anio_anterior
+2020,Brunca,2136,369977.0,2.402895,3.058757,0.106,escalado,anio_anterior
+2020,C.Este,211,562341.0,4.712179,1.84786,0.106,escalado,anio_anterior
+2020,Central Norte,617,996850.0,5.595889,4.211516,0.106,escalado,anio_anterior
+2020,Central Sur,367,1496124.0,3.011072,2.782224,0.106,escalado,anio_anterior
+2020,Chorotega,295,447699.0,4.693218,4.747648,0.106,escalado,anio_anterior
+2020,H. Caribe,4178,460099.0,5.755516,4.756671,0.106,escalado,anio_anterior
+2020,H.Norte,413,253032.0,4.844129,4.161157,0.106,escalado,anio_anterior
+2020,Occidente,18,219512.0,3.075494,0.376586,0.106,escalado,anio_anterior
+2020,Pacífico Central,768,302885.0,5.560891,5.287966,0.106,escalado,anio_anterior
+2021,Brunca,504,369970.0,6.36015,4.035723,-1.246,escalado,anio_anterior
+2021,C.Este,1123,562614.0,3.651222,1.687084,-1.246,escalado,anio_anterior
+2021,Central Norte,189,1000000.0,4.141466,3.06403,-1.246,escalado,anio_anterior
+2021,Central Sur,134,1494382.0,3.239856,1.31766,-1.246,escalado,anio_anterior
+2021,Chorotega,118,447964.0,4.203087,1.759558,-1.246,escalado,anio_anterior
+2021,H. Caribe,911,460084.0,6.812417,4.485874,-1.246,escalado,anio_anterior
+2021,H.Norte,603,253089.0,5.10121,1.574769,-1.246,escalado,anio_anterior
+2021,Occidente,9,221111.0,2.219204,1.489175,-1.246,escalado,anio_anterior
+2021,Pacífico Central,165,302839.0,5.539543,3.824069,-1.246,escalado,anio_anterior
+2022,Brunca,191,373626.0,4.921638,1.925976,-1.05,escalado,anio_anterior
+2022,C.Este,1799,569154.0,5.301333,4.553827,-1.05,escalado,anio_anterior
+2022,Central Norte,522,1022321.0,2.99072,3.484713,-1.05,escalado,anio_anterior
+2022,Central Sur,236,1519824.0,2.299271,1.083022,-1.05,escalado,anio_anterior
+2022,Chorotega,122,459760.0,3.308402,1.699068,-1.05,escalado,anio_anterior
+2022,H. Caribe,2622,469797.0,5.293342,3.95713,-1.05,escalado,anio_anterior
+2022,H.Norte,325,260994.0,5.477535,4.447008,-1.05,escalado,anio_anterior
+2022,Occidente,12,225000.0,1.623411,0.756928,-1.05,escalado,anio_anterior
+2022,Pacífico Central,206,311927.0,4.016102,2.863683,-1.05,escalado,anio_anterior
+2023,Brunca,270,375476.0,3.953561,2.442766,-1.03,escalado,anio_anterior
+2023,C.Este,481,572150.0,5.759164,4.325313,-1.03,escalado,anio_anterior
+2023,Central Norte,3291,1034455.0,3.952402,3.535117,-1.03,escalado,anio_anterior
+2023,Central Sur,1043,1531915.0,2.805063,2.012565,-1.03,escalado,anio_anterior
+2023,Chorotega,1727,466220.0,3.315479,3.227503,-1.03,escalado,anio_anterior
+2023,H. Caribe,4729,474525.0,6.326352,4.353166,-1.03,escalado,anio_anterior
+2023,H.Norte,1141,264886.0,4.832496,2.674402,-1.03,escalado,anio_anterior
+2023,Occidente,176,226734.0,1.845827,0.885415,-1.03,escalado,anio_anterior
+2023,Pacífico Central,2254,316217.0,4.205306,2.53016,-1.03,escalado,anio_anterior
+2024,Brunca,3319,377162.0,4.289208,4.066268,1.19,escalado,anio_anterior
+2024,C.Este,3280,574995.0,4.443461,4.989457,1.19,escalado,anio_anterior
+2024,Central Norte,5821,1046298.0,5.765625,5.80667,1.19,escalado,anio_anterior
+2024,Central Sur,6895,1542004.0,4.235334,4.863108,1.19,escalado,anio_anterior
+2024,Chorotega,980,472076.0,5.91735,6.881686,1.19,escalado,anio_anterior
+2024,H. Caribe,1136,479089.0,6.905328,5.687121,1.19,escalado,anio_anterior
+2024,H.Norte,1653,268663.0,6.06785,5.760782,1.19,escalado,anio_anterior
+2024,Occidente,487,228820.0,4.364677,4.683637,1.19,escalado,anio_anterior
+2024,Pacífico Central,2261,320490.0,6.570605,6.487991,1.19,escalado,anio_anterior
+2025,Brunca,253,378144.0,6.78105,0.0,-0.784,negativo_a_cero,anio_anterior
+2025,C.Este,109,573850.0,6.348159,4.50829,-0.784,escalado,anio_anterior
+2025,Central Norte,487,1056110.0,6.32318,3.7548,-0.784,escalado,anio_anterior
+2025,Central Sur,1590,1551122.0,6.105118,5.476319,-0.784,escalado,anio_anterior
+2025,Chorotega,438,476834.0,5.340388,4.557583,-0.784,escalado,anio_anterior
+2025,H. Caribe,187,482684.0,5.472761,3.872503,-0.784,escalado,anio_anterior
+2025,H.Norte,115,271354.0,6.423683,2.679367,-0.784,escalado,anio_anterior
+2025,Occidente,40,229986.0,5.365186,3.794861,-0.784,escalado,anio_anterior
+2025,Pacífico Central,581,324412.0,6.560298,0.0,-0.784,negativo_a_cero,anio_anterior
+2026,Brunca,215,353132.0,4.21812,0.0,-0.864,negativo_a_cero,anio_anterior
+2026,C.Este,69,553398.0,2.995458,2.410866,-0.864,escalado,anio_anterior
+2026,Central Norte,1815,1047198.0,3.852541,3.065927,-0.864,escalado,anio_anterior
+2026,Central Sur,601,1514396.0,4.639634,3.7811,-0.864,escalado,anio_anterior
+2026,Chorotega,820,474457.0,4.531048,5.265824,-0.864,escalado,anio_anterior
+2026,H. Caribe,486,457928.0,3.682401,2.997089,-0.864,escalado,anio_anterior
+2026,H.Norte,332,271429.0,3.77,3.111351,-0.864,escalado,anio_anterior
+2026,Occidente,251,224490.0,2.911936,1.972253,-0.864,escalado,anio_anterior
+2026,Pacífico Central,1321,321874.0,5.193475,4.133642,-0.864,escalado,anio_anterior

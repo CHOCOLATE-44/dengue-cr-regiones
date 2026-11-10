@@ -1,0 +1,2 @@
+"prueba","estadistico","gl","p_chi2_ingenuo","p_boot","replicas_validas","sigma_a","AIC_sin","AIC_con"
+"σ²_a = 0 (modelo final sin (1|anio_f)) vs modelo final",2.9751396888189,1,0.0845528274746028,0.009,1000,0.307753532430283,1476.90699145704,1475.93185176822

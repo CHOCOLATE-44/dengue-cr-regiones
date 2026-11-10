@@ -1,0 +1,11 @@
+"region","razon_obs_mediana.S","fuera_ip95.S","direccion.S","p_holm.S","razon_obs_mediana.M1","fuera_ip95.M1","direccion.M1","p_holm.M1","razon_obs_mediana.M0","fuera_ip95.M0","direccion.M0","p_holm.M0","misma_conclusion"
+"Brunca",0.704918032786885,FALSE,"dentro",1,1.47260273972603,FALSE,"dentro",1,0.426587301587302,FALSE,"dentro",1,TRUE
+"C.Este",0.230769230769231,FALSE,"dentro",1,0.276,FALSE,"dentro",1,0.183510638297872,FALSE,"dentro",1,TRUE
+"Central Norte",1.78115799803729,FALSE,"dentro",1,2.52433936022253,FALSE,"dentro",1,1.57142857142857,FALSE,"dentro",1,TRUE
+"Central Sur",0.757881462799496,FALSE,"dentro",1,1.1447619047619,FALSE,"dentro",1,1.22403258655804,FALSE,"dentro",1,TRUE
+"Chorotega",0.615615615615616,FALSE,"dentro",1,1.52416356877323,FALSE,"dentro",1,1.61417322834646,FALSE,"dentro",1,TRUE
+"H. Caribe",0.557979334098737,FALSE,"dentro",1,0.712609970674487,FALSE,"dentro",1,0.398687448728466,FALSE,"dentro",1,TRUE
+"H.Norte",1.42489270386266,FALSE,"dentro",1,1.55868544600939,FALSE,"dentro",1,1.50909090909091,FALSE,"dentro",1,TRUE
+"Occidente",5.02,FALSE,"dentro",0.7155,8.09677419354839,TRUE,"por encima",0.369,8.36666666666667,FALSE,"dentro",0.864,FALSE
+"Pacífico Central",0.665826612903226,FALSE,"dentro",1,2.13927125506073,FALSE,"dentro",1,2.09516256938937,FALSE,"dentro",1,TRUE
+"Nacional",0.6598559705242,FALSE,"dentro",NA,1.18805910141723,FALSE,"dentro",NA,0.815003792318831,FALSE,"dentro",NA,TRUE

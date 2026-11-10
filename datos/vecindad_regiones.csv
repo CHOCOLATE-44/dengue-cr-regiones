@@ -1,0 +1,10 @@
+"region","Brunca","C.Este","Central Norte","Central Sur","Chorotega","H. Caribe","H.Norte","Occidente","Pacífico Central"
+"Brunca",0,1,0,0,0,1,0,0,1
+"C.Este",1,0,0,1,0,1,0,0,1
+"Central Norte",0,0,0,1,0,1,1,1,1
+"Central Sur",0,1,1,0,0,1,0,0,1
+"Chorotega",0,0,0,0,0,0,1,1,1
+"H. Caribe",1,1,1,1,0,0,0,0,0
+"H.Norte",0,0,1,0,1,0,0,1,0
+"Occidente",0,0,1,0,1,0,1,0,1
+"Pacífico Central",1,1,1,1,1,0,0,1,0

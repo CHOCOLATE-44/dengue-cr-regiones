@@ -1,0 +1,1403 @@
+                                          Boletín Epidemiológico N°28 de 2023
+                                                     Dirección de Vigilancia de la Salud
+                                                             Ministerio de Salud
+
+
+
+
+                                                                          Tabla de contenido
+
+
+
+Dengue ..................................................................................................................................................................................... 3
+Chikungunya ......................................................................................................................................................................... 8
+Zika............................................................................................................................................................................................. 9
+Malaria ................................................................................................................................................................................... 10
+Acciones de Control Vectorial ................................................................................................................................... 14
+Influenza y otras virosis respiratorias, IRAS y ETI ........................................................................................ 20
+Meningitis ............................................................................................................................................................................. 24
+Enfermedad Diarreica Aguda (EDA) ...................................................................................................................... 27
+Intoxicación por metanol............................................................................................................................................. 32
+Enfermedad por COVID-19 ......................................................................................................................................... 35
+Demencias ............................................................................................................................................................................ 38
+
+
+
+
+                                                                                                1
+2
+                                                Dengue
+                                                                                    Adriana Alfaro Nájera
+                                                                                  Unidad de Epidemiología
+                                                                           Dirección de Vigilancia de Salud
+                                                                              adriana.alfaro@misalud.go.cr
+
+                                                                             Adrián Montero Bonilla
+                                                       Unidad de Seguimiento de Indicadores en Salud
+                                                                   Dirección de Vigilancia de la Salud
+                                                                       adrian.montero@misalud.go.cr
+
+Se reportan a la semana epidemiológica 28 a través de notificación obligatoria por
+boleta VE01, 3957 casos de dengue. Como se observa en el cuadro 1 la región Huetar
+Caribe presenta el mayor número de casos sospechosos (1630) y la tasa más alta
+343,5/100.000 habitantes. Se reporta un caso de dengue grave en el cantón de Los
+Chiles.
+
+Cuadro 1.
+Costa Rica: Casos y tasas de dengue por Región a la semana epidemiológica 28,
+2023 (Tasa por 100.000 hab.)
+Región                         Casos               Tasa
+Huetar Caribe                   1630               343,5
+Central Norte                   747                 72,2
+Pacífico Central                718                227,1
+Central Sur                     239                 15,6
+Huetar Norte                    184                 69,5
+Brunca                          181                 48,2
+Chorotega                       151                 32,4
+Central Este                     88                 15,4
+Occidente                        19                  8,4
+Total                           3957                75,2
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+
+
+                                                        3
+Gráfico 1.
+Costa Rica: Casos de dengue por semana epidemiológica 2022-2023
+                  450
+
+                  400
+
+                  350
+
+                  300
+Número de casos
+
+
+
+
+                  250
+
+                  200
+
+                  150
+
+                  100
+
+                  50
+
+                   0
+                        1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51
+                                                   Semana epideiológica
+                                                Año 2022       Año 2023
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+
+
+                                                           4
+Figura 1.
+Mapa del número de casos de dengue por cantón a la semana epidemiológica 27,
+Costa Rica 2023
+
+
+
+
+Fuente: DVS-Unidad indicadores salud
+
+
+
+El CNRV-INCIENSA reporta 545 muestras positivas confirmadas por dengue virus por
+técnica de PCR entre estos 117 serotipos 3 y 171 serotipos 4.
+
+
+
+
+                                       5
+Figura 2.
+Distribución espacial de los serotipos de dengue, Costa Rica julio 2023.
+
+
+
+
+Fuente: CNRV-INCIENSA
+
+
+
+
+                                        6
+Figura 3.
+Distribución espacial de los serotipos 3 de dengue, Costa Rica julio 2023.
+
+
+
+
+Fuente: CNRV-INCIENSA
+
+Figura 4.
+Distribución espacial de los serotipos 4 de dengue, Costa Rica julio 2023.
+
+
+
+
+Fuente: CNRV-INCIENSA
+                                        7
+                                          Chikungunya
+
+Se registran 27 casos reportados a través de notificación obligatoria por boleta VE01 de
+chikungunya a la semana epidemiológica 28.
+
+Cuadro 2.
+Costa Rica: Casos y tasas de Chikungunya por Región a la semana
+epidemiológica 28, 2023 (Tasa por 100.000 hab.)
+        Región        Casos         Tasa
+ Central Sur            10           0,7
+ Chorotega               5           1,1
+ Brunca                  3           0,8
+ Central Este            3           0,5
+ Central Norte           2           0,2
+ Occidente               2           0,9
+ Huetar Caribe           2           0,4
+ Pacífico Central        0           0,0
+ Huetar Norte            0           0,0
+ Total                  27           0,5
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+Figura 5.
+Distribución espacial de los casos de chikungunya, Costa Rica semana 28, 2023.
+
+
+
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+                                                        8
+                                                    Zika
+Se registran 6 casos a través de notificación obligatoria por boleta VE01 de zika, a la
+semana epidemiológica 28.
+
+Cuadro 3.
+Costa Rica: Casos y tasas de Zika por Región a la semana epidemiológica 28,
+2023 (Tasa por 100.000 hab.)
+        Región        Casos       Tasa
+ Chorotega              2          0,4
+ Central Sur            1          0,1
+ Central Norte          1          0,1
+ Huetar Caribe          1          0,2
+ Occidente              1          0,4
+ Pacífico Central       0          0,0
+ Brunca                 0          0,0
+ Central Este           0          0,0
+ Huetar Norte           0          0,0
+ Total                  6          0,1
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+Figura 5.
+Distribución espacial de los casos de zika, Costa Rica semana 28, 2023.
+
+
+
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+
+
+                                                        9
+                                                    Malaria
+                                                                                     Isaac Vargas Roldán
+                                                                         Dirección de Vigilancia de la Salud
+                                                                               isaac.vargas@misalud.go.cr
+Antecedentes.
+El comportamiento de la malaria en el país ha tenido un crecimiento de casos sostenido
+desde el año 2017. En el año 2014 y 2015 no hubo reporte de casos autóctonos.
+A la semana epidemiológica 28 del año 2023 se reportan 401 casos de malaria.
+
+Gráfico 1.
+Costa Rica: casos de malaria, del año 2017 a la SE28 del 2023.
+                    500
+
+                    450                                                              455
+
+                    400                                                                            401
+
+                    350
+Cantidad de casos
+
+
+
+
+                    300
+
+                    250
+                                                                        228
+                    200
+
+                    150                       140            138
+                    100            109
+
+                     50
+                            25
+                      0
+                            2017   2018      2019         2020          2021         2022      2023_SE28
+                    Total   25     109        140            138        228          455           401
+Fuente: Coordinación Nacional de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica .
+
+
+En la tabla a continuación, se compara el comportamiento de la malaria durante este
+año con la cantidad de casos reportados por semana epidemiológica en el 2022. A la
+semana 28, la variación relativa es de un 40%, lo cual responde a los recientes brotes
+identificados en la Región Huetar Caribe y al fortalecimiento en la capacidad diagnóstica
+en los diferentes focos del país tanto con recurso humano como con dotación de
+pruebas rápidas en todos los servicios de salud con el propósito de tener un diagnóstico
+oportuno.
+
+
+                                                        10
+Tabla 1.
+Comparativo de casos de malaria reportados por semana epidemiológica, 2022-
+2023
+                  Semana           Año       Año
+                  Epidemiológica 2022        2023
+                  1                12        11
+                  2                11        8
+                  3                17        9
+                  4                6         12
+                  5                16        9
+                  6                12        8
+                  7                11        6
+                  8                8         8
+                  9                5         14
+                  10               10        15
+                  11               14        12
+                  12               5         23
+                  13               11        34
+                  14               11        50
+                  15               10        41
+                  16               7         27
+                  17               11        15
+                  18               14        17
+                  19               10        27
+                  20               15        11
+                  21               6         4
+                  22               3         2
+                  23               8         6
+                  24               18        11
+                  25               10        4
+                  26               12        9
+                  27               14        4
+                  28               6         4
+                  Total            287       401
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+                                                        11
+Inventario de focos.
+En el país se cuenta con un inventario de focos en constante actualización, actualmente
+se tienen 9 focos activos, 4 focos residuales inactivos y 3 focos eliminados. Actualmente
+se están realizando investigaciones ya que se estima la apertura de un nuevo foco
+activo en la Región Chorotega y en la Región Huetar Caribe ante el reciente brote en el
+cantón de Limón. La próxima actualización en la estratificación de riesgo esta
+planificada para junio de 2023.
+Figura 1.
+Costa Rica: Inventario de focos de Malaria, actualización de noviembre 2022.
+
+
+
+
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+Comportamiento.
+A la semana epidemiológica 28, se han reportado a nivel nacional un total de 401
+casos confirmados por malaria.
+La Región con la mayor cantidad de casos en el 2023 es la Huetar Caribe, con
+un total de 232 casos; seguido de la Región Huetar Norte con un total de 131
+casos; en la Región Brunca se han reportado 16 casos clasificados como
+importados; la Región Central Norte reporta 9 casos, de los cuales 8 se clasifican
+como importados y 1 como autóctono; Región Central Sur 6 casos importados;
+Región Pacifico Central 6 casos, cuya clasificación es 4 casos importados,1
+                                                        12
+autóctono y 1 introducido y en la Región Chorotega se reporta también 1 caso
+importado.
+Se han realizado intervenciones clave en el control de los casos en las regiones
+con más casos en el país (Región Huetar Norte y Región Huetar Caribe), estas
+intervenciones incluyeron la administración masiva de medicamento (AMM) en
+las localidades con mayor registro de casos, la AMM se realizó en la Región
+Huetar Caribe en semana 15 y en la Región Huetar Norte se inició el primer ciclo
+de AMM en semana 16 y el segundo ciclo en semana 23.
+
+Gráfico 2.
+Costa Rica: casos de malaria a la SE28, 2023.
+                            60
+
+
+                            50                                                        50
+
+                                                                                           41
+   Número de Casos
+
+
+
+
+                            40
+                                                                                 34
+                            30
+                                                                                                27             27
+                                                                            23
+                            20
+                                                                                                          17
+                                                               14 15                                 15
+                                 11         12                         12                                           11           11
+                            10
+                                      8 9        9 8       8                                                                              9
+                                                       6                                                                     6
+                                                                                                      4 4                4            4
+                                                                                       2
+                             0
+                                 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+                     Total general 11 8 9 12 9 8 6 8 14 15 12 23 34 50 41 27 15 17 27 11 4 2 6 11 4 9 4 4
+
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+
+                                                                            13
+Gráfico 3.
+Costa Rica: casos de malaria por región a la SE28, 2023.
+                                           50
+                                           45
+                                           40
+                                           35
+                                           30
+                                           25
+  Número de casos
+
+
+
+
+                                           20
+                                           15
+                                           10
+                                             5
+                                             0
+                                                 1 2 3 4 5 6 7 8 9 10111213141516171819202122232425262728
+                    REGIONAL BRUNCA              0 0 1 0 0 0 0 0 0 1 2 2 2 0 0 0 0 3 1 2 0 1 0 0 0 1 0 0
+                    REGIONAL CENTRAL NORTE       0 0 0 0 2 0 0 0 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 1
+                    REGIONAL CENTRAL SUR         0 0 0 0   1 1    1 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0
+                    REGIONAL CHOROTEGA           0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+                    REGIONAL HUETAR CARIBE       3 1 2 0 2 1 2 1 4 5 2 1022443219101019 8 3 0 4 9 4 8 4 3
+                    REGIONAL HUETAR NORTE        8 6 6 12 5 6 3 6 8 7 8 1010 5 8 8 4 2 5 1 1 0 1 1 0 0 0 0
+                    REGIONAL PACÍFICO CENTRAL 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 0
+
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+
+
+                                Acciones de Control Vectorial
+
+Trabajos efectivos en viviendas.
+Desde el Programa Manejo Integrado de Control de Vectores (PMICV), se
+realizan visitas en las viviendas de las diferentes localidades del país, en atención
+a la notificación de arbovirosis. Estas visitas a los domicilios consisten en la
+eliminación/tratamiento de criaderos y se brinda educación a la población. Se
+hace un llamado a la población para que de mantenimiento e inspeccionen su
+hogar con el fin de reducir la cantidad de criaderos donde se desarrolla el vector
+transmisor de arbovirosis.
+
+
+
+                                                             14
+Tabla 1.
+Trabajo efectivo en viviendas, a la SE28, Costa Rica 2023.
+   Semana                  Viviendas         Viviendas                 Viviendas
+   Epidemiológica          Visitadas         Renuentes                 Positivas
+   1                       1382              8                         53
+
+    2                                 10605                     140    466
+    3                                 13652                     70     509
+    4                                 11332                     67     422
+    5                                 14745                     201    353
+    6                                 19486                     93     334
+    7                                 14574                     90     332
+    8                                 17436                     100    405
+    9                                 22025                     50     441
+    10                                18841                     68     474
+    11                                16376                     53     451
+    12                                18731                     42     559
+    13                                15581                     96     536
+    14                                4450                      0      10
+    15                                13852                     34     275
+    16                                13423                     53     317
+    17                                13454                     32     266
+    18                                10023                     37     324
+    19                                13369                     55     377
+    20                                22744                     104    642
+    21                                19291                     77     513
+    22                                15081                     107    738
+    23                                14436                     118    856
+    24                                23250                     58     1040
+    25                                16389                     86     1038
+    26                                20207                     53     1017
+    27                                13182                     43     904
+    28                                18069                     48     679
+    Total                             431844                    2028   14805
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud.
+
+                                                         15
+Termonebulización.
+A continuación, se brinda detalle de la cantidad de viviendas fumigadas a nivel
+nacional para la semana epidemiológica del año 2023.
+
+Tabla 1.
+Viviendas fumigadas por termonebulización a la SE28 del 2023.
+                  Semana                Viviendas
+                  Epidemiológica        Nebulizadas
+                           1                                 1038
+                           2                                 2694
+                           3                                 4560
+                           4                                 17070
+                           5                                 5377
+                           6                                 7253
+                           7                                 6724
+                           8                                 3496
+                           9                                 4172
+                           10                                4094
+                           11                                5254
+                           12                                3323
+                           13                                5584
+                           14                                315
+                           15                                2245
+                           16                                5085
+                           17                                5631
+                           18                                4951
+                           19                                6755
+                           20                                7223
+                           21                                8283
+                           22                                8328
+                           23                                9401
+                           24                                9813
+                           25                                9289
+                           26                                5551
+                           27                                8301
+                                                             7194
+                           TOTAL                             171 833
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+                                                        16
+Fumigación UVL.
+Ministerio de salud realiza también fumigaciones con máquina de ultrabajo-
+volumen en frío (UVL), que impactan directamente sobre la forma adulta del
+vector, bajando su densidad en puntos geográficos específicos.
+
+Tabla 2.
+Viviendas fumigadas por UVL a la SE28 del 2023.
+                 Semana                   Viviendas
+                 Epidemiológica           Nebulizadas
+                          1                                   0
+                          2                                   600
+                          3                                   8400
+                          4                                   8400
+                          5                                   9536
+                          6                                   6687
+                          7                                   15687
+                          8                                   18600
+                          9                                   6428
+                          10                                  6600
+                          11                                  8670
+                          12                                  9200
+                          13                                  10400
+                          14                                  4050
+                          15                                  2400
+                          16                                  12200
+                          17                                  12200
+                          18                                  0
+                          19                                  5000
+                          20                                  14718
+                          21                                  15000
+                          22                                  6326
+                          23                                  9220
+                          24                                  11071
+                          25                                  6248
+                          26                                  13501
+                          27                                  16510
+                          28                                  11100
+                          TOTAL                               248 752
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+                                                         17
+Tratamiento focal.
+El tratamiento focal corresponde a todas aquellas acciones que se ejecutan por
+los colaboradores del PMICV en la inspección, eliminación y tratamiento de
+criaderos donde se desarrollan vectores transmisores de enfermedades.
+
+Tabla 3.
+Terrenos Baldíos trabajados a la SE28 del 2023.
+ Semana                                     Trabajados                                    Positivos
+                        Existentes
+ Epidemiológica
+  1                                61                           47                        3
+  2                                640                          562                       23
+  3                                446                          405                       5
+  4                                685                          643                       8
+  5                                476                          451                       17
+  6                                487                          434                       3
+  7                                610                          568                       12
+  8                                579                          532                       12
+  9                                609                          558                       3
+  10                               710                          626                       4
+  11                               650                          615                       14
+  12                               535                          473                       11
+  13                               381                          327                       6
+  14                               0                            0                         0
+  15                               444                          414                       7
+  16                               417                          392                       4
+  17                               486                          469                       28
+  18                               457                          442                       6
+  19                               579                          556                       7
+  20                               690                          657                       16
+  21                               698                          643                       7
+  22                               500                          463                       13
+  23                               336                          321                       20
+  24                               620                          586                       27
+  25                               422                          399                       1261
+  26                               460                          438                       19
+  27                               313                          309                       40
+  28                               323                          308                       10
+  TOTAL                            13861                        12765                     1560
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+                                                         18
+       Tabla 4.
+       Depósitos (criaderos) trabajados a la SE28 del 2023.
+Semana                                        Tratados                               Eliminados               Positivos
+                      Inspeccionados
+Epidemiológica
+1                     10987                   8655                                   2332                     68
+2                     58894                   41821                                  16779                    697
+3                     62691                   42772                                  19491                    761
+4                     55274                   37224                                  19140                    619
+5                     66874                   42564                                  22348                    496
+6                     63710                   44634                                  18959                    487
+7                     77733                   44039                                  23100                    430
+8                     82223                   59096                                  23615                    500
+9                     78701                   56347                                  22378                    667
+10                    101312                  71920                                  29409                    691
+11                    91117                   63459                                  27766                    690
+12                    91116                   69202                                  21464                    855
+13                    91620                   52728                                  38772                    732
+14                    625                     504                                    121                      12
+15                    59228                   39717                                  18595                    351
+16                    68968                   49523                                  19421                    488
+17                    72273                   41985                                  31644                    367
+18                    58375                   41746                                  18267                    518
+19                    66110                   49292                                  19890                    709
+20                    88358                   60402                                  27019                    868
+21                    97898                   50277                                  47578                    728
+22                    74423                   53009                                  21721                    1148
+23                    75784                   53613                                  21027                    1423
+24                    85727                   61675                                  24896                    1864
+25                    80308                   53194                                  25192                    2024
+26                    94791                   46782                                  47993                    1757
+27                    66735                   45004                                  21661                    1613
+28                    48745                   33869                                  14961                    1126
+TOTAL                 2011355                 1345269                                654621                   23425
+       Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+                                                               19
+Influenza y otras virosis respiratorias, IRAS y ETI
+
+                                                                     Nancy Mesén Arce
+                                                       Dirección de Vigilancia de la Salud
+                                                            nancy.mesen@misalud.go.cr
+
+                                                                Roberto Arroba Tijerino
+                                                                Unidad de Epidemiología
+                                                       Dirección de Vigilancia de la Salud
+                                                            roberto.arroba@misalud.go.cr
+
+
+A continuación, se presentan los datos para la semana epidemiológica 27 de las
+Infecciones Respiratorias Agudas Superiores (IRAS) y la Enfermedad Tipo Influenza
+(ETI), que según establece el Decreto de Vigilancia de la Salud No. 40556-S del 07 julio
+del 2017, son eventos de notificación obligatoria al Ministerio de Salud.
+
+En cuanto a la notificación de IRAS, por medio de la boleta VE02, se tiene la siguiente
+información:
+    - Los casos acumulados a la semana epidemiológica (SE) 27 son: 522.927.
+    - Los grupos por edad quinquenal con más casos notificados son:
+        ▪ 1-4 años: n = 91.887
+        ▪ 5-9 años: n= 85.679
+        ▪ 10 a 14 años: n= 40.492
+
+En el gráfico 1, se observan las regiones del Ministerio de Salud que presentan más
+casos de IRAS notificados de a la semana 27, corresponden a la Región Central Sur,
+Región Central Norte, Región Chorotega, la Región Central Este y la Región Pacífico
+Central. Las regiones con menos casos corresponden a la Huetar Caribe, Brunca,
+Huetar Norte y Occidente.
+
+
+
+
+                                           20
+Gráfico 1.
+Casos de IRAS notificados por Región del Ministerio de Salud en Costa Rica,
+Semana epidemiológica 27, 2023.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En cuanto a la notificación de ETI, por medio de la boleta VE02, se tienen los
+siguientes datos:
+   - Los casos acumulados a la semana epidemiológica (SE) 27 son n= 8659.
+   - Los grupos por edad quinquenal con más casos notificados son:
+           ▪    1-4 años: n = 1205
+           ▪    5 a 9 años: n= 1201
+           ▪    10 a 14 años: n= 714
+
+En el gráfico 2, se observa las regiones del Ministerio de Salud que presentan casos de
+ETI notificados a la semana 27; las regiones con más casos son la Pacífico Central,
+Huetar Norte, Chorotega, Central Norte y Central Sur. Con menos casos se presenta la
+Central Este, Huetar Caribe, Occidente y Brunca.
+
+
+
+
+                                                         21
+Gráfico 2.
+Casos de ETI notificados por Región del Ministerio de Salud en Costa Rica,
+Semana Epidemiológica 27, 2023.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+
+En relación con los principales virus respiratorios circulantes hubo una disminución con
+respecto a las últimas semanas, y los casos diagnosticados por panel respiratorio en la
+SE-28 se muestran en el cuadro 1.
+
+
+
+
+                                                         22
+Cuadro 1.
+Virus Respiratorios confirmados por paneles respiratorios en la SE- 28-2023.
+
+
+
+
+Fuente: Matriz de Resultados de Laboratorio CCSS, Subárea de Vigilancia Epidemiológica 2023
+
+
+Ante la época de lluvias que ya han iniciado en el país, es necesario reforzar y recordar
+las medidas de higiene como lavado de manos, técnica de estornudo y de saludo para
+evitar la transmisión de los virus respiratorios.
+En relación con la campaña de vacunación contra influenza estacional, ya se llevan 8
+semanas de jornada alcanzando un 75% de la población meta y con más de 1.130.000
+dosis aplicadas
+
+
+
+
+                                                     23
+                                               Meningitis
+                                                                              Franchina Murillo Picado
+                                                                               Unidad de Epidemiología
+                                                                      Dirección de Vigilancia de la Salud
+                                                                        franchina.murillo@misalud.go.cr
+
+                                                                                 Paola Pérez Espinoza
+                                                                                  Unidad de Indicadores
+                                                                      Dirección de Vigilancia de la Salud
+                                                                             paola.perez@misalud.go.cr
+
+La meningitis es una peligrosa inflamación de las membranas que rodean el cerebro y la médula
+espinal, causada principalmente por una infección bacteriana o vírica.
+La meningitis causada por una infección bacteriana suele ser la más grave que provoca unas
+250,000 muertes por año y posibles epidemias de rápida propagación. Ocasiona la muerte de
+una de cada diez personas infectadas, en su mayoría niños y jóvenes y deja a una de cada
+cinco con discapacidades duraderas, como convulsiones, pérdida de audición y visión, daños
+neurológicos y deterioro cognitivo.
+En Costa Rica, a la semana epidemiológica 28 del año 2023, se han notificado un total de 118
+casos a través de boleta VE01 por sospecha de meningitis y en el año 2022 se reportó un total
+de 48 casos de meningitis con respecto a la misma semana lo que representa un aumento del
+145,8%.
+De las 9 Regiones del Ministerio de Salud, la Región Central Sur notificó el 28,8% de los casos
+(34/118), seguido de la Región Central Este con el 21,2% de los casos (25/118).
+En el año 2022 la Región Central Este reportó la mayor cantidad de casos con un 27,1% (13/48).
+
+Figura 1. Costa Rica: Casos sospechosos de meningitis comparativa año 2022 con el
+2023 a la semana epidemiológica 28, 2023
+           8                                                                       2022      2023
+           7
+           6
+n° casos
+
+
+
+
+           5
+           4
+           3
+           2
+           1
+           0
+               1   3   5   7   9   11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47
+                                               Semana epidemiológica
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+                                                          24
+A la semana epidemiológica 28 del 2023, el 64,41% (76/118) de las notificaciones por boletas
+VE01 son de meningitis bacterianas. En el año 2022 para esta misma semana, también las
+meningitis bacterianas superaban en notificación a las virales en el 52,08% (25/48) de los casos
+notificados.
+
+Tabla 1.
+Costa Rica: Casos de meningitis virales y meningitis bacterianas por año 2023 y 2023 a
+la semana epidemiológica 28
+
+Año            Meningitis          Porcentaje  Meningitis             Porcentaje
+               virales             según total bacterianas            según total
+                                   de casos                           de casos
+2022           23                  47,92            25                52,08
+2023           42                  35,59            76                64,41
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+En la figura 2 se enlista los cantones con casos de meningitis a la semana epidemiológica 28.
+El cantón de Escazú de la provincia de San José presenta la tasa más alta de meningitis (9,8)
+por cien mil habitantes, seguido de los cantones de El Guarco (8,5) de la provincia de Cartago
+y Bagaces (7,9) de la provincia de Guanacaste.
+
+Figura 2.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+                                                         25
+La figura 3, indica la distribución de los casos sospechosos según sexo y grupo de edad. El
+53,38% de los casos (63/118) son hombres y el 46,61% (55/118) son mujeres, una razón de
+1,1 hombres.
+El 16,10% de los casos (19/118) son menores de 1 años y el 48,30% (57/118) de los casos se
+encuentran entre las edades 20-64, grupo económicamente productivo.
+
+Figura 3.
+Costa Rica: Casos sospechosos por meningitis según sexo y edad, a la semana
+epidemiológica 28, 2023
+
+
+
+
+             14                                                                                                                                   mujer               hombre
+             12
+             10
+  n° casos
+
+
+
+
+              8
+              6
+              4
+              2
+              0
+                                                                                                          45 a 49
+                  <1
+
+
+
+
+                                                                                                                                                                        75 y >
+                                             15 a 19
+                                   10 a 14
+
+
+
+                                                       20 a 24
+
+                                                                 25 a 29
+
+                                                                            30 a 34
+
+                                                                                      35 a 39
+
+                                                                                                40 a 44
+
+
+
+                                                                                                                    50 a 54
+
+                                                                                                                              55 a 59
+
+                                                                                                                                        60 a 64
+
+                                                                                                                                                  65 a 69
+
+                                                                                                                                                            70 a 74
+                       1a4
+
+                             5a9
+
+
+
+
+                                                                           Grupo de edad
+
+
+
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+
+
+
+                                                                                      26
+                    Enfermedad Diarreica Aguda (EDA)
+                                                                     Ivannia Caravaca Rodríguez.
+                                                                    Dirección de Vigilancia de Salud
+                                                                           Unidad de Epidemiología
+                                                                   ivannia.caravaca@misalud.go.cr
+
+El sistema nacional de vigilancia epidemiológica permite monitorear la tendencia de las
+EDA, a través de la notificación semanal colectiva, lo que implica el reporte de casos
+por todos los establecimientos de salud del país.
+La incidencia de EDA es del 56%, siendo más alta en mujeres (6984,5 por cada 100
+000 mujeres), que en hombres (3116 por cada 100 000 hombres), los grupos de edad
+más vulnerables con tasas de incidencia más altas son los niños menores de 4 años
+(17717 por 100 000 niños) y los adultos mayores de 60 años (15285 por cada 100 000)
+reflejando las EDA una causa importante de morbilidad en la niñez y adultos mayores
+de Costa Rica.
+La tendencia de los episodios de EDA en los últimos años muestra un patrón similar,
+cuya mayor incidencia ocurre en las temporadas cálidas y secas, mientras que en
+temporadas lluviosas las tendencias de incidencias más altas ocurren por lo general en
+los meses de junio y julio con el inicio de la época lluviosa.
+
+Gráfico 1.
+Costa Rica. Casos EDA reportados por Boleta VE02, según SE. 2023.
+
+
+
+
+Fuente: Dirección de Vigilancia de la Salud. Ministerio de Salud
+
+
+                                                         27
+Al analizar el canal endémico de EDA según los episodios notificados, la tendencia
+general del país en el 2023 refiere a nivel nacional la presencia de brotes de EDA entre
+las SE 18-23, mostrando una disminución de casos en la SE 26 lo que refiere a una
+constante en el comportamiento de las EDA en años anteriores, se destaca una
+tendencia anómala en la SE 14 correspondiente a la SE del 2 al 8 de abril referente a
+semana santa del 2023). Se observa un descenso de casos entre la SE 24 y la 26.
+
+Gráfico 2.
+Costa Rica. Canal endémico para EDA por semana epidemiológica. Años 2015-
+2023, (Se excluyen del 2020 al 2022)
+
+
+
+
+Fuente: Dirección de Vigilancia de la Salud. Ministerio de Salud
+
+
+Las provincias de Heredia y San José encabezan la lista de las provincias con tasas de
+incidencia más altas de EDA, seguidas de Puntarenas, Alajuela y Cartago, siendo Limón
+y Guanacaste las provincias con menores tasas de incidencia de EDA notificadas del
+país.
+La Incidencia de EDA por cantón refleja ausencia o baja de notificación en algunos
+cantones del país por lo que se alienta a las Áreas rectoras a revisar la notificación de
+los casos de EDA en estos cantones.
+
+
+
+                                                         28
+Figura 1
+
+
+
+
+En el cuadro adjunto se muestran los cantones con mayor incidencia de EDA a nivel
+nacional a fin de que se tomen las medidas de contención como acciones para el
+abordaje, seguimiento, prevención, control y educación para la población, así como los
+cantones sin reporte de casos de notificación a fin de que las Áreas de Salud respectivas
+realicen la investigación correspondiente.
+
+
+
+
+                                           29
+Cuadro 1
+Costa Rica. Incidencia según cantones con menor y mayor notificación de casos
+de EDA. SE26.
+
+ Provincia                              Cantones con ausencia o Cantones con mayor
+                                        baja notificación de EDA incidencia de EDA (más
+                                                                 de 100 casos)
+ San José                               Escazú                   San José
+                                        Santa Ana                Goicochea
+                                        Alajuelita               Pérez Zeledón
+                                        Coronado
+                                        Acosta
+                                        Tibás
+                                        Turrubares
+ Alajuela                               Grecia                   Alajuela
+                                        Zarcero                  Atenas
+                                        Upala                    Naranjo
+                                        Rio Cuarto               San Carlos
+
+ Cartago                                Jiménez                    La Unión
+                                        El Guarco
+ Heredia                                Barva                      Sarapiquí
+                                        San Rafael
+                                        Santa Barbara
+ Guanacaste                             Bagaces                    Carrillo
+                                        La Cruz
+                                        Hojancha
+ Puntarenas                             Quepos                     Puntarenas
+                                        Parrita
+                                        Garabito
+ Limón                                  Pococí
+                                        Matina
+Nota: Los que están en color azul presentan menos de 10 casos.
+Fuente: Dirección de Vigilancia de la Salud. Ministerio de Salud
+
+
+
+Todas las Regiones Rectoras de Salud reportan incidencias altas de EDA con respecto
+al 2022, siendo las regiones Central Sur, Pacifico Central y Central Norte las que poseen
+tasas más altas a nivel nacional.
+
+
+                                                         30
+Gráfico 3.
+Costa Rica. Tasas de EDA por 100 000 habitantes por Región rectora de salud a
+SE 26-2023
+
+
+
+
+Fuente: Dirección de Vigilancia de la Salud. Ministerio de Salud
+
+Se insta a la población en general a promover el adecuado lavado de manos es una de
+las formas más eficaces de prevenir la transmisión de enfermedades como la diarrea y
+así evitar las infecciones más comunes.
+
+
+
+
+                                                         31
+                       Intoxicación por metanol
+                              Actualizado al 27 de julio 2023
+
+                                                                             Ted Alpízar Calvo
+                                                                      Unidad de Epidemiología
+                                                                Dirección Vigilancia de la Salud
+                                                                     ted.alpizar@misalud.go.cr
+
+                                                                  Rafael Chaves Méndez
+                                            Unidad de Seguimiento de Indicadores en Salud
+                                                           Dirección Vigilancia de la Salud
+                                                                rafael.chaves@misalud.go.cr
+
+La intoxicación por metanol un alcohol tóxico, no apto para bebidas es una de las
+patologías de más alta mortalidad en urgencias. Al ser una patología no común y con
+síntomas y signos no específicos muchas veces la pasamos por alto y con esto
+aumentamos su mortalidad. Este es uno de los padecimientos que ante la alta sospecha
+en la historia clínica y sintomatología debemos abordar de inmediato con el fin de evitar
+un desenlace fatal. Sus síntomas se deben principalmente al acúmulo de ácido fórmico
+que causa alteraciones pulmonares, metabólicas, neurológicas y renales. Es un
+padecimiento el cual debe notificarse una vez confirmado el diagnóstico con el fin de
+realizar un barrido y encontrar los causantes, antes de evitar brotes mayores.
+
+El Decreto de Vigilancia de la Salud N° 40556-S, indica que la intoxicación con metanol
+es de notificación obligatoria al Ministerio de Salud debido a su impacto en la salud
+pública; ya que puede causar un cuadro grave de intoxicación, discapacidad en la
+persona e inclusive la muerte, si no se trata oportunamente. Por este motivo, el
+diagnóstico temprano y el tratamiento adecuado son cruciales para mejorar el
+pronóstico.
+
+El Ministerio de Salud de Costa Rica haciendo uso de sus potestades, que le confiere
+la legislación, establece los lineamientos que deben seguir los establecimientos de
+salud públicos y privados, cuando se presenten casos de intoxicación con metanol. Se
+pretende con los lineamientos orientar al personal de salud, en los procedimientos a
+seguir para evitar las discapacidades y la mortalidad que podrían producir este tipo de
+intoxicación.
+
+                                            32
+Cuadro 1
+Costa Rica: Casos y fallecidos sospechosos por Intoxicación por metanol según
+fecha de registro, indicador seleccionado por sexo. Del 1 de enero al 27 de julio
+2023.
+Indicador                                                               Sexo biológico notificado
+Morbilidad                                                          Mujeres        Hombres        Total
+Número de casos (vivos)                                                0               2            2
+Porcentaje (%) del total                                               0             100%         100%
+Rango edad (años)                                                      0             37-44        37-44
+Promedio edad (años)                                                   0              40,5         40,5
+Edad desconocido ( incluidos total)                                    0               0            0
+Mortalidad
+Número ( fallecidos)                                                    0                    5                  5
+Porcentaje (%) del total                                                0                  100%               100%
+Rango edad (años)                                                       0                  34-60              34-60
+Promedio de edad (años)                                                 0                   46,6               46,6
+Edad desconocido                                                        0                    0                  0
+Total ( número de vivos y fallecidos)                                   0                    7                  7
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la CCSS
+y el OIJ.
+
+
+Cuadro 2
+Costa Rica: Casos y fallecidos sospechosos por Intoxicación por metanol según
+fecha de registro, por provincia, cantón y condición de egreso. Del 1 de enero al
+27 de julio 2023.
+ Provincia                                                            Condición de egreso                              Total
+                                  Cantón
+                                                                    Fallecidos                        Vivos
+ San José
+                           San José                                         1                             1              2
+
+ Alajuela
+                           Alajuela                                         3                                            3
+
+ Guanacaste
+                           Liberia                                          1                                            1
+
+ Heredia
+                           Barva                                                                          1              1
+
+ Total(2023)                                                                5                             2              7
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la CCSS y el OIJ.
+                                                               33
+Cuadro 3
+Costa Rica: Casos y fallecidos sospechosos por Intoxicación por metanol según
+fecha de registro por grupos de edad y por condición egreso. Del 1 de enero al 27
+de julio 2023.
+                                                         Condición de egreso
+ Grupos de edad (años)                                Fallecido           Vivo                        Total
+ 20-29                                                    0                0                           0
+ 30-39                                                    1                1                           2
+ 40-49                                                    2                1                           3
+ 50-59                                                    1                0                           1
+ 60-69                                                    1                0                           1
+ 70 y mas                                                 0                0                           0
+ Desconocido                                              0                0                           0
+ Total                                                    5                2                           7
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la CCSS
+y el OIJ.
+
+
+
+
+Cuadro 4
+Costa Rica: Casos y fallecidos sospechosos por Intoxicación por metanol según
+fecha de registro por condición y año de ocurrencia. Del 1 de enero al 27 de julio
+2023.
+
+ Condición                                 Año de ocurrencia                                                     Total
+
+                                    2019                     2020              2021            2022      2023
+
+ Fallecido                           75                        52                 22              6        5         160
+ Casos (Vivo)                        51                        46                 27              6        2         132
+ Total (2019-2023)                                                                49             12        7
+                                    126                        98                                                    292
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la CCSS
+y el OIJ.
+
+
+
+
+                                                        34
+                             Enfermedad por COVID-19
+
+                                                                           Pamela Domínguez Saavedra
+                                                                        Dirección de Vigilancia de la Salud
+                                                                        pamela.dominguez@misalud.go.cr
+
+La Enfermedad por COVID-19, para la semana epidemiológica 29 que abarca del 16 al
+22 de julio del 2023, se reportaron 311 nuevos casos confirmados, lo que representa
+un descenso del cinco por ciento (n=18), que la semana 28. Sin embargo, se mantiene
+una tendencia a la baja desde la semana 20 a 29, siendo la notificación menor de
+quinientos casos en las últimas dos semanas epidemiológicas.
+
+Gráfico 1.
+Costa Rica: Casos COVID-19, según semana epidemiológica año 2023
+
+
+
+
+Datos sujetos para actualizar
+Fuente: Subárea de Vigilancia Epidemiología, C.C.S.S. / Dirección de Vigilancia de Salud,
+Ministerio de Salud, 2023.
+
+El comportamiento de las personas fallecidas asociadas a COVID-19, durante la
+semana epidemiológica 29, se reportó once fallecimientos, lo que se presentó un
+incremento con cinco muertes más que la semana 28.
+
+
+
+
+                                                        35
+Gráfico 2.
+Costa Rica: Personas Fallecidas asociadas a COVID-19, según reporte semanal
+año 2023
+
+
+
+
+Fuente: Área de Estadística en Salud, C.C.S.S. / Ministerio de Salud, Dirección de Vigilancia de Salud 2023.
+
+
+
+
+Para la semana epidemiológica 29, no se reportaron nuevas alertas de brotes por
+COVID-19. Por ende, el comportamiento se mantiene con 40 brotes en el año 2023.
+Los brotes se han presentado en los Servicios de Salud con 42,5%(n=17); Hogar de
+Larga Estancia con 32,5% (n=13); Centro de Atención Institucional con 17,5% (n=7);
+Albergue 5% (n=2) y Empresa con 2,5% (n=1). Las regiones que reportaron son:
+Central Sur con el 60% (n=24), región de Occidente con 10% (n=4), Central Norte con
+10% (n=4), Huetar Caribe con 7,5% (n=3) Pacifico Central con 7,5% (n=3) y Central
+Este con 5% (n=2), las regiones Chorotega, Huetar Norte y Brunca no han reportado
+alertas de brotes.
+
+
+
+
+                                                        36
+Gráfico 3.
+Costa Rica: Brotes por COVID-19, según semana epidemiológica durante los
+años 2022 a semana 29 del 2023
+
+
+
+
+Fuente: Dirección de Vigilancia de la Salud, Ministerio de Salud, 2023.
+
+
+Cobertura de vacunación por COVID-19
+La Caja Costarricense del Seguro Social, en el informe del 24 de julio del 2023 reportó
+las coberturas de vacunación por COVID-19 en el país, a la fecha se han aplicado
+13,516,657 dosis, para una población de 5,163,021 de 0 a 100 años. Para la población
+de más de 6 meses con 4,799,835, se reportan las coberturas de I dosis de 90,6%; II
+dosis 85,1 %; III dosis 58,1%, IV 23,8% y V dosis 6,0%. Las coberturas en mayores de
+18 años son: I dosis 95,9%, II dosis 91,9%, III dosis 67,0%, IV dosis 31,6%, V dosis
+8,0%. (Caja Costarricense del Seguro Social, 2023)
+
+Bibliografía
+Caja Costarricense del Seguro Social. (2023). Avance Institucional de la Jornada Vacunación en la
+Semana 29. San José: CCSS.
+
+
+
+
+                                                         37
+                                  Demencias
+
+                                                                     Gloriela Brenes Murillo
+                                                                    Unidad de Epidemiología
+                                                             Dirección Vigilancia de la Salud
+                                                              gloriela.brenes@misalud.go.cr
+
+                                                                    Siany Cordero Abarca
+                                                Unidad Seguimiento de Indicadores en Salud
+                                                            Dirección Vigilancia de la Salud
+                                                              siany.cordero@misalud.go.cr
+
+
+
+
+La demencia no es una enfermedad específica sino, más bien, un término general para
+referirse a una alteración de la capacidad para recordar, pensar o tomar decisiones, que
+interfiere en la realización de las actividades de la vida diaria. La enfermedad de
+Alzheimer es el tipo más común de demencia. Si bien la demencia afecta principalmente
+a los adultos mayores, no forma parte del envejecimiento normal.
+
+
+
+
+                                           38
+Las personas con demencia tienen problemas con lo siguiente:
+-Memoria
+-Atención
+-Comunicación
+-Razonamiento, criterio y resolución de problemas
+-Percepción visual, más allá de los típicos cambios en la vista que están relacionados
+con la edad.
+Los signos que podrían indicar demencia incluyen:
+-Perderse en un vecindario conocido
+-Usar palabras inusuales al mencionar objetos conocidos
+-Olvidarse del nombre de un familiar o amigo cercano
+-Olvidarse de viejos recuerdos
+-No poder completar tareas de manera independiente
+El mayor factor de riesgo conocido de la demencia es el aumento de la edad; en la
+mayoría de los casos afecta a personas de 65 años o más.
+
+ALZHEIMER
+El Alzheimer es un tipo de demencia que causa problemas con la memoria, el
+pensamiento y el comportamiento. Los síntomas generalmente se desarrollan
+lentamente y empeoran con el tiempo, hasta que son tan graves que interfieren con las
+tareas cotidianas.
+La enfermedad de Alzheimer es responsable de entre un 60 y un 80 por ciento de los
+casos de demencia. El Alzheimer no es una característica normal del envejecimiento.
+El factor de riesgo conocido más importante es el aumento de la edad, y la mayoría de
+las personas con Alzheimer son mayores de 65 años. Pero el Alzheimer no es solo una
+enfermedad de la vejez.
+
+DEMENCIA VASCULAR
+La demencia vascular es causada por diversas afecciones, como un accidente
+cerebrovascular, que interrumpen el flujo sanguíneo al cerebro. Esto origina problemas
+con la memoria, el pensamiento y la conducta. La demencia vascular es el segundo
+diagnóstico de demencia más frecuente después de la enfermedad de Alzheimer y
+puede desarrollarse sola o junto con otra forma de demencia.
+
+
+
+                                          39
+DEMENCIA EN OTRAS ENFERMEDADES
+
+Se clasifican aquí los casos de demencia debidos a una etiología distinta de la
+enfermedad de Alzheimer o de la enfermedad vascular. Pueden comenzar en cualquier
+período de la vida, aunque raramente en la edad avanzada.
+Algunas son:
+Demencia en la enfermedad de Pick
+Demencia en la enfermedad de Creutzfeldt-Jakob
+Demencia en la enfermedad de Huntington
+Demencia en la enfermedad de Parkinson
+Demencia en la infección por VIH
+En Costa Rica desde el año 2019 se recibe la notificación mediante la Boleta de
+Notificación Individual Obligatoria VE01, de los casos de demencias atendidos en los
+diferentes servicios de salud públicos y privados, según el Decreto de Vigilancia 40556-
+S, con base en la tipificación indicada en el compendio CIE10.
+
+INFORMACION SEMANA EPIDEMIOLÓGICA(SE) N° 26, 2023
+A continuación, se brinda la información epidemiológica y estadística del
+comportamiento de los diferentes tipos de demencias notificados a las Áreas Rectoras
+de Salud, hasta la SE N°26 de este año que comprende del 25 de junio al 01 de julio.
+Al respecto se recibió un total de 217 casos de los cuales 10 corresponden a Alzheimer,
+69 a demencia vascular y 138 a demencias en otras enfermedades, este último muestra
+las tasas más altas, véase gráfico 1.
+
+
+
+
+                                           40
+Gráfico 1.
+Costa Rica: incidencia de casos notificados de trastornos mentales, según
+provincia SE 26 (tasa por 100 000 habitantes)
+
+
+
+
+Fuente: Vigilancia de la Salud, Ministerio de Salud
+
+
+En cuanto a los casos según el sexo de la persona, las mujeres tienen las tasas más
+altas en Alzheimer y en Demencia en otras enfermedades y en la Demencia vascular
+son los hombres, con una diferencia importante.
+
+
+
+
+                                                      41
+Gráfico 2.
+Costa Rica: incidencia de casos notificados de trastornos mentales según sexo,
+SE 26 (tasa por 100 000 habitantes)
+
+
+
+
+Fuente: Vigilancia de la Salud, Ministerio de Salud
+
+Con relación al comportamiento de los diferentes tipos de demencias según las
+provincias el gráfico 3 indica que; Guanacaste, Puntarenas y Limón son las que
+presentan las tasas más altas en demencias en otras enfermedades.
+
+Gráfico 3.
+Costa Rica: incidencia de casos notificados de trastornos mentales, según
+provincia SE 26 (tasa por 100 000 habitantes)
+
+
+
+
+Fuente: Vigilancia de la Salud, Ministerio de Salud
+                                                      42
+En cuanto a los grupos de edad en donde se presentan más casos notificados de los
+diferentes tipos de demencia, se encuentran mayormente en la población adulta mayor,
+tal y como se muestra el siguiente gráfico, en donde los datos de demencias notificados
+se incrementan a partir de los 60 años sin embargo es en los grupos de edad de 75 y
+más donde están las tasas más altas, siendo la demencia en otras enfermedades la
+que obtiene la tasa más alta de 46,8 seguida de la demencia vascular con una tasa de
+17,7 y Alzheimer con una tasa de 3,6. Evidentemente son enfermedades que aparecen
+en población adulta mayor a 75 años.
+
+Gráfico 4.
+Costa Rica: incidencia de casos notificados de trastornos mentales según grupos
+de edad, SE 26 (tasa por 100 000 habitantes)
+
+
+
+
+Fuente: Vigilancia de la Salud, Ministerio de Salud
+
+
+
+
+                                                      43
+En cuanto a la notificación según las Regiones Rectoras de Salud del Ministerio de
+Salud, prácticamente todas las Regiones están enviado información de los datos de
+notificaciones enviadas por las diferentes Áreas Rectoras de Salud, con base en lo que
+reciben de los distintos notificadores.
+
+Tabla 1.
+Costa Rica: número de casos notificados de demencias por tipo según Región
+Rectora de Salud, SE 26, 2023
+ Región             Alzheimer         Demencia vascular Demencia en otras
+                                                        enfermedades
+ Total              10                69                138
+ Brunca             0                 1                 27
+ Central Este       0                 9                 13
+ Central Norte      1                 22                21
+ Central Sur        2                 20                22
+ Chorotega          1                 12                15
+ Huetar Caribe      1                 2                 19
+ Huetar Norte       1                 1                 3
+ Central Occidente  0                 0                 6
+ Pacífico Central   4                 2                 12
+ Brunca             0                 1                 27
+Fuente: Vigilancia de la Salud, Ministerio de Salud
+
+
+Finalmente, el comportamiento de las demencias según los tipos en cuanto al
+acumulado de las semanas epidemiológicas desde la 1 a la 26 se evidencia en el gráfico
+5 que la demencia en otras enfermedades mantiene una notificación muy activa además
+de ser la que tiene más casos por SE, el mismo comportamiento, aunque con menos
+intensidad se registra en la demencia vascular y el Alzheimer que tiene una tendencia
+lineal sin mucho movimiento durante las semanas epidemiológicas.
+
+
+
+
+                                                      44
+Gráfico 5.
+Costa Rica: totales de casos acumulados de trastornos mentales según semana
+epidemiológica, SE26
+
+
+
+
+Fuente: Vigilancia de la Salud, Ministerio de Salud
+
+
+
+
+                                                      45
+

@@ -1,0 +1,1737 @@
+                       Boletín Epidemiológico N° 39 de 2025
+                               Dirección de Vigilancia de la Salud
+                                       Ministerio de Salud
+                                                  17 de octubre de 2025
+
+
+
+
+                                                 Tabla de contenido
+
+Arbovirosis ..................................................................................................................... 3
+Control vectorial realizado en el país a la semana epidemiológica 40 ............. 9
+Malaria .................................................................................................................. 11
+Influenza y otras virosis respiratorias, IRAG, IRAS, ETI y Covid-19 ............... 17
+Varicela ................................................................................................................ 36
+Meningitis............................................................................................................. 41
+Situación epidemiológica de Enfermedad Diarreica Aguda (EDA) . ............... 45
+Intoxicación por metanol .................................................................................... 49
+Miasis por gusano barrenador en humanos ..................................................... 53
+
+
+
+
+                                                                                                                                      1
+2
+                                           Arbovirosis
+                                                                              Adriana Alfaro Nájera
+                                                                            Unidad de Epidemiología
+                                                                     Dirección de Vigilancia de Salud
+
+                                                                            Adrián Montero Bonilla
+                                                      Unidad de Seguimiento de Indicadores en Salud
+                                                                  Dirección de Vigilancia de la Salud
+
+
+Dengue
+
+A la semana epidemiológica 40 del año 2025 se notifican 4319 casos de dengue,
+de estos 48 acumulados notificados con signos de alarma.
+
+En la región Central Sur se concentra la mayor notificación acumulada con 1809
+casos y la tasa más alta en la Pacífico Central 212,3/100.000 habitantes.
+
+Tabla 1.
+Costa Rica: Casos y tasas de dengue por región a la semana epidemiológica
+40, 2025 (Tasa por 100.000 hab.)
+              Región                       Casos                 Tasa
+Central Sur                                    1809              119,9
+Pacifico Central                               661               212,3
+Central Norte                                  554               52,9
+Chorotega                                      497               105,6
+Brunca                                         287               81,3
+Huetar Caribe                                  213               46,7
+Huetar Norte                                   130               48,3
+Central Este                                   123               22,3
+Central Occidente                               45               20,2
+Total                                          4319              83,2
+Fuente: Dirección de Vigilancia de la Salud.
+
+
+
+
+                                                                                                        3
+Figura 1.
+Costa Rica: casos de dengue y tasa por región a la semana epidemiológica 40,
+2025.
+
+
+            CENTRAL OCCIDENTE
+                 CENTRAL ESTE
+                HUETAR NORTE
+                HUETAR CARIBE
+   Región
+
+
+
+
+                        BRUNCA
+                  CHOROTEGA
+               CENTRAL NORTE
+             PACIFICO CENTRAL
+                 CENTRAL SUR
+                                     0           500         1000         1500   2000
+                                                          Casos y tasas
+
+                                               Tasa    Casos
+
+Fuente: Dirección de Vigilancia de la Salud.
+
+
+En la tabla 2 se pueden observar los casos notificados por provincia y sexo para el
+año 2025.
+
+Tabla 2.
+Costa Rica: casos de dengue notificados por provincia y sexo, 2025
+ Provincia Total casos    Tasa     Femenino     Tasa     Masculino               Tasa
+ San José       1869      112,4       995       118,0        874                 106,7
+ Puntarenas      862      170,5       408       163,2        454                 177,6
+ Alajuela        558      51,9        285        53,2        273                 50,7
+ Guanacaste      491      118,7       240       117,0        251                 120,3
+ Limón           213      46,7        100        44,9        113                 48,5
+ Heredia         200      36,6        93         33,9        107                 39,3
+ Cartago         126      23,6        55         20,5         71                 26,8
+ Total          4319      83,2       2176        83,7       2143                 82,7
+Fuente: Dirección de Vigilancia de la Salud.
+                                                                                         4
+Figura 2.
+Costa Rica: casos de dengue notificados por provincia a la semana
+epidemiológica 40, 2025.
+
+          2000          1869
+          1800
+
+          1600
+
+          1400
+
+          1200
+  Casos
+
+
+
+
+          1000
+                                    862
+          800
+                                                558
+          600                                             491
+
+          400
+                                                                   213     200
+          200                                                                        126
+
+             0
+                                                       Provincia
+
+             San José   Puntarenas        Alajuela    Guanacaste   Limón   Heredia    Cartago
+
+Fuente: Dirección de Vigilancia de la Salud.
+
+
+Los cantones con mayor número de casos acumulados a la semana epidemiológica
+40 son: San José 1226 casos, Puntarenas 289 casos, Alajuela 275 casos, Alajuelita
+185 casos y Esparza 169 casos.
+
+
+
+
+                                                                                                5
+Tabla 3.
+Costa Rica: cantones prioritarios en casos de dengue a la semana
+epidemiológica 40, 2025.
+
+
+              Cantón                    Casos        Tasa
+101: San José                                 1226     347,1
+601: Puntarenas                               289      200,1
+201: Alajuela                                 275       83,9
+110: Alajuelita                               185      189,8
+602: Esparza                                  169      476,0
+505: Carrillo                                 138      276,7
+501: Liberia                                  112      137,1
+103: Desamparados                             100       40,8
+610: Corredores                                99      185,5
+609: Parrita                                   80      355,0
+109: Santa Ana                                 78      125,5
+605: Osa                                       78      264,7
+702: Pococí                                    75       48,0
+503: Santa Cruz                                68       92,8
+210: San Carlos                                67       31,6
+410: Sarapiquí                                 66       68,4
+604: Montes de Oro                             66      441,1
+119: Pérez Zeledón                             63       47,2
+214: Los Chiles                                56      149,8
+701: Limón                                     55       59,7
+Fuente: Dirección de Vigilancia de la Salud
+
+
+
+
+                                                                   6
+Figura 3.
+Costa Rica: casos de dengue a la semana epidemiológica 40, 2024-2025.
+
+           1500
+
+           1000
+   Casos
+
+
+
+
+           500
+
+             0
+                  1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51
+                                                Semana
+
+                                              2024     2025
+
+Fuente: Dirección de Vigilancia de la Salud
+
+A la semana epidemiológica 40 del 2024 se reportó un total de 25830 casos de
+dengue, para este 2025 se reportan 4319 para un descenso del 83% con respecto
+a la misma semana epidemiológica.
+
+Tabla 4.
+Costa Rica: casos de dengue a la semana epidemiológica 40, 2024-2025.
+ Semana       2024      2025
+     1        917       160
+     2        735       137
+     3        641       128
+     4        631        93
+     5        568        78
+     6        472        69
+     7        421        63
+     8        401        88
+     9        340        77
+    10        289        62
+    11        256        65
+    12        238        96
+    13        178        68
+    14        247        58                                                                  7
+    15        216        33
+     16             214             52
+     17             216             45
+     18             223             42
+     19             285             54
+     20             280             54
+     21             368             42
+     22             489             51
+     23             636             47
+     24             648             63
+     25             790             72
+     26             739             77
+     27             758             92
+     28             768            117
+     29             1082           108
+     30             1017           138
+     31             1058           161
+     32             1102           155
+     33             1087           178
+     34             1182           219
+     35             1162           212
+     36             1015           211
+     37             1088           226
+     38             1143           217
+     39             1022           270
+     40             908            141
+    Total          25830           4319
+
+Fuente: Dirección de Vigilancia de la Salud
+
+
+La Gerencia Médica, Área de Estadística en Salud según los datos recopilados
+mediante EDUS reporta al 13 de octubre una persona hospitalizada en el Hospital
+Víctor Manuel Sanabria.
+
+
+
+
+                                                                                  8
+          Control vectorial realizado en el país a la semana
+                         epidemiológica 40
+                                                                            Rodrigo Marín Rodríguez
+                                                                     Programa de Control de Vectores
+                                                                             Unidad de Epidemiología
+                                                                    Dirección de Vigilancia de la Salud
+
+                                                                       Rose Mary Hidalgo Ríos
+                                         Iniciativa Regional de Eliminación de la Malaria (IREM)
+
+
+
+En la siguiente tabla se desglosa el control vectorial que se ha realizado en la
+semana epidemiológica 40 del 2025 por el personal de Control de Vectores del país.
+
+
+Cuadro 1.
+Costa Rica: Control vectorial en la semana epidemiológica 40
+
+
+                                                                       Total
+
+ Viviendas visitadas                                                       10.934
+
+ Viviendas positivas                                                           641
+
+ Depósitos tratados                                                        39.883
+
+ Depósitos eliminados                                                      15.902
+
+ Depósitos positivos                                                        1060
+
+ Viviendas fumigadas                                                       22.956
+Fuente: Consolidado Nacional de actividades de Control Vectorial.
+
+
+
+
+                                                                                                          9
+Así mismo se detalla lo que llevamos de la semana epidemiológica 1 a la 40.
+
+                                                                     Total
+
+  Viviendas visitadas                                                  483.806
+
+  Viviendas positivas                                                   24.021
+
+  Depósitos tratados                                                  1.791.507
+
+  Depósitos eliminados                                                1.188.323
+
+  Depósitos positivos                                                   40.932
+
+  Viviendas fumigadas                                                  585.040
+ Fuente: Consolidado Nacional de actividades de Control Vectorial.
+
+
+
+
+                                                                                  10
+                                            Malaria
+                                                                       Isaac Vargas Roldán
+                                                                    Unidad de Epidemiología
+                                                           Dirección de Vigilancia de la Salud
+
+                                                                         Sarah Arce Bonilla
+                                                           Dirección de Vigilancia de la Salud
+
+
+I.       Vigilancia epidemiológica
+         Situación de la malaria en Costa Rica: actualización a la semana
+         epidemiológica 40 del 2025
+         El histórico de transmisión local de malaria en Costa Rica evidencia una tendencia
+         sostenida a la disminución de casos en los últimos tres años. Durante el periodo
+         comprendido entre las semanas epidemiológicas 1 a 40:
+     •   En 2023, se notificaron 451 casos autóctonos.
+     •   En 2024, se registraron 207 casos, lo que representa una disminución del 54 %
+         respecto al mismo periodo del año anterior.
+     •   En lo que va del año 2025, se han reportado de manera preliminar 10 casos
+         autóctonos y 4 casos introducidos (14 autóctonos en total), lo que representa
+         una reducción del 97 % en comparación con el mismo periodo del 2023 y 93% con
+         respecto al año 2024.
+         Esta tendencia positiva refleja el impacto de las intervenciones dirigidas a la
+         interrupción de la transmisión local, especialmente en los focos históricos.
+         Distribución preliminar de casos de malaria por región de salud y clasificación
+         epidemiológica, Costa Rica, 2025
+         Durante el año 2025 se notificaron 55 casos de malaria en el país. La distribución
+         según clasificación epidemiológica y región de salud fue la siguiente:
+     •   10 casos autóctonos y 1 caso introducido de Plasmodium falciparum, todos
+         localizados en el foco de Matina en la Región Huetar Caribe.
+     •   3 caso introducidos de Plasmodim vivax, en la Región Huetar Norte,
+         concretamente en el foco de Crucitas.
+
+                                                                                                 11
+•   41 casos importados (34 por Plasmodium vivax, 6 por Plasmodium falciparum y 1
+    por Plasmodium malariae), con mayor concentración en las regiones Huetar Norte
+    (26 casos de Plasmodium vivax).
+    Los distritos a nivel nacional donde se han captado casos importados se destacan:
+    Cutris, Los Chiles, Osa, Carrandí, Cóbano, Pocosol, Hospital, Pavas, San Ramón,
+    Tamarindo, San Pablo (Nandayure), Sardinal (Carrillo).
+    Las personas afectadas en 2025 se desempeñan principalmente como operarios
+    de construcción, peones agrícolas, coligalleros y personas en condición de
+    movilidad humana, provenientes de Nicaragua, de la ruta migratoria desde
+    América del Sur, o en retorno desde Gabón (África).
+    Esta información resalta la importancia de mantener una vigilancia pasiva
+    sumamente fortalecida, la vigilancia activa, fortalecer los mecanismos de respuesta
+    en zonas de riesgo y asegurar el diagnóstico y tratamiento oportuno, con enfoque
+    especial en poblaciones móviles y en zonas de tránsito.
+
+    Tabla 1.
+    Costa Rica: Comportamiento de casos de transmisión local del año 2023, 2024
+    y 2025.
+                 Histórico Transmisión local
+                 Semana          2023        2024         2025
+                 Epidemiológica
+                 1               7           4            0
+                 2               7           6            3
+                 3               8           12           1
+                 4               11          14           0
+                 5               7           7            2
+                 6               5           13           0
+                 7               5           10           0
+                 8               7           9            0
+                 9               9           6            0
+                 10              11          6            0
+                 11              10          5            1
+                 12              22          3             0
+                 13              37          3            0
+                 14              52          5            0                               12
+                 15              36          5            0
+                  16                      28                 7                  0
+                  17                      15                 8                  0
+                  18                      11                 1                  0
+                  19                      24                 4                  0
+                  20                      10                 5                  0
+                  21                      4                  5                  0
+                  22                      1                  1                  0
+                  23                      5                  4                  1
+                  24                      9                  3                  0
+                  25                      4                  3                  0
+                  26                      9                  1                  1
+                  27                      5                  1                  0
+                  28                      4                  1                  1
+                  29                      3                  0                  0
+                  30                      5                  3                  0
+                  31                      6                  3                  0
+                  32                      5                  7                  1
+                  33                      7                  6                  1
+                  34                      4                  1                  0
+                  35                      11                 7                  0
+                  36                      10                 9                  0
+                  37                      13                 7                  0
+                  38                      11                 1                  1
+                  39                      7                  0                  1
+                  40                      5                  6                  0
+                  Total                   451                207                14
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+
+
+                                                                                                          13
+      Gráfico 1.
+      Costa Rica: Comportamiento de casos de transmisión local del año 2023, 2024
+      y 2025 a SE 40.
+
+
+
+
+      Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+
+II.   Inventario de focos.
+      En el país se cuenta con un inventario de focos en constante actualización,
+      actualmente se tienen 6 focos activos, 10 focos residuales inactivos y 5 focos
+      eliminados.
+
+
+
+
+                                                                                                                14
+Figura 1.
+Costa Rica: Inventario de focos de Malaria a mayo 2025.
+
+
+
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+Para que un foco sea declarado como residual inactivo debe transcurrir 1 año sin
+aparición de casos autóctonos, paralelamente, para que un foco sea declarado
+como eliminado, debe transcurrir 3 años adicionales sin transmisión autóctona del
+parásito.
+
+
+
+
+                                                                                                          15
+Tabla 4.
+Costa Rica: Listado de focos de malaria a setiembre 2025, por provincia,
+cantón y estado actual del foco.
+
+
+            Provincia          Cantón            Nombre del Foco         Estado
+
+            Alajuela           San Carlos        Pital                   Residual inactivo
+
+            Alajuela           San Carlos        Boca Arenal             Residual inactivo
+
+            Alajuela           San Carlos        Monterrey               Eliminado
+                                                 Crucitas -     Llano
+            Alajuela           San Carlos        Verde                   Activo
+
+            Alajuela           Los Chiles        Los Chiles              Activo
+
+            Alajuela           San Carlos        Jicarito                Residual inactivo
+
+            Alajuela           Río Cuarto        Río Cuarto              Residual inactivo
+
+            Guanacaste         La Cruz           La Cruz                 Residual inactivo
+
+            Guanacaste         Cañas             Cañas                   Residual inactivo
+
+            Heredia            Sarapiquí         Sarapiquí               Eliminado
+
+            Heredia            Sarapiquí         Ticari                  Activo
+
+            Limón              Matina            Matina                  Activo
+
+            Limón              Limón             Limón                   Activo
+
+            Limón              Siquirres         Barra de Parismina      Eliminado
+            Limón              Pococí            El Jardín               Activo
+
+            Limón              Siquirres         Barra Pacuare           Residual inactivo
+
+            Puntarenas         Roble             El Roble                Eliminado
+
+            Puntarenas         Puntarenas        Chomes                  Eliminado
+
+            Puntarenas         Quepos            Quepos                  Residual inactivo
+
+            Puntarenas         Parrita           Parrita                 Residual inactivo
+
+            Puntarenas         Golfito           La Leona                Residual inactivo
+
+            Puntarenas         Osa               Bahia Uvita             Residual inactivo
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+                                                                                                           16
+Influenza y otras virosis respiratorias, IRAG, IRAS,
+                   ETI y Covid-19
+                                                            Roberto Arroba Tijerino
+                                                            Unidad de Epidemiología
+                                                   Dirección de Vigilancia de la Salud
+
+                                                           Mayra Quesada Sanabria
+                                                      Unidad de Indicadores en Salud
+                                                   Dirección de Vigilancia de la Salud
+
+                                                             Rafael Chaves Méndez
+                                                      Unidad de Indicadores en Salud
+                                                   Dirección de Vigilancia de la Salud
+
+
+
+
+A continuación, se presentan los datos para la semana epidemiológica 40 de las
+Infecciones Respiratorias Agudas Graves (IRAG) y los datos de la semana
+epidemiológica 40 de las Infecciones Respiratorias Agudas Superiores (IRAS) y la
+Enfermedad Tipo Influenza (ETI), que según establece el Decreto de Vigilancia de
+la Salud No. 40556-S del 07 julio del 2017, son eventos de notificación obligatoria
+al Ministerio de Salud.
+
+En relación con la notificación de las IRAG, por medio de la boleta VE-01, se cuenta
+con los siguientes datos:
+   - Los casos acumulados a la semana epidemiológica (SE) 40 son un total de
+       11639.
+   - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en los niños entre 1 y 4 años y en los mayores de 75 años.
+
+
+
+
+                                                                                         17
+Gráfico 1.
+Distribución de casos de IRAG por grupos por edad quinquenal, notificados a
+la semana epidemiológica 40, en Costa Rica, 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+Según el gráfico 1, se puede apreciar como en los extremos de la vida (niños entre
+1 y 4 años y mayores de 75 años es donde más casos se han presentado).
+En el gráfico 2, se observa la tasa de incidencia de IRAG según las regiones del
+Ministerio de Salud a la semana 40, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Brunca y la Huetar Norte; las regiones con menor
+incidencia corresponden a la Chorotega, Central Este, Central Occidente, Central
+Sur, Central Norte, Pacífico Central y Huetar Caribe.
+
+
+
+
+                                                                                     18
+Gráfico 2.
+Tasa de IRAG según región del Ministerio de Salud, acumulada a la semana
+epidemiológica 40 del 2025, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+Por semana epidemiológica, los casos reportados por boleta VE-01 de IRAG, en
+Costa Rica son los que se presentan en el gráfico 3; se puede observar el
+comportamiento de los casos a la semana epidemiológica 40 del año 2025.
+
+Gráfico 3.
+Distribución de casos reportados por boleta VE-01 de IRAG a la semana
+epidemiológica 40, en Costa Rica, 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.         19
+En relación con el histórico de casos de IRAG, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2025, esto se puede apreciar en el gráfico 4.
+
+Gráfico 4.
+Distribución histórica de casos de IRAG por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+
+El HNN, para la SE- tiene un canal endémico de IRAG que actualmente se
+encuentra por en zona de seguridad, debido a la cantidad de casos que están
+presentando en este momento, tal como se puede apreciar en el gráfico 5.
+
+
+
+
+                                                                                    20
+Gráfico 5.
+Costa Rica: Canal endémico IRAG, HNN, 2025
+
+
+
+
+   Fuente: EDUS-UVEPCI HNN, 2025.
+
+
+En cuanto a la notificación de IRAS, por medio de la boleta VE02, se tiene la
+siguiente información, tal como se muestra en el gráfico 6:
+   - Los casos acumulados a la semana epidemiológica (SE) 40 son 1228061.
+   - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en menores entre 1 y 4 años y menores entre 5 y 9 años.
+
+
+
+
+                                                                                21
+Gráfico 6.
+Distribución de casos de IRAS por grupos por edad quinquenal, notificados a
+la semana epidemiológica 40, en Costa Rica, 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En el gráfico 7, se observa la tasa de incidencia de IRAS según las regiones del
+Ministerio de Salud a la semana 40, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Pacífico Central y Chorotega. Las regiones con menor
+incidencia corresponden a la región Central Norte, Huetar Norte, Huetar Caribe,
+Brunca, Central Occidente, Central Sur y Central Este.
+
+
+
+
+                                                                                    22
+Gráfico 7.
+Tasa de IRAS según región del Ministerio de Salud, acumulada a la semana
+epidemiológica 40 del 2025, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de IRAS, en
+Costa Rica son los que se presentan en el gráfico 8; se puede observar cómo los
+casos se han comportado a lo largo de estas 40 semanas epidemiológicas del año
+2025.
+
+Gráfico 8.
+Distribución de casos reportados por boleta VE-02 de IRAS a la semana
+epidemiológica 40, en Costa Rica, 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.            23
+En relación con el histórico de casos de IRAS, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2025, esto se puede apreciar en el gráfico 9.
+
+Gráfico 9.
+Distribución histórica de casos de IRAS por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+En el gráfico 10 se presenta el canal endémico de las IRAS en el Hospital Nacional
+de Niños, que muestra que a la semana 40 se encuentran en la zona de alarma
+actualmente.
+
+Gráfico 10.
+Costa Rica: Canal endémico IRAS. HNN. 2025.
+
+
+
+
+                                                                                     24
+
+Fuente: Sistemas de Cubos Urgencias-UVEPCI HNN, 2025.
+     En cuanto a la notificación de ETI, por medio de la boleta VE02, se tiene la
+             siguiente información, tal como se muestra en el gráfico 11:
+    - Los casos acumulados a la semana epidemiológica (SE) 40 son n= 17004.
+    - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en personas entre 30 y 34 años y las personas entre 35 y 39
+       años.
+
+Gráfico 11.
+Distribución de casos de ETI por grupos por edad quinquenal, notificados a la
+semana epidemiológica 40, en Costa Rica, 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En el gráfico 12, se observa la tasa de incidencia por ETI, según las regiones del
+Ministerio de Salud a la semana 40, presentando mayor cantidad de casos en la
+región la Central Occidente. Las regiones con menor incidencia corresponden a la
+región Brunca, Chorotega, Central Este, Central Sur, Huetar Norte, Pacífico Central,
+Central Norte y Huetar Caribe.
+
+
+
+
+                                                                                       25
+Gráfico 12.
+Tasa de ETI por región del Ministerio de Salud, acumulada a la semana
+epidemiológica 40 del 2025, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de ETI, en
+Costa Rica son los que se presentan en el gráfico 13; se puede observar cómo se
+han distribuido los casos en el año 2025.
+
+Gráfico 13.
+Distribución de casos reportados por boleta VE-02 de ETI a la semana
+epidemiológica 40, en Costa Rica, 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+                                                                                  26
+En relación con el histórico de casos de ETI, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2025, esto se puede apreciar en el gráfico 14.
+
+Gráfico 14.
+Distribución histórica de casos de ETI por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Según se observa en el gráfico 15, se puede ver el comportamiento de los
+principales virus respiratorios circulantes de la semana 01 a la 40; para la SE-40, en
+el país, el Rinovirus es el que más está circulando, seguido del Metaneumovirus y
+finalmente el virus Respiratorio Sincicial está en tercer lugar de circulación.
+
+
+
+
+                                                                                         27
+Gráfico 15.
+Distribución de virus circulantes de la semana epidemiológica 01 a la 40 en
+Costa Rica, 2025.
+
+
+
+
+Fuente: Matriz de Resultados de Laboratorio CCSS, Subárea de Vigilancia Epidemiológica 2025 .
+
+
+En relación con los datos específicos del Hospital Nacional de Niños, la situación
+que se ha presentado a la semana 42 del año 2025 es la siguiente:
+Al 13 de octubre del año en curso, correspondiente a la semana 42, el total de
+pacientes respiratorios hospitalizados son 98, lo que corresponde a un porcentaje
+de ocupación del 146.27%.
+
+
+
+
+                                                                                                28
+Gráfico 16.
+Costa Rica: Total de pacientes hospitalizados y en emergencias en la semana
+42 del año 2025, Hospital Nacional de Niños.
+
+
+
+
+Fuente: Hospital Nacional de Niños, 2025.
+
+
+Gráfico 17.
+Costa Rica: Positividad de muestras respiratorias de pacientes hospitalizados
+según agente etiológico viral. HNN. SE 1-40. Año 2025.
+
+
+
+
+Fuente: Unidad de Vigilancia Epidemiológica-Laboratorio de microbiología e inmunología. HNN. 2025.
+
+
+
+
+                                                                                                     29
+Gráfico 18.
+Costa Rica: Distribución de muestras positivas por VRS en pacientes
+hospitalizados según SE y año. HNN. 2017-2025.
+
+
+
+
+Como observaciones finales se puede indicar lo siguiente:
+  - IRAG con 11639 casos a la semana 40.
+  - IRAS con 1228061 casos a la semana 40.
+  - ETI con 17004 casos reportados a la semana 40.
+  - Actualmente, la ocupación de camas respiratorias en el HNN es de un
+     146.27%
+  - En SE-40, el Rinovirus es el virus que más ha circulado, seguido del
+     Metaneumovirus y en tercer lugar circula el Virus Respiratorio Sincicial.
+
+Para la enfermedad por COVID-19, durante la semana epidemiológica 40, se
+reportaron un total de 72 casos confirmados, lo que representa un aumento del
+7.46% con respecto a la SE-39 del año 2025 que presentó 67 casos.
+
+
+
+
+                                                                                 30
+Gráfico 19.
+Costa Rica: Casos COVID-19, según semana epidemiológica año 2025.
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, C.C.S.S / Dirección de Vigilancia de Salud, Ministerio de Salud,
+2025.
+
+Con respecto a las hospitalizaciones en la semana epidemiológica 40, se reportó un
+promedio total de 26 hospitalizados, lo que representa una disminución del 3.84%
+con respecto a la SE-39 del año 2025 donde se registraron 25 hospitalizaciones.
+
+
+
+
+                                                                                                                 31
+Gráfico 20.
+Costa Rica: Promedio total de hospitalizados en salón y Unidad de Cuidados
+Intensivos, según reporte semanal año 2025.
+
+
+
+
+Fuente: Área de Estadística en Salud, CCSS/Ministerio de Salud, Dirección de Vigilancia de Salud 2025.
+
+
+En relación con el comportamiento de las personas fallecidas asociadas a COVID-
+19, durante la semana epidemiológica 40, hubo 2 fallecidos; sin embargo, es
+importante indicar que estos son datos preliminares sujetos a la revisión de los
+casos.
+
+
+
+
+                                                                                                         32
+Gráfico 21.
+Costa Rica: Personas fallecidas asociadas a COVID-19, según reporte
+semanal año 2025.
+
+
+
+
+Fuente: Área de Estadística en Salud, C.C.S.S. / Ministerio de Salud, Dirección de Vigilancia de Salud 2025.
+
+Para la semana epidemiológica 40 no se reportaron brotes asociados a COVID-19.
+
+Gráfico 22.
+Brotes de covid-19, por semana epidemiológica en Costa Rica, 2025.
+
+
+
+
+                                                                                                               33
+Fuente: Dirección de Vigilancia de la Salud, Ministerio de Salud, 2025.
+Nota: Se reportaron 24 brotes en el año 2024 y se han reportado 11 brotes en el
+año 2025
+
+Variantes genómicas
+Según el informe interactivo de INCIENSA revisado el 14 de octubre del 2025, se
+reporta lo siguiente.
+
+Gráfico 23.
+Costa Rica: Proporción de linaje identificados, para Variante de Preocupación
+(VOC) Ómicron, Variante de Interés (VOI) y Variantes Bajo Monitoreo (VUM),
+por semana epidemiológica SE 1-36 del 2025.
+
+
+
+
+Fuente: Sistema de Información de INCIENSA, CCSS, DATOS Facultad de Microbiología UCR, actualizado en
+informe interactivo en Vigilancia genómica SARS-CoV-2 al 14 de octubre del 2025.
+
+En relación con la proporción relativa de sublinaje de VOC Ómicron, VOI y VUM,
+durante el periodo comprendido entre la SE-1 y la 36 del año 2025, se tiene la
+siguiente información.
+
+
+
+
+                                                                                                        34
+Cuadro 1
+Costa Rica: Proporción relativa de Sublinaje de VOC Ómicron, VOI y VUM,
+       Costa Rica: Proporción relativa de Sublinaje de VOC Ómicron,
+duranteVOI
+        el período
+            y VUM, de las semanas
+                   durante          epidemiológicas
+                            el periodo              1-36
+                                       de las semanas    del 2025.
+                                                      epidemiológicas
+          1-36 del 2025
+
+
+
+          Linaje Pangolin                                Cantidad                    %
+
+          Secuencia recombinante                              49                  5.46
+          VOI JN.1                                           267                  29.73
+          VOI NW.1                                            4                   0.45
+          VUM KP.3                                            2                   0.22
+          VUM KP.3.1.1                                        10                  1.11
+          VUM LP.8.1                                         366                  40.76
+          VUM NB.1.8.1                                        18                  2.00
+          VUM XEC                                             64                  7.13
+          VUM XFG                                            118                  13.14
+          Total                                              898                 100.00
+Fuente: INCIENSA, informes interactivos de variantes genómicas, corte 14 de octubre del 2025.
+
+
+
+
+                                                                                                35
+                                    Varicela
+                                                       José Aaron Agüero Zumbado
+                                                             Unidad de Epidemiología.
+                                                    Dirección de Vigilancia de la Salud
+
+
+
+La varicela, es una enfermedad infectocontagiosa, de carácter benigno,
+ampliamente distribuida en el mundo producida por el Virus de Varicela Zóster, se
+caracteriza por fiebre moderada de 37,7 – 38,8ºC, continua de 24 – 48 horas,
+exantema maculopapular pruriginoso, rápidamente progresivo, con máculas que
+duran horas y evolucionan en 5 - 7 días a vesículas, pústulas y costras. Las lesiones
+aparecen inicialmente en cabeza, cara y tronco superior y se extienden
+centrífugamente hacia el resto del cuerpo, coexistiendo simultáneamente lesiones
+en diferentes fases.Este evento se vigila desde el año 1980, es de notificación
+obligatoria desde abril de 1983 según el Decreto Ejecutivo N° 14496-SPPS, a través
+de la Boleta VE01, actualmente se siguen las indicaciones señaladas en el Decreto
+de Vigilancia de la Salud N° 40556 - S publicado en la Gaceta N° 206 del 23 de
+agosto del 2017. Este evento pertenece al Grupo A, y la notificación debe hacerse
+semanalmente para conocer su distribución y comportamiento. En el año 2025 se
+han registrado un total de 2514 casos de varicela en el país, representa una tasa de
+48,4 casos por cada 100 mil habitantes. La distribución de casos de varicela ha
+confirmado un aumento en la semana epidemiológica 22, 23 y en la 32-34.
+
+
+
+
+                                                                                          36
+Gráfico 1.
+Costa Rica: Distribución de casos de varicela según semana epidemiológica
+al 14 de octubre 2025.
+
+
+
+
+Fuente: Dirección de Vigilancia del Ministerio de Salud, setiembre 2025
+
+
+Todas las provincias registran casos, y las tres con más casos son San José
+(n=872), Alajuela (n=488) y Limón (n=326). La Región Central Sur y Central Norte
+se caracterizan por notificar la mayoría de los casos de varicela con 738 y 415 casos
+de varicela respectivamente.
+
+
+
+
+                                                                                        37
+Tabla 1.
+Costa Rica: Distribución de casos de varicela según Región del Ministerio de
+Salud al 14 de octubre 2025. (tasa por cada 100 mil habitantes)
+
+
+
+             REGIÓN                              TOTAL
+                                                 Nº              TASA
+
+
+
+             TOTAL                               2514            48,4
+
+
+             BRUNCA                              224             63,4
+             CENTRAL ESTE                        185             33,5
+             CENTRAL NORTE                       415             39,6
+             CENTRAL SUR                         738             48,9
+             CHOROTEGA                           208             44,2
+             HUETAR CARIBE                       325             71,3
+             HUETAR NORTE                        105             39
+             CENTRAL OCCIDENTE                   91              40,8
+             PACIFICO CENTRAL                    223             71,6
+
+
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud.
+
+
+La distribución de los casos de varicela por sexo es mayor en hombres (n=1414),
+que en mujeres (n=1100).
+Todos los grupos de edad presentan casos de varicela, sin embargo, el grupo de
+edad con más casos es el de 20 a 24 años (n=497), representando el 19,7% del
+total de casos, y el segundo grupo de edad con más casos es el de 25 a 29 años
+con 350 casos resultando un 13,8% del total de casos.
+
+
+
+
+                                                                                  38
+Tabla 2.
+Costa Rica: Distribución de casos de varicela según grupo de edad y sexo al
+14 de octubre 2025. (tasa por cada 100 mil habitantes)
+
+                                   SEXO
+              GRUPOS DE EDAD       TOTAL              Mujer              Hombre
+                                   Nº       TASA      Nº         TASA    Nº       TASA
+
+
+
+              TOTAL                2514     48,4      1100       42,3    1414     54,6
+
+
+              de Menos de 1 año    94       186,6     46         187,3   48       186
+              de 1 a 4 años        181      85,3      79         75,8    102      94,5
+              de 5 a 9 años        182      54,9      75         46,1    107      63,3
+              de 10 a 14 años      308      81        153        82      155      80
+              de 15 a 19 años      304      80        148        79,7    156      80,4
+              de 20 a 24 años      497      129,1     206        108,6   291      149,1
+              de 25 a 29 años      350      84,4      139        68      211      100,4
+              de 30 a 34 años      225      51,7      84         39,1    141      64
+              de 35 a 39 años      150      34        75         34,2    75       33,8
+              de 40 a 44 años      91       23        40         20,2    51       25,9
+              de 45 a 49 años      50       15,1      19         11,4    31       18,8
+              de 50 a 54 años      36       12,6      19         13,1    17       12
+              de 55 a 59 años      23       8,2       7          4,9     16       11,6
+              de 60 a 64 años      7        2,7       2          1,5     5        3,9
+              de 65 a 69 años      8        3,8       4          3,7     4        3,9
+              de 70 a 74 años      2        1,3       1          1,2     1        1,3
+              75 años y más        6        2,5       3          2,3     3        2,8
+              Ignorados            0                  0                  0
+
+Nota: ¹ Los nacimientos corresponden a proyecciones del INEC.
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud.
+
+
+
+
+                                                                                          39
+  CENTROS PENALES
+
+  Brote del CAI San José
+  El 28 de agosto se alertó a las autoridades sanitarias respecto al aumento de los
+  casos de varicela en el CAI San José, registrándose un total de 27 casos activos,
+  masculinos con edades de 20 a 40 años, los casos se aislaron y se encuentran con
+  buenas condiciones de salud. Al 14 de octubre no cuentan con casos activos de
+  varicela, se han recuperado 155 de casos de varicela acumulados en el CAI San
+  José durante el 2025. Se realizó un excelente trabajo interinstitucional con el
+  Ministerio de Salud, el Ministerio de Justicia y Paz, el Departamento Policial y
+  Médico del CAI, y la Caja Costarricense de Seguro Social con reuniones semanales.
+
+BROTE CAI Jorge Arturo Montero Castro (La Reforma)
+
+  Se recibe alerta por parte del Área Rectora de Salud Alajuela, de un caso de varicela
+  el 12 de setiembre, con fecha de inicio de síntomas el 9 de setiembre 2025 en el
+  ámbito B-1 del CAI Jorge Arturo Montero Castro (La Reforma). Se diagnosticaron 6
+  casos de varicela, y desde el 3 de octubre no se registran más casos de varicela.
+
+  En el CAI Carlos Luis Fallas se contabiliza 1 caso activo y en el CAI Marcus
+  Garvey se registran 6 casos activos, los pacientes se encuentran con buen estado
+  de salud y en los próximos días se espera informar la recuperación de estos casos.
+
+
+  Recomendaciones para la población en general
+
+     1. Completar esquemas de vacunación según regulaciones nacionales para la
+        varicela.
+     2. Ante síntomas de varicela (fiebre y erupción o brote vesicular) consultar al
+        establecimiento de salud correspondiente.
+     3. Mantener medidas de seguridad sanitaria, lavado de manos, protocolo de
+        estornudo y mascarilla (en ambientes o lugares con grandes cantidades de
+        personas).
+
+
+
+                                                                                          40
+                                 Meningitis
+
+                                                            Franchina Murillo Picado
+                                                             Unidad de Epidemiología
+                                                    Dirección de Vigilancia de la Salud
+
+                                                               Paola Pérez Espinoza
+                                                       Unidad de Indicadores de Salud
+                                                    Dirección de Vigilancia de la Salud
+
+
+
+La meningitis es una peligrosa inflamación de las membranas que rodean el cerebro
+y la médula espinal, causada principalmente por una infección bacteriana o vírica.
+
+La meningitis causada por una infección bacteriana suele ser la más grave que
+provoca unas 250,000 muertes por año y posibles epidemias de rápida propagación.
+Ocasiona la muerte de una de cada diez personas infectadas, en su mayoría niños
+y jóvenes y deja a una de cada cinco con discapacidades duraderas, como
+convulsiones, pérdida de audición y visión, daños neurológicos y deterioro cognitivo.
+
+En Costa Rica, hasta la semana epidemiológica 40 del año 2025, se han registrado
+144 casos sospechosos de meningitis reportados mediante boleta VE01, lo que
+representa una tasa de incidencia de 2,7 por cada 100.000 habitantes. En
+comparación con el mismo periodo del año anterior, cuando se reportaron 152
+casos, se observa una disminución del 5,26% sin que se reporten brotes para esta
+semana.
+
+De las 9 Regiones del Ministerio de Salud, la Región Central Sur es la que tiene la
+mayor cantidad de casos con un 22,9% (33/144) seguido de la Región Central Norte
+con 22,2% (32/144) y la Central Este con el 18,8% (27/144).
+
+
+
+
+                                                                                          41
+Figura 1.
+Costa Rica: Casos sospechosos de meningitis comparativa año 2024 con el
+2025 a la semana epidemiológica 40, 2025
+
+
+
+        12
+        11
+        10
+         9
+         8
+  n° casos
+
+
+
+
+         7
+         6
+         5
+         4
+         3
+         2
+         1
+         0
+             1   3   5   7   9   11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43
+                                           Semana epidemiológica
+                                             2024       2025
+
+
+
+Fuente: Ministerio de Salud-Dirección de Vigilancia de la Salud. Unidad de Indicadores de la Salud .
+
+
+En la siguiente tabla se enlista los cantones con las tasas más altas de meningitis.
+Turrubares de la provincia de San José es el que tiene la tasa más alta de 13,8
+seguido de Dota también de la provincia de San José con 12,2 y Osa de la provincia
+de Puntarenas con 9,5.
+
+
+
+
+                                                                                                       42
+Figura 2.
+Costa Rica: Casos notificados de meningitis según cantón, acumulado a la
+semana epidemiológica 40, 2025 (tasa p/100.000 habitantes)
+cantón               casos        tasa
+Turrubares             1          13,8
+Dota                   1          12,2
+Osa                    3           9,5
+Santa Barbara          4           8,8
+Cañas                  3           8,7
+Flores                 2           7,7
+Bagaces                2           7,7
+Sarapiqui              7           7,4
+Perez Zeledon         10           7,0
+Leon Cortes            1           7,0
+Santa Cruz             5           6,7
+Montes de Oro          1           6,7
+Cartago               11           6,5
+Alvarado               1           6,3
+El Guarco              3           6,3
+San Pablo              2           6,3
+Jimenez                1           6,1
+Turrialba              4           5,5
+Tarrazu                1           5,2
+Esparza                2           4,9
+Liberia                4           4,8
+Palmares               2           4,6
+Coto Brus              2           4,5
+Valverde Vega          1           4,3
+Talamanca              2           4,2
+Alajuelita             4           4,0
+Santo Domingo          2           3,9
+San Rafael             2           3,4
+Nicoya                 2           3,4
+Montes de Oca          2           3,2
+San Jose              11           3,1
+Moravia                2           3,1
+Alajuela              10           3,0
+Goicoechea             4           2,8
+Quepos                 1           2,8
+La Union               3           2,6
+Desamparados           6           2,4
+Naranjo                1           2,0
+Barva                  1           2,0
+Carrillo               1           2,0
+Limon                  2           2,0
+San Carlos             4           1,9
+Buenos Aires           1           1,8
+Upala                  1           1,7
+Guacimo                1           1,7
+Paraiso                1           1,5
+Escazu                 1           1,4
+Heredia                2           1,3
+Pococi                 2           1,2
+Puntarenas             1           0,7
+Total                 144          2,7
+
+Fuente: Ministerio de Salud-Dirección de Vigilancia de la Salud. Unidad de Indicadores de la Salud .   43
+La figura 3 presenta la distribución de los casos sospechosos según sexo y grupo
+de edad. En la semana analizada, se observa una distribución equitativa por sexo,
+con un 50% de los casos (72/144) en mujeres y un 50% (72/144) en hombres. El
+22,9% de los casos (33/144) son menores de 1 año.
+
+
+Figura 3.
+Costa Rica: Casos notificados por meningitis según sexo y edad, a la semana
+epidemiológica 40, 2025
+
+
+
+             20                                                                                                                mujer      hombre
+             18
+             16
+             14
+  n° casos
+
+
+
+
+             12
+             10
+              8
+              6
+              4
+              2
+              0
+
+
+
+
+                                                                                                                                                 >75
+                           1-4
+
+                                 5-9
+                  < de 1
+
+
+
+
+                                       10-14
+
+                                               15-19
+
+                                                       20-24
+
+                                                               25-29
+
+                                                                       30-34
+
+                                                                               35-39
+
+                                                                                       40-44
+
+                                                                                               45-49
+
+                                                                                                       50-54
+
+                                                                                                               55-59
+
+                                                                                                                       60-64
+
+                                                                                                                                 65-69
+
+                                                                                                                                         70-74
+                                                                       Grupo de edad
+
+
+
+
+Fuente: Ministerio de Salud-Dirección de Vigilancia de la Salud. Unidad de Indicadores de la Salud.
+
+
+
+
+                                                                                                                                                       44
+Situación epidemiológica de Enfermedad Diarreica
+        Aguda (EDA) al 14 de octubre 2025.
+
+                                                      Ivannia Caravaca Rodríguez.
+                                                           Unidad de Epidemiología.
+                                                  Dirección de Vigilancia de la Salud
+
+
+
+
+En la semana epidemiológica 40 del año 2025 se reportan 320345 casos
+acumulados de Enfermedad Diarreica Aguda (EDA). De acuerdo con el
+comportamiento epidemiológico de este evento, se observa una curva epidémica
+ubicada en zona de seguridad, con una tasa de incidencia de 6170 casos por cada
+100,000 habitantes, calculada con base en la actualización de datos poblacionales
+estimados por el Instituto Nacional de Estadística y Censos (INEC).
+La incidencia de las Enfermedades Diarreicas Agudas (EDA) para la Semana
+Epidemiológica (SE) 40 del año 2025 refleja una disminución en los casos
+notificados respecto al mismo periodo del año 2023, lo que muestra una tendencia
+descendente sostenida a partir de la SE 20, comportamiento que contrasta con el
+aumento registrado en la misma etapa del 2023.
+Durante las primeras 15 semanas del 2025, se observó una tendencia al alza
+respecto al 2023, con valores significativamente superiores, particularmente entre
+la SE 8 y SE 14, donde se alcanzaron picos como los 9,603 casos en la SE 10 (vs
+6,602 en 2023). No obstante, a partir de la SE 16, esta tendencia comienza a
+revertirse progresivamente, y para la SE 40 se consolida una predisposición
+disminuida en la frecuencia de casos.
+Este patrón refleja una situación epidémica ubicada en zona de alerta del canal
+endémico, lo cual coincide con la presencia del fenómeno climático de La Niña,
+asociado históricamente con un incremento en las lluvias y la humedad, condiciones
+que pueden favorecer la transmisión de agentes causantes de diarreas. Cabe
+destacar que en el 2023 se presentó una situación epidemiológica similar también
+bajo los efectos de La Niña.
+Los datos presentados son preliminares y se encuentran en proceso de validación,
+por lo que podrían surgir ajustes que modifiquen la posición actual en el canal
+endémico.
+                                                                                        45
+Gráfico 1
+Costa Rica. Canal endémico para EDA por semana epidemiológica hasta la SE
+40. Años 2017- 2025. *
+
+
+
+
+Fuente: Datos preliminares, Dirección Vigilancia de la Salud. Ministerio de Salud.
+
+*Nota: Se excluyen del 2020 y 2021por la pandemia COVID-19 y 2023 por hackeo
+de la CCSS.
+
+El canal endémico de Enfermedad Diarreica Aguda (EDA) se clasifica en tres zonas
+de comportamiento: zona de éxito (verde), zona de seguridad (amarillo) y zona de
+alerta (rojo), construidas a partir de los promedios y límites históricos esperados. La
+línea morada representa el comportamiento observado durante el año 2025.
+Durante las primeras semanas epidemiológicas (SE 1–7), los casos de EDA se
+mantuvieron dentro de la zona de éxito, mostrando un comportamiento estable y por
+debajo del umbral de alerta. A partir de la SE 8, se inicia un ascenso progresivo que
+ubica la curva en el límite superior de la zona de seguridad, lo que indica un aumento
+sostenido de la incidencia.
+Entre las SE 14 y 24, se observa el periodo de mayor intensidad del año, con un
+comportamiento que supera de forma constante los límites históricos y se mantiene
+dentro de la zona de alerta, alcanzando su máximo pico alrededor de la SE 20–22.
+Este comportamiento sugiere una fase epidémica marcada, caracterizada por un
+incremento considerable de casos en comparación con los valores esperados.
+A partir de la SE 25, la tendencia comienza a descender gradualmente, aunque se
+mantiene por algunos periodos dentro de la zona de alerta y seguridad. Desde la
+SE 30 en adelante, el número de casos continúa en disminución sostenida,                  46
+ubicándose hacia la SE 40 predominantemente en la zona de seguridad. Durante
+las últimas semanas del año se espera (SE 41–52), que el comportamiento
+permanezca dentro de los límites esperados, con valores que oscilan entre las
+zonas de éxito y seguridad, reflejando un control progresivo de la incidencia.
+En síntesis, el comportamiento de EDA en 2025 muestra un ascenso temprano con
+un pico epidémico a mediados del año, seguido de una disminución constante y
+estabilización posterior, consistente con un ciclo estacional típico, sin evidencia de
+repuntes hacia el cierre del periodo analizado.
+A la Semana Epidemiológica 40 del 2025, los 15 cantones con las tasas de
+incidencia más elevadas de Enfermedad Diarreica Aguda (EDA) son: Flores,
+Vázquez de Coronado, Orotina, Montes de Oro, Puntarenas, Garabito, Santa Cruz,
+Mora, San Rafael, Goicochea, Matina, Alajuelita, San José, Esparza, Parrita y
+Alajuela. Estos cantones presentan una incidencia significativamente superior al
+promedio nacional, destacándose la mayoría por mantener tasas elevadas de
+manera sostenida a lo largo del primer semestre del año, lo que sugiere una
+persistencia del riesgo epidemiológico en estos territorios, o una mejor notificación
+de estos eventos en los servicios de salud.
+Las Regiones Rectoras con más casos son: Pacifico Central, Central Norte, Central
+Sur. El grupo de edad más afectado es el de adultos de 20 a 39 años.
+
+Gráfico 2
+Costa Rica. Incidencia de casos de EDA, según región del Ministerio de Salud.
+SE 40, 2025.
+
+
+
+
+Fuente: Datos preliminares. Dirección Vigilancia de la Salud. Ministerio de Salud.       47
+Este comportamiento regional resalta la necesidad de enfocarse en prevención y
+control en las zonas con mayor incidencia relativa y carga acumulada,
+particularmente en las regiones Central Sur, Central Norte y Pacífico Central.
+Se debe continuar con el cumplimiento del protocolo de lavado de manos, así como
+la promoción de adecuadas prácticas de higiene personal, manipulación segura de
+alimentos y correcta cocción de estos. Estas medidas resultan fundamentales ante
+el incremento sostenido en los casos de diarrea aguda reportados por el sistema de
+salud, tanto de origen viral como bacteriano, los cuales superan el comportamiento
+esperado para esta época del año.
+En este contexto, cobra especial relevancia la aplicación rigurosa del Protocolo de
+Vigilancia de Enfermedades Transmitidas por Alimentos, el cual se orienta en la
+investigación oportuna de los casos y brotes, incluyendo el uso de flujogramas para
+abordar distintas etiologías probables. Continuar con la vigilancia activa,
+investigación de campo y respuesta inmediata ante alertas locales es clave para
+contener la transmisión, identificar factores de riesgo y reducir la carga de
+enfermedad en las comunidades más afectadas.
+
+
+
+
+                                                                                      48
+                        Intoxicación por metanol
+                       Actualización al 14 de octubre del 2025.
+
+                                                                    Ted Alpízar Calvo
+                                                              Unidad de Epidemiología
+                                                     Dirección de Vigilancia de la Salud
+
+
+
+
+La intoxicación por metanol un alcohol tóxico, no apto para bebidas es una de las
+patologías de más alta mortalidad en urgencias. Al ser una patología no común y
+con síntomas y signos no específicos muchas veces la pasamos por alto y con esto
+aumentamos su mortalidad. Este es uno de los padecimientos que ante la alta
+sospecha en la historia clínica y sintomatología debemos abordar de inmediato con
+el fin de evitar un desenlace fatal. Sus síntomas se deben principalmente al acúmulo
+de ácido fórmico que causa alteraciones pulmonares, metabólicas, neurológicas y
+renales. Es un padecimiento el cual debe notificarse una vez confirmado el
+diagnóstico con el fin de realizar un barrido y encontrar los causantes, antes de
+evitar brotes mayores.
+
+El Decreto de Vigilancia de la Salud N° 40556-S, indica que la intoxicación con
+metanol es de notificación obligatoria al Ministerio de Salud debido a su impacto en
+la salud pública; ya que puede causar un cuadro grave de intoxicación, discapacidad
+en la persona e inclusive la muerte, si no se trata oportunamente. Por este motivo,
+el diagnóstico temprano y el tratamiento adecuado son cruciales para mejorar el
+pronóstico.
+
+El Ministerio de Salud de Costa Rica haciendo uso de sus potestades, que le
+confiere la legislación, establece los lineamientos que deben seguir los
+establecimientos de salud públicos y privados, cuando se presenten casos de
+intoxicación con metanol. Se pretende con los lineamientos orientar al personal de
+salud, en los procedimientos a seguir para evitar las discapacidades y la mortalidad
+que podrían producir este tipo de intoxicación.
+
+
+
+
+                                                                                           49
+Datos
+
+Cuadro 1.
+Costa Rica: Casos vivos y casos fallecidos, sospechosos por Intoxicación por
+metanol según fecha de registro, indicador seleccionado por sexo. Del 1 de
+enero al 14 de octubre 2025.
+ Indicador                            Sexo biológico notificado
+ Morbilidad                           Mujeres         Hombres Total
+ Número de casos (vivos)              0               1         1
+ Porcentaje (%) del total             0               100 %     100 %
+ Rango edad (años)                    0               49        49
+ Promedio edad (años)                 0               49        49
+ Edad desconocida                     0               0         0
+ Mortalidad
+ Número de casos (fallecidos)         1               0         1
+ Porcentaje (%) del total             100 %           0         100 %
+ Rango edad (años)                    48              0         48
+ Promedio de edad (años)              48              0         48
+ Edad desconocida                     0               0         0
+ Total (número de vivos y fallecidos) 1               1         2
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la
+CCSS y el OIJ.
+
+
+Cuadro 2.
+Costa Rica: Casos vivos y casos fallecidos, sospechosos por Intoxicación
+por metanol según fecha de registro, por provincia, cantón y condición de
+egreso. Del 1 de enero al 14 de octubre 2025
+ Provincia              Cantón                  Condición de egreso                              Total
+                                                Fallecidos                        Vivos
+ San José               San José                1                                 1                 2
+
+ Total (2025)                                   1                                 1                  2
+
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la
+CCSS y el OIJ.
+                                                                                                                50
+Cuadro 3.
+Costa Rica: Casos vivos y casos fallecidos, sospechosos por Intoxicación por
+metanol según fecha de registro por grupos de edad y por condición egreso.
+Del 1 de enero al 14 de octubre 2025
+
+                                                 Condición de egreso
+ Grupos de edad (años)                           Fallecido        Vivo                           Total
+ 20-29
+ 30-39
+ 40-49                                           1                        1                      2
+ 50-59
+ 60-69
+ 70 y mas
+ Desconocido
+ Total                                                                                           2
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la
+CCSS y el OIJ.
+
+
+
+
+Cuadro 4.
+Costa Rica: Casos vivos y casos fallecidos, sospechosos por Intoxicación por
+metanol según fecha de registro por condición y año de ocurrencia. Del 1 de
+enero al 14 de octubre 2025
+
+
+
+ Condición             Año de ocurrencia                                                                        Total
+                       2019 2020 2021                       2022       2023        2024          2025
+ Casos                              22                      6          6           2             1
+                       75     52                                                                                164
+ (Fallecidos)
+ Casos (Vivo) 51                  46        27              6          4           4             1              139
+ Total (2019-                               49              12         10          6             2
+              126                 98                                                                            303
+ 2024)
+
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la
+CCSS y el OIJ.
+
+                                                                                                                   51
+Gráfico 1.
+Curva de casos vivos y casos fallecidos, sospechosos por Intoxicación por
+Metanol según fecha de registro por condición y año de ocurrencia.
+
+                          80
+                                    75
+                          70
+
+                          60
+
+                          50        51          52
+                                                46
+                          40
+         Casos
+
+
+
+
+                          30
+                                                            27
+                          20                                22
+
+                          10
+                                                                        6           6
+                                                                                    4         4
+                          0                                                                   2           1
+                               2019       2020        2021        2022        2023        2024        2025
+          Casos (Fallecidos)   75          52          22           6           6           2           1
+          Casos (Vivos)        51          46          27           6           4           4           1
+                                                                  Años
+
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la
+CCSS y el OIJ.
+
+
+
+
+                                                                                                                52
+      Miasis por gusano barrenador en humanos
+
+
+                                                       María José Lafuente González
+                                                             Unidad de Epidemiología
+                                                    Dirección de Vigilancia de la Salud
+
+                                                      Rafael Alberto Chaves Méndez
+                                                       Unidad de Indicadores en Salud
+                                                    Dirección de Vigilancia de la Salud
+
+
+
+A continuación, se presentan los datos de miasis por gusano barrenador en
+humanos para la semana epidemiológica (SE) 40 del año 2025, según establece el
+Reglamento de Vigilancia de la Salud Decreto N°40556-S y el Lineamiento Nacional
+para la Vigilancia de Miasis por Gusano Barrenador en Humanos es un evento de
+notificación obligatoria al Ministerio de Salud.
+
+En relación con la notificación de esta miasis, por medio de la boleta VE-01, para el
+año 2025 a la SE 40, se tienen los siguientes datos:
+
+• Casos acumulados de miasis por gusano barrenado en humanos suman un total
+de 81 casos
+• Casos por grupos de edad quinquenal tienen un predominio en las personas de
+20 a 64 años (36/81) y las adultas de 65 y más años con más casos reportados
+(40/81)
+
+
+
+
+                                                                                          53
+Gráfico 1
+Costa Rica: Casos notificados de miasis de gusano barrenador según SE de
+la 01 a la 40, 2025
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2025
+
+Gráfico 2
+Costa Rica: Casos notificados de miasis por gusano barrenador según grupos
+de edad quinquenal, de la SE 01 a la 40, 2025
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2025
+                                                                                                     54
+El comportamiento de la miasis por gusano barrenador en humanos, en el año 2025,
+presenta un predominio en los hombres con 55 casos notificados con una tasa de
+2,1 por 100.000 habitantes y en las mujeres con 26 casos notificados con una tasa
+de 1,0 por 100.000 habitantes.
+
+Cuadro 1
+Costa Rica: Casos notificados de miasis por gusano barrenador por número
+de casos y tasas (tasa p/100.000 habitantes) según provincia de procedencia,
+de la SE 01 a 40, 2025
+Provincias                   Casos               Tasas
+Total                          81                 1,6
+San José                                  15                          0,9
+Alajuela                                  20                          1,9
+Cartago                                   5                           0,9
+Heredia                                   9                           1,6
+Guanacaste                                9                           2,2
+Puntarenas                                9                           1,8
+Limón                                     14                          3,1
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2025
+
+
+En el cuadro 1, se presenta el comportamiento de esta enfermedad por número de
+casos notificados a la SE 40 según provincia de procedencia, presentando mayor
+número de casos la provincia de Alajuela (20/81) seguido por la provincia de San
+José (15/81).
+
+
+
+
+                                                                                                     55
+Gráfico 3
+Costa Rica: Casos notificados de miasis por gusano barrenador por número
+de casos según región del Ministerio de Salud de procedencia, de la SE 01 a
+40, 2025
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2025
+
+
+
+
+En el gráfico 3, se presenta el comportamiento de esta enfermedad a nivel de las
+nueve regiones del Ministerio de Salud, siendo las regiones Huetar Caribe (14/81)
+y Central Norte (14/81) las que presentan el mayor número de casos notificados.
+
+En el gráfico 4 se puede observar el comportamiento de la miasis por gusano
+barrenador en humanos por SE 01 a 52 del 2024 y SE 01 a 40 del 2025, con un
+total de 81 casos confirmados por esta enfermedad para el 2025, siendo que para
+la SE 40 del 2024 se confirmaron 33 casos de miasis por gusano barrenador en el
+país.
+
+
+
+
+                                                                                                     56
+Gráfico 4
+Costa Rica: Casos notificados de miasis de gusano barrenador, según SE, de
+la SE 01 a la 52 del 2024 al corte de la SE 40 del 2025
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2024 y 2025
+
+Dado que la mosca continúa circulando en el territorio nacional y existe la
+declaratoria de Emergencia Nacional Sanitaria Epidémica para el control y
+erradicación de la enfermedad de Gusano Barrenador, Decreto Ejecutivo N° 44382–
+MAG (Cochliomyia hominivorax), es de suma importancia que ante la identificación
+de un caso sospechoso en humanos se realice el abordaje bajo el enfoque de Una
+Sola Salud, mediante coordinación interinstitucional Ministerio de Salud-Ministerio
+de Agricultura y Ganadería-Servicio Nacional de Salud Animal (SENASA)-Ministerio
+de Ambiente y Energía (MINAE) según corresponda, para identificar casos
+sospechosos en humanos y/o animales, y puedan ser atendidos de manera
+oportuna.
+A continuación, se brinda algunas generalidades de prevención y control de esta
+enfermedad:
+
+• Mantener higiene personal, lavarse las manos regularmente con agua y jabón
+• Control, tratamiento e higiene en lesiones en piel de acuerdo con la
+recomendación del médico tratante
+• Asistir al establecimiento de salud público o privado cuando presente síntomas
+asociados a la enfermedad, tales como: dolor, malestar y picazón en el sitio de la
+lesión, enrojecimiento de la piel, herida con secreción, sensación que se mueve y
+con frecuencia, se pueden observar huevecillos y/o larvas visibles en la lesión
+• Mantener vigilancia y control en el cuidado de los animales, realizando revisiones
+frecuentes, así como la curación de todas las heridas e informar a las autoridades
+de salud animal (SENASA-MINAE) sobre la aparición de animales con gusaneras                                 57
+para que reciban atención oportuna.
+

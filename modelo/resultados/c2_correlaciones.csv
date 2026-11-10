@@ -1,0 +1,11 @@
+"var1","var2","r","r_abs_mayor_070"
+"arrastre","oni",0.326963041362885,FALSE
+"arrastre","reemergencia",0.257507144179231,FALSE
+"oni","reemergencia",0.110309806418352,FALSE
+"arrastre","aptitud_termica_pob",0.360752818763749,FALSE
+"oni","aptitud_termica_pob",0.10196742752491,FALSE
+"reemergencia","aptitud_termica_pob",0.0845038852747822,FALSE
+"arrastre","sequia_pob",0.252139602701539,FALSE
+"oni","sequia_pob",0.782914665615071,TRUE
+"reemergencia","sequia_pob",0.128154709679948,FALSE
+"aptitud_termica_pob","sequia_pob",0.127480466754114,FALSE

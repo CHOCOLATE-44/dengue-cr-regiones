@@ -1,0 +1,2163 @@
+                            Boletín Epidemiológico N°16 de 2024
+                                     Dirección de Vigilancia de la Salud
+                                             Ministerio de Salud
+                                                              3 de mayo de 2024
+
+
+
+
+                                                         Tabla de contenido
+
+Arbovirosis .......................................................................................................................................... 3
+Malaria ................................................................................................................................................ 8
+Campañas de recolección de llantas y residuos no tradicionales ................................................... 12
+Hepatitis ............................................................................................................................................ 23
+Influenza y otras virosis respiratorias, IRAS y ETI .............................................................. 28
+Miasis por Gusano Barrenador en Humanos ................................................................................... 38
+Enfermedad por COVID-19 ............................................................................................................... 41
+Informe de avance de la Campaña de Vacunación contra Sarampión, Rubeola y
+Paperas (SRP). .............................................................................................................................. 49
+Meningitis. ...................................................................................................................................... 51
+Trastornos mentales por sustancias psicoactivas (tabaco, alcohol, múltiples drogas) ................. 55
+Infecciones de transmisión sexual ................................................................................................... 64
+
+
+
+
+                                                                                                                                                             1
+2
+                                            Arbovirosis
+                                                                              Adriana Alfaro Nájera
+                                                                            Unidad de Epidemiología
+                                                                     Dirección de Vigilancia de Salud
+                                                                        adriana.alfaro@misalud.go.cr
+
+                                                                        Adrián Montero Bonilla
+                                                  Unidad de Seguimiento de Indicadores en Salud
+                                                              Dirección de Vigilancia de la Salud
+                                                                  adrian.montero@misalud.go.cr
+
+
+Dengue
+Se reportan a la semana epidemiológica 16 a través de notificación obligatoria por
+boleta VE01, 7531 casos de dengue. Como se observa en la tabla 1 la región Central
+Norte presenta el mayor número de casos notificados 1931 y la región Pacífico
+Central presenta la tasa más alta 274,6/100.000 habitantes.
+Tabla 1. Costa Rica: Casos y tasas de dengue por región a la semana
+epidemiológica 16, 2024 (Tasa por 100.000 hab.)
+
+         Región                 Casos              Tasa
+Central Norte                    1931              184,6
+Central Sur                      1346              87,3
+Pacífico Central                 880               274,6
+Huetar Norte                     736               273,9
+Chorotega                        703               148,9
+Huetar Caribe                    653               136,3
+Brunca                           614               162,8
+Central Este                     532               92,5
+Occidente                        136               59,4
+Total                            7531              141,8
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+
+
+                                                                                                        3
+Gráfico 1. Casos de dengue a la semana 16, Costa Rica 2023-2024
+
+                  2000
+                  1800
+                  1600
+Número de casos
+
+
+
+
+                  1400
+                  1200
+                  1000
+                  800
+                  600
+                  400
+                  200
+                      0
+                           1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51
+                                                          Semana epidemiológica   Año 2023      Año 2024
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+
+
+Gráfico 2. Canal endémico dengue, Costa Rica 2024.
+
+                                                      Costa Rica, Ministerio de Salud
+                          1100                      Canal Endémico Dengue 1994-2018
+                          1000
+                          900
+                          800
+                          700
+                  Casos
+
+
+
+
+                          600
+                          500
+                          400
+                          300
+                          200
+                          100
+                             0
+                                 1   3   5   7   9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51
+                                                                Semana Epidemiológica
+                                                                                  IC Sup     Media    IC Inf
+                                                                                                               42024
+Fuente: Dirección de Vigilancia de la Salud.
+En la tabla 2 se pueden observar los casos notificados por provincia para el año
+2024, estando la provincia de Alajuela en primer lugar.
+Tabla 2. Casos y tasas de dengue por provincia y según sexo, Costa Rica 2024
+
+Provincia            Total casos             Tasa         Femenino         Tasa    Masculino   Tasa
+Alajuela                2490                 230,4          1273           238,3     1217      222,7
+San José                1406                 82,4           746            86,9      660       77,8
+Puntarenas              1328                 254,5          653            254,6     675       254,3
+Guanacaste               685                 165,0          345            168,5     340       161,5
+Limón                    653                 136,3          307            131,8     346       140,6
+Cartago                  534                 96,5           283            102,6     251       90,4
+Heredia                  435                 78,7           227            82,4      208       75,1
+Total                   7531                 141,8          3834           145,3     3697      138,4
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+
+
+Los cantones con mayor número de casos acumulados a la semana epidemiológica
+16 son: Alajuela 1024 casos, San Carlos 686 casos, San José 599 casos,
+Puntarenas 397 casos y Buenos Aires 364 casos.
+
+
+
+
+                                                                                               5
+Tabla 3. Cantones prioritarios en casos de dengue a la semana epidemiológica
+16, Costa Rica 2024
+
+        Cantón              Casos        Tasa
+201: Alajuela                  1024        311,1
+210: San Carlos                 686        323,8
+101: San José                   599        168,2
+601: Puntarenas                 397        269,1
+603: Buenos Aires               364        648,9
+305: Turrialba                  347        473,0
+205: Atenas                     241        792,7
+410: Sarapiquí                  202        218,8
+602: Esparza                    199        494,3
+109: Santa Ana                  196        310,2
+103: Desamparados               175         69,1
+507: Abangares                  167        813,2
+703: Siquirres                  163        245,6
+706: Guácimo                    161        273,5
+702: Pococí                     160        100,9
+203: Grecia                     139        141,2
+110: Alajuelita                 131        131,5
+506: Cañas                       89        261,2
+610: Corredores                  83        152,3
+209: Orotina                     82        327,0
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+Reporte de pacientes hospitalizados con dengue en la CCSS del 19/02/2024 al 29/04/2024.
+
+
+
+
+                                                                                          6
+Fuente: Bioestadistica, CCSS.
+El CNRV-Inciensa confirma al 18 de abril 404 serotipos identificados por la técnica de PCR
+
+
+
+Tabla 5. Serotipos de dengue confirmados por PCR al 18 de abril del 2024
+
+                 Muestras
+Serotipo        confirmadas
+DENV 1              102
+DENV 2               25
+DENV 3              163
+DENV4               114
+Total               404
+Fuente: CNRV-Inciensa
+
+
+
+
+Se notifican a la semana epidemiológica 16:
+
+   •   *Chikungunya 12 casos: 1 en la región brunca, 3 en la región central este,
+       3 en la central sur, 2 en la chorotega y 2 en la central norte y 1 en la pacífico.
+
+   •   *Zika 17 casos: 3 en la región central este, 7 en la central sur, 1 en la central
+       norte, 1 en la huetar caribe, 2 en la chorotega y 3 en el pacífico central.
+
+
+*Ninguno ha sido confirmado por PCR.
+
+
+
+
+                                                                                             7
+                                                      Malaria
+                                                                                        Isaac Vargas Roldán
+                                                                            Dirección de Vigilancia de la Salud
+                                                                                  isaac.vargas@misalud.go.cr
+
+
+
+     I.        Antecedentes.
+
+El comportamiento de la malaria en el país ha tenido un crecimiento de casos sostenido desde el
+año 2017.
+A la semana epidemiológica 16 del año 2024 se reportan 139 casos de malaria, de los cuales 101
+son casos autóctonos, 29 importados, 5 pendiente de clasificación y 4 recaídas.
+
+Gráfico 1: Total de casos autóctonos de Malaria por año, desde 2010 a SE 16, 2024.
+
+
+
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+
+                                                                                                                  8
+         I.        Inventario de focos.
+
+    En el país se cuenta con un inventario de focos en constante actualización, actualmente se tienen
+    10 focos activos, 7 focos residuales inactivos y 4 focos eliminados.
+    Figura 1. Costa Rica: Inventario de focos de Malaria a Enero 2024.
+
+
+
+
+    Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+
+II.Clasificación del estado histórico y actual de los focos maláricos.
+     Para que un foco sea declarado como residual inactivo debe transcurrir 1 año sin aparición de casos
+     autóctonos, paralelamente, para que un foco sea declarado como eliminado, debe transcurrir 3 años
+     sin transmisión autóctona del parásito.
+
+                                                                                                               9
+Tabla 1. Listado de Focos de malaria a Enero 2024, por provincia, cantón y estado actual del foco.
+                      Provincia          Cantón          Nombre del Foco                Estado
+                       Alajuela         San Carlos              Pital              Residual inactivo
+                       Alajuela         San Carlos          Boca Arenal                  Activo
+                       Alajuela         San Carlos           Monterrey                 Eliminado
+                                                           Crucitas - Llano
+                       Alajuela         San Carlos             Verde                     Activo
+                       Alajuela         Los Chiles           Los Chiles                  Activo
+                       Alajuela         San Carlos             Jicarito            Residual inactivo
+                       Alajuela         Río Cuarto           Rìo Cuarto                  Activo
+                     Guanacaste          La Cruz               La Cruz             Residual inactivo
+                     Guanacaste           Cañas                Cañas               Residual inactivo
+                       Heredia          Sarapiquí             Sarapiquí                Eliminado
+                        Limón             Matina               Matina                    Activo
+                        Limón             Limón                Limón                     Activo
+                        Limón            Siquirres       Barra de Parismina        Residual inactivo
+                        Limón             Pococí              El Jardín                  Activo
+                        Limón            Siquirres         Barra Pacuare                 Activo
+                     Puntarenas           Roble               El Roble                 Eliminado
+                     Puntarenas        Puntarenas             Chomes                   Eliminado
+                     Puntarenas          Quepos                Quepos                    Activo
+                     Puntarenas           Parrita              Parrita             Residual inactivo
+                     Puntarenas            Osa                La Leona             Residual inactivo
+                    Puntarenas             Osa               Bahia Uvita                  Activo
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+III.Comportamiento.
+Hasta la cuarta semana epidemiológica, se han registrado un total de 134 casos de malaria a nivel
+nacional (Referirse a tabla 2). Los casos autóctonos están vinculados al foco de Limón, Jardín y Los
+Chiles, presentando la especie parasitante P. falciparum. Por otro lado, los casos importados se
+relacionan con la ruta migratoria a través de la Selva del Darién, Panamá, y presentan la especie
+parasitante P. vivax. Este hallazgo sugiere la posible introducción de la enfermedad desde otras
+regiones, lo cual destaca la importancia de mantener una vigilancia epidemiológica efectiva y adoptar
+medidas de control tanto a nivel local como internacional.
+
+
+
+
+                                                                                                           10
+Gráfico 2. Casos reportados según clasificación epidemiológica a semana 16, 2024.
+
+
+
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+
+                                                                                                           11
+       Campañas de recolección de llantas y residuos no
+                       tradicionales
+                                                          Pamela Monestel Zuñiga
+                                                           Unidad de Epidemiología
+                                                  Dirección de Vigilancia de la Salud
+                                                   pamela.monestel@misalud.go.cr
+
+
+
+El siguiente informe responde a las campañas de recolección de llantas y residuos
+no tradicionales realizadas de marzo al 11 abril del 2024. Estas campañas son un
+esfuerzo para disminuir los criaderos del mosquito Aedes aegypti que produce
+Dengue, Zika y Chikungunya.
+
+I Recolección de llantas
+Las Regiones que reportaron la ejecución de las campañas de recolección de llantas
+fueron: Brunca, Huetar Norte, Central Sur y Central Norte. Las demás Regiones
+realizaron acciones generales de coordinación para la programación de las futuras
+campañas. A excepción de la Región Chorotega que no enviaron los datos de los
+indicadores de recolección.
+
+1.    Región Brunca
+
+Las DARS que realizaron campaña de recolección de llantas fueron: Coto Brus y
+Osa. Las llantas recolectadas en OSA fueron 30 y Coto Brus 198 para un total de
+228 llantas.
+
+
+
+
+                                                                                        12
+Cuadro N 1.
+Región Brunca Campaña de recolección de llantas marzo- abril
+2024
+                                     Medios de
+                                     comunicaci Empresas o
+        Comunidad                                                    Númer
+                      Fecha       de ón utilizados actores con
+        es objetivo                                                  o total
+DARS                  realización de para             quien
+        de        las                                                de
+                      la campaña     divulgación coordinó la
+        campañas                                                     llantas
+                                     de            la campaña
+                                     campaña
+        Palmar Norte                                  Consejo
+        Palmar Sur                                    Nacional de
+        Sierpe                                        Producción
+        Piedras                                       Municipalida
+        Blancas                      Facebook y d
+        Cortes        15 y 22 de grupos           de Empresa
+Osa     Coronado      marzo 2024     Whats      app privadas       a
+        Ojochal                      comunitarios los
+        Dominical                                     distribuidore
+        Dominicalito                                  s de llantas y
+        Uvita                                         talleres    de
+        Bahía                                         reparación     30
+                                     Redes
+                                     sociales de la
+                                     municipalida
+        Sabalito
+                                     d, Comité de
+        Centro
+                                     Bandera Azul
+        Mirador                                       Municipalida
+                                     Ecologica de
+        Barrio      5                                 d-ARS       de
+Coto                  22 de marzo la
+        Esquinas                                      Coto Brus y
+Brus                  2024           Ceiba,Centro
+        La      Ceiba                                 Coopesabalit
+                                     s educativos
+        Antiguo                                       o
+                                     de          las
+        Colegio
+                                     comunidades
+        Sereno
+                                     mediante
+                                     material físico
+                                     y digital                        198
+Fuente: Ministerio de Salud, Unidad de Epidemiología
+
+
+
+
+                                                                               13
+2.    Región Central Norte
+
+De esta región se realizaron campañas en las DARS de: Poás, Belén- Flores y San
+Rafael Barva. Se recolectaron un total de 148 llantas. La DARS de Belén indica que
+a pesar de los esfuerzos de comunicación de la campaña solo se recolectaron 4
+llantas. En el cuadro N°2 se detallan la recolección por DARS.
+
+
+
+
+                                                                                     14
+Cuadro N 2.
+Región Central Norte: Campaña de recolección de llantas marzo- abril 2024
+
+                                   Medios       de
+                                   comunicació
+                        Fecha de                    Empresas          o Númer
+       Comunidades                 n utilizados
+                        realizació                  actores con quien o total
+DARS objetivo de las               para
+                        n de la                     coordinó         la de
+       campañas                    divulgación
+                        campaña                     campaña             llantas
+                                   de            la
+                                   campaña
+                                   Correos
+                                   actores
+                                   claves,
+                                   instituciones y
+        Carrillos                  comercio de
+       San        Pedro            la comunidad,
+                        11 marzo                    Fundellantas/
+       San         Juan            redes
+Poas                    al      14                  Centro de acopio
+        Sabana                     sociales, chat
+                        marzo                       municipal.
+       Redonda                     de
+       San Rafael                  Whatspp,
+                                   socialización
+                                   en      ampara
+                                   municipal,
+                                   perifoneo.                           80
+                                   Redes
+                                   sociales de la
+                                   Municipalidad
+                                   de       Flores,
+                                   Facebook del
+       Llorente, San               Ministerio de
+                                                    FUNDELLANTAS
+Belén Joaquín,          6 de abril Salud,
+                                                    STAR         CARS 4
+Flores Barrantes, La 2024          Grupos       de
+                                                    CEMPRO
+       Ribera                      Whatsapp
+                                   participados
+                                   de
+                                   funcionarios
+                                   del Minsiterio
+                                   de Salud
+San
+                                   redes            Municipalidad de
+Rafae
+       San Josecito     23/3/2024 sociales          San         Rafael- 64
+l
+                                   perifoneo        Fundellantas                  15
+Barva
+Fuente: Ministerio de Salud, Unidad de Epidemiología
+3. Región Huetar Norte
+
+  Las DARS de Aguas Zarcas, Florencia y Santa Rosa realizaron campañas de
+  recolección de llantas para la recolección de un total de 1428 llantas. En el cuadro
+  N°3 se describen los detalles de dichas campañas.
+
+   Cuadro N 3.
+   Huetar Norte: Campaña de recolección de llantas marzo- abril 2024
+                                           Medios de
+                                           comunicaci Empresas
+                   Comunidad Fecha de                                    Númer
+                                           ón utilizados o actores
+                   es objetivo realizació                                o total
+   DARS                                    para            con quien
+                   de         las n de la                                de
+                                           divulgación coordinó la
+                   campañas       campaña                                llantas
+                                           de           la campaña
+                                           campaña
+                                                           Llantas del
+                                                           Pacífico,
+                                                           Automecani
+                                                           x, Daytona,
+                   Santa      Fe,          Wattsapp,
+                                                           ASA        5,
+                   Altamira, La            Correo
+                                                           ASADA Las
+                   Gloria, Los             Electrónico,
+                                                           Delicias,
+   ARS      Aguas Chiles,         18 al 20 grupos      de
+                                                           ASADA Los 31
+   Zarcas          Aguas          de marzo base
+                                                           Chiles, ADI
+                   Zarcas,                 comunitaria,
+                                                           Santa Fe,
+                   Cerro Cortés,           ASADAS,
+                                                           ADI
+                   Las Delicias,           ADIS.
+                                                           Altamira,
+                                                           ASADA
+                                                           Aguas
+                                                           Zarcas
+                                           Grupos
+                                           comunales
+                                           mediante
+                   Casco                   Facebook y Fundellanta
+                   central y Zeta          WhatsApp,       s,
+                                  11-19
+   ARS Florencia   Trece de La             redes           Gasolinera 498
+                                  marzo
+                   Fortuna de              sociales de La
+                   San Carlos              actores         Cristalina
+                                           sociales
+                                           clave, correo
+                                           electrónico                                   16
+               Kooper,
+               Corazon de
+               Jesus,
+               Hebron, San
+               Jorge, Bella
+               Vista,     La
+               Cajeta, Boca                                          Cruz Roja,
+                                         Whatsapp                y
+               de     Arenal, 11 y 12 de                             INDER     y
+ARS Santa Rosa                           redes                                   899
+               Terron         abril 2024                             ADI Boca de
+                                         sociales
+               Colorado y El                                         Arenal
+               PRecario
+               Buenos
+               Aires, Santa
+               Rosa Centro
+               y sus barrios,
+               Santa María,
+Fuente: Ministerio de Salud, Unidad de Epidemiología
+
+4.      Región Central Sur
+
+La DARS de Hatillo reportó la realización de una campaña con la recolección de
+106 llantas y las comunidades objetivo fueron: Todos los Hatillos, Sagrada Familia,
+15 de setiembre y 25 e julio.
+Balance general
+En total se recolectaron 1804 llantas y la distribución por Región queda de la
+siguiente manera: Región Brunca 228 llantas, Región Central Norte 148 llantas y
+Huetar Norte 1428 llantas; lo que ejemplifica el éxito de las campañas realizadas en
+esta última región.
+
+Cuadro N 4.
+Número total de llantas recolectadas
+
+
+                    Región de Ministerio de            Numero de llantas
+                            Salud                        recolectadas
+                  Región Brunca                               228
+                  Región Central Norte                        148
+                  Región Central Sur                          106
+                  Región Huetar Norte                        1428
+                  Total                                                1910            17
+Fuente: Ministerio de Salud, Unidad de Epidemiología
+ Algunas DARS mencionan la necesidad de crear una estrategia de comunicación
+ para la sensibilización a la población de la importancia de la entrega de llantas a
+ lugares autorizados, dado que a veces las personas les dan varios usos a las llantas
+ lo que dificulta su entrega.
+ Se contactará a la DARS de Belén Flores para saber que apoyos requieren para
+ mejorar la recolección de llantas paras las siguientes campañas.
+
+
+ II Recolección de residuos no tradicionales
+ Las DARS que realizaron campaña de recolección de residuos no tradicionales
+ fueron: Brunca, Central Este, Central Norte y Huetar Norte.
+
+1.     Región Brunca
+
+ En esta región se realizaron dos campañas de recolección en las de: DARS de Coto
+ Brus que recupero 3 toneladas y DARS Osa con la recuperación 10 toneladas
+
+ 2.    Región Central Este
+
+ En esta región reportaron realizar campaña de recolección de residuos no
+ tradicionales las DARS de Oreamuno y de Paraíso. En el caso de Paraíso se reportó
+ la recolección de 12,7 toneladas de residuos; DARS de Oreamuno reportó 6,4
+ toneladas Para un total de 19,1 toneladas
+ En el cuadro N°2 se pueden observar los tipos de criaderos de Dengue que se
+ previnieron con esta recolección y las comunidades participantes.
+
+
+
+
+                                                                                        18
+Cuadro N 5.
+Región Central Este Campaña de recolección de residuos no tradicionales
+                                           Medios de
+                                          comunicaci Empresa u
+                                                ón      actores
+                 Comunidades                                        Tipo de  Toneladas
+                                           utilizados   sociales
+     DARS        objetivo de las                                   criaderos recolectad
+                                              para     con quien
+                   campañas                                       eliminados     as
+                                          divulgación coordinó la
+                                              de la    campaña
+                                           campaña
+                                                 plásticos,
+                                                 residuos
+                                                 de
+                                                 materiales
+                        Facebook Municipalid de
+                        de        la ad- Área de construcci
+        Llanos de Santa Municipalid Recolecció ón,
+Paraíso Lucía           ad           n           botellas    12,7
+                        Facebook SOLIRSA,
+                        de        la Municipalid Llantas y
+Oreamu San    Rafael de Municipalid ad        de electrónico
+no      Oreamuno        ad           Oreamuno s               6,4
+Fuente: Ministerio de Salud, Unidad de Epidemiología
+
+
+3.      Región Central Norte
+
+Las DARS de Atenas reportó 4,3 toneladas, DARS Belén Flores 91,35 toneladas,
+DARS San Rafael- Barva 318,2 toneladas y Poás 36,2 toneladas. En total la
+Región reporta la reportaron la realización recolección de 489,05 toneladas de
+residuos no tradicionales.
+
+
+
+
+                                                                                          19
+Cuadro N 6.
+Región Central Norte: Campaña de recolección de residuos no tradicionales
+marzo-abril 2024
+                        Medios de
+                       comunicaci
+             Comunida
+                             ón    Empresa u actores Tipo de Tonelada
+                des
+                        utilizados sociales con quien criaderos     s
+   DARS       objetivo
+                           para       coordinó la     eliminado recolecta
+               de las
+                       divulgació       campaña           s        das
+             campañas
+                         n de la
+                        campaña
+             Santa
+             Eulalia,
+                                                          Toda
+             Los
+                                                          clase de
+             Ángeles,
+                                                          residuos
+             La presa,
+                                                          electrónic
+             El Brasil,
+                                                          os y no
+             Atenas
+                                                          tradiciona
+             Este     y Redes
+                                                          les
+             Atenas     sociales,   Municipalidad    de
+Atenas       Oeste      Brochure    Atenas                             43,3
+                                                        Toda
+             San                                        clase de
+             Joaquín,                                   residuos
+                                  Municipalidad      de
+Belén Flores Barrantes,                                 electrónic 91,35
+                                  Flores
+             y Llorente                                 os y no
+             de Flores No                               tradiciona
+                        mencionan                       les
+                                                        bebedero
+                       Correos
+                                                        s       de
+                       actores
+                                                        animales,
+                       claves,
+                                                        canoas,
+                       institucione
+                                                        macestro
+                       s           y
+                                                        s , tarros
+                       comercio
+             Sabana                                     y    latas,
+                       de         la
+             redonda                 Municipalidad   de colchone
+Poás                   comunidad                                    36,2
+             Carrillo                Poás               s
+                       ,      redes
+             San Pedro                                  artefactos
+                       sociales,
+                                                        en
+                       chat      de
+                                                        desuso ,
+                       whatspp,
+                                                        canoas,
+                       socializaci
+                       ón        en
+                                                        chatarra,             20
+                                                        tarros y
+                       mampara
+                                                        lata
+                                   municipal,              sillones,
+                                   perifoneo.              colchone
+                                                           s,
+                                                           inodoros,
+                                                           muebles
+                                                           en
+                                                           desuso,
+                                                           etc.
+
+           Distritos
+           de      San
+           Pablo,
+           Buena
+                                                        Diversos
+           Vista, San
+                                                        tipos de
+           José de la
+                                                        residuos
+           Montaña,
+                                                        no
+           San                     Municipalidad
+                                                        tradiciona
+           Pedro,      Perifoneo y comunidad
+                                                        les tanto
+San Rafael Puente      redes       Rafaeleña          y
+                                                        en casas 318,2
+Barva      Salas,      sociales,   empresas
+                                                        de
+           Barva       volanteo    contratadas      del
+                                                        habitació
+           centro,                 servicio residuos
+                                                        n como
+           San
+                                                        en
+           Roque,Sa
+                                                        comercio
+           nta Lucía,
+                                                        s
+           Los
+           Angeles,
+           San
+           Josecito
+Total                                                              489,05
+Fuente: Ministerio de Salud, Unidad de Epidemiología
+
+
+
+
+4.      Región Occidente
+
+La DARS de Valverde Vega reportó la recolección de 21,3 toneladas de residuos no
+tradicionales en todo el cantón previniendo así los criaderos del Dengue como
+macetero, comedores de animales entre otros.
+
+Balance general
+Se recolectaron en total 546,69 toneladas de residuos no tradicionales que
+                                                                                    21
+pueden significar la eliminación de cientos posibles criaderos del mosquito Aedes
+aegypti. En el cuadro N°7 se puede observar la cantidad total de toneladas
+recolectadas por región.
+Cuadro N 7.
+Total de toneladas de residuos no tradicionales recolectados. marzo-abril
+2024
+
+                  Región             Toneladas recolectadas
+                  Brunca             13
+                  Central Este       19,1
+                  Central Norte      489,05
+                  Occidente          21,3
+                  Huetar Norte       7,24
+                  Total              549,69
+                  Fuente: Ministerio de Salud, Unidad de Epidemiología
+
+
+
+
+                                                                             22
+                                   Hepatitis
+                        Datos a la semana epidemiológica 16
+
+                                                                   Ted Alpízar Calvo
+                                                   Dirección de Vigilancia de la Salud
+                                                            Unidad de Epidemiología
+                                                           ted.alpizar@misalud.go.cr
+
+                                                              Paola Pérez Espinosa
+                                                   Dirección de Vigilancia de la Salud
+                                                               Unidad de Indicadores
+                                                          Paola.perez@misalud.go.cr
+
+
+
+A continuación, se presentan los datos actualizados para Hepatitis A, que según
+establece el Decreto de Vigilancia de la Salud No. 40556-S del 07 julio del 2017
+como un evento del grupo B de notificación obligatoria al Ministerio de Salud que
+comprende los eventos cuya notificación es en boleta individual; periodicidad de
+reporte semanal.
+
+El virus de la hepatitis A ha estado clásicamente relacionado con el mecanismo de
+transmisión fecal-oral, característica de países endémicos. La hepatitis aguda por
+virus de hepatitis A usualmente sigue un curso corto, benigno y autolimitado sin
+ocasionar una hepatitis crónica, sin embargo, en algunos casos puede manifestarse
+mediante formas atípicas.
+
+Su incidencia es mayor en áreas geográficas con deficientes condiciones higiénico
+sanitarias. Se presenta tanto en forma esporádica como epidémica. Los casos de
+hepatitis A son siempre agudos y no requieren tratamiento con antivirales.
+
+El tratamiento de la hepatitis A aguda casi siempre es de apoyo, incluido el
+mantenimiento de la hidratación, seguimiento ambulatorio y monitoreo de las
+transaminasas hepáticas, según sea necesario.
+
+
+
+
+                                                                                         23
+En las primeras 16 semanas epidemiológicas del año 2024, se han registrado un
+total de 178 casos confirmados de hepatitis A, distribuidos en el territorio nacional.
+
+Gráfico 1.
+Costa Rica: Distribución de casos confirmados de Hepatitis A año 2018-2024
+
+
+                     2500                                                     2309
+
+
+                     2000
+                                    1584
+                     1500
+             Casos
+
+
+
+
+                            1080
+                     1000
+
+
+                     500                       407
+                                                          154       118                  178
+
+                       0
+                            2018    2019       2020      2021       2022      2023       2024
+                                                         Años
+
+
+  Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud. Información proporcionada por
+  establecimientos de CCSS. Datos preliminares a la semana 16.
+
+
+
+
+                                                                                                 24
+Gráfico 2.
+Costa Rica: Casos confirmados de Hepatitis A según Provincia 2018-2024
+
+
+
+
+           1600
+
+           1400
+
+           1200
+
+           1000
+        Casos
+
+
+
+
+                800
+
+                600
+
+                400
+
+                200                84
+                                                10         33            14          32          5            0
+                 0
+                         San Jose        Alajuela    Cartago       Heredia    Guanacaste Puntarenas   Limon
+                                                                Provincias
+                      casos 2018        casos 2019    casos 2020      casos 2021
+                      casos 2022        casos 2023    casos 2024
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud. Información proporcionada por establecimientos
+de CCSS. Datos preliminares a la semana 16.
+
+
+A la semana epidemiológica 16 del presente año, la provincia de San José reporta
+la mayor cantidad de casos confirmados, para un total de 84 casos, distribuidos la
+mayor parte en los cantones de San José y Goicochea, en segundo Cartago con 33
+y tercer lugar Guanacaste con 32 casos confirmados, en cuarto lugar Heredia con
+14, Alajuela con 10, Puntarenas con 5 y Limón sin casos.
+
+
+
+
+                                                                                                                  25
+Gráfico 2
+Costa Rica: Casos confirmados de Hepatitis A según grupos de edad,
+números absolutos, año 2024
+
+                                                                                       TOTAL
+
+            GRUPOS DE EDAD                                                              178
+
+                                          de Menos de 1 año                              0
+                                          de 1 a 9 años                                  10
+                                          de 10 a 19 años                                34
+                                          de 20 a 64 años                               126
+                                          65 años y más                                  8
+                                          Ignorados                                      0
+
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud. Información proporcionada por establecimientos
+de CCSS.
+
+Gráfico 2
+Costa Rica: Casos confirmados                              por    Hepatitis       A,    según         Semana
+epidemiológica año 2024
+
+
+
+
+                   30
+
+                   25
+
+                   20
+           Casos
+
+
+
+
+                   15
+
+                   10
+
+                   5
+
+                   0
+                        1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53
+                                                 Semana Epidemiológica
+
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud. Información proporcionada por establecimientos
+de CCSS. Datos preliminares a la semana 16.                                                                     26
+El grupo de edad con mayor cantidad de casos es de los 20 a los 64 años, para un
+total de 126 casos. La menor cantidad de casos se da en niños menores de 9 años
+y adultos mayores de 65 años.
+
+Entre los principales síntomas encontrados en los casos reportados son: Dolor
+abdominal, náuseas, malestar general, vómitos, fiebre, ictericia, coluria y diarrea.
+
+Desde el Ministerio de Salud se han realizado las investigaciones para los casos
+diagnosticados y sus contactos, estableciendo las recomendaciones y medidas
+sanitarias necesarias para evitar el contagio y salvaguardar la salud de la población,
+además, se mantiene una vigilancia activa y seguimiento de casos en coordinación
+con otras instancias en salud.
+
+Bibliografía.
+1. https://www.who.int/es/news-room/fact-sheets/detail/hepatitis-a
+2. Abutaleb A, Kottilil S. Hepatitis A: Epidemiology, Natural History, Unusual Clinical
+Manifestations, and Prevention. Gastroenterol Clin North Am.junio de 2020;49(2):191-9.
+3. https://www.paho.org/es/noticias/17-11-2021-higiene-manos-salva-vidas
+
+
+
+
+                                                                                          27
+  Influenza y otras virosis respiratorias, IRAS y ETI
+                                                             Roberto Arroba Tijerino
+                                                             Unidad de Epidemiología
+                                                    Dirección de Vigilancia de la Salud
+                                                         roberto.arroba@misalud.go.cr
+
+                                                            Mayra Quesada Sanabria
+                                                       Unidad de Indicadores en Salud
+                                                    Dirección de Vigilancia de la Salud
+                                                        mayra.quesada@misalud.go.cr
+
+                                                              Rafael Chaves Méndez
+                                                       Unidad de Indicadores en Salud
+                                                    Dirección de Vigilancia de la Salud
+                                                         rafael.chaves@misalud.go.cr
+
+
+A continuación, se presentan los datos para la semana epidemiológica 16 de las
+Infecciones Respiratorias Agudas Graves (IRAG) y los datos de la semana
+epidemiológica 16 de las Infecciones Respiratorias Agudas Superiores (IRAS) y la
+Enfermedad Tipo Influenza (ETI), que según establece el Decreto de Vigilancia de
+la Salud No. 40556-S del 07 julio del 2017, son eventos de notificación obligatoria
+al Ministerio de Salud.
+
+En relación con la notificación de las IRAG, por medio de la boleta VE-01, se cuenta
+con los siguientes datos:
+   - Los casos acumulados a la semana epidemiológica (SE) 16 son un total de
+       2343.
+   -   Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en los niños entre 1 y 4 años y en los mayores de 75 años.
+
+
+Gráfico 1.
+Distribución de casos de IRAG por grupos por edad quinquenal, notificados a la semana
+epidemiológica 14, en Costa Rica, 2024.
+
+
+
+
+                                                                                          28
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Según el gráfico 1, se puede apreciar como en los extremos de la vida (niños entre
+1 y 4 años y mayores de 75 años es donde más casos se han presentado).
+En el gráfico 2, se observa la tasa de incidencia de IRAG según las regiones del
+Ministerio de Salud a la semana 16, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Brunca, la Huetar Norte, Central Occidente y Central
+Este; las regiones con menor incidencia corresponden a la Pacífico Central, Central
+Sur, Central Norte, Chorotega y Huetar Caribe.
+
+Gráfico 2.
+Tasa de IRAG según región del Ministerio de Salud, acumulada a la semana epidemiológica
+16 del 2024, en Costa Rica.
+
+
+
+
+                                                                                          29
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+Por semana epidemiológica, los casos reportados por boleta VE-01 de IRAG, en
+Costa Rica son los que se presentan en el gráfico 3; se puede observar cómo los
+casos se han comportado a lo largo de estas primeras 16 semanas epidemiológicas
+del año 2024.
+
+Gráfico 3.
+Distribución de casos reportados por boleta VE-01 de IRAG a la semana epidemiológica 16,
+en Costa Rica, 2024.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+
+En relación con el histórico de casos de IRAG, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2024, esto se puede apreciar en el gráfico 4.
+
+Gráfico 4.
+Distribución histórica de casos de IRAG por semana epidemiológica, en Costa Rica entre los
+años 2018 y 2024.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.                       30
+En cuanto a la notificación de IRAS, por medio de la boleta VE02, se tiene la
+siguiente información, tal como se muestra en el gráfico 5:
+   - Los casos acumulados a la semana epidemiológica (SE) 15 son 325214.
+   - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en menores entre 1 y 4 años y niños entre 5 y 9 años.
+
+Gráfico 5.
+Distribución de casos de IRAS por grupos por edad quinquenal, notificados a la semana
+epidemiológica 16, en Costa Rica, 2024.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+
+En el gráfico 6, se observa la tasa de incidencia de IRAS según las regiones del
+Ministerio de Salud a la semana 16, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Pacífico Central, seguido de la Chorotega, la Central
+Norte, la Huetar Norte, la Central Este y Huetar Caribe. Las regiones con menor
+incidencia corresponden a la región Central Sur, la Brunca y la Central Occidente.
+
+
+
+
+                                                                                        31
+Gráfico 6.
+Tasa de IRAS según región del Ministerio de Salud, acumulada a la semana epidemiológica
+16 del 2024, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de IRAS, en
+Costa Rica son los que se presentan en el gráfico 7; se puede observar cómo los
+casos se han comportado a lo largo de estas primeras 16 semanas epidemiológicas
+del año 2024.
+
+
+
+
+                                                                                          32
+Gráfico 7.
+Distribución de casos reportados por boleta VE-02 de IRAS a la semana epidemiológica 16,
+en Costa Rica, 2024.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En relación con el histórico de casos de IRAS, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2024, esto se puede apreciar en el gráfico 8.
+Gráfico 8.
+
+Distribución histórica de casos de IRAS por semana epidemiológica, en Costa Rica entre los
+años 2018 y 2024.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+En cuanto a la notificación de ETI, por medio de la boleta VE02, se tiene la siguiente
+información, tal como se muestra en el gráfico 9:
+                                                                                             33
+    -    Los casos acumulados a la semana epidemiológica (SE) 15 son n= 5906.
+    -    Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+         distribución en personas entre 20 y 24 años y las personas entre 35 y 39
+         años.
+
+
+Gráfico 9.
+Distribución de casos de ETI por grupos por edad quinquenal, notificados a la semana
+epidemiológica 16, en Costa Rica, 2024.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En el gráfico 10, se observa el número de casos de ETI por tasa, según las regiones
+del Ministerio de Salud a la semana 16, presentando mayor cantidad de casos en la
+región Huetar Norte, la Pacífico Central y la Central Occidente. Las regiones con
+menor incidencia corresponden a la región Central Norte, Huetar Caribe, Central
+Sur, Chorotega, Central Este y la Brunca.
+
+
+
+
+                                                                                       34
+Gráfico 10.
+Tasa de ETI por provincia, acumulada a la semana epidemiológica 16 del 2024, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de ETI, en
+Costa Rica son los que se presentan en el gráfico 11; se puede observar cómo se
+han distribuido los casos en el año 2024.
+Gráfico 11.
+
+Distribución de casos reportados por boleta VE-02 de ETI a la semana epidemiológica 15, en
+Costa Rica, 2024.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+                                                                                              35
+En relación con el histórico de casos de ETI, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2024, esto se puede apreciar en el gráfico 12.
+
+Gráfico 12.
+
+Distribución histórica de casos de ETI por semana epidemiológica, en Costa Rica entre los
+años 2018 y 2024.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Según se observa en el gráfico 13, en relación con los principales virus respiratorios
+circulantes de la semana 13 a la 17, se puede ver como en el país el virus del Covid-
+19 es el que más está circulando, seguido por el Rinovirus, y finalmente, la influenza
+estacional (influenza A) está en tercer lugar de circulación.
+Gráfico 13.
+Distribución de virus circulantes de la semana epidemiológica 13 a la 17 en Costa Rica, 2024.
+
+
+
+
+Fuente: Matriz de Resultados de Laboratorio CCSS, Subárea de Vigilancia Epidemiológica 2024.    36
+En relación con los datos específicos del Hospital Nacional de Niños, la situación
+que se ha presentado en las primeras 18 semanas del año 2024 es la siguiente:
+Al 29 de abril del año en curso, correspondiente a la semana 18, el total de pacientes
+respiratorios hospitalizados son 56, lo que corresponde a un porcentaje de
+ocupación del 78%.
+Gráfico 14.
+
+Total de pacientes hospitalizados y en emergencias en las primeras 18 semanas del año 2024,
+Hospital Nacional de Niños.
+
+
+
+
+Fuente: Hospital Nacional de Niños, 2024.
+
+Como observaciones finales se puede indicar lo siguiente:
+    -    IRAG en las 16 primeras semanas epidemiológicas del año, se han reportado
+         2343 casos.
+    -    IRAS con 325214 casos en la semana 16.
+    -    ETI con 5906 casos reportados en la semana 16.
+    -    Actualmente, la ocupación de camas respiratorias en el HNN es de un 78%
+         (hay 56 pacientes con patologías respiratorias).
+    -    En SE-17, el virus de la Influenza A, seguido del Rinovirus y en tercer lugar
+         circula el Covid-19.
+
+
+
+
+                                                                                              37
+           Miasis por Gusano Barrenador en Humanos
+                                                   María José Lafuente González
+                                                         Unidad de Epidemiología
+                                                Dirección de Vigilancia de la Salud
+                                                     maria.lafuente@misalud.go.cr
+
+
+La Miasis por Gusano Barrenador es una enfermedad parasitaria causada por la
+fase de larva o gusano de la mosca Cochliomyia hominivorax. La lista de huéspedes
+es muy amplia, va desde los seres humanos a todos los animales de sangre
+caliente. Entre las especies más afectadas destacan los bovinos, equinos, ovinos,
+caprinos, porcinos, aves (gallinas, pavos, gansos), gatos, perros, así como una
+amplia variedad de especies de animales silvestres.
+
+Las larvas infestan la parte más profunda de los tejidos vivos, como la piel, las
+cavidades: ocular, oral, nasal, genital y otras; provocando lesiones graves, la
+pérdida de la función del órgano parasitado y la muerte especialmente en los
+animales recién nacidos. Si las heridas no son tratadas, dan origen a nuevas
+reinfestaciones por esta u otras especies de moscas; así como, de infecciones
+bacterianas secundarias retardando la cicatrización de las heridas.
+
+Los síntomas en los humanos pueden incluir: dolor localizado, prurito intenso,
+malestar en la zona afectada, eritema cutáneo, nódulos cutáneos, herida que
+supura, presencia de una protuberancia dolorosa en la piel con sensación que se
+mueve, que puede ser un indicador inicial de la infestación. Con frecuencia, se
+pueden observar huevecillos y/o larvas visibles en la herida. Si no se recibe
+tratamiento, las infestaciones por gusano barrenador pueden causar la muerte en
+cualquier especie, debido a un shock tóxico o a la penetración en las vísceras y/o
+las cavidades.
+
+Esta miasis es una enfermedad de notificación obligatoria, de acuerdo a lo indicado
+en el Lineamiento Nacional para la Vigilancia de Miasis por Gusano Barrenador en
+Humanos, el cual se encuentra en la página del Ministerio de Salud en el siguiente
+enlace:       https://www.ministeriodesalud.go.cr/index.php/biblioteca-de-archivos-
+left/documentos-ministerio-de-salud/vigilancia-de-la-salud/normas-protocolos-
+guias-y-lineamientos/zoonosis/gusano-barrenador/7439-version-01-05-de-abril-de-
+2024-lineamiento-nacional-para-la-vigilancia-de-miasis-por-gusano-barrenador-en-
+humanos/file
+
+En el país se han reportado tres casos confirmados de Miasis por Gusano
+Barrenador en Humanos, por lo que es de suma importancia mantener la                  38
+prevención y control de esta enfermedad, dado que la mosca continúa circulando
+en el territorio nacional y existe la declaratoria de Emergencia Nacional Sanitaria
+Epidémica para el control y erradicación de la enfermedad de Gusano Barrenador
+(Cochliomyia hominivorax).
+
+Las acciones de concientización en el manejo y tratamiento adecuado de las
+heridas, tanto en humanos como en animales, el reporte de casos a las entidades
+competentes y la vigilancia constante de personas en riesgo: niños, adultos mayores
+en centros de ancianos, personas en albergues o en condición de calle, entre otros;
+permitirá evitar un incremento en el número de casos.
+
+A continuación, se puede observar el registro de número de casos de gusano
+barrenador por especie reportado por el Servicio Nacional de Salud Animal –
+SENASA, mediante el Boletín Epidemiológico Extraordinario Gusano Barrenador 02
+de mayo del 2024.
+
+                                 Figura 1.
+              Número de casos de gusano barrenador por especie.
+
+
+
+
+      Figura 1. Tomado de https://www.senasa.go.cr/informacion/centro-de-
+      informacion/informacion/estado-sanitario/boletines-epidemiologicos-
+      extraordinarios
+
+
+Referencias:
+Nicola Enkerlin, W, Schloegl, N, Vargas-Terán, M. (octubre del 2020) Todo lo que
+       usted debe saber sobre la erradicación de la miasis causada por el Gusano      39
+       Barrenador del Ganado. https://www.iaea.org/sites/default/files/21/03/todo-
+       lo-que-usted-debe-saber-del-gbg.pdf
+Organización Mundial de Sanidad Animal. (s.f.). Miasis por Cochliomyia
+       hominivorax. https://www.woah.org/es/enfermedad/miasis-por-cochliomyia-
+       hominivorax/
+Servicio Nacional de Salud Animal - SENASA. (mayo del 2024) Boletín
+       Epidemiológico Extraordinario Gusano Barrenador 02 de mayo del 2024.
+       https://www.senasa.go.cr/informacion/centro-de-
+       informacion/informacion/estado-sanitario/boletines-epidemiologicos-
+       extraordinarios
+
+
+
+
+                                                                                 40
+                                  Enfermedad por COVID-19
+                                                                                   Roberto Arroba Tijerino
+                                                                                   Unidad de Epidemiología
+                                                                          Dirección de Vigilancia de la Salud
+                                                                               roberto.arroba@misalud.go.cr
+
+                                                                                    Susan Castrillo Montiel
+                                                                             Unidad de Indicadores en Salud
+                                                                          Dirección de Vigilancia de la Salud
+                                                                               susan.castrillo@misalud.go.cr
+
+
+
+
+Para la enfermedad por COVID-19, durante la semana epidemiológica 17 (que
+abarca del 21 al 27 de abril del 2024), se reportaron un total de 109 casos
+confirmados, lo que representa un aumento del 19.78% con respecto a la SE-16 del
+año 2024.
+Gráfico 1.
+Costa Rica: Casos COVID-19, según semana epidemiológica año 2023-2024.
+
+
+
+
+Datos sujetos para actualizar
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS/Dirección de Vigilancia de Salud, Ministerio de Salud, 2024.
+                                                                                                                  41
+Con respecto a las hospitalizaciones en la semana epidemiológica 17, se reportó un
+promedio total de 11 hospitalizados, misma cantidad con respecto a la SE-16 del
+año 2024.
+Gráfico 2.
+Costa Rica: Promedio total de hospitalizados en salón y Unidad de Cuidados
+Intensivos, según reporte semanal año 2023-2024.
+
+
+
+
+Fuente: Área de Estadística en Salud, CCSS/Ministerio de Salud, Dirección de Vigilancia de Salud 2023-2024.
+
+Por cantón, en el siguiente mapa se observa el número de casos notificados por
+covid-19 en el año 2024, a la SE-17.
+Mapa 1: Número de casos reportados de covid-19, por cantón, en Costa Rica, en el
+año 2024.
+
+
+
+
+                                                                                                              42
+Por otra parte, en el siguiente mapa se observa la tasa de incidencia de covid-19
+por cantón, acumulada a la SE-17 del presente año.
+
+
+
+
+                                                                                    43
+Mapa 2: Tasa de incidencia de covid-19 por cantón, acumulada a la SE-17, Costa
+Rica, 2024.
+
+
+
+
+En relación con el comportamiento de las personas fallecidas asociadas a COVID-
+19, durante la semana epidemiológica 17, hubo 0 fallecidos, al igual que lo ocurrido
+en la SE-16; es la primera vez que se contabilizan dos semanas seguidas sin
+fallecidos en el año 2024; sin embargo, es importante indicar que estos son datos
+preliminares sujetos a la revisión de los casos.
+
+
+
+
+                                                                                       44
+Gráfico 3.
+Costa Rica: Personas Fallecidas asociadas a COVID-19, según reporte semanal
+año 2023-2024.
+
+
+
+
+Fuente: Área de Estadística en Salud, C.C.S.S. / Ministerio de Salud, Dirección de Vigilancia de Salud 2024.
+
+Para la semana epidemiológica 17, no se reportó ningún brote asociado a COVID-
+19.
+Gráfico 4
+Brotes de covid-19, por semana epidemiológica en Costa Rica, 2024.
+
+
+
+
+                                                                                                               45
+Fuente: Dirección de Vigilancia de la Salud, Ministerio de Salud, 2024.
+En relación con la vacunación contra covid-19, el último reporte de la CCSS muestra la
+siguiente información.
+Gráfico 5. Coberturas de vacunación contra covid-19, Costa Rica, 2024.
+
+
+
+
+Se ha alcanzado una cobertura de vacunación con primeras dosis del 90.1%, con segundas
+dosis, de un 84.7%, con terceras dosis, la cobertura alcanzada es del 57.9%, y donde hay
+más rezago es con las cuartas y quintas dosis, con una cobertura alcanzada del 24% y del
+6.6%, respectivamente. Los datos se encuentran actualizados al 1 de abril del 2024, según
+información revisada al 2 de mayo del 2024.
+Variantes genómicas
+Según el informe interactivo de INCIENSA revisado el 2 de mayo del 2024, se reporta la
+circulación del sublinaje de Variante Ómicron (VOC); a la semana 13, se reporta la
+circulación de la variante de interés (VOI), JN.1. (Instituto Costarricense de Investigación y
+Enseñanza en Nutrición y Salud, 2024).
+
+
+
+
+                                                                                                 46
+Gráfico 6
+Costa Rica: Proporción de linaje identificados, para Variante de Preocupación (VOC)
+Ómicron, Variante de Interés (VOI) y Variantes Bajo Monitoreo (VUM), por semana
+epidemiológica SE 1 a 52 del 2024.
+
+
+
+
+Fuente: Sistema de Información de INCIENSA, CCSS, DATOS Facultad de Microbiología UCR, actualizado en
+informe interactivo en Vigilancia genómica SARS-CoV-2 al 25 de abril del 2024.
+
+En relación con la proporción relativa de sublinaje de VOC Ómicron, VOI y VUM, durante el
+periodo comprendido entre las SE-1 y 52 del año 2024, se tiene la siguiente información.
+
+
+
+
+                                                                                                        47
+               Costa Rica: Proporción relativa de Sublinaje de VOC
+               Ómicron, VOI y VUM, durante el periodo de las semanas
+               epidemiológicas 1 a 13 del 2024
+
+
+
+                Linaje Pangolin                 Cantidad                      %
+
+                BA.2.86*                             20                    4.82
+                EG.5                                 10                    2.41
+                XBB.1.16                             1                     0.24
+                JN.1*                               379                   91.33
+                XBB.1.5.                             4                     0.96
+                XBB.1.9.1                            1                     0.24
+                Total                               415                   100.00
+
+Fuente: INCIENSA, informe interactivos de variantes genómicas, corte 2 de mayo 2024.
+
+
+
+
+Bibliografía
+
+
+
+
+Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud. (2024). Informe
+         Interactivo de Vigilancia genómica del virus SARS-CoV-2 semana 13. San José: INCIENSA.
+         Obtenido de https://inciensa.sa.cr/Vigilancia%20genomica%20SARS-CoV-2.aspx
+
+
+
+
+                                                                                                  48
+ Informe de avance de la Campaña de Vacunación
+    contra Sarampión, Rubeola y Paperas (SRP).
+                                                 José Aaron Agüero Zumbado
+                                                       Unidad de Epidemiología
+                                              Dirección de Vigilancia de la Salud
+                                                   aaron.aguero@misalud.go.cr
+
+
+
+
+Informe de la Campaña de Vacunación Extraordinaria de Sarampión Rubéola
+y Parotiditis (SRP).
+
+
+Se informa por parte de la CCSS que la cobertura de la Campaña de Vacunación
+SRP a se han aplicado 392 572 dosis de vacunas, representa un porcentaje de
+69,9% de cobertura nacional.
+
+Figura 1. Distribución de vacunas SRP según avance semanal acumulado,
+Costa Rica, 2024.
+
+
+
+
+Fuente: CCSS
+                                                                                    49
+Solo la provincia de Cartago y Puntarenas supera el 75%, alcanzando la meta
+establecida.
+Las últimas semanas los antivacunas han generado una serie de Acciones en contra
+de la campaña como lo correos a todos los directores de escuelas del país, audios
+y mensajes de texto, que han afectado el proceso, fortaleciendo la negativa de los
+padres de familia, de educadores y directores.
+
+Figura 2. Cobertura de Vacunación dosis adicional de SRP según Provincia,
+Costa Rica, 2024.
+
+
+
+
+Fuente: CCSS
+
+
+
+
+                                                                                     50
+                                           Meningitis.
+                                                                       Franchina Murillo Picado
+                                                                        Unidad de Epidemiología
+                                                               Dirección de Vigilancia de la Salud
+
+                                                                          Paola Pérez Espinoza
+                                                                           Unidad de Indicadores
+                                                               Dirección de Vigilancia de la Salud
+
+                                                                         Susan Castrillo Montiel
+                                                               Dirección de Vigilancia de la Salud
+
+
+
+
+La meningitis es una peligrosa inflamación de las membranas que rodean el cerebro y la médula
+espinal, causada principalmente por una infección bacteriana o vírica.
+La meningitis causada por una infección bacteriana suele ser la más grave que provoca unas
+250,000 muertes por año y posibles epidemias de rápida propagación. Ocasiona la muerte de una
+de cada diez personas infectadas, en su mayoría niños y jóvenes y deja a una de cada cinco con
+discapacidades duraderas, como convulsiones, pérdida de audición y visión, daños neurológicos y
+deterioro cognitivo.
+
+
+En Costa Rica, a la semana epidemiológica 16 del año 2024, se han reportado 64 casos por boleta
+VE01 por sospecha de meningitis y en el año 2023 se reportaron 63 casos de meningitis respecto
+a la misma semana, lo que representa un aumento del 1,59%.
+
+
+De las 9 Regiones del Ministerio de Salud, la región Central Sur notificó el 35,9% de los casos
+(23/64), seguido de la Central Este con un 20,6% (13/64) y la Central Norte con el 15,5% (10/64)
+respectivamente.
+
+
+
+
+                                                                                                     51
+        Figura 1. Costa Rica: Casos sospechosos de meningitis comparativa año 2023 con el
+        2024 a la semana epidemiológica 16, 2024
+
+
+
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+
+
+En la siguiente tabla se enlista los cantones con las tasas más altas de meningitis. El cantón de
+Zarcero de la provincia de Alajuela es el que tiene la tasa más alta de 6,7 seguido están los
+cantones de Alvarado de Cartago con 6,3 y San Rafael de Heredia con 5,2.
+
+
+
+
+                                                                                                    52
+Figura 2. Costa Rica: Casos notificados de meningitis según cantón, acumulado a la
+semana epidemiológica 16 de 2024 (tasa p/100.000 habitantes)
+
+       Cantón                   Casos          Tasa
+       Zarcero                  1              6,7
+       Alvarado                 1              6,3
+       San Rafael               3              5,2
+       Cartago                  6              3,6
+       Upala                    2              3,5
+       Mora                     1              3,2
+       Aserri                   2              3,1
+       Moravia                  2              3,1
+       Paraiso                  2              3,1
+       Escazu                   2              2,8
+       Turrialba                2              2,7
+       Santa Cruz               2              2,7
+       Pococi                   4              2,5
+       Tibas                    2              2,3
+       Palmares                 1              2,3
+       Santa Barbara            1              2,2
+       Perez Zeledon            3              2,1
+       Desamparados             5              2,0
+       Alajuelita               2              2,0
+       Buenos Aires             1              1,8
+       San Jose                 6              1,7
+       La Union                 2              1,7
+       Nicoya                   1              1,7
+       Heredia                  2              1,3
+       Sarapiqui                1              1,1
+       Grecia                   1              1,0
+       San Carlos               2              0,9
+       Goicoechea               1              0,7
+       Puntarenas               1              0,7
+       Alajuela                 2              0,6
+
+      Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+                                                                                     53
+La figura 3, indica la distribución de los casos sospechosos según sexo y grupo de edad. El 59,37%
+de los casos (38/64) son hombres y el 40,62% (26/64) son mujeres.
+El 17,18% de los casos (11/64) son menores de 1 años.
+
+
+
+Figura 3. Costa Rica: Casos sospechosos por meningitis según sexo y edad, a la semana
+                               epidemiológica 16, 2024
+
+
+
+
+       Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+
+
+
+                                                                                                     54
+   Trastornos mentales por sustancias psicoactivas (tabaco,
+                 alcohol, múltiples drogas)
+
+                                                              Gloriela Brenes Murillo
+                                                            Unidad de Epidemiología
+                                                     Dirección Vigilancia de la Salud
+                                                      gloriela.brenes@misalud.go.cr
+
+
+                                                               Siany Cordero Abarca
+                                        Unidad Seguimiento de Indicadores en Salud
+                                                     Dirección Vigilancia de la Salud
+                                                       siany.cordero@misalud.go.cr
+
+
+
+
+                                   Introducción
+Según la OMS las sustancias psicoactivas “los son diversos compuestos naturales
+o sintéticos, que actúan sobre el sistema nervioso generando alteraciones en las
+funciones que regulan pensamientos, emociones y el comportamiento”.
+Existen regulaciones para el control y fiscalización del uso de estas sustancias, ya
+sea para uso recreativo, como el alcohol o el tabaco; para uso farmacológico, como
+los tranquilizantes o analgésicos opiáceos, o de uso general, como los solventes
+industriales. Hay un grupo cuyo uso es considerado ilícito y solo autorizado con fines
+médicos o de investigación, como el caso de la cocaína y sus derivados. El uso de
+sustancias psicoactivas siempre implica un grado de riesgo de sufrir consecuencias
+adversas sobre distintos órganos y sistemas, las cuales pueden darse en el corto
+plazo, como en el caso de la intoxicación, la cual incrementa el riesgo de lesiones      55
+por accidentes o agresión, así como conductas sexuales en condiciones inseguras.
+El uso repetido y prolongado en el tiempo de estas sustancias, favorece el desarrollo
+de trastornos por dependencia, que son trastornos crónicos y recurrentes,
+caracterizados por necesidad intensa de la sustancia y pérdida de la capacidad de
+controlar su consumo, a pesar de consecuencias adversas en el estado de salud o
+en el funcionamiento interpersonal, familiar, académico, laboral o legal.
+Según la Organización Mundial de la Salud (OMS), el consumo de tabaco es la
+primera causa de muerte evitable. Existe una prevalencia de fumadores más
+elevada entre personas con algún problema de salud mental: depresión, ansiedad,
+esquizofrenia, trastorno bipolar y otras adicciones (alcohol, drogas, etc.). A un mayor
+número de diagnósticos o a mayor gravedad del trastorno mental, mayor nivel de
+dependencia al tabaco. Se ha demostrado que el nivel de motivación de estas
+personas para dejar de fumar es igual al de la población general fumadora y que
+pueden conseguirlo.
+El consumo de alcohol está asociado con una variedad de consecuencias sociales
+y de salud, incluidos trastornos por consumo de alcohol, lesiones, varias formas de
+cáncer, enfermedades hepáticas crónicas, enfermedades cardíacas, dependencia
+del alcohol y violencia doméstica.
+Los trastornos por consumo de drogas se encuentran entre las principales causas
+de mortalidad prematura y discapacidad en la Región de las Américas. Con una
+tendencia creciente, a nivel regional los trastornos por consumo de drogas se
+ubicaron como la novena causa de años de vida ajustados en función de la
+discapacidad (AVAD), la quinta causa de años vividos con discapacidad (AVD) y la
+decimoquinta causa de años de vida perdidos (AVP).) debido a la mortalidad
+prematura.
+Los trastornos causados por el uso de drogas son una pesada carga para los
+individuos y las comunidades. El uso continuo de drogas puede causar dependencia
+y discapacidad además de problemas crónicos de salud. Las consecuencias
+sociales del uso perjudicial o dependencia de drogas llegan mucho más allá del            56
+usuario y afectan a sus familias y a otras relaciones personales
+Las cargas sociales y para la salud impuestas no son inevitables: los problemas
+causados por las drogas y la dependencia de estas son prevenibles y tratables.
+La notificación de estos trastornos mentales por abuso de esas tres sustancias en
+particular, permiten visibilizar el comportamiento del uso de estas drogas en la
+población, los datos son generados a partir de la atención en los diferentes servicios
+de salud públicos y privados del país son evidentemente factores de riesgo para la
+salud por lo que se incorporaron en la notificación individual obligatoria que reciben
+el Ministerio de Salud en la boleta VE01 para su procesamiento y posterior
+divulgación lo que permite conocer la tendencia de estos eventos y sus diferentes
+variables, con miras a plantear acciones de prevención en forma intra e
+interinstitucional.
+Al respecto la información que se presenta corresponde a los casos notificados
+hasta la semana epidemiológica N° 45, 2023.
+
+
+  Trastornos mentales por consumo de sustancias psicoactivas
+                      (tabaco, alcohol, múltiples drogas)
+Durante ese período, el acumulado de casos de trastornos mentales por consumo
+de esas tres sustancias psicoactivas fue de 1267, de los cuales tabaco presentó la
+mayor cantidad de casos siendo de 872, lo cual equivale a una tasa de 16,6, con
+relación a los trastornos por consumo de alcohol estos fueron 333 casos para una
+tasa de 6,3 y los trastornos por múltiples drogas (opiáceos, cannabis, cocaína,
+sedantes o hipnóticos entre otros) el total acumulado fue de 62 lo cual implica una
+tasa de 1,2.
+A continuación, se ilustra lo indicado mediante un gráfico de porcentaje en donde
+claramente el tabaco es la causa de trastorno mental por consumo con más
+trascendencia.
+Gráfico 1. Costa Rica: porcentaje de casos notificados de trastornos mentales por
+consumo de sustancia psicoactivas. SE45, 2023                                            57
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud.
+Con relación al sexo, el gráfico 2, indica que los hombres son el grupo de población
+que presenta una incidencia de trastornos mentales según el consumo de las
+sustancias psicoactivas, siendo tabaco la que aporta la tasa más alta en ambos
+sexos.
+
+
+
+
+                                                                                       58
+Gráfico 2. Costa Rica: porcentaje de casos notificados de trastornos mentales por
+consumo de sustancia psicoactivas según sexo, SE45, 2023
+
+
+
+
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud
+En cuanto a los grupos de edad, el gráfico 3, indica que la tasa más alta de
+trastornos mentales por consumo de tabaco es el grupo de 65 a 69 años
+posiblemente fumadores por muchos años, estos obtuvieron una tasa de 45,6 muy
+por encima de la tasa nacional en ese momento que era de 16,6, en cuanto a
+trastornos mentales asociados al consumo de alcohol la tasa más alta se situó en
+los grupos de población con edades entre los 50 a 54 años siendo de 12,6, y los
+trastornos relacionados por consumo de otras drogas la tasa más alta corresponde
+a grupos entre los 35 a 39 años la cual fue de 2,3.
+
+
+
+
+                                                                                    59
+Gráfico 3. Costa Rica: incidencia de casos notificados de trastornos mentales por
+consumo de sustancias psicoactivas, según grupos de edad, SE45, 2023 (tasa por
+100 000 habitantes)
+
+
+
+
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud
+Los datos relacionados con las provincias indican que los trastornos mentales con
+las tasas más altas por uso y consumo de tabaco lo posee Cartago a SE indicada,
+le sigue Heredia y en una tercera posición Guanacaste con tasas de 29,3 y 14,6
+respectivamente. Con relación a los efectos en trastornos mentales por consumo de
+alcohol, y como evidencia el gráfico, Guanacaste ocupa la primera posición, le sigue
+Puntarenas y posteriormente Alajuela cada una con tasas de 10,1 y 8,0
+respectivamente.
+
+
+
+
+                                                                                       60
+Gráfico 4. Costa Rica: casos notificados de trastornos mentales por consumo de
+sustancias psicoactivas según provincia, SE45, 2023 (tasa por 100 000 habitantes)
+
+
+
+
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud.
+
+
+En cuanto al comportamiento del evento según el cantón, la siguiente tabla brinda
+la información por tasas y totales, en donde destaca Paraíso de Cartago (tabaco),
+así como Cañas en Guanacaste (alcohol y múltiples drogas).
+
+
+
+
+                                                                                    61
+Tabla 1. Costa Rica: casos notificados de casos notificados de trastornos mentales
+por consumo de sustancias psicoactivas según cantón SE45, 2023 (tasa por 100
+000 habitantes)
+            Tabaco                         Alcohol                 Múltiples drogas
+   Cantón         Tasa     N°     Cantón      Tasa         N°   Cantón    Tasa       N°
+ Tibás            139,7   121    Tibás       4,6       4        Tibás     3,5    3
+ Naranjo          55,7    28     Naranjo     33,8      17       Naranjo 2,2      1
+ Paraíso          342,7   220    Turrialba 5,4         4        Paraíso   10,9   7
+ Santo            153,4   77     San         25,1      6        San       9,5    3
+ Domingo                         Isidro                         Pablo
+ Nandayure        126,4   15     Cañas       118,6     40       Cañas     50,4   17
+ Puntarenas 39,8          58     Esparza     35,2      14       Parrita   23,4   5
+ Pococí           53      83     Pococí      21,1      33
+(*) La provincia de Limón no reportó datos de cantones
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud
+
+
+El gráfico siguiente presenta la tendencia en el acumulado según las semanas
+epidemiológicas, en donde claramente el tabaco presenta la tendencia más alta
+durante casi todo el período, aunque disminuye en las últimas semanas, y se cruza
+con el alcohol.
+
+
+
+
+                                                                                          62
+Gráfico 5. Costa Rica: tendencia de casos notificados de trastornos mentales por consumo
+de sustancias psicoactivas según semana epidemiológica, SE45, 2023
+
+
+
+
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud
+
+
+
+
+                                                                                           63
+                           Infecciones de transmisión sexual
+                                                                          Pamela
+                                                              Domínguez Saavedra
+                                                                        Unidad de
+                                                                    Epidemiología
+                                                   pamela.dominguez@misalud.go.cr
+
+                                                          Stephany Alvarado Garita
+                                                                         Unidad de
+                                                               Indicadores en Salud
+                                                   stephany.alvarado@misalud.go.cr
+
+
+La vigilancia de las Infecciones de Transmisión Sexual (ITS), es relevante para la
+salud pública del país. Por ende, se describen las siguientes enfermedades: Sífilis
+en Todas sus Formas, Gonorrea y Herpes Virus, en el periodo de las semanas
+epidemiológicas 1 a 16 que corresponde del 1 de enero al 20 de abril del 2024.
+
+Sífilis en Todas sus Formas
+Es una enfermedad causada por una espiroqueta llamada Treponema pallidum,
+exclusiva del ser humano, se transmite por vía sexual a través de mucosas y
+verticalmente. Puede generar un problema de salud pública e incluso puede
+provocar el fallecimiento en algunas personas. Sífilis en Todas sus Formas ha
+presentado el siguiente comportamiento epidemiológico en las primeras 16
+semanas del 2024, con un reporte de 718 casos con una tasa de 13.5 por 100.000
+habitantes. En el gráfico 1 se presenta los datos según reporte semanal.
+
+
+
+
+                                                                                      64
+Gráfico 1.
+Costa Rica: Casos notificados por Sífilis en Todas sus Formas, según
+reporte semanal por fecha de inicio de síntomas año 2024
+
+      70
+                                                       60   60
+      60                            56    57
+                                                54
+               52
+                              49                                 50   49
+      50            45   46
+                                                                                     40
+      40
+   Casos
+
+
+
+
+                                                                           29             29
+      30                                                                        25
+
+      20                                                                                       17
+
+      10
+
+           0
+               1    2    3    4     5     6     7       8   9 10      11   12   13   14   15   16
+                                                       Semanas
+
+Nota: Datos preliminares sujetos a ser actualizados.
+Fuente: Dirección de Vigilancia de la Salud, 2024.
+
+El comportamiento de Sífilis en Todas sus Formas, en estas primeras 16 semanas
+del año continúa con predominio en los hombres con 58.64%(n=421), con una tasa
+de 15.8 por 100.000 habitantes, el comportamiento en las mujeres es del 41.36%
+(n=297) con una tasa de 11.3 por 100.000 habitantes.
+En el cuadro 1, se presentan los casos por grupos de edad observándose un
+predominio en las personas adultas, de 20 a 64 años con mayor cantidad de casos
+(n=602), seguidos por los mayores de 65 años (n=64), luego el grupo de 15 a 19
+años (n=33), los menores de 1 años con (n=19), el grupo de 1 a 14 años sin reporte
+de casos.
+
+
+
+                                                                                                    65
+Cuadro 1
+Costa Rica: Casos notificados por Sífilis en todas sus Formas, según
+Grupos de edad quinquenal. Número absoluto y Tasas
+Tasa por 100.000 habitantes, en semana 1 a 16 del 2024
+Grupos de edad                            Casos       Tasa
+de Menos de 1 año                           19        27,9
+de 1 a 4 años                                0         0,0
+de 5 a 9 años                                0         0,0
+de 10 a 14 años                              0         0,0
+de 15 a 19 años                             33         8,7
+de 20 a 24 años                            102        25,7
+de 25 a 29 años                            115        26,9
+de 30 a 34 años                            106        23,7
+de 35 a 39 años                             75        16,6
+de 40 a 44 años                             56        14,2
+de 45 a 49 años                             50        15,0
+de 50 a 54 años                             31        10,7
+de 55 a 59 años                             35        12,5
+de 60 a 64 años                             32        12,5
+de 65 a 69 años                             20         9,7
+de 70 a 74 años                             20        13,7
+75 años y más                               24        11,9
+Fuente: Dirección de Vigilancia de la Salud, 2024.
+
+En el cuadro 2, se presentan el comportamiento de esta enfermedad a nivel de las
+siete provincias en el país, siendo San José la provincia con más casos reportados,
+seguido por Limón, Alajuela y Heredia.
+
+
+
+
+                                                                                      66
+Cuadro 2
+Costa Rica: Casos notificados por Sífilis en todas sus Formas,
+Según provincia de procedencia. Número absoluto y Tasas
+Tasa por 100.000 habitantes, en semana 1 a 16 del 2024
+
+Provincias                              Nº           Tasa
+San José                               256           15,0
+Alajuela                                92            8,5
+Cartago                                 50            9,0
+Heredia                                 91           16,5
+Guanacaste                              56           13,5
+Puntarenas                              70           13,4
+Limón                                  103           21,5
+Fuente: Dirección de Vigilancia de la Salud, 2024.
+
+
+Gonorrea
+En las primeras 16 semanas del 2024, se han notificado 334 casos con una tasa de
+6.3 por 100.000 habitantes. El gráfico 2 presenta el comportamiento según semana
+epidemiológica.
+
+
+
+
+                                                                                   67
+Gráfico 2
+Costa Rica: Casos notificados por Gonorrea, según reporte semanal por fecha
+de inicio de síntomas, en año 2024
+
+          35
+               30
+          30                                             28
+                                             27
+                                                              26
+                                25                                                     25
+          25                           23
+                    22
+                                                    21                       21
+                                                                   20
+          20              18
+                                                                        17
+  Casos
+
+
+
+
+                                                                                                  14
+          15
+                                                                                  11
+          10
+                                                                                            6
+          5
+
+          0
+               1    2      3     4     5      6     7    8    9   10 11      12   13   14   15    16
+                                                  Semana epidemiológica
+
+Nota: Datos preliminares sujetos a ser actualizados.
+Fuente: Dirección de Vigilancia de la Salud, 2024.
+
+
+Gonorrea, en las primeras 16 semanas del año 2024, ha presentado un predominio
+en los hombres con 87.72%(n=293), con una tasa de 11.0 por 100.000 habitantes,
+en las mujeres con 12.28% (n=41) con una tasa de 1.6 por 100.000 habitantes.
+
+En el cuadro 3, se presentan los casos por grupos de edad, con predominio en los
+adultos de 20 a 64 años con mayor cantidad de casos reportados (n=281), seguidos
+por el grupo de 15 a 19 años (n=41), luego los mayores de 65 años con (n=9), los
+menores de 1 año con (n=3) y el grupo de 1 a 14 años no portan casos.
+
+
+
+
+                                                                                                 68
+Cuadro 3
+Costa Rica: Casos notificados por Gonorrea, según
+Grupos de edad quinquenal. Número absoluto y Tasas
+Tasa por 100.000 habitantes, en semana 1 a 16 del 2024
+
+    Grupos de edad                   Casos           Tasa
+      Menos 1 año                       3             4,4
+         1a4                            0             0,0
+         5a9                            0             0,0
+       10 a 14                          0             0,0
+       15 a 19                          41            10,9
+       20 a 24                          92            23,2
+       25 a 29                          60            14,0
+       30 a 34                          47            10,5
+        35 a 39                         34            7,5
+       40 a 44                          20            5,1
+       45 a 49                          10            3,0
+       50 a 54                          8             2,8
+       55 a 59                          6             2,1
+       60 a 64                          4             1,6
+        65 a 69                         5             2,4
+       70 a 74                          3             2,1
+       Más 75 años                      1             0,5
+Fuente: Dirección de Vigilancia de la Salud, 2024
+
+En el cuadro 4, se presenta el comportamiento de Gonorrea en las siete provincias
+siendo San José, Puntarenas, Alajuela y Limón con mayor cantidad de casos
+reportados.
+
+
+
+
+                                                                                    69
+Cuadro 4
+Costa Rica: Casos notificados por Gonorrea, según provincia
+de procedencia. Número absoluto y tasas. Tasa por 100.000 habitantes,
+en semana 1 a 16 del 2024
+Provincias                                  Casos         Tasa
+San José                                      132          7,7
+Alajuela                                       39          3,6
+Cartago                                        28          5,1
+Heredia                                        31          5,6
+Guanacaste                                     15          3,6
+Puntarenas                                     56          10,7
+Limón                                          33          6,9
+Fuente: Dirección de Vigilancia de la Salud, 2024
+
+
+
+
+Herpes Virus
+
+El Herpes Virus es otra de las Infección de transmisión sexual que se presentan en
+el país, en las primeras 16 semanas se han notificado un total de 170 casos con
+una tasa de 3.2 por 100.000 habitantes. El gráfico 3 presenta el comportamiento
+según reporte semanal.
+
+
+
+
+                                                                                     70
+Gráfico 3
+Costa Rica: Casos notificados por Herpes virus, según reporte semanal por
+fecha de inicio de síntomas, en año 2024
+
+           20
+                          18
+           18        17        17
+                                                               16
+           16
+           14   13
+           12
+                                                                    10                  10
+   Casos
+
+
+
+
+           10                         9                    9             9         9
+                                                       8                      8
+           8
+                                            6                                                6
+           6                                       5
+           4
+           2
+           0
+                1    2    3     4     5     6      7   8    9 10 11      12   13   14   15   16
+                                                Semana epidemiológica
+
+Nota: Datos preliminares sujetos a ser actualizados.
+Fuente: Dirección de Vigilancia de la Salud, 2024.
+
+
+
+El comportamiento del Herpes Virus, en las primeras 16 semanas del año en curso
+presenta un predominio en las mujeres con el 58.24%(n=99), con una tasa de 3.8
+por 100.000 habitantes, los hombres con 41.76% (n=71) con una tasa de 2.7 por
+100.000 habitantes.
+
+En el cuadro 5, se presentan los casos por grupos de edad, siendo los adultos de
+20 a 64 años con mayor cantidad de casos (n=137), seguidos por el grupo de 15 a
+19 años (n=23), luego los mayores de 65 años (n=9) y el grupo de 10 a 14 años
+(n=1), los menores de 1 a 9 años no reportan casos.
+
+
+                                                                                              71
+Cuadro 5
+Costa Rica: Casos notificados por Herpes Virus, según
+Grupos de edad quinquenal. Número absoluto y Tasas
+Tasa por 100.000 habitantes, en semana 1 a 16 del 2024
+       Grupos de edad                       Casos            Tasa
+         Menos 1 año                           0              0,0
+            1a4                                0              0,0
+            5a9                                0              0,0
+           10 a 14                             1              0,3
+           15 a 19                             23             6,1
+           20 a 24                             33             8,3
+           25 a 29                             20             4,7
+           30 a 34                             24             5,4
+           35 a 39                             11             2,4
+           40 a 44                             15             3,8
+           45 a 49                             8              2,4
+           50 a 54                             15             5,2
+           55 a 59                             4              1,4
+           60 a 64                             7              2,7
+           65 a 69                             6              2,9
+           70 a 74                             1              0,7
+         Más 75 años                           2              1,0
+Fuente: Dirección de Vigilancia de la Salud, 2024.
+
+
+En el cuadro 6, se presentan el comportamiento del Herpes Virus, según provincias
+presentando a San José, Alajuela, Puntarenas y Heredia con mayor cantidad de
+casos notificados.
+
+
+
+
+                                                                                    72
+Cuadro 6
+Costa Rica: Casos notificados de Herpes Virus
+Según Provincias de procedencia, números absolutos y tasas.
+(Tasa p/100.000 habitantes), semanas 1 a 16 del año 2024
+Provincias                                   Casos    Tasa
+San José                                      70       4,1
+Alajuela                                      39       3,6
+Cartago                                        9       1,6
+Heredia                                       16       2,9
+Guanacaste                                     4       1,0
+Puntarenas                                    18       3,4
+Limón                                         14       2,9
+Fuente: Dirección de Vigilancia de la Salud, 2024.
+
+
+
+
+                                                              73
+

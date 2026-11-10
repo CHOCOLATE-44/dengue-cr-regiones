@@ -1,0 +1,66 @@
+"anio_prueba","k","terminos","deviance_entrenamiento","cv_mse","ee","anios_internos","minimo","elegido_1ee"
+2019,0,"M0",NA,2.07864727410634,0.800169173885679,4,FALSE,FALSE
+2019,1,"M0 + aptitud_termica_pob",459.24675867733,0.517222561832126,0.139878005725932,4,FALSE,TRUE
+2019,2,"M0 + aptitud_termica_pob + arrastre",455.799525709941,0.533666627332826,0.0775436505416168,4,FALSE,FALSE
+2019,3,"M0 + aptitud_termica_pob + arrastre + oni",453.206614686538,0.544750180630921,0.100824350914688,4,FALSE,FALSE
+2019,4,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe",446.048785293839,0.516313142742174,0.174920163668114,4,TRUE,FALSE
+2019,5,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe + inmunidad3_v2",442.641744019562,1.65267098251703,0.954825976386948,4,FALSE,FALSE
+2019,6,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe + inmunidad3_v2 + sequia_pob",441.325045671827,1.89973329723742,0.943395958294109,4,FALSE,FALSE
+2019,7,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe + inmunidad3_v2 + sequia_pob + sequia_pob:chorotega",441.044457097887,3.92803664198897,2.59645656255165,4,FALSE,FALSE
+2019,8,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe + inmunidad3_v2 + sequia_pob + sequia_pob:chorotega + sequia_pob:caribe",440.852439179926,4.61771930042314,2.31226649349228,4,FALSE,FALSE
+2020,0,"M0",NA,2.01516739382093,0.512636564280205,5,FALSE,FALSE
+2020,1,"M0 + aptitud_termica_pob",615.013767366586,1.04678616765995,0.36885289126765,5,FALSE,TRUE
+2020,2,"M0 + aptitud_termica_pob + arrastre",609.640520440946,0.898958041944618,0.296970368958824,5,FALSE,FALSE
+2020,3,"M0 + aptitud_termica_pob + arrastre + sequia_pob",605.818277424212,0.899883134134646,0.309233686335961,5,FALSE,FALSE
+2020,4,"M0 + aptitud_termica_pob + arrastre + sequia_pob + sequia_pob:chorotega",602.574899742303,0.851698954626762,0.288732958014792,5,TRUE,FALSE
+2020,5,"M0 + aptitud_termica_pob + arrastre + sequia_pob + sequia_pob:chorotega + sequia_pob:caribe",600.216157756519,0.874747838808766,0.399495572764206,5,FALSE,FALSE
+2020,6,"M0 + aptitud_termica_pob + arrastre + sequia_pob + sequia_pob:chorotega + sequia_pob:caribe + inmunidad3_v2",599.961334129772,1.08825775967092,0.45830050989459,5,FALSE,FALSE
+2020,7,"M0 + aptitud_termica_pob + arrastre + sequia_pob + sequia_pob:chorotega + sequia_pob:caribe + inmunidad3_v2 + oni",598.921388676976,1.79764591860195,0.449492382134823,5,FALSE,FALSE
+2020,8,"M0 + aptitud_termica_pob + arrastre + sequia_pob + sequia_pob:chorotega + sequia_pob:caribe + inmunidad3_v2 + oni + oni:caribe",598.395401351486,2.0953937471527,0.652609107358178,5,FALSE,FALSE
+2021,0,"M0",NA,1.77783689997364,0.426366428195557,6,FALSE,FALSE
+2021,1,"M0 + aptitud_termica_pob",748.213957796401,0.989225897075234,0.288520460924784,6,FALSE,TRUE
+2021,2,"M0 + aptitud_termica_pob + arrastre",742.138511873726,0.855621610791142,0.235227184932764,6,TRUE,FALSE
+2021,3,"M0 + aptitud_termica_pob + arrastre + oni",740.5042663994,1.01389855905688,0.237805572113614,6,FALSE,FALSE
+2021,4,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe",738.244108141841,1.04382988221699,0.261939698789282,6,FALSE,FALSE
+2021,5,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe + inmunidad3_v2",736.584887507818,1.06064514347678,0.233354779814653,6,FALSE,FALSE
+2021,6,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe + inmunidad3_v2 + sequia_pob",736.545489262644,1.1677549057778,0.296578840394749,6,FALSE,FALSE
+2021,7,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe + inmunidad3_v2 + sequia_pob + sequia_pob:chorotega",732.020801842863,1.04972034809805,0.278477647710114,6,FALSE,FALSE
+2021,8,"M0 + aptitud_termica_pob + arrastre + oni + oni:caribe + inmunidad3_v2 + sequia_pob + sequia_pob:chorotega + sequia_pob:caribe",731.986616315331,1.17963416281259,0.338484791958413,6,FALSE,FALSE
+2022,0,"M0",NA,1.85659646493461,0.363010161018273,7,FALSE,FALSE
+2022,1,"M0 + aptitud_termica_pob",891.184169823406,1.38933863470666,0.237554045689279,7,FALSE,TRUE
+2022,2,"M0 + aptitud_termica_pob + arrastre",883.416870459218,1.22368969039836,0.169571703573692,7,TRUE,FALSE
+2022,3,"M0 + aptitud_termica_pob + arrastre + sequia_pob",879.790098272916,1.27473680435901,0.26530038104215,7,FALSE,FALSE
+2022,4,"M0 + aptitud_termica_pob + arrastre + sequia_pob + oni",878.40380496932,1.30821874081193,0.240435600079054,7,FALSE,FALSE
+2022,5,"M0 + aptitud_termica_pob + arrastre + sequia_pob + oni + oni:caribe",877.765182257234,1.2930187161569,0.241413638627709,7,FALSE,FALSE
+2022,6,"M0 + aptitud_termica_pob + arrastre + sequia_pob + oni + oni:caribe + sequia_pob:caribe",876.765743597798,1.42511824884986,0.272724453087979,7,FALSE,FALSE
+2022,7,"M0 + aptitud_termica_pob + arrastre + sequia_pob + oni + oni:caribe + sequia_pob:caribe + inmunidad3_v2",876.226962512752,1.66612551929203,0.255036029827014,7,FALSE,FALSE
+2022,8,"M0 + aptitud_termica_pob + arrastre + sequia_pob + oni + oni:caribe + sequia_pob:caribe + inmunidad3_v2 + sequia_pob:chorotega",876.226905389738,1.80189952858543,0.321485140647775,7,FALSE,FALSE
+2023,0,"M0",NA,1.8124028051649,0.365021639665754,8,FALSE,FALSE
+2023,1,"M0 + arrastre",1013.11223258665,1.25152626972091,0.191795397512178,8,FALSE,FALSE
+2023,2,"M0 + arrastre + aptitud_termica_pob",1004.49062145649,1.1097688920812,0.122065229850016,8,TRUE,TRUE
+2023,3,"M0 + arrastre + aptitud_termica_pob + inmunidad3_v2",1002.99457219488,1.24841247535822,0.145287352426432,8,FALSE,FALSE
+2023,4,"M0 + arrastre + aptitud_termica_pob + inmunidad3_v2 + sequia_pob",1001.68988052952,1.28821951699147,0.181077117973978,8,FALSE,FALSE
+2023,5,"M0 + arrastre + aptitud_termica_pob + inmunidad3_v2 + sequia_pob + oni",1000.87158391073,1.35473010987918,0.15808925876639,8,FALSE,FALSE
+2023,6,"M0 + arrastre + aptitud_termica_pob + inmunidad3_v2 + sequia_pob + oni + oni:caribe",998.363423092892,1.35450723783169,0.16420396649774,8,FALSE,FALSE
+2023,7,"M0 + arrastre + aptitud_termica_pob + inmunidad3_v2 + sequia_pob + oni + oni:caribe + sequia_pob:caribe",995.37848461916,1.45978584796954,0.215185482512652,8,FALSE,FALSE
+2023,8,"M0 + arrastre + aptitud_termica_pob + inmunidad3_v2 + sequia_pob + oni + oni:caribe + sequia_pob:caribe + sequia_pob:chorotega",995.053690626303,1.48638630878811,0.222365924989147,8,FALSE,FALSE
+2024,0,"M0",NA,1.78966160240431,0.317863116226596,9,FALSE,FALSE
+2024,1,"M0 + arrastre",1167.29063831745,1.37757896084563,0.236210425841098,9,FALSE,FALSE
+2024,2,"M0 + arrastre + aptitud_termica_pob",1153.50942799227,1.0946295235314,0.116935205010034,9,FALSE,TRUE
+2024,3,"M0 + arrastre + aptitud_termica_pob + sequia_pob",1149.32230326502,1.08558026519805,0.149594311774197,9,TRUE,FALSE
+2024,4,"M0 + arrastre + aptitud_termica_pob + sequia_pob + reemergencia",1148.19505208323,1.09526069820458,0.139827981859978,9,FALSE,FALSE
+2024,5,"M0 + arrastre + aptitud_termica_pob + sequia_pob + reemergencia + oni",1146.88215112836,1.17318664321933,0.139380856772172,9,FALSE,FALSE
+2024,6,"M0 + arrastre + aptitud_termica_pob + sequia_pob + reemergencia + oni + oni:caribe",1144.91694920957,1.15645168178744,0.13664669594319,9,FALSE,FALSE
+2024,7,"M0 + arrastre + aptitud_termica_pob + sequia_pob + reemergencia + oni + oni:caribe + sequia_pob:caribe",1142.84028430234,1.21244221037507,0.166142075806596,9,FALSE,FALSE
+2024,8,"M0 + arrastre + aptitud_termica_pob + sequia_pob + reemergencia + oni + oni:caribe + sequia_pob:caribe + sequia_pob:chorotega",1142.75658908427,1.21137641233029,0.165413336123784,9,FALSE,FALSE
+2024,9,"M0 + arrastre + aptitud_termica_pob + sequia_pob + reemergencia + oni + oni:caribe + sequia_pob:caribe + sequia_pob:chorotega + inmunidad3_v2",1142.72408349151,1.32474584120349,0.171666233731446,9,FALSE,FALSE
+2025,0,"M0",NA,2.03998036188192,0.392593423790369,10,FALSE,FALSE
+2025,1,"M0 + arrastre",1329.57605934773,1.34767132150195,0.232330403697404,10,FALSE,FALSE
+2025,2,"M0 + arrastre + aptitud_termica_pob",1322.29555083868,1.18488502159521,0.160274305715392,10,TRUE,TRUE
+2025,3,"M0 + arrastre + aptitud_termica_pob + reemergencia",1318.41583796198,1.24862205411872,0.160218569369796,10,FALSE,FALSE
+2025,4,"M0 + arrastre + aptitud_termica_pob + reemergencia + sequia_pob",1317.52274448436,1.27809049870547,0.170492974186394,10,FALSE,FALSE
+2025,5,"M0 + arrastre + aptitud_termica_pob + reemergencia + sequia_pob + oni",1315.53425587006,1.33053454494235,0.18972987351027,10,FALSE,FALSE
+2025,6,"M0 + arrastre + aptitud_termica_pob + reemergencia + sequia_pob + oni + oni:caribe",1312.15428023275,1.2679439049779,0.158143358833652,10,FALSE,FALSE
+2025,7,"M0 + arrastre + aptitud_termica_pob + reemergencia + sequia_pob + oni + oni:caribe + sequia_pob:caribe",1309.36359614751,1.26342282065191,0.16434430010891,10,FALSE,FALSE
+2025,8,"M0 + arrastre + aptitud_termica_pob + reemergencia + sequia_pob + oni + oni:caribe + sequia_pob:caribe + sequia_pob:chorotega",1308.85779035939,1.28689284837884,0.169805928608784,10,FALSE,FALSE
+2025,9,"M0 + arrastre + aptitud_termica_pob + reemergencia + sequia_pob + oni + oni:caribe + sequia_pob:caribe + sequia_pob:chorotega + inmunidad3_v2",1308.78572599344,1.37487184314207,0.182897049729603,10,FALSE,FALSE

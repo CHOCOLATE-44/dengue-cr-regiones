@@ -1,0 +1,1385 @@
+                          Boletín Epidemiológico N° 28 de 2026
+                                   Dirección de Vigilancia de la Salud
+                                           Ministerio de Salud
+                                                          7 de agosto de 2026
+
+
+
+
+                                                        Tabla de contenido
+
+
+
+Arbovirosis....................................................................................................................................... 3
+Situación de la malaria en Costa Rica ...................................................................................... 7
+Acciones de control vectorial realizadas en el país a la semana epidemiológica 27 16
+Influenza y otras virosis respiratorias, IRAG, IRAS, ETI y Covid-19 .............................. 17
+Meningitis ....................................................................................................................................... 31
+Infecciones de transmisión sexual .......................................................................................... 34
+Miasis por gusano barrenador en humanos ......................................................................... 41
+
+
+
+
+                                                                                                                                                        1
+2
+                                          Arbovirosis
+Dengue
+
+A la semana epidemiológica 29 del año 2026 se notifican 2425 casos acumulados
+de dengue de estos, 44 casos como dengue con signos de alarma.
+
+La región Central Norte presenta el mayor número de casos notificados 609 y la
+tasa más alta la presenta la región Pacífico Central con 176,8/100.000 habitantes.
+
+Tabla 1.
+Costa Rica: Casos y tasas de dengue por región a la semana epidemiológica
+29, 2026 (Tasa por 100.000 hab.)
+         Región          Casos       Tasa
+Central Norte                        609                  58,2
+Pacifico Central                     569                  176,8
+Chorotega                            365                  76,9
+Huetar Caribe                        305                  66,6
+Central Sur                          283                  18,7
+Brunca                               101                  28,6
+Huetar Norte                          83                  30,6
+Central Occidente                     60                  26,7
+Central Este                          50                   9,0
+Total                                2425                 46,5
+Fuente: Base VE01, Dirección de Vigilancia de la Salud.
+
+Tabla 2.
+Costa Rica: casos de dengue notificados por provincia y sexo, 2026
+ Provincia    Total casos   Tasa     Femenino      Tasa       Masculino         Tasa
+ Alajuela         929       85,8        478        88,5          451            83,1
+ Guanacaste       353       84,6        200        96,7          153            72,8
+ Puntarenas       336       66,0        154        61,2          182            70,8
+ Limón            305       66,6        135        60,3          170            72,6
+ San José         291       17,5        151        17,9          140            17,1
+ Heredia          162       29,4         98        35,4          64             23,4
+ Cartago           49        9,2         21         7,8          28             10,6   3
+ Total           2425       46,5       1237        47,3         1188            45,6
+Fuente: Base VE 01, Dirección de Vigilancia de la Salud.
+Los cantones con mayor número de casos acumulados a la semana epidemiológica
+29 son: Orotina 299 casos, Alajuela 220 casos, Grecia 190 casos, Puntarenas 125
+casos y San José 117 casos.
+
+
+Tabla 3.
+Costa Rica: cantones prioritarios de dengue por casos notificados a la semana
+epidemiológica 29, 2026.
+
+            Cantón            Casos        Tasa
+209: Orotina                      299        1175,7
+201: Alajuela                     220          66,6
+203: Grecia                       190         233,4
+601: Puntarenas                   125          85,9
+101: San José                     117          33,0
+510: La Cruz                      114         402,0
+702: Pococí                        90          57,2
+701: Limón                         85          92,6
+505: Carrillo                      81         160,4
+410: Sarapiquí                     67          68,2
+Fuente: Base VE01, Dirección de Vigilancia de la Salud
+
+
+
+Gráfico 1.
+Costa Rica: casos de dengue a la semana epidemiológica 29, 2025-2026.
+           350
+           300
+           250
+   Casos
+
+
+
+
+           200
+           150
+           100
+           50
+            0
+                 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51
+                                               Semana
+
+                                             2025        2026
+
+Fuente: Base VE01, Dirección de Vigilancia de la Salud
+                                                                                            4
+Para la semana epidemiológica 29 del año 2025 se reportaron 1980 casos. En comparación
+con ese período, para el año 2026 se observa un incremento del 18% en el número de
+casos notificados.
+
+
+Gráfico 2.
+Costa Rica: canal endémico de dengue a la semana epidemiológica 29, 2026.
+                                        Costa Rica, Ministerio de Salud
+   1100
+                                      Canal Endémico Dengue 1994-2018
+   1000
+        900
+        800
+        700
+        600
+Casos
+
+
+
+
+        500
+        400
+        300
+        200
+        100
+         0
+              1   3   5   7   9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51
+                                     Semana Epidemiológica          IC Sup   Media   IC Inf   2026
+
+
+Fuente: Dirección de Vigilancia de la Salud
+
+La Gerencia Médica de la CCSS a través del Área de Estadística en Salud según
+los datos recopilados mediante EDUS informa que al 3 de agosto se reportan 2
+personas hospitalizadas con diagnóstico de dengue: 1 en Hospital Escalante
+Pradilla y 1 en el Hospital San Carlos.
+
+
+
+
+                                                                                                     5
+Chikungunya
+A la semana epidemiológica 29 se notifica un total de 113 casos de chikungunya,
+71 casos confirmados por prueba de PCR y 42 casos probables por nexo y/o
+clínica.
+
+
+Tabla 4.
+Costa Rica: Casos de chikungunya por región notificados y confirmados a la
+semana epidemiológica 29, 2026
+
+              Región                   Casos notificados   Confirmados PCR
+Chorotega                                        56              28
+Central Norte                                    33              27
+Central Sur                                      9               7
+Huetar Norte                                     4               1
+Central Este                                     3               3
+Huetar Caribe                                    3               0
+Central Occidente                                3               3
+Pacifico Central                                 2               2
+Brunca                                           0               0
+Total                                           113              71
+Fuente: Base VE01, Dirección de Vigilancia de la Salud
+
+
+
+
+                                                                                  6
+                Situación de la malaria en Costa Rica
+                    Actualización a la semana epidemiológica 29 del 2026
+
+
+ A la semana epidemiológica (SE) 29 de 2026, Costa Rica acumula 64 casos de
+ malaria: 20 corresponden a transmisión local (9 autóctonos y 11 introducidos), 36
+ son importados (incluidas 6 recaídas de casos importados) y 8 permanecen en
+ investigación epidemiológica. La transmisión local se mantiene concentrada en el
+ foco de Crucitas (Cutris), asociado a la actividad minera y a la movilidad poblacional
+ transfronteriza con Nicaragua, y se ubica por debajo de los niveles observados en
+ el mismo período de 2023 a 2025. No obstante, la persistencia de casos
+ introducidos sostiene el riesgo de reintroducción y exige mantener la vigilancia
+ intensificada, el diagnóstico oportuno y la respuesta focalizada en las áreas de
+ mayor actividad.
+
+ Tabla 1.
+ Cifras clave de la situación epidemiológica de la malaria. Costa Rica, semana
+ epidemiológica 29, 2026.
+     Cifras clave                         SE 29-2026                           Interpretación epidemiológica
+
+Casos totales de malaria                       64                         Incluye casos autóctonos, introducidos,
+                                                                       importados, recaídas y casos en investigación.
+
+   Transmisión local                        20 (31%)                        9 casos autóctonos y 11 introducidos.
+   Casos importados                         36 (56%)                    Principalmente asociados a antecedentes de
+                                                                                  exposición en Nicaragua.
+
+Casos en investigación                      8 (13%)                      Clasificación pendiente al cierre de la SE.
+   Principal foco de                        Crucitas                   Concentra 16 de los 20 casos de transmisión
+      transmisión                                                     local (80%) y representa el 77% de los casos a
+                                                                                       nivel nacional
+
+ Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+
+                                                                                                                    7
+Transmisión local
+
+Costa Rica registra 20 casos de transmisión local en la SE 29 de 2026, distribuidos
+en 9 autóctonos y 11 introducidos. El 80 % (16/20) se concentra en el foco de
+Crucitas, en el distrito de Cutris, Región Huetar Norte, en un contexto de actividad
+minera y movilidad transfronteriza con Nicaragua. Los casos restantes se
+distribuyen entre los focos de Los Chiles, Matina y Horquetas de Sarapiquí.
+
+Tabla 2.
+Distribución de los casos de transmisión local según clasificación
+epidemiológica y especie. Costa Rica, SE 29, 2026.
+
+          Clasificación                 P. vivax               P. falciparum                   Total
+
+          Autóctonos                    8                      1                               9
+
+          Introducidos                  10                     1                               11
+
+          Total                         18                     2                               20
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+Plasmodium vivax es la especie predominante en la transmisión local (18/20, 90 %);
+P. falciparum aporta apenas 2 casos (10 %): uno autóctono en Matina y uno
+introducido en Crucitas, lo que confirma que la circulación de esta especie, aunque
+marginal, no ha desaparecido.
+
+
+
+
+                                                                                                          8
+Gráfico 1.
+Casos de malaria por transmisión local según semana epidemiológica, Costa
+Rica 2023-2026*
+
+
+
+
+*2026: Datos hasta la semana epidemiológica 29
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+Los casos de transmisión local mantienen una tendencia descendente durante los
+últimos cuatro años. A la semana epidemiológica 29 de 2026 se registran 20 casos,
+cifra inferior a la observada para el mismo período de 2023, 2024 y 2025, lo que
+evidencia la continuidad de la reducción de la transmisión local en el país. No
+obstante, la persistencia de casos introducidos y su concentración en el foco de
+Crucitas mantienen la necesidad de fortalecer las acciones de vigilancia,
+diagnóstico oportuno y respuesta focalizada.
+
+Casos importados
+Los casos importados continúan siendo la principal fuente de introducción del
+parásito al país. A la semana epidemiológica (SE) 29 de 2026 se registran 36 casos
+importados (Tabla 3), predominantemente asociados a P. vivax y con antecedente
+de exposición mayoritario en Nicaragua, lo que confirma la influencia de la movilidad
+poblacional transfronteriza, específicamente por la epidemiología de la malaria en                        9
+Costa Rica.
+Tabla 3.
+Distribución de los casos importados según clasificación epidemiológica y
+especie. Costa Rica, SE 29, 2026.
+          Especie parasitaria                                Casos                                Porcentaje
+                                                                                                  (%)
+
+          P. vivax                                           31                                   86
+          P. falciparum                                      4                                    11
+          Infección mixta (P. vivax/ P.                      1                                    3
+              falciparum)
+
+          Total                                              36                                   100
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+El 97 % de los casos importados presenta antecedente de exposición en Nicaragua,
+lo que confirma la influencia de la movilidad poblacional transfronteriza sobre la
+epidemiología de la malaria en el país. Sin embargo, este patrón no debe atribuirse
+únicamente a la migración laboral general: una parte importante de estos casos está
+vinculada a la actividad minera irregular en zonas fronterizas, reconocida como un
+factor de riesgo específico para la transmisión de malaria en la región.
+
+La mayor parte de estos casos se detecta en la Región Huetar Norte, lo que refuerza
+la necesidad de mantener la detección temprana, la investigación epidemiológica y
+la respuesta oportuna para prevenir la reintroducción de la transmisión
+
+Distribución de casos
+La distribución de los 64 casos de malaria muestra una marcada concentración en
+la Región Huetar Norte, que acumula 54 casos (84 %), incluida la totalidad de los
+introducidos y la mayor parte de los importados. Las demás regiones registran casos
+esporádicos, predominantemente importados.
+
+
+
+
+                                                                                                               10
+Tabla 4.
+Distribución de casos por clasificación epidemiológica, especie y región del
+Ministerio de Salud, SE29-2026
+
+                                Autóctono                Importado            Introducido           En investigación
+          Región                                                                                                        Total
+                             P.f P.v Subt.       Mixta    P.f P.v Subt.     P.f P.v Subt.        P.f    P.v     Subt.
+Central norte                 –    1      1        –      –    1      1      –    –       –      –        –      –       2
+Central occidente             –    –      –        –      –    1      1      –    –       –      –        –      –       1
+Central sur                   –    –      –        –      –    2      2      –    –       –      –        –      –       2
+Chorotega                     –    –      –        –      –    1      1      –    –       –      –        –      –       1
+Huetar caribe                 1    –      1        –      –   3       3      –    –      –       –        –      –       4
+Huetar norte                  –    7      7        1      4   23      28     1    10     11      1        7      8       54
+Total                         1    8      9        1      4   31      36     1    10     11      1        7      8       64
+P.f: Plasmodium falciparum P.v: Plasmodium vivax
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+En síntesis: los casos importados son la categoría más frecuente, con 36 casos (56
+% del total). En cuanto a la especie, Plasmodium vivax se mantiene como la
+predominante a nivel nacional, con 56 de los 64 casos (88 %), mientras que P.
+falciparum aporta 7 casos y se identifica 1 infección mixta. Lo que confirma que
+ambas especies circulan simultáneamente en el país, aunque con pesos muy
+distintos
+
+Vigilancia Nacional
+
+A la semana epidemiológica actual, el país reporta un total de 118 764 pruebas de
+diagnóstico de malaria, resultado del esfuerzo interinstitucional para la detección
+oportuna de casos.
+El Ministerio de Salud registra 66 618 pruebas realizadas, distribuidas en las
+diferentes Áreas Rectoras que presentan riesgo de introducción o reintroducción de
+la malaria. Estas corresponden principalmente a actividades de búsqueda reactiva
+y búsqueda proactiva, en el marco de las acciones de vigilancia intensificada, así
+mismo 1024 pruebas han sido realizadas por colaboradores voluntarios,
+referirse a la figura 2.
+
+
+
+                                                                                                                                11
+Por su parte, la Caja Costarricense de Seguro Social (CCSS) ha realizado un
+total de 52 146 pruebas en el contexto de búsqueda pasiva, distribuidas de la
+siguiente manera:
+   • 45 973 pruebas rápidas de diagnóstico (PDR),
+
+    •   5 926 exámenes de gota gruesa,
+    •   247 prueba de Detección de la Cadena de Polimerasa (PCR) para malaria
+Este abordaje articulado fortalece la capacidad de detección temprana,
+confirmación diagnóstica y respuesta oportuna ante casos importados o autóctonos,
+en el contexto de la estrategia nacional de eliminación de la malaria.
+
+Gráfico 2.
+Principales Áreas Rectoras de Salud por número de pruebas realizadas para
+malaria. Costa Rica, semana epidemiológica 29, 2026.
+
+
+
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+
+
+                                                                                                          12
+Gráfico 3.
+Distribución de pruebas de gota gruesa, PDR y PCR para malaria en los 20
+centros de salud de la CCSS con mayor producción 2026-SE 29.
+
+
+
+
+Fuente: Datos consolidados de producción de la Caja Costarricense del Seguro Social
+
+Inventario de focos.
+En el país se cuenta con un inventario de focos en constante actualización,
+actualmente se tienen 5 focos activos, 9 focos residuales inactivos y 8 focos
+eliminados.
+
+
+
+
+                                                                                      13
+Figura 1.
+Distribución geográfica de focos de malaria según estatus epidemiológico.
+Costa Rica, junio 2026.
+
+
+
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+Para que un foco sea declarado como residual inactivo debe transcurrir 1 año sin
+aparición de casos autóctonos, paralelamente, para que un foco sea declarado
+como eliminado, debe transcurrir 3 años sin transmisión autóctona del parásito.
+
+
+
+
+                                                                                                          14
+Tabla 5.
+Listado de focos de malaria por provincia, cantón y estado epidemiológico del
+foco. Costa Rica, 2026
+
+              Provincia           Cantón            Nombre del Foco                Estado
+
+               Alajuela          San Carlos               Pital                Residual inactivo
+
+               Alajuela          San Carlos           Boca Arenal              Residual inactivo
+
+               Alajuela          San Carlos             Monterrey                 Eliminado
+
+               Alajuela          San Carlos       Crucitas - Llano Verde            Activo
+
+               Alajuela          Los Chiles            Los Chiles                   Activo
+
+               Alajuela          San Carlos              Jicarito                 Eliminado
+
+               Alajuela          Río Cuarto            Rìo Cuarto              Residual inactivo
+
+             Guanacaste           La Cruz                La Cruz               Residual inactivo
+
+             Guanacaste            Cañas                 Cañas                 Residual inactivo
+
+               Heredia           Sarapiquí              Sarapiquí                 Eliminado
+
+               Heredia           Sarapiquí                Ticari                    Activo
+
+                Limón              Matina                Matina                     Activo
+
+                Limón              Limón                 Limón                      Activo
+
+                Limón             Siquirres        Barra de Parismina             Eliminado
+
+                Limón              Pococí               El Jardín              Residual inactivo
+
+
+                Limón             Siquirres          Barra Pacuare             Residual inactivo
+
+             Puntarenas            Roble                El Roble                  Eliminado
+
+             Puntarenas         Puntarenas              Chomes                    Eliminado
+
+             Puntarenas           Quepos                 Quepos                Residual inactivo
+
+             Puntarenas            Parrita               Parrita                  Eliminado
+
+             Puntarenas            Golfito              La Leona                  Eliminado
+
+             Puntarenas             Osa                Bahia Uvita             Residual inactivo           15
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+ Acciones de control vectorial realizadas en el país
+          a la semana epidemiológica 27
+En la siguiente tabla se desglosan las acciones de control vectorial que se han
+realizado en la semana epidemiológico 27 del 2026, por el personal de Control de
+Vectores del país.
+
+
+Tabla 1.
+Costa Rica: Acciones de control vectorial en la semana 27
+         Acciones realizadas              Total
+Viviendas visitadas                                        3404
+Viviendas positivas                                         276
+Depósitos tratados                                        1 4597
+Depósitos eliminados                                      6 532
+Criaderos                                                 21 129
+Depósitos positivos                                         517
+Viviendas fumigadas                                       14.181
+Fuente: Consolidado Nacional de actividades de Control Vectorial.
+
+
+Tabla 2.
+Costa Rica: Acciones acumuladas de control vectorial de la semana 1 a la 27.
+        Acciones realizadas           Total
+Viviendas visitadas                                      305 193
+Viviendas positivas                                       14 193
+Depósitos tratados                                     1 042 890
+Depósitos eliminados                                     455 214
+Criaderos                                              1 498 104
+Depósitos positivos                                       35 292
+                                                                                   16
+Viviendas fumigadas                                      378 531
+Fuente: Consolidado Nacional de actividades de Control Vectorial.
+ Influenza y otras virosis respiratorias, IRAG, IRAS,
+                    ETI y Covid-19
+
+A continuación, se presentan los datos para la semana epidemiológica 29 de las
+Infecciones Respiratorias Agudas Graves (IRAG) y los datos de la semana
+epidemiológica 29 de las Infecciones Respiratorias Agudas Superiores (IRAS) y la
+Enfermedad Tipo Influenza (ETI), que según establece el Decreto de Vigilancia de
+la Salud No. 40556-S del 07 julio del 2017, son eventos de notificación obligatoria
+al Ministerio de Salud.
+
+En relación con la notificación de las IRAG, por medio de la boleta VE-01, se cuenta
+con los siguientes datos:
+   - Los casos acumulados a la semana epidemiológica (SE) 28 son un total de
+       5559.
+   - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en los niños de 1 a 4 años y en los mayores de 75 años.
+
+
+Gráfico 1.
+Distribución de casos de IRAG por grupos por edad quinquenal, notificados a
+la semana epidemiológica 29, en Costa Rica, 2026.
+
+
+
+
+                                                                                       17
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+Según el gráfico 1, se puede apreciar como en los extremos de la vida (niños de 1
+a 4 años y mayores de 75 años es donde más casos se han presentado).
+En el gráfico 2, se observa la tasa de incidencia de IRAG según las regiones del
+Ministerio de Salud a la semana 29, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Huetar Norte, la Brunca y la Central Este; las regiones
+con menor incidencia corresponden a la Chorotega, Central Occidente, Central Sur,
+Central Norte, Pacífico Central y Huetar Caribe.
+
+Gráfico 2.
+Tasa de IRAG según región del Ministerio de Salud, acumulada a la semana
+epidemiológica 29 del 2026, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+Por semana epidemiológica, los casos reportados por boleta VE-01 de IRAG, en
+Costa Rica son los que se presentan en el gráfico 3; se puede observar el
+comportamiento de los casos a la semana epidemiológica 29 del año 2026.
+
+
+
+                                                                                       18
+Gráfico 3.
+Distribución de casos reportados por boleta VE-01 de IRAG a la semana
+epidemiológica 29, en Costa Rica, 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En relación con el histórico de casos de IRAG, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2026, esto se puede apreciar en el gráfico 4.
+
+Gráfico 4.
+Distribución histórica de casos de IRAG por semana epidemiológica en Costa
+Rica entre los años 2018 y 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+El HNN, para la SE-29 tiene un canal endémico de IRAG que actualmente se
+encuentra por en zona de alarma, debido a la cantidad de casos que están
+presentando en este momento, tal como se puede apreciar en el gráfico 5.
+                                                                                    19
+Gráfico 5.
+Costa Rica: Canal endémico IRAG, HNN, 2026
+
+
+
+
+Fuente: EDUS-UVEPCI HNN, 2026.
+
+
+En cuanto a la notificación de IRAS, por medio de la boleta VE02, se tiene la
+siguiente información, tal como se muestra en el gráfico 6:
+   - Los casos acumulados a la semana epidemiológica (SE) 29 son 782769.
+   - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en niños entre 1 y 4 años y niños entre 5 y 9 años.
+
+
+
+
+                                                                                20
+Gráfico 6.
+Distribución de casos de IRAS por grupos por edad quinquenal, notificados a
+la semana epidemiológica 29, en Costa Rica, 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En el gráfico 7, se observa la tasa de incidencia de IRAS según las regiones del
+Ministerio de Salud a la semana 29, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Pacífico Central, Huetar Caribe, Huetar Norte y
+Chorotega. Las regiones con menor incidencia corresponden a la región Central
+Norte, Central Sur, Central Este, Occidente y Brunca.
+
+
+
+
+                                                                                   21
+Gráfico 7.
+Tasa de IRAS según región del Ministerio de Salud, acumulada a la semana
+epidemiológica 29 del 2026, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de IRAS, en
+Costa Rica son los que se presentan en el gráfico 8; se puede observar cómo los
+casos se han comportado en la semana epidemiológica 29 del año 2026.
+
+Gráfico 8.
+Distribución de casos reportados por boleta VE-02 de IRAS a la semana
+epidemiológica 29, en Costa Rica, 2026.
+
+
+
+
+                                                                                  22
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+En relación con el histórico de casos de IRAS, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2026, esto se puede apreciar en el gráfico 9.
+
+Gráfico 9.
+Distribución histórica de casos de IRAS por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En el gráfico 10 se presenta el canal endémico de las IRAS en el Hospital Nacional
+de Niños, que muestra que a la semana 29 se encuentran en la zona de éxito
+actualmente.
+
+Gráfico 10.
+Costa Rica: Canal endémico IRAS. HNN. 2026.
+
+
+
+
+                                                                                     23
+Fuente: Sistemas de Cubos Urgencias-UVEPCI HNN, 2026
+En cuanto a la notificación de ETI, por medio de la boleta VE02, se tiene la siguiente
+información, tal como se muestra en el gráfico 11:
+    - Los casos acumulados a la semana epidemiológica (SE) 29 son n= 8398.
+    - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+      distribución en personas entre 25 y 29 años y las personas entre 30 y 34
+      años.
+
+Gráfico 11.
+Distribución de casos de ETI por grupos por edad quinquenal, notificados a la
+semana epidemiológica 29, en Costa Rica, 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+En el gráfico 12, se observa la tasa de incidencia por ETI, según las regiones del
+Ministerio de Salud a la semana 29, presentando mayor cantidad de casos en la
+región Central Occidente. Las regiones con menor incidencia corresponden a la
+región Pacífico Central, Chorotega, Central Este, Central Sur, Huetar Norte, Central
+Norte, Huetar Caribe y Brunca.
+
+
+
+
+                                                                                         24
+Gráfico 12.
+Tasa de ETI por región del Ministerio de Salud, acumulada a la semana
+epidemiológica 29 del 2026, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de ETI, en
+Costa Rica son los que se presentan en el gráfico 13; se puede observar cómo se
+han distribuido los casos en el año 2026.
+
+Gráfico 13.
+Distribución de casos reportados por boleta VE-02 de ETI a la semana
+epidemiológica 29, en Costa Rica, 2026.
+
+
+
+
+                                                                                  25
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+En relación con el histórico de casos de ETI, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2026, esto se puede apreciar en el gráfico 14.
+
+Gráfico 14.
+Distribución histórica de casos de ETI por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Según se observa en el gráfico 15, se puede ver el comportamiento de los
+principales virus respiratorios circulantes de la semana 01 a la 30 del 2026; para la
+SE-30, en el país, el Rinovirus es el que más está circulando, seguido del Covid-19
+y finalmente el virus de Parainfluenza está en tercer lugar de circulación.
+
+Gráfico 15.
+Distribución de virus circulantes de la semana epidemiológica 01 a la 30 en
+Costa Rica, 2026.
+
+
+
+
+                                                                                               26
+Fuente: Matriz de Resultados de Laboratorio CCSS, Subárea de Vigilancia Epidemiológica 2026.
+En relación con los datos específicos del Hospital Nacional de Niños, la situación
+que se presenta es la siguiente:
+Al 5 de agosto del año en curso, correspondiente a la semana 31, el total de
+pacientes respiratorios hospitalizados son 71, lo que corresponde a un porcentaje
+de ocupación del 106%.
+
+Gráfico 16.
+Total de pacientes hospitalizados y en emergencias en la semana 25 del año
+2026, Hospital Nacional de Niños.
+
+
+
+
+Fuente: Hospital Nacional de Niños, 2026.
+
+
+Tabla 1.
+Positividad de muestras respiratorias de pacientes hospitalizados según
+agente etiológico viral. HNN. SE 1-29. Año 2026.
+
+
+
+
+                                                                                                     27
+Fuente: Unidad de Vigilancia Epidemiológica-Laboratorio de microbiología e inmunología. HNN. 2026.
+Gráfico 17.
+Distribución de muestras positivas por VRS en pacientes hospitalizados
+según SE y año. HNN. 2019-2026.
+
+
+
+
+Fuente: Unidad de Vigilancia Epidemiológica-Laboratorio de microbiología e inmunología. HNN. 2026.
+
+
+Para la enfermedad por COVID-19, durante la semana epidemiológica 30, se
+reportaron un total de 111 casos confirmados, lo que representa una disminución
+del 11.09% con respecto a la SE-29 del año 2026 que presentó 126 casos.
+
+Gráfico 18.
+Costa Rica: Casos COVID-19, según semana epidemiológica año 2026.
+
+
+
+
+                                                                                                                 28
+Fuente: Subárea de Vigilancia Epidemiológica, C.C.S.S / Dirección de Vigilancia de Salud, Ministerio de Salud,
+2026.
+Con respecto a las hospitalizaciones en la semana epidemiológica 30, se reportó un
+promedio total de 34 hospitalizados (34 en salón general y 0 en UCI); en la SE-29,
+hubo un total de 28 pacientes hospitalizados en salón general, lo que representa un
+aumento del 21.43% con respecto a la SE-28; en UCI no hubo pacientes internados
+en la SE-29.
+
+Gráfico 19.
+Costa Rica: Hospitalizaciones por Covid-19, según semana epidemiológica
+año 2026.
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, C.C.S.S / Dirección de Vigilancia de Salud, Ministerio de Salud,
+2026.
+
+En relación con el comportamiento de las personas fallecidas asociadas a COVID-
+19, durante la semana epidemiológica 30, hubo cuatro fallecidos; sin embargo, es
+importante indicar que estos son datos preliminares sujetos a la revisión de los
+casos.
+
+
+
+
+                                                                                                                 29
+Gráfico 20.
+Costa Rica: Fallecidos por COVID-19, según semana epidemiológica año 2026.
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, C.C.S.S / Dirección de Vigilancia de Salud, Ministerio de Salud,
+2026.
+
+
+Variantes genómicas
+Según el informe interactivo de INCIENSA revisado el 5 de agosto del 2026, se
+reporta lo siguiente.
+
+Gráfico 21.
+Costa Rica: Proporción de linaje identificados, para Variante de Preocupación
+(VOC) Ómicron, Variante de Interés (VOI) y Variantes Bajo Monitoreo (VUM),
+por semana epidemiológica SE 26 del 2026.
+
+
+
+
+                                                                                                                 30
+Fuente: Sistema de Información de INCIENSA, CCSS, DATOS Facultad de Microbiología UCR, actualizado en
+informe interactivo en Vigilancia genómica SARS-CoV-2 al 5 de agosto del 2026.
+                                             Meningitis
+La meningitis es una peligrosa inflamación de las membranas que rodean el cerebro
+y la médula espinal, causada principalmente por una infección bacteriana o vírica.
+
+La meningitis causada por una infección bacteriana suele ser la más grave que
+provoca unas 250,000 muertes por año y posibles epidemias de rápida propagación.
+Ocasiona la muerte de una de cada diez personas infectadas, en su mayoría niños
+y jóvenes y deja a una de cada cinco con discapacidades duraderas, como
+convulsiones, pérdida de audición y visión, daños neurológicos y deterioro cognitivo.
+
+El comportamiento de los casos notificados de meningitis durante las semanas
+epidemiológicas 1 a 31 muestra una tendencia fluctuante tanto en 2025 como en
+2026, sin evidenciar aumentos o disminuciones sostenidas. En ambos años se
+observan variaciones semanales con picos de notificación entre las semanas 13 y
+18, alcanzando un máximo de nueve casos por semana.
+
+Al comparar ambos períodos, las curvas presentan un comportamiento similar y se
+mantienen dentro de rangos comparables durante la mayor parte del tiempo
+analizado.
+
+Gráfico 1.
+Costa Rica: Casos notificados de meningitis comparativa año 2025 con el 2026
+a la semana epidemiológica 29, 2026
+             12
+             11
+             10
+              9
+              8
+              7
+  N° Casos
+
+
+
+
+              6
+              5
+              4
+              3
+              2
+              1
+              0
+                  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+                                            Semana epidemiológica
+                                                2025       2026
+                                                                                                        31
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+La siguiente tabla presenta los 15 cantones con las mayores tasas de notificación
+de meningitis. Monteverde, en la provincia de Puntarenas, registra la tasa más alta
+(20,6), seguido por Jiménez de la provincia de Cartago (12,7) y Aserrí, en la
+provincia de San José (11,1).
+
+Tabla 1.
+Costa Rica: Casos notificados de meningitis según 15 cantones prioritarios,
+acumulado a la semana epidemiológica 29, 2026 (tasa p/100.000 habitantes)
+
+Cantón                             Casos                 Tasa
+Monteverde                           1                   20,6
+Jiménez                              2                   12,7
+Aserrí                               7                   11,1
+Turrialba                            6                    8,8
+San Isidro                           2                    8,5
+El Guarco                            3                    6,6
+Paraíso                              4                    6,5
+Liberia                              5                    6,1
+Esparza                              2                    5,6
+Upala                                3                    5,2
+Nicoya                               3                    5,1
+Guatuso                              1                    5,0
+Montes de Oca                        3                    4,9
+Cartago                              8                    4,9
+Pérez Zeledón                        6                    4,5
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+
+El gráfico 2, indica la distribución de los casos sospechosos según sexo y grupo de
+edad. El 48,1% (66/137) corresponde a hombres y el 51,8 (71/137) a mujeres. El
+24,1% (33/137) de los casos corresponde a menores de 1 año.
+
+
+
+                                                                                      32
+Gráfico 2.
+Costa Rica: Casos notificados por meningitis según sexo y edad, a la semana
+epidemiológica 29, 2026
+
+
+             20                                                                                                                mujer      hombre
+             18
+             16
+             14
+  N° casos
+
+
+
+
+             12
+             10
+              8
+              6
+              4
+              2
+              0
+
+
+
+
+                                                                                                                                                 >75
+                           1-4
+
+                                 5-9
+                  < de 1
+
+
+
+
+                                       10-14
+
+                                               15-19
+
+                                                       20-24
+
+                                                               25-29
+
+                                                                       30-34
+
+                                                                               35-39
+
+                                                                                       40-44
+
+                                                                                               45-49
+
+                                                                                                       50-54
+
+                                                                                                               55-59
+
+                                                                                                                       60-64
+
+                                                                                                                                 65-69
+
+                                                                                                                                         70-74
+                                                                       Grupo de edad
+
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+
+
+
+                                                                                                                                                       33
+              Infecciones de transmisión sexual
+
+La notificación de las infecciones de transmisión sexual (ITS) es de carácter
+obligatorio, según lo establecido en el Decreto N.° 40556-S. En este marco, la
+vigilancia epidemiológica semanal de las ITS constituye una herramienta
+fundamental para el monitoreo de tendencias, la detección temprana de variaciones
+en la incidencia y la activación oportuna de medidas de control.
+
+En cumplimiento de este mandato, se presenta el informe correspondiente al
+comportamiento de la sífilis en todas sus formas, gonorrea, la infección por el virus
+del herpes simple durante las primeras veintinueve semanas del año 2026.
+
+Sífilis en todas sus formas
+
+Durante el año 2026 se notificaron 2.103 casos, en comparación con 1.628 casos
+registrados en 2025, lo que representa un incremento absoluto de 475 casos y un
+aumento relativo del 29,18 %. Este comportamiento evidencia una tendencia
+ascendente significativa, que requiere seguir manteniendo las acciones de vigilancia
+epidemiológica, detección oportuna, prevención y control. En el Gráfico 1, se
+presentan los datos distribuidos, según el reporte semanal.
+
+
+
+
+                                                                                        34
+Gráfico 1.
+Costa Rica: Casos notificados por sífilis en todas sus formas, según fecha
+de inicio de síntomas en el reporte semanal, en los años 2025 y 2026
+                         120
+
+                         100
+
+                         80
+
+                         60
+       Número de casos
+
+
+
+
+                         40
+
+                         20
+
+                          0
+                               1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+                                                                                      Semanas                                    2025                 2026
+Nota: Datos preliminares sujetes a ser actualizados semanalmente.
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS. / Dirección de Vigilancia de la Salud, MS, 2026.
+
+
+Gráfico 2.
+Costa Rica: Notificación de casos de sífilis en todas sus formas por grupos
+de edad, en semanas epidemiológicas 1 a 29 del 2026, según tasa por
+100 000 habitantes
+
+
+                                                                                                                                                            250
+                   120
+                   110
+ Número de Casos
+
+
+
+
+                   100                                                                                                                                      200
+                    90
+                    80
+                                                                                                                                                            150
+                    70
+                    60
+                    50                                                                                                                                      100
+                    40
+                    30
+                                                                                                                                                            50
+                    20
+                    10
+                     0                                                                                                                                      0
+                          <1   1a4   5 a 9 10 a 14 15 a 19 20 a 24 25 a 29 30 a 34 35 a 39 40 a 44 45 a 49 50 a 54 55 a 59 60 a 64 65 a 69 70 a 74   >75
+                                                                                                                                                     años
+                                                                     Grupos de edad                                 Casos                 Tasa
+Nota: Datos preliminares sujetos a ser actualizados.
+                                                                                                                                                                  35
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS. / Dirección de Vigilancia de la Salud, MS, 2026.
+A la semana epidemiológica 29 de 2026 se notificaron 2.103 casos de sífilis en todas
+sus formas, para una tasa nacional de 40,3 por 100.000 habitantes. La mayor carga
+se concentra en la población adulta joven, principalmente entre los 20 y 39 años,
+con el mayor número de casos en el grupo de 25 a 29 años (316 casos; tasa de
+76,6), seguido por los grupos de 30 a 34 años (307 casos; 71,1) y de 20 a 24 años
+(247 casos; 65,2). Este patrón es compatible con una transmisión
+predominantemente sexual y sexualmente activas.
+
+En menores de un año se notificaron 100 casos, con una tasa de 201,4 por 100.000
+habitantes, la más elevada entre todos los grupos de edad. Debido a que estos
+registros pueden incluir casos sospechosos, expuestos perinatalmente o casos que
+aún no cumplen plenamente con la definición de sífilis congénita, deben someterse
+a revisión individualizada y clasificación definitiva por un grupo de expertos. Este
+análisis debe integrar antecedentes maternos, tratamiento recibido durante el
+embarazo, pruebas serológicas, hallazgos clínicos y seguimiento del menor, con el
+fin de evitar sobreestimaciones o subregistros.
+
+Del total, 1.008 casos corresponden a hombres (59,4 %), con una tasa de 38,7,
+mientras que las mujeres registran 688 casos (40,6 %) y una tasa de 26,3. La tasa
+en hombres es aproximadamente 1,5 veces mayor que la observada en mujeres,
+evidenciando una mayor carga de enfermedad en la población masculina.
+
+
+
+
+                                                                                       36
+Tabla 1.
+Costa Rica: Notificación de casos de sífilis en todas sus formas, según
+provincias de procedencia, durante las semanas 1 a 29 del 2026. Tasa por 100
+000 habitantes
+ Provincia                        Casos                     Tasa
+
+Total                                             2103                              40,3
+
+San José                                           867                                52
+Alajuela                                           283                              26,1
+Cartago                                            248                              46,5
+Heredia                                            157                              28,5
+Guanacaste                                          69                              16,5
+Puntarenas                                         135                              26,5
+Limón                                              344                              75,1
+Nota: Datos preliminares sujetos a revisión y actualización semanal.
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS. / Dirección de Vigilancia de la Salud, MS, 2026.
+
+
+A la semana epidemiológica 29 de 2026, se registró 2.103 casos notificados de sífilis
+en todas sus formas, para una tasa nacional de 40,3 por 100.000 habitantes. San
+José concentró el mayor número absoluto, con 867 casos, equivalente al 41,2 % del
+total nacional, y presentó una tasa de 52,0. No obstante, Limón mostró la mayor
+intensidad de afectación, con 344 casos y una tasa de 75,1 por 100.000 habitantes,
+muy superior al promedio nacional. Cartago también presentó una tasa elevada de
+46,5, mientras que Alajuela, Heredia y Puntarenas registraron niveles intermedios.
+
+La distribución territorial evidencia heterogeneidad epidemiológica y sugiere que la
+carga no depende únicamente del tamaño poblacional. Limón constituye la provincia
+prioritaria por su elevada tasa, seguida de San José y Cartago. En contraste,
+Guanacaste presentó la tasa más baja, con 16,5 por 100.000 habitantes; sin
+embargo, estas diferencias deben interpretarse considerando, oportunidad de
+notificación, movilidad poblacional y posible subregistro.
+
+
+                                                                                                       37
+Infección por Gonorrea
+
+Hasta la semana epidemiológica 29 de 2026 se notificaron 894 casos, frente a 808
+casos registrados en el mismo periodo de 2025, lo que representa un incremento
+absoluto de 86 casos y un aumento relativo de 10,64 %.
+
+Gráfico 3
+Costa Rica: Casos notificados por gonorrea, según reporte semanal por fecha
+de inicio de síntomas, en los años años 2025 y 2026
+
+                  50
+
+                  45
+
+                  40
+Número de Casos
+
+
+
+
+                  35
+
+                  30
+
+                  25
+
+                  20
+
+                  15
+
+                  10
+
+                  5
+
+                  0
+                       1   2   3   4   5   6   7   8   9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+                                                                    Semanas                  2025
+Nota: Datos preliminares sujeto a ser actualizado semanalmente.
+Fuente: Subárea de Vigilancia Epidemiológica CCSS. / Dirección de Vigilancia de la Salud, MS, 202
+
+
+
+
+                                                                                                                       38
+Gráfico 4
+Costa Rica: Casos de gonorrea por grupos de edad número absoluto, y tasa
+por 100 000 habitantes, durante las primeras 29 semanas del año 2026
+
+                  100                                                                                                                       70
+                   90
+
+
+
+
+                                                                                                                                                Tasa por 100 000 habitantes
+                                                                                                                                            60
+                   80
+
+                   70                                                                                                                       50
+Número de Casos
+
+
+
+
+                   60
+                                                                                                                                            40
+                   50
+                                                                                                                                            30
+                   40
+
+                   30                                                                                                                       20
+                   20
+                                                                                                                                            10
+                   10
+
+                    0                                                                                                                       0
+                        <1   1a4 5a9   10 a   15 a   20 a   25 a    30 a   35 a   40 a   45 a   50 a   55 a   60 a   65 a   70 a   >75
+                                        14     19     24     29      34     39     44     49     54     59     64     69     74    años
+                                                                   Grupos de edad
+                                                                                                                     Casos           Tasa
+
+
+Nota: Datos preliminares sujetos a ser actualizados semanalmente.
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS. / Dirección de Vigilancia de la Salud, MS, 2026
+
+Hasta la semana epidemiológica 29 de 2026 se notificaron 894 casos de gonorrea,
+para una tasa acumulada de 17,1 por 100.000 habitantes. La mayor carga se
+concentró en la población joven: el grupo de 20 a 24 años presentó el mayor número
+de casos y la tasa más alta, con 234 casos y 61,8 por 100.000 habitantes, seguido
+de los grupos de 25 a 29 años, con 188 casos y una tasa de 45,6, y de 15 a 19 años,
+con 118 casos y una tasa de 30,9. En conjunto, las personas de 15 a 34 años
+acumularon 668 casos, equivalentes al 74,7 % del total notificado.
+
+A partir de los 35 años se observa una disminución progresiva de las tasas, aunque
+persiste transmisión en todos los grupos de edad adulta. Los siete casos registrados
+en menores de 15 años, incluidos uno en menor de un año, requieren análisis
+individualizado para establecer la vía probable de transmisión y la clasificación del                                                                                         39
+caso.
+Tabla 2.
+Costa Rica: Casos notificados por gonorrea, según provincia. Número
+absoluto y tasa por 100 000 habitantes, en las primeras 29 semanas año 2026
+
+Provincia                                        Casos                              Tasa
+Total                                              894                              17,1
+
+San José                                           388                              23,3
+Alajuela                                           87                                 8
+Cartago                                            88                               16,5
+Heredia                                            80                               14,5
+Guanacaste                                         29                                 7
+Puntarenas                                         108                              21,2
+Limón                                              114                              24,9
+Nota: Datos preliminares sujetos a ser actualizado semanalmente.
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS. / Dirección de Vigilancia de la Salud, MS, 2026.
+
+
+Se notificaron 894 casos de gonorrea, para una tasa de 17,1 por 100.000 habitantes.
+San José presentó la mayor carga, con 388 casos y una tasa de 23,3, seguido de
+Puntarenas, con 108 casos y una tasa de 21,2; ambas provincias superaron el
+promedio nacional. Aunque San José posee una elevada densidad poblacional y
+mayor concentración de servicios diagnósticos, la tasa ajustada por población
+confirma una afectación relevante; no obstante, las tasas de Limón y Puntarenas
+evidencian una afectación proporcional importante pese a su menor población y
+mayor dispersión territorial. Cartago y Heredia registraron tasas intermedias de 16,5
+y 14,5, mientras que Alajuela y Guanacaste presentaron las tasas más bajas, de 8,0
+y 7,0, respectivamente.
+
+
+
+
+                                                                                                       40
+        Miasis por gusano barrenador en humanos
+
+A continuación, se presentan los datos preliminares de miasis por gusano
+barrenador en humanos para la semana epidemiológica (SE) 30 del año 2026,
+según establece el Reglamento de Vigilancia de la Salud Decreto N°40556-S y el
+Lineamiento Nacional para la Vigilancia de Miasis por Gusano Barrenador en
+Humanos es un evento de notificación obligatoria al Ministerio de Salud.
+
+En relación con la notificación de esta miasis, por medio de la boleta VE-01, para el
+año 2026 a la SE 30, se tienen los siguientes datos:
+
+
+    − Casos acumulados de miasis por gusano barrenado en humanos suman un
+        total de 51 casos
+    − Casos por grupos de edad tienen un predominio en las personas de 20 a 64
+        años (23/51) y las adultas de 65 y más años con más casos reportados
+        (25/51)
+
+Gráfico 1
+Costa Rica: Casos notificados de miasis de gusano barrenador según SE de
+la 01 a la 30, 2026
+
+
+
+
+                                                                                                     41
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+Gráfico 2
+Costa Rica: Casos notificados de miasis por gusano barrenador según grupos
+de edad quinquenal, de la SE 01 a la 30, 2026
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+
+El comportamiento de la miasis por gusano barrenador en humanos, en el año 2026,
+presenta un predominio en los hombres con 35 casos notificados con una tasa de
+1,3 por 100.000 habitantes y en las mujeres con 16 casos notificados con una tasa
+de 0,6 por 100.000 habitantes.
+
+
+
+
+                                                                                                     42
+Tabla 1
+Costa Rica: Casos notificados de miasis por gusano barrenador por número
+de casos y tasas (tasa p/100.000 habitantes) según provincia de procedencia,
+de la SE 01 a 30, 2026
+Provincias                  Casos               Tasas
+Total                         51                 1,0
+San José                                 9                           0,5
+Alajuela                                 11                          1,0
+Cartago                                  4                           0,7
+Heredia                                  4                           0,7
+Guanacaste                               8                           1,9
+Puntarenas                               10                          2,0
+Limón                                    5                           1,1
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+
+En la tabla 1, se presenta el comportamiento de esta enfermedad por número de
+casos notificados a la SE 30 según provincia de procedencia, presentando mayor
+número de casos la provincia de Alajuela (11/51).
+
+Gráfico 3
+Costa Rica: Casos notificados de miasis por gusano barrenador por número
+de casos según región del Ministerio de Salud de procedencia, de la SE 01 a
+30, 2026
+
+
+
+
+                                                                                                     43
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+En el gráfico 3 se muestra el comportamiento de esta enfermedad en las nueve
+regiones del Ministerio de Salud, destacándose la Región Chorotega (8/51) con el
+mayor número de casos notificados.
+
+En el gráfico 4 se puede observar el comportamiento de la miasis por gusano
+barrenador en humanos durante la SE 01 a 30 de los años 2025 y 2026. Para el
+2026 se notificó un total de 51 casos confirmados por esta enfermedad. De forma
+comparativa, para la SE 30 del 2025 se habían confirmado 61 casos de miasis por
+gusano barrenador en el país.
+
+Gráfico 4
+Costa Rica: Casos notificados de miasis de gusano barrenador, según SE, de
+la SE 01 a la 30 del 2025 y del 2026
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2025 y 2026
+
+
+
+En atención a la declaratoria de Emergencia Nacional Sanitaria Epidémica para el
+control y erradicación del Gusano Barrenador (Cochliomyia hominivorax),
+establecida mediante el Decreto Ejecutivo N° 44382–MAG, y considerando que la
+mosca continúa circulando en el territorio nacional, resulta de suma importancia que,
+ante la detección de un caso sospechoso en humanos, se active de manera
+inmediata la coordinación interinstitucional e intersectorial bajo el enfoque de Una
+Sola Salud.                                                                                                 44
+Dicha coordinación involucra la participación del Ministerio de Salud, la Caja
+Costarricense de Seguro Social, el Ministerio de Agricultura y Ganadería a través
+del Servicio Nacional de Salud Animal (SENASA), y el Ministerio de Ambiente y
+Energía (MINAE), según corresponda. El propósito es identificar oportunamente
+casos sospechosos en humanos y/o animales y garantizar su atención conforme a
+lo establecido en el Lineamiento Nacional para la Vigilancia de Miasis por
+Gusano Barrenador en Humanos.
+
+A continuación, se presentan las disposiciones generales para la prevención y
+control de la enfermedad:
+
+   − Acudir oportunamente a los servicios de salud públicos o privados ante la
+      presencia de síntomas compatibles con la enfermedad, tales como dolor,
+      malestar y picazón en el sitio de la lesión, enrojecimiento de la piel, herida
+      con secreción, sensación que se mueve y con frecuencia, se pueden
+      observar huevecillos y/o larvas visibles en la lesión.
+   − Mantener una adecuada higiene personal, incluyendo el lavado frecuente de
+      manos con agua y jabón.
+   − Realizar el control, tratamiento y cuidado higiénico de las lesiones conforme
+      a las indicaciones del médico tratante.
+   − Mantener vigilancia y control en el cuidado de los animales, efectuando
+      revisiones periódicas y la curación de todas las heridas. Asimismo, se deberá
+      notificar a las autoridades de salud animal (MAG-SENASA y/o MINAE) la
+      aparición de animales con gusaneras, a fin de garantizar su atención
+      oportuna.
+
+
+
+
+                                                                                       45
+

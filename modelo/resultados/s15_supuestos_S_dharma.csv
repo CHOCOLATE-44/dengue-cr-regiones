@@ -1,0 +1,6 @@
+"prueba","p","estadistico","simulacion"
+"uniformidad (KS)",0.989240069040449,0.0430707070707071,"simulateResiduals(n = 1000, seed = 2026), simulación condicional a los efectos de año (DHARMa 0.5)"
+"dispersión",0.854,0.68842754468336,"simulateResiduals(n = 1000, seed = 2026), simulación condicional a los efectos de año (DHARMa 0.5)"
+"valores atípicos (bootstrap)",1,NA,"simulateResiduals(n = 1000, seed = 2026), simulación condicional a los efectos de año (DHARMa 0.5)"
+"cuantiles vs arrastre",0.669331142276265,NA,"simulateResiduals(n = 1000, seed = 2026), simulación condicional a los efectos de año (DHARMa 0.5)"
+"cuantiles vs aptitud térmica",0.509150936242736,NA,"simulateResiduals(n = 1000, seed = 2026), simulación condicional a los efectos de año (DHARMa 0.5)"

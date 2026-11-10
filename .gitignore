@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+
+# Registros de ejecución
+*.log
+
+# Temporales
+*~
+*.tmp
+*.swp
+.~lock.*#
+~$*
+.DS_Store
+Thumbs.db

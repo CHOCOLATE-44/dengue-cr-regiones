@@ -1,0 +1,106 @@
+{
+"occidente": {
+"n": 37,
+"mediana": 228820,
+"minimo": 228571,
+"maximo": 229008,
+"cv": 0.04,
+"n100": 33,
+"min100": 228571,
+"max100": 228992,
+"cv100": 0.035,
+"imputadas": 12
+},
+"cv": [
+{
+"unidad": "Brunca",
+"anio_datos": 2025,
+"n": 46,
+"cv": 3.51,
+"cv_30mas": 3.54,
+"minimo": 352859,
+"maximo": 379310,
+"causa": "Cambio de denominador a mitad de 2025: baja desde el N°28 (SE 29), el N°33 vuelve por un boletín al valor anterior. No es error de lectura."
+},
+{
+"unidad": "C.Este",
+"anio_datos": 2023,
+"n": 47,
+"cv": 3.06,
+"cv_30mas": 0.15,
+"minimo": 500000,
+"maximo": 666667,
+"causa": "Ruido de redondeo: con pocos casos la tasa a 1 decimal no fija la población. Con 30 casos o más el CV es 0.15%."
+},
+{
+"unidad": "C.Este",
+"anio_datos": 2025,
+"n": 46,
+"cv": 2.24,
+"cv_30mas": 2.27,
+"minimo": 551570,
+"maximo": 579710,
+"causa": "Cambio de denominador a mitad de 2025: baja desde el N°28 (SE 29), el N°33 vuelve por un boletín al valor anterior. No es error de lectura."
+},
+{
+"unidad": "Central Sur",
+"anio_datos": 2022,
+"n": 45,
+"cv": 3.6,
+"cv_30mas": 0.79,
+"minimo": 1333333,
+"maximo": 1600000,
+"causa": "Ruido de redondeo: con pocos casos la tasa a 1 decimal no fija la población. Con 30 casos o más el CV es 0.79%."
+},
+{
+"unidad": "Central Sur",
+"anio_datos": 2023,
+"n": 46,
+"cv": 5.18,
+"cv_30mas": 0.38,
+"minimo": 1000000,
+"maximo": 1555556,
+"causa": "Ruido de redondeo: con pocos casos la tasa a 1 decimal no fija la población. Con 30 casos o más el CV es 0.38%."
+},
+{
+"unidad": "H. Caribe",
+"anio_datos": 2025,
+"n": 46,
+"cv": 2.99,
+"cv_30mas": 2.98,
+"minimo": 455331,
+"maximo": 487805,
+"causa": "Cambio de denominador a mitad de 2025: baja desde el N°28 (SE 29), el N°33 vuelve por un boletín al valor anterior. No es error de lectura."
+},
+{
+"unidad": "Occidente",
+"anio_datos": 2021,
+"n": 42,
+"cv": 2.73,
+"cv_30mas": null,
+"minimo": 200000,
+"maximo": 222222,
+"causa": "Ruido de redondeo: con pocos casos la tasa a 1 decimal no fija la población. Con 30 casos o más el CV es n/d."
+},
+{
+"unidad": "Occidente",
+"anio_datos": 2022,
+"n": 39,
+"cv": 3.92,
+"cv_30mas": null,
+"minimo": 222222,
+"maximo": 250000,
+"causa": "Ruido de redondeo: con pocos casos la tasa a 1 decimal no fija la población. Con 30 casos o más el CV es n/d."
+},
+{
+"unidad": "Pacífico Central",
+"anio_datos": 2025,
+"n": 46,
+"cv": 2.11,
+"cv_30mas": 2.12,
+"minimo": 311282,
+"maximo": 325137,
+"causa": "Cambio de denominador a mitad de 2025: baja desde el N°28 (SE 29), el N°33 vuelve por un boletín al valor anterior. No es error de lectura."
+}
+]
+}

@@ -1,0 +1,100 @@
+"anio","region","poblacion","crudo_seco","origen_seco","tasa_seco_rt","vecinos_seco_rt"
+2015,"Brunca",358791,98,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.34335467173089,3.21994939007856
+2015,"C.Este",559998,4,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",0.538997988832133,3.08236301460466
+2015,"Central Norte",931066,187,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.04853842415294,2.86564531284824
+2015,"Central Sur",1412029,117,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.22850237604977,3.15110723626215
+2015,"Chorotega",416006,400,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",4.57628149037209,3.34881383814492
+2015,"H. Caribe",433523,110,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.27236008193974,2.59874075436257
+2015,"H.Norte",232896,2,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",0.619905512406311,3.66376662984643
+2015,"Occidente",207864,4,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.07306715303774,3.76093846915758
+2015,"Pacífico Central",280054,192,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",4.24216390754905,3.08398923704638
+2016,"Brunca",361143,1028,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",5.65477353802884,4.9073834524242
+2016,"C.Este",564586,34,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.94906399580232,4.90362788451902
+2016,"Central Norte",944829,2557,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",5.60444446098498,4.54965032256394
+2016,"Central Sur",1426017,635,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.81836317827441,5.26254695652262
+2016,"Chorotega",422573,1088,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",5.55478082044769,5.38079332179949
+2016,"H. Caribe",439013,213,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.9023347340676,4.86786533358672
+2016,"H.Norte",237073,72,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.44586452585575,5.45441249561403
+2016,"Occidente",210432,28,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.66067630848576,5.62131186658739
+2016,"Pacífico Central",284706,1483,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",6.2574534164994,4.92475655407438
+2017,"Brunca",363471,52,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.72827795916459,3.79767029788477
+2017,"C.Este",569046,11,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.07604621025215,3.44654384911057
+2017,"Central Norte",958330,518,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",4.00828476726662,3.39100349659501
+2017,"Central Sur",1439614,162,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.50577214615402,3.89239761903517
+2017,"Chorotega",429066,117,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.34174924654915,3.34296915468589
+2017,"H. Caribe",444447,389,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",4.4832793129679,3.14884915597675
+2017,"H.Norte",241213,23,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.35471644449127,3.72397526001399
+2017,"Occidente",212950,12,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.89237759998504,3.78570550186622
+2017,"Pacífico Central",289344,168,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",4.07859409868029,3.13336323464557
+2018,"Brunca",365772,31,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.24868049776349,3.03938829192541
+2018,"C.Este",573398,10,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.00941282528508,2.55145391775664
+2018,"Central Norte",971638,290,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.42902350636348,2.43909516974491
+2018,"Central Sur",1452752,20,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",0.865711905552665,3.22359604531644
+2018,"Chorotega",435472,62,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.7237545818306,2.20656526996055
+2018,"H. Caribe",449781,197,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.80218790119237,2.43671136269399
+2018,"H.Norte",245253,6,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.23734566004092,3.12214797191888
+2018,"Occidente",215378,0,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",0,3.10099822932069
+2018,"Pacífico Central",293903,55,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.98131165580611,2.42373469579147
+2019,"Brunca",367971,7,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.06551173487754,3.25884614836755
+2019,"C.Este",577545,4,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",0.526257965167429,2.73554685387417
+2019,"Central Norte",984656,344,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.58174121723376,2.70544160674915
+2019,"Central Sur",1465625,37,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.25974432937474,3.40904172489301
+2019,"Chorotega",441758,93,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.09341465233642,2.83729962161728
+2019,"H. Caribe",455024,215,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.87640111132768,2.52921709598095
+2019,"H.Norte",249221,4,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",0.957433129596157,3.32798301987387
+2019,"Occidente",217806,5,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.19259457922413,3.37125703349765
+2019,"Pacífico Central",298393,114,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.66879535131565,2.57129620606337
+2020,"Brunca",369977,264,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",4.28159543579936,4.51846496489469
+2020,"C.Este",562341,59,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.44163848757823,4.12790594299886
+2020,"Central Norte",996850,463,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.85959866877906,4.00527298253564
+2020,"Central Sur",1496124,198,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",2.65564732050769,4.28634169551763
+2020,"Chorotega",447699,148,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.5280627537995,3.96241852399748
+2020,"H. Caribe",460099,874,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",5.25205936060326,3.39207179764088
+2020,"H.Norte",253032,125,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",3.92000836329451,3.63963583913694
+2020,"Occidente",219512,6,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",1.31730214042696,3.93648719148993
+2020,"Pacífico Central",302885,269,"consolidado, no en tiempo real (Excel ASIS, SE 1–18)",4.49772511732312,3.36061645442413
+2021,"Brunca",369970,189,"tiempo real: Boletín semanal N°18 de 2021 (SE 18), p. 2; publicado 2024-07-23",3.95288128331318,3.76692853598866
+2021,"C.Este",562614,26,"tiempo real: Boletín semanal N°18 de 2021 (SE 18), p. 2; publicado 2024-07-23",1.72656039960579,3.42016203966939
+2021,"Central Norte",1e+06,118,"tiempo real: Boletín semanal N°18 de 2021 (SE 18), p. 2; publicado 2024-07-23",2.54944517092557,3.40346894284351
+2021,"Central Sur",1494382,54,"tiempo real: Boletín semanal N°18 de 2021 (SE 18), p. 2; publicado 2024-07-23",1.52899413360943,3.40633604145524
+2021,"Chorotega",447964,64,"tiempo real: Boletín semanal N°18 de 2021 (SE 18), p. 2; publicado 2024-07-23",2.72699378875509,3.62906829375417
+2021,"H. Caribe",460084,455,"tiempo real: Boletín semanal N°18 de 2021 (SE 18), p. 2; publicado 2024-07-23",4.60411947812941,2.50901273657727
+2021,"H.Norte",253089,203,"tiempo real: Boletín semanal N°18 de 2021 (SE 18), p. 2; publicado 2024-07-23",4.39702531940568,2.49188090996798
+2021,"Occidente",221111,3,"tiempo real: Boletín semanal N°18 de 2021 (SE 18), p. 2; publicado 2024-07-23",0.857298233014837,3.18448893415794
+2021,"Pacífico Central",302839,79,"tiempo real: Boletín semanal N°18 de 2021 (SE 18), p. 2; publicado 2024-07-23",3.29903428168844,2.49187178912538
+2022,"Brunca",373626,66,"tiempo real: Boletín semanal N°19 de 2022 (SE 18), p. 2; publicado 2022-08-23",2.92663530095638,4.0053471579554
+2022,"C.Este",569154,196,"tiempo real: Boletín semanal N°19 de 2022 (SE 18), p. 2; publicado 2022-08-23",3.56775863881741,3.20374722326277
+2022,"Central Norte",1022321,119,"tiempo real: Boletín semanal N°19 de 2022 (SE 18), p. 2; publicado 2022-08-23",2.53688059369812,3.17034921446023
+2022,"Central Sur",1519824,34,"tiempo real: Boletín semanal N°19 de 2022 (SE 18), p. 2; publicado 2022-08-23",1.17467821882626,3.60251029868891
+2022,"Chorotega",459760,19,"tiempo real: Boletín semanal N°19 de 2022 (SE 18), p. 2; publicado 2022-08-23",1.63561058373364,2.77502841978535
+2022,"H. Caribe",469797,482,"tiempo real: Boletín semanal N°19 de 2022 (SE 18), p. 2; publicado 2022-08-23",4.64051324536322,2.55788091046782
+2022,"H.Norte",260994,69,"tiempo real: Boletín semanal N°19 de 2022 (SE 18), p. 2; publicado 2022-08-23",3.31190665858208,2.2129398271697
+2022,"Occidente",225000,1,"tiempo real: Boletín semanal N°19 de 2022 (SE 18), p. 2; publicado 2022-08-23",0.367724780125317,2.60313925501748
+2022,"Pacífico Central",311927,50,"tiempo real: Boletín semanal N°19 de 2022 (SE 18), p. 2; publicado 2022-08-23",2.83494076251772,2.43645516787628
+2023,"Brunca",375476,85,"tiempo real: Boletín semanal N°19 de 2023 (SE 18), p. 2; publicado 2023-05-26",3.16285269232693,4.13024894008817
+2023,"C.Este",572150,161,"tiempo real: Boletín semanal N°19 de 2023 (SE 18), p. 2; publicado 2023-05-26",3.37209374686982,3.559189662629
+2023,"Central Norte",1034455,215,"tiempo real: Boletín semanal N°19 de 2023 (SE 18), p. 2; publicado 2023-05-26",3.0811707532661,3.55954819591024
+2023,"Central Sur",1531915,163,"tiempo real: Boletín semanal N°19 de 2023 (SE 18), p. 2; publicado 2023-05-26",2.45447124261024,3.80124121499748
+2023,"Chorotega",466220,47,"tiempo real: Boletín semanal N°19 de 2023 (SE 18), p. 2; publicado 2023-05-26",2.40523893316479,3.39177529219657
+2023,"H. Caribe",474525,566,"tiempo real: Boletín semanal N°19 de 2023 (SE 18), p. 2; publicado 2023-05-26",4.78979884527948,2.93159694989575
+2023,"H.Norte",264886,111,"tiempo real: Boletín semanal N°19 de 2023 (SE 18), p. 2; publicado 2023-05-26",3.75898416069075,2.83189994151026
+2023,"Occidente",226734,14,"tiempo real: Boletín semanal N°19 de 2023 (SE 18), p. 2; publicado 2023-05-26",1.97055207855269,3.180434893091
+2023,"Pacífico Central",316217,107,"tiempo real: Boletín semanal N°19 de 2023 (SE 18), p. 2; publicado 2023-05-26",3.55069505206363,2.84969905873552
+2024,"Brunca",377162,673,"tiempo real: Boletín semanal N°18 de 2024 (SE 18), p. 4; publicado 2024-05-17",5.18982925740411,5.12718982375514
+2024,"C.Este",574995,665,"tiempo real: Boletín semanal N°18 de 2024 (SE 18), p. 4; publicado 2024-05-17",4.75920525564303,4.91527329860136
+2024,"Central Norte",1046298,2021,"tiempo real: Boletín semanal N°18 de 2024 (SE 18), p. 4; publicado 2024-05-17",5.26866817937438,4.91116740154737
+2024,"Central Sur",1542004,1369,"tiempo real: Boletín semanal N°18 de 2024 (SE 18), p. 4; publicado 2024-05-17",4.49736862507597,5.19080635193113
+2024,"Chorotega",472076,865,"tiempo real: Boletín semanal N°18 de 2024 (SE 18), p. 4; publicado 2024-05-17",5.21620239102615,5.35663065975324
+2024,"H. Caribe",479089,732,"tiempo real: Boletín semanal N°18 de 2024 (SE 18), p. 4; publicado 2024-05-17",5.03558792266543,4.90187646880467
+2024,"H.Norte",268663,669,"tiempo real: Boletín semanal N°18 de 2024 (SE 18), p. 4; publicado 2024-05-17",5.52150428724073,5.16376584011074
+2024,"Occidente",228820,151,"tiempo real: Boletín semanal N°18 de 2024 (SE 18), p. 4; publicado 2024-05-17",4.20455432737541,5.35974113286814
+2024,"Pacífico Central",320490,906,"tiempo real: Boletín semanal N°18 de 2024 (SE 18), p. 4; publicado 2024-05-17",5.64788959267933,4.91580007057386
+2025,"Brunca",378144,260,"tiempo real: Boletín semanal N°17 de 2025 (SE 18), p. 3; publicado 2025-05-16",4.24501599200902,3.84515064215811
+2025,"C.Este",573850,199,"tiempo real: Boletín semanal N°17 de 2025 (SE 18), p. 3; publicado 2025-05-16",3.57453570296105,4.10074764487566
+2025,"Central Norte",1056110,344,"tiempo real: Boletín semanal N°17 de 2025 (SE 18), p. 3; publicado 2025-05-16",3.51370324703106,3.98342142434088
+2025,"Central Sur",1551122,932,"tiempo real: Boletín semanal N°17 de 2025 (SE 18), p. 3; publicado 2025-05-16",4.1122751455504,3.71474992389601
+2025,"Chorotega",476834,150,"tiempo real: Boletín semanal N°17 de 2025 (SE 18), p. 3; publicado 2025-05-16",3.4799311823288,3.81648820996568
+2025,"H. Caribe",482684,208,"tiempo real: Boletín semanal N°17 de 2025 (SE 18), p. 3; publicado 2025-05-16",3.78628686808673,3.90694118127845
+2025,"H.Norte",271354,125,"tiempo real: Boletín semanal N°17 de 2025 (SE 18), p. 3; publicado 2025-05-16",3.85153573165304,3.40072513949698
+2025,"Occidente",229986,17,"tiempo real: Boletín semanal N°17 de 2025 (SE 18), p. 3; publicado 2025-05-16",2.12724959048126,3.70496010393489
+2025,"Pacífico Central",324412,225,"tiempo real: Boletín semanal N°17 de 2025 (SE 18), p. 3; publicado 2025-05-16",4.25357163097884,3.81957017419932

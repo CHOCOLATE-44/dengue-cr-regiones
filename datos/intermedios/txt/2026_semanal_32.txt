@@ -1,0 +1,1616 @@
+                          Boletín Epidemiológico N° 32 de 2026
+                                   Dirección de Vigilancia de la Salud
+                                           Ministerio de Salud
+                                                       4 de setiembre de 2026
+
+
+
+
+                                                       Tabla de contenido
+
+
+
+Arbovirosis....................................................................................................................................... 3
+Situación de la malaria en Costa Rica ...................................................................................... 7
+Acciones de control vectorial realizadas en el país a la semana epidemiológica 32 16
+Influenza y otras virosis respiratorias, IRAG, IRAS, ETI y Covid-19 .............................. 17
+Enfermedad Diarreica Aguda (EDA) al 1 de setiembre 2026. ........................................... 32
+Miasis por gusano barrenador en humanos ......................................................................... 40
+Informe técnico de seguimiento de los brotes de Hepatitis A. ........................................ 45
+
+
+
+
+                                                                                                                                                       1
+2
+                                         Arbovirosis
+Dengue
+
+
+A la semana epidemiológica 33 del año 2026 se notifican 3742 casos acumulados
+de dengue de estos, 64 casos como dengue con signos de alarma.
+La Gerencia Médica de la CCSS a través del Área de Estadística en Salud según
+los datos recopilados mediante EDUS informa que al 1 de setiembre se reportan 4
+personas hospitalizadas con diagnóstico de dengue: 1 en Hospital Carlos Luis
+Valverde Vega, 1 en el Hospital Víctor Manuel Sanabria, 1 en el Hospital Enrique
+Baltodano y 1 en Hospital Rafael Ángel Calderón Guardia.
+La región Central Norte presenta el mayor número de casos notificados 1215 y la
+tasa más alta la presenta la región Pacífico Central con 261,3/100.000 habitantes.
+
+Tabla 1.
+Costa Rica: Casos y tasas de dengue por región a la semana epidemiológica
+33, 2026 (Tasa por 100.000 hab.)
+
+                Región                          Casos     Tasa
+Central Norte                                    1215     116,0
+Pacifico Central                                 841      261,3
+Chorotega                                        486      102,4
+Huetar Caribe                                    421      91,9
+Central Sur                                      322      21,3
+Brunca                                           148      41,9
+Huetar Norte                                     148      54,5
+Central Occidente                                104      46,3
+Central Este                                      57      10,3
+Total                                            3742     71,7
+Fuente: Base VE01, Dirección de Vigilancia de la Salud.
+
+
+
+                                                                                     3
+Tabla 2.
+Costa Rica: casos de dengue notificados por provincia y sexo, 2026
+                      Total
+Provincia             casos            Tasa        Femenino            Tasa    Masculino   Tasa
+Alajuela               1719           158,8              919           170,1     800       147,5
+Puntarenas              502            98,6              226            89,8     276       107,3
+Guanacaste              464           111,2              250           120,8     214       101,8
+Limón                   421            91,9              186           83,1      235       100,4
+San José                338            20,3              160           18,9      178       21,7
+Heredia                 243            44,1              138           49,9      105       38,3
+Cartago                  55            10,3              23             8,6       32       12,1
+Total                  3742            71,7           1902             72,8      1840      70,7
+Fuente: Base VE 01, Dirección de Vigilancia de la Salud.
+
+Los cantones con mayor número de casos acumulados a la semana epidemiológica
+33 son: Alajuela 517 casos, Orotina 434 casos, Grecia 398 casos, Puntarenas 200
+casos y La Cruz 145 casos.
+
+Tabla 3.
+Costa Rica: cantones prioritarios de dengue por casos notificados a la semana
+epidemiológica 33, 2026.
+
+            Cantón                    Casos              Tasa
+201: Alajuela                               517                156,6
+209: Orotina                                434               1706,5
+203: Grecia                                 398                489,0
+601: Puntarenas                             200                137,4
+510: La Cruz                                145                511,3
+702: Pococí                                 139                 88,4
+101: San José                               119                 33,6
+505: Carrillo                               116                229,7
+401: Heredia                                109                 74,0
+701: Limón                                    98               106,8                               4
+Fuente: Base VE01, Dirección de Vigilancia de la Salud
+Gráfico 1.
+Costa Rica: casos de dengue a la semana epidemiológica 33, 2025-2026.
+           450
+           400
+           350
+           300
+   Casos
+
+
+
+
+           250
+           200
+           150
+           100
+            50
+             0
+                     1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51
+                                                   Semana
+
+                                                 2025      2026
+
+Fuente: Base VE01, Dirección de Vigilancia de la Salud
+
+Para la semana epidemiológica 33 del año 2025 se reportaron 2568 casos. En
+comparación con ese período, para el año 2026 se observa un incremento del 31%
+en el número de casos notificados.
+
+Gráfico 2.
+Costa Rica: canal endémico de dengue a la semana epidemiológica 33, 2026.
+
+    1100
+    1000
+     900
+     800
+     700
+Casos
+
+
+
+
+     600
+     500
+     400
+     300
+     200
+     100
+       0
+                 1    3   5   7   9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51   5
+                                         Semana Epidemiológica             IC Sup         Media
+
+Fuente: Dirección de Vigilancia de la Salud
+Chikungunya
+
+A la semana epidemiológica 33 se notifica un total de 245 casos de chikungunya,
+184 casos confirmados por prueba de PCR y 61 casos probables en estudio.
+
+Tabla 4.
+Costa Rica: Casos de chikungunya por región notificados y confirmados a la
+semana epidemiológica 33, 2026
+Región                               Total     Tasa             Confirmados        Probables
+Chorotega                                117             24,7                 88               29
+Central Norte                             74              7,1                 57               17
+Central Sur                               28              1,8                 24               4
+Huetar Norte                               6              2,2                 4                2
+Central Occidente                          6              2,7                 3                3
+Central Este                               5              0,9                 3                2
+Pacifico Central                           5              1,6                 5                0
+Huetar Caribe                              4              0,9                 0                4
+Brunca                                     0               0                  0                0
+Total                                    245              4,7             184                  61
+Fuente: Base VE01, Dirección de Vigilancia de la Salud
+
+
+Los cantones con mayor reporte de casos son:
+ Alajuela  59 casos
+ Santa
+ Cruz      40 casos
+ Carrillo  40 casos
+ La Cruz   18 casos
+ San José 13 casos
+
+
+
+
+                                                                                                    6
+                 Situación de la malaria en Costa Rica
+
+  Situación de la malaria en Costa Rica: actualización a la semana epidemiológica
+  33 del 2026
+
+  A la semana epidemiológica (SE) 33 de 2026, Costa Rica acumula 76 casos de
+  malaria: 24 corresponden a transmisión local (13 autóctonos y 11 introducidos), 39
+  son importados (incluidas 6 recaídas de casos importados) y 13 permanecen en
+  investigación epidemiológica.
+
+  La transmisión se concentra principalmente en el foco de foco Crucitas–Llano
+  Verde, asociado a la actividad minera y a la movilidad poblacional transfronteriza
+  con Nicaragua. La persistencia de casos introducidos mantiene el riesgo de
+  reintroducción y exige sostener la vigilancia intensificada, el diagnóstico oportuno y
+  la respuesta focalizada.
+
+  Tabla 1.
+  Cifras clave de la situación epidemiológica de la malaria. Costa Rica, semana
+  epidemiológica 33, 2026.
+     Cifras clave                        SE 33-2026                        Interpretación epidemiológica
+
+Casos totales de malaria                      76                       Incluye casos autóctonos, introducidos,
+                                                                           importados, recaídas y casos en
+                                                                                    investigación.
+   Transmisión local                      24 casos                     13 casos autóctonos y 11 introducidos.
+   Casos importados                       37 casos                   Principalmente asociados a antecedentes
+                                                                            de exposición en Nicaragua.
+
+Casos en investigación                    13 casos                   Clasificación pendiente al cierre de la SE.
+   Principal foco de               Crucitas–Llano Verde                  Concentra 58 casos del total a nivel
+      transmisión                                                                 nacional (76%)
+
+  Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+                                                                                                                   7
+Transmisión local
+
+Costa Rica registra 24 casos de transmisión local en la SE 33 de 2026, distribuidos
+en 13 autóctonos y 11 introducidos. El 83 % (20/24) se concentra en el foco de foco
+Crucitas–Llano Verde, en el distrito de Cutris, Región Huetar Norte, en un contexto
+de actividad minera y movilidad transfronteriza con Nicaragua. Los casos restantes
+se distribuyen entre los focos de Los Chiles, Matina y Ticarí.
+
+Tabla 2.
+Distribución de los casos de transmisión local según clasificación
+epidemiológica y especie. Costa Rica, SE 32, 2026.
+
+           Clasificación                    P. vivax                    P. falciparum                     Total
+
+           Autóctonos                       12                          1                                 13
+
+           Introducidos                     10                          1                                 11
+
+           Total                            22                          2                                 24
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+Plasmodium vivax es la especie predominante en la transmisión local (22/24, 92 %);
+P. falciparum aporta apenas 2 casos (8 %): uno autóctono en Matina y uno
+introducido en foco Crucitas–Llano Verde, lo que confirma que la circulación de esta
+especie, aunque marginal, no ha desaparecido.
+
+
+
+
+                                                                                                                  8
+Gráfico 1.
+Casos de malaria por transmisión local según semana epidemiológica, Costa
+Rica 2023-2026*
+60
+                                        52
+50
+
+
+40
+Número de casos
+
+
+
+
+30
+
+
+20
+
+                                                                                             2023
+10
+                                                                                                 2024
+                                                            2026
+    0
+                  1   3   5   7   9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 2025
+                                                                                                51
+                                                      Semana epidemiológica
+*2026: Datos hasta la semana epidemiológica 32
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+A la semana epidemiológica 32 de 2026 se registran 24 casos de malaria, cifra
+superior a los 11 casos registrados en el mismo período de 2025. No obstante, el
+número de casos continúa siendo considerablemente inferior al observado en 2023
+y 2024, cuando se notificaron 382 y 170 casos, respectivamente.
+
+Casos importados
+
+Los casos importados continúan siendo la principal fuente de introducción del
+parásito al país. A la semana epidemiológica (SE) 33 de 2026 se registran 39 casos
+importados (Tabla 3), predominantemente asociados a P. vivax y con antecedente
+de exposición mayoritario en Nicaragua, lo que confirma la influencia de la movilidad
+poblacional transfronteriza, específicamente por la epidemiología de la malaria en
+Costa Rica.
+                                                                                                          9
+Tabla 3.
+Distribución de los casos importados según clasificación epidemiológica y
+especie. Costa Rica, SE 33, 2026.
+
+          Especie parasitaria                                  Casos                         Porcentaje
+                                                                                                (%)
+
+          P. vivax                                             34                            87
+          P. falciparum                                        4                             10
+          Infección mixta (P. vivax/ P.                        1                             3
+              falciparum)
+
+          Total                                                39                            100
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+El 97 % de los casos importados presenta antecedente de exposición en Nicaragua,
+lo que confirma la influencia de la movilidad poblacional transfronteriza sobre la
+epidemiología de la malaria en el país. Sin embargo, este patrón no debe atribuirse
+únicamente a la migración laboral general: una parte importante de estos casos está
+vinculada a la actividad minera irregular en zonas fronterizas, reconocida como un
+factor de riesgo específico para la transmisión de malaria en la región. La mayor
+parte de estos casos se detecta en la Región Huetar Norte, lo que refuerza la
+necesidad de mantener la detección temprana, la investigación epidemiológica y la
+respuesta oportuna para prevenir la reintroducción de la transmisión
+
+Distribución de casos
+La distribución de los 76 casos de malaria muestra una marcada concentración en
+la Región Huetar Norte, que acumula 63 casos, incluida la totalidad de los
+introducidos y la mayor parte de los importados. Las demás regiones registran casos
+esporádicos, predominantemente importados.
+
+
+
+
+                                                                                                          10
+Tabla 4.
+Distribución de casos por clasificación epidemiológica, especie y región del
+Ministerio de Salud, SE33-2026
+
+                             Autóctono              Importado               Introducido    En investigación
+         Región                                                                                                Total
+                         P.f P.v    Subt.   Mixta    P.f P.v    Subt.   P.f P.v    Subt.   P.f   P.v   Subt.
+Central Norte            –     1     1       –        –   1      1      –      –     –      –    –      –       2
+Pacífico Central         –     –     –       –        –   2      2      –      –     –      –    –      –       2
+Central Occidente        –     –     –       –        –   1      1      –      –     –      –    –      –       1
+Central Sur              –     –     –       –        –   2      2      –      –     –      –    –      –       2
+Chorotega                –     –     –       –        –   1      1      –      –     –      –    –      –       1
+Huetar Caribe            1     –     1       –        –   4      4      –      –     –      –    –      –       5
+Huetar Norte             –     11    11      1        4   23     28     1     10    11      1    11     12      63
+Total                    1     12    13      1        4   34     39     1     10    11      1    12     13      76
+
+
+P.f: Plasmodium falciparum P.v: Plasmodium vivax
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+Vigilancia Nacional
+A la semana epidemiológica actual, el país reporta un total de 129 168 pruebas de
+diagnóstico de malaria, resultado del esfuerzo interinstitucional para la detección
+oportuna de casos.
+
+El Ministerio de Salud registra 71 818 pruebas realizadas, distribuidas en las
+diferentes Áreas Rectoras que presentan riesgo de introducción o reintroducción de
+la malaria. Estas corresponden principalmente a actividades de búsqueda reactiva
+y búsqueda proactiva, en el marco de las acciones de vigilancia intensificada, así
+mismo 1097 pruebas han sido realizadas por colaboradores voluntarios,
+referirse a la figura 2.
+
+Por su parte, la Caja Costarricense de Seguro Social (CCSS) ha realizado un
+total de 57 350 pruebas en el contexto de búsqueda pasiva, distribuidas de la
+siguiente manera:
+   • 50 750 pruebas rápidas de diagnóstico (PDR),
+
+    •    6 343 exámenes de gota gruesa,
+    •    257 prueba de Detección de la Cadena de Polimerasa (PCR) para malaria
+                                                                                                                       11
+Este abordaje articulado fortalece la capacidad de detección temprana,
+confirmación diagnóstica y respuesta oportuna ante casos importados o autóctonos,
+en el contexto de la estrategia nacional de eliminación de la malaria.
+
+Tabla 5.
+Principales Áreas Rectoras de Salud por número de pruebas realizadas para
+malaria. Costa Rica, semana epidemiológica 33, 2026.
+  No.          ÁREA RECTORA DE SALUD                    REGIÓN RECTORA                  PDR
+    1     CORREDORES                               BRUNCA                                   16420
+    2     SANTA ROSA POCOSOL                       HUETAR NORTE                              8483
+    3     LOS CHILES                               HUETAR NORTE                              6833
+    4     MATINA                                   HUETAR CARIBE                             4860
+    5     LA CRUZ                                  CHOROTEGA                                 4164
+    6     TALAMANCA                                HUETAR CARIBE                             3575
+    7     UPALA                                    CHOROTEGA                                 2572
+    8     ABANGARES                                CHOROTEGA                                 1876
+    9     PENINSULAR - JICARAL                     PACÍFICO CENTRAL                          1783
+   10     LIMÓN                                    HUETAR CARIBE                             1754
+   11     POCOCÍ                                   HUETAR CARIBE                             1754
+   12     CAÑAS                                    CHOROTEGA                                 1368
+   13     LIBERIA                                  CHOROTEGA                                 1380
+   14     NICOYA                                   CHOROTEGA                                 1304
+   15     SIQUIRRES                                HUETAR CARIBE                             1160
+   16     MONTES DE ORO MIRAMAR                    PACÍFICO CENTRAL                          1066
+   17     AGUAS ZARCAS                             HUETAR NORTE                              1103
+   18     SARAPIQUÍ                                CENTRAL NORTE                              843
+   19     SANTA CRUZ                               CHOROTEGA                                  805
+   20     CARRILLO                                 CHOROTEGA                                  739
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+
+
+                                                                                                          12
+Gráfico 2.
+Distribución de pruebas de gota gruesa, PDR y PCR para malaria en los 20
+centros de salud de la CCSS con mayor producción, Costa Rica 2026.
+
+
+
+
+Fuente: Datos consolidados de producción de la Caja Costarricense del Seguro Social
+
+
+
+Inventario de focos.
+En el país se cuenta con un inventario de focos en constante actualización,
+actualmente se tienen 3 focos activos, 10 focos residuales inactivos y 9 focos
+eliminados.
+
+
+
+
+                                                                                      13
+Figura 1.
+Distribución geográfica de focos de malaria según estatus epidemiológico.
+Costa Rica, agosto 2026.
+
+
+
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+
+
+Para que un foco sea declarado como residual inactivo debe transcurrir 1 año sin
+aparición de casos autóctonos, paralelamente, para que un foco sea declarado
+como eliminado, debe transcurrir 3 años sin transmisión autóctona del parásito.
+
+
+
+
+                                                                                                          14
+Tabla 6.
+Listado de focos de malaria por provincia, cantón y estado epidemiológico del
+foco. Costa Rica, 2026
+                                                     Nombre del
+                Provincia          Cantón              Foco                     Estado
+                 Alajuela        San Carlos               Pital               Eliminado
+                 Alajuela        San Carlos          Boca Arenal          Residual inactivo
+                 Alajuela        San Carlos          Montelimar               Eliminado
+                                                   Crucitas - Llano
+                 Alajuela        San Carlos            Verde                    Activo
+                 Alajuela        Los Chiles           Los Chiles                Activo
+                 Alajuela        San Carlos             Jicarito              Eliminado
+                 Alajuela        Río Cuarto           Rìo Cuarto          Residual inactivo
+               Guanacaste          La Cruz             La Cruz            Residual inactivo
+               Guanacaste           Cañas               Cañas             Residual inactivo
+                 Heredia          Sarapiquí           Sarapiquí               Eliminado
+                 Heredia          Sarapiquí              Ticari           Residual inactivo
+                  Limón             Matina              Matina                  Activo
+                  Limón             Limón              Limón              Residual inactivo
+                                                      Barra de
+                  Limón           Siquirres           Parismina              Eliminado
+                  Limón            Pococí             El Jardín           Residual inactivo
+
+                  Limón           Siquirres        Barra Pacuare          Residual inactivo
+               Puntarenas           Roble              El Roble               Eliminado
+               Puntarenas        Puntarenas            Chomes                 Eliminado
+               Puntarenas          Quepos              Quepos             Residual inactivo
+               Puntarenas           Parrita             Parrita               Eliminado
+               Puntarenas           Golfito           La Leona                Eliminado
+               Puntarenas            Osa             Bahia Uvita          Residual inactivo
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica .
+                                                                                                            15
+ Acciones de control vectorial realizadas en el país
+          a la semana epidemiológica 32
+
+En la siguiente tabla se desglosan las acciones de control vectorial que se han
+realizado en la semana epidemiológica 32 del 2026, por el personal de Control de
+Vectores del país.
+
+
+Tabla 1.
+Costa Rica: Acciones de control vectorial en la semana epidemiológica 32
+  Acciones realizadas                      Total
+ Viviendas visitadas                                                   10 427
+ Viviendas positivas                                                    563
+ Depósitos tratados                                                    38 653
+ Depósitos eliminados                                                  17 955
+ Criaderos                                                             56 608
+ Depósitos positivos                                                    892
+ Viviendas fumigadas                                                   34 434
+Fuente: Consolidado Nacional de actividades de Control Vectorial.
+
+
+
+Tabla 2.
+Costa Rica: Consolidado de control vectorial de la semana 1 a la 32 de 2026
+      Acciones realizadas              Total
+ Viviendas visitadas                                                407 383
+ Viviendas positivas                                                 18 286
+ Depósitos tratados                                                 1 432 616
+ Depósitos eliminados                                               1 049 095
+ Criaderos                                                          2 481 711
+ Depósitos positivos                                                 41 914
+                                                                                   16
+ Viviendas fumigadas                                                556 113
+Fuente: Consolidado Nacional de actividades de Control Vectorial.
+ Influenza y otras virosis respiratorias, IRAG, IRAS,
+                    ETI y Covid-19
+
+A continuación, se presentan los datos para la semana epidemiológica 33 de las
+Infecciones Respiratorias Agudas Graves (IRAG) y los datos de la semana
+epidemiológica 33 de las Infecciones Respiratorias Agudas Superiores (IRAS) y la
+Enfermedad Tipo Influenza (ETI), que según establece el Decreto de Vigilancia de
+la Salud No. 40556-S del 07 julio del 2017, son eventos de notificación obligatoria
+al Ministerio de Salud.
+
+En relación con la notificación de las IRAG, por medio de la boleta VE-01, se cuenta
+con los siguientes datos:
+   - Los casos acumulados a la semana epidemiológica (SE) 33 son un total de
+       6101.
+   - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en los niños de 1 a 4 años y en los mayores de 75 años.
+
+Gráfico 1.
+Distribución de casos de IRAG por grupos por edad quinquenal, notificados a
+la semana epidemiológica 33, en Costa Rica, 2026.
+
+
+
+
+                                                                                       17
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+Según el gráfico 1, se puede apreciar como en los extremos de la vida (niños de 1
+a 4 años y mayores de 75 años es donde más casos se han presentado).
+En el gráfico 2, se observa la tasa de incidencia de IRAG según las regiones del
+Ministerio de Salud a la semana 33, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Brunca, Huetar Norte, la Central Este; las regiones
+con menor incidencia corresponden a la Chorotega, Central Occidente, Central Sur,
+Central Norte, Pacífico Central y Huetar Caribe.
+
+Gráfico 2.
+Tasa de IRAG según región del Ministerio de Salud, acumulada a la semana
+epidemiológica 33 del 2026, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+Por semana epidemiológica, los casos reportados por boleta VE-01 de IRAG, en
+Costa Rica son los que se presentan en el gráfico 3; se puede observar el
+comportamiento de los casos a la semana epidemiológica 33 del año 2026.
+
+
+
+
+                                                                                    18
+Gráfico 3.
+Distribución de casos reportados por boleta VE-01 de IRAG a la semana
+epidemiológica 33, en Costa Rica, 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En relación con el histórico de casos de IRAG, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2026, esto se puede apreciar en el gráfico 4.
+
+Gráfico 4.
+Distribución histórica de casos de IRAG por semana epidemiológica en Costa
+Rica entre los años 2018 y 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+                                                                                    19
+El HNN, para la SE-33 tiene un canal endémico de IRAG que actualmente se
+encuentra por en zona de seguridad, debido a la cantidad de casos que están
+presentando en este momento, tal como se puede apreciar en el gráfico 5.
+
+Gráfico 5.
+Costa Rica: Canal endémico IRAG, HNN, 2026
+
+
+
+
+Fuente: EDUS-UVEPCI HNN, 2026.
+
+
+
+En cuanto a la notificación de IRAS, por medio de la boleta VE02, se tiene la
+siguiente información, tal como se muestra en el gráfico 6:
+   - Los casos acumulados a la semana epidemiológica (SE) 33 son 887563.
+   - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en niños entre 1 y 4 años y niños entre 5 y 9 años.
+
+
+
+
+                                                                                20
+Gráfico 6.
+Distribución de casos de IRAS por grupos por edad quinquenal, notificados a
+la semana epidemiológica 33, en Costa Rica, 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En el gráfico 7, se observa la tasa de incidencia de IRAS según las regiones del
+Ministerio de Salud a la semana 33, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Pacífico Central, Chorotega, Huetar Caribe y Huetar
+Norte. Las regiones con menor incidencia corresponden a la región Central Norte,
+Central Sur, Central Este, Occidente y Brunca.
+
+
+
+
+                                                                                   21
+Gráfico 7.
+Tasa de IRAS según región del Ministerio de Salud, acumulada a la semana
+epidemiológica 33 del 2026, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de IRAS, en
+Costa Rica son los que se presentan en el gráfico 8; se puede observar cómo los
+casos se han comportado en la semana epidemiológica 33 del año 2026.
+
+Gráfico 8.
+Distribución de casos reportados por boleta VE-02 de IRAS a la semana
+epidemiológica 33, en Costa Rica, 2026.
+
+
+
+
+                                                                                  22
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+En relación con el histórico de casos de IRAS, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2026, esto se puede apreciar en el gráfico 9.
+
+Gráfico 9.
+Distribución histórica de casos de IRAS por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En el gráfico 10 se presenta el canal endémico de las IRAS en el Hospital Nacional
+de Niños, que muestra que a la semana 33 se encuentran en la zona de seguridad
+actualmente.
+
+Gráfico 10.
+Costa Rica: Canal endémico IRAS. HNN. 2026.
+
+
+
+
+                                                                                     23
+Fuente: Sistemas de Cubos Urgencias-UVEPCI HNN, 2026
+En cuanto a la notificación de ETI, por medio de la boleta VE02, se tiene la siguiente
+información, tal como se muestra en el gráfico 11:
+    - Los casos acumulados a la semana epidemiológica (SE) 33 son n= 9359.
+    - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+      distribución en personas entre 25 y 29 años y las personas entre 30 y 34
+      años.
+
+Gráfico 11.
+Distribución de casos de ETI por grupos por edad quinquenal, notificados a la
+semana epidemiológica 33, en Costa Rica, 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+En el gráfico 12, se observa la tasa de incidencia por ETI, según las regiones del
+Ministerio de Salud a la semana 33, presentando mayor cantidad de casos en la
+región Central Occidente. Las regiones con menor incidencia corresponden a la
+región Pacífico Central, Chorotega, Central Este, Central Sur, Huetar Norte, Central
+Norte, Huetar Caribe y Brunca.
+
+
+
+
+                                                                                         24
+Gráfico 12.
+Tasa de ETI por región del Ministerio de Salud, acumulada a la semana
+epidemiológica 33 del 2026, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de ETI, en
+Costa Rica son los que se presentan en el gráfico 13; se puede observar cómo se
+han distribuido los casos en el año 2026.
+
+Gráfico 13.
+Distribución de casos reportados por boleta VE-02 de ETI a la semana
+epidemiológica 33, en Costa Rica, 2026.
+
+
+
+
+                                                                                  25
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+En relación con el histórico de casos de ETI, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2026, esto se puede apreciar en el gráfico 14.
+
+Gráfico 14.
+Distribución histórica de casos de ETI por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Según se observa en el gráfico 15, se puede ver el comportamiento de los
+principales virus respiratorios circulantes de la semana 01 a la 33 del 2026; para la
+SE-33, en el país, el Rinovirus es el que más está circulando, seguido del virus
+respiratorio sincicial y finalmente el Covid-19 está en tercer lugar de circulación.
+
+
+
+
+                                                                                        26
+Gráfico 15.
+Distribución de virus circulantes de la semana epidemiológica 01 a la 33 en
+Costa Rica, 2026.
+
+
+
+
+Fuente: Matriz de Resultados de Laboratorio CCSS, Subárea de Vigilancia Epidemiológica 2026.
+
+En relación con los datos específicos del Hospital Nacional de Niños, la situación
+que se presenta es la siguiente:
+Al 2 de setiembre del año en curso, correspondiente a la semana 35, el total de
+pacientes respiratorios hospitalizados son 93, lo que corresponde a un porcentaje
+de ocupación del 139% (% de ocupación expandida del 97%).
+
+Gráfico 16.
+Total de pacientes hospitalizados y en emergencias en la semana 35 del año
+2026, Hospital Nacional de Niños.
+
+
+
+
+                                                                                               27
+Fuente: Hospital Nacional de Niños, 2026.
+Tabla 1.
+Positividad de muestras respiratorias de pacientes hospitalizados según
+agente etiológico viral. HNN. SE 1-33. Año 2026.
+
+
+
+
+Fuente: Unidad de Vigilancia Epidemiológica-Laboratorio de microbiología e inmunología. HNN. 2026.
+
+
+Gráfico 17.
+Distribución de muestras positivas por VRS en pacientes hospitalizados
+según SE y año. HNN. 2019-2026.
+
+
+
+
+                                                                                                     28
+Fuente: Unidad de Vigilancia Epidemiológica-Laboratorio de microbiología e inmunología. HNN. 2026.
+Para la enfermedad por COVID-19, durante la semana epidemiológica 33, se
+reportaron un total de 120 casos confirmados, lo que representa una disminución
+del 13.04% con respecto a la SE-32 del año 2026 que presentó 138 casos.
+
+Gráfico 18.
+Costa Rica: Casos COVID-19, según semana epidemiológica año 2026.
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, C.C.S.S / Dirección de Vigilancia de Salud, Ministerio de Salud,
+2026.
+
+
+Con respecto a las hospitalizaciones en la semana epidemiológica 34, se reportó un
+promedio total de 38 hospitalizados (36 en salón general y 2 en UCI); en la SE-33,
+hubo un total de 41 pacientes hospitalizados en salón general.
+
+
+
+
+                                                                                                                 29
+Gráfico 19.
+Costa Rica: Hospitalizaciones por Covid-19, según semana epidemiológica
+año 2026.
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, C.C.S.S / Dirección de Vigilancia de Salud, Ministerio de Salud,
+2026.
+
+En relación con el comportamiento de las personas fallecidas asociadas a COVID-
+19, durante la semana epidemiológica 33, hubo 3 fallecidos; sin embargo, es
+importante indicar que estos son datos preliminares sujetos a la revisión de los
+casos.
+
+
+
+
+                                                                                                                 30
+Gráfico 20.
+Costa Rica: Fallecidos por COVID-19, según semana epidemiológica año 2026.
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, C.C.S.S / Dirección de Vigilancia de Salud, Ministerio de Salud,
+2026.
+
+Variantes genómicas
+Según el informe interactivo de INCIENSA revisado el 26 de agosto del 2026, se
+reporta lo señalado en el gráfico 21.
+
+Gráfico 21.
+Costa Rica: Proporción de linaje identificados, para Variante de Preocupación
+(VOC) Ómicron, Variante de Interés (VOI) y Variantes Bajo Monitoreo (VUM),
+por semana epidemiológica SE 28 del 2026.
+
+
+
+
+                                                                                                                 31
+Fuente: Sistema de Información de INCIENSA, CCSS, DATOS Facultad de Microbiología UCR, actualizado en
+informe interactivo en Vigilancia genómica SARS-CoV-2 al 12 de agosto del 2026.
+       Enfermedad Diarreica Aguda (EDA) al 1 de
+                  setiembre 2026.
+
+
+Situación epidemiológica actual de EDA
+
+Al cierre de la SE 33 del 2026 se contabilizan 311354 casos de Enfermedad
+Diarreica Aguda (EDA) correspondientes a las semanas epidemiológicas (SE) de la
+1 a la 33. La curva epidemiológica muestra que la mayor carga del año se concentró
+principalmente entre las SE 14–16 y 20–21. La SE 15 continúa registrando el mayor
+número de casos, con 12 256, seguida de la SE 14 con 12 027 casos y la SE 16
+con 11 697 casos. A partir de la SE 25 se observa una disminución progresiva en el
+número de casos notificados; para la SE 33 se registran preliminarmente 6378
+casos.
+
+Esta reducción debe interpretarse con cautela, particularmente en las SE más
+recientes, debido al rezago habitual en la notificación y consolidación de los
+registros del sistema de vigilancia. Las cifras recientes pueden encontrarse
+parcialmente subestimadas, estimándose un rezago de al menos un 10 %, dado
+que la consolidación de la información suele completarse entre dos y tres semanas
+después de la semana epidemiológica analizada.
+
+De acuerdo con el análisis del canal endémico, durante 2026 se han presentado
+varias semanas con valores superiores a los esperados, lo que evidencia una carga
+importante de EDA durante el año. No obstante, la tendencia más reciente muestra
+una disminución progresiva en los casos notificados, cuya magnitud deberá
+reevaluarse conforme se complete la consolidación de los registros.
+
+El comportamiento de la EDA puede estar influenciado por factores ambientales,
+climáticos y conductuales, entre ellos las condiciones de manipulación y
+conservación de los alimentos, la calidad y disponibilidad del agua, las prácticas de
+higiene y los patrones de movilidad e interacción de la población. Estos factores
+deben analizarse conjuntamente con la tendencia temporal, la distribución territorial   32
+y la ocurrencia de brotes.
+En este contexto, se mantiene la vigilancia epidemiológica intensificada de la EDA,
+con seguimiento continuo de la tendencia temporal, la distribución territorial y la
+ocurrencia de brotes, con el propósito de identificar oportunamente cambios
+relevantes o concentraciones inusuales de casos o desviaciones respecto al
+comportamiento esperado.
+
+Contexto climático 2026 y EDA
+
+Las condiciones climáticas pueden influir de manera importante en el
+comportamiento de la Enfermedad Diarreica Aguda (EDA), al modificar la
+temperatura ambiental, los patrones de precipitación, la disponibilidad y calidad del
+agua y las condiciones de conservación de los alimentos.
+
+Durante 2026, uno de los principales incrementos de EDA se concentró entre las
+SE 14–16, período que coincidió con condiciones de temperaturas elevadas
+reportadas en distintas zonas del país. Un segundo incremento se observó durante
+las SE 20–21, en el contexto de la transición hacia la época lluviosa, caracterizada
+por temperaturas aún elevadas, aumento de la humedad y cambios en los patrones
+de precipitación. Esta coincidencia temporal resulta epidemiológicamente relevante,
+aunque por sí sola no permite establecer una relación causal.
+
+Las temperaturas elevadas pueden favorecer la proliferación y supervivencia de
+microorganismos en alimentos y agua, así como acelerar el deterioro de productos
+perecederos cuando existen condiciones inadecuadas de refrigeración,
+almacenamiento o manipulación. De forma paralela, las variaciones en las lluvias y
+en los sistemas de abastecimiento pueden afectar la disponibilidad y calidad
+microbiológica del agua, especialmente en comunidades con interrupciones del
+servicio, almacenamiento inadecuado o acceso limitado a fuentes seguras.
+
+A estos factores ambientales se suman prácticas de higiene y manipulación de
+alimentos que pueden incrementar el riesgo de transmisión, entre ellas el lavado
+insuficiente de manos, la contaminación cruzada y las deficiencias en la preparación
+y conservación de los alimentos.
+                                                                                        33
+En conjunto, la interacción entre temperatura, precipitación, humedad,
+disponibilidad de agua, inocuidad de los alimentos y prácticas de higiene puede
+generar condiciones favorables para la transmisión de agentes causantes de EDA.
+Por esta razón, el monitoreo de las variables climáticas constituye un componente
+complementario de la vigilancia epidemiológica, al contribuir a identificar períodos
+de mayor riesgo y orientar oportunamente las acciones de prevención y control.
+
+Canal endémico EDA
+
+Entre las SE 28 y 33 se registraron 42904 casos de EDA, con un promedio de 7 150
+casos por semana. Durante este período se observa una disminución en los
+registros semanales, pasando de 8332 casos en la SE 27 a 6378 en la SE 33. , lo
+que representa una reducción observada de 23,4 %.
+
+Los datos correspondientes a las semanas epidemiológicas más recientes son
+preliminares y se encuentran en proceso de consolidación, por lo que la posición de
+la curva dentro del canal endémico puede modificarse conforme se incorporen
+registros adicionales.
+
+El canal endémico permite comparar el comportamiento observado en 2026 con los
+límites históricos esperados para la EDA, distribuidos en zona de éxito, zona de
+seguridad y zona de alerta.
+
+Durante 2026, la curva ha presentado variaciones importantes y en diferentes
+momentos se ha ubicado por encima de los valores esperados, con ingreso
+transitorio a la zona de alerta.
+
+A partir de las semanas posteriores se observa un descenso progresivo de la curva.
+No obstante, debido al rezago de notificación de las semanas más recientes, es
+necesario esperar la consolidación de los datos antes de determinar si esta
+reducción representa un cambio sostenido en la tendencia.
+
+En términos generales, el canal endémico evidencia que durante 2026 se han
+presentado períodos de elevada actividad de EDA, alternados con semanas de
+menor incidencia, sin que la información disponible hasta la SE 33 permita
+                                                                                       34
+establecer una situación epidémica nacional generalizada.
+El análisis continuo del canal endémico permite identificar oportunamente
+desviaciones respecto al comportamiento histórico y orientar la vigilancia hacia
+períodos o territorios que requieran investigación adicional.
+
+Gráfico 1
+Costa Rica. Canal endémico para EDA por semana epidemiológica hasta la SE
+33. Años 2018- 2026 *
+
+
+
+
+Fuente: Datos preliminares, Dirección Vigilancia de la Salud. Ministerio de Salud.
+*Nota: Se excluyen del 2020 y 2021 por la pandemia COVID-19 y 2022 por hackeo de la CCSS.
+
+
+Distribución territorial de la EDA
+
+La tasa acumulada nacional de EDA hasta la SE 33 de 2026 se estima a 6378 casos
+por 100 000 habitantes. A nivel provincial, San José y Puntarenas presentan tasas
+superiores al promedio nacional, mientras que Alajuela, Heredia, Guanacaste,
+Limón y Cartago se mantienen por debajo de este valor.
+
+
+
+
+                                                                                            35
+Figura 1
+Costa Rica. Tasa de Incidencia de EDA, según provincia. SE 33, 2026
+
+
+
+
+Fuente: Datos preliminares. Dirección Vigilancia de la Salud. Ministerio de Salud.
+
+
+El análisis por región de salud evidencia una mayor concentración de la enfermedad
+en el Pacífico Central, con una tasa aproximada de 8732 casos por 100 000
+habitantes, seguido de la Región Central Sur, con alrededor de 7108 por 100 000
+habitantes. Este comportamiento señala territorios prioritarios para el seguimiento
+epidemiológico y la identificación de posibles factores locales asociados.
+
+
+Cantones con mayor incidencia
+
+La distribución cantonal permite identificar diferencias más marcadas que las
+observadas a nivel provincial. Orotina mantiene la mayor tasa acumulada del país,
+con aproximadamente 10 860,0 casos por 100 000 habitantes, seguido de Vázquez         36
+de Coronado (10 392,0), Flores (9 986,6), Montes de Oro (9 468,7) y Mora (9 350,5).
+También presentan tasas claramente superiores al promedio nacional cantones
+como Esparza, Puntarenas, San José, Goicoechea y Alajuelita, evidenciando una
+concentración importante de la EDA en territorios del Pacífico Central y la Gran Área
+Metropolitana, además de focos específicos en Heredia y otras zonas del país.
+
+La distribución territorial muestra que la carga de EDA no es homogénea. Mientras
+algunos cantones concentran un mayor número absoluto de casos por su tamaño
+poblacional, otros presentan una incidencia proporcionalmente elevada, lo que
+permite identificar territorios donde el riesgo relativo de enfermar es mayor.
+
+Gráfico 3
+Costa Rica. Cantones con mayor tasa acumulada de EDA, SE 33, 2026
+
+
+
+
+Fuente: Datos preliminares. Dirección Vigilancia de la Salud. Ministerio de Salud.
+
+
+
+
+Desde la perspectiva de vigilancia epidemiológica, estos hallazgos respaldan la
+necesidad de priorizar el análisis de los territorios con tasas persistentemente
+elevadas, integrando información sobre brotes, abastecimiento y calidad del agua,
+establecimientos de alimentos, condiciones ambientales, movilidad poblacional y
+otros determinantes locales que permitan explicar las diferencias observadas.
+                                                                                        37
+Distribución por grupos de edad y sexo
+
+La distribución por edad mantiene un patrón bimodal, con mayor incidencia en la
+niñez menor de 5 años y en los adultos jóvenes. Las tasas más elevadas se
+registran en el grupo de 20 a 24 años (10 370,8 por 100 000 habitantes), seguido
+de 25 a 29 años (9 407,5), 1 a 4 años (8 957,7) y menores de 1 año (8 381,3).
+
+Este comportamiento concentra la atención en dos grupos de interés
+epidemiológico: los menores de cinco años, por su mayor vulnerabilidad ante la
+deshidratación y las complicaciones asociadas a los cuadros gastrointestinales, y
+los adultos jóvenes, especialmente entre los 20 y 29 años, por su elevada carga de
+enfermedad y su mayor movilidad social, laboral y alimentaria.
+
+A partir de los 40 años se observa una disminución progresiva de las tasas, pasando
+de 5 654,4 por 100 000 habitantes en el grupo de 40 a 44 años a 2 843,3 en las
+personas de 65 años y más. Estos hallazgos respaldan la necesidad de mantener
+acciones de prevención y vigilancia dirigidas especialmente a la niñez temprana y a
+la población adulta joven y económicamente activa.
+
+Los datos muestran una tasa global mayor en mujeres (6 424,1) que en hombres (5
+488,1 por 100 000 habitantes), aunque en los menores de 5 años y en el grupo de
+35 a 39 años las tasas son mayores en hombres.
+
+Recomendaciones a la población
+
+Ante la ocurrencia de casos y brotes de Enfermedad Diarreica Aguda (EDA), el
+Ministerio de Salud recomienda reforzar las medidas de prevención relacionadas
+con la higiene, el consumo de agua segura y la manipulación adecuada de los
+alimentos.
+
+Se recomienda acudir oportunamente a los servicios de salud ante la presencia de
+diarrea, vómitos, fiebre, dolor abdominal, signos de deshidratación o sangre en las
+heces, especialmente cuando varias personas presentan síntomas similares
+después de consumir los mismos alimentos o agua.
+                                                                                      38
+Asimismo, se insta a la población a informar al Ministerio de Salud sobre situaciones
+que puedan representar un riesgo sanitario, como enfermedad de varias personas
+asociada a un mismo establecimiento o alimento, deficiencias de higiene, problemas
+de refrigeración, alimentos en mal estado o prácticas inadecuadas de manipulación.
+La notificación temprana facilita la investigación de brotes y la aplicación oportuna
+de medidas de control.
+
+Para prevenir la EDA:
+   • Mantener un adecuado lavado de manos.
+   • Consumir agua segura.
+   • Cocinar adecuadamente los alimentos.
+   • Mantener una correcta refrigeración y conservación.
+   • Evitar la contaminación cruzada entre alimentos crudos y preparados.
+   • No consumir alimentos en mal estado o de procedencia dudosa.
+
+
+Conclusión EDA
+
+A la SE 33 de 2026, la EDA continúa representando una carga relevante para la
+salud pública en Costa Rica. Aunque en las semanas recientes se observa una
+disminución en los casos notificados, esta tendencia debe interpretarse con cautela
+debido al rezago habitual en la consolidación de los registros.
+
+El seguimiento epidemiológico debe orientarse a confirmar la evolución de la
+tendencia, identificar oportunamente cambios en los territorios con mayor incidencia
+y fortalecer la investigación de brotes y factores de riesgo asociados.
+Resulta fundamental reforzar las medidas de prevención, especialmente el lavado
+adecuado de manos, el consumo de agua segura, la correcta cocción y
+conservación de los alimentos y la prevención de la contaminación cruzada.
+
+En este contexto, la aplicación oportuna del Protocolo de Vigilancia de
+Enfermedades Transmitidas por Alimentos (ETA), junto con la vigilancia activa, la
+investigación de campo y la respuesta temprana ante alertas locales, constituye un
+elemento clave para identificar fuentes de transmisión, implementar medidas de
+control y reducir el impacto de la enfermedad en las poblaciones y territorios más      39
+afectados.
+                         Miasis por gusano barrenador en humanos
+A continuación, se presentan los datos preliminares de miasis por gusano
+barrenador en humanos para la semana epidemiológica (SE) 34 del año 2026,
+según establece el Reglamento de Vigilancia de la Salud Decreto N°40556-S y el
+Lineamiento Nacional para la Vigilancia de Miasis por Gusano Barrenador en
+Humanos es un evento de notificación obligatoria al Ministerio de Salud.
+
+En relación con la notificación de esta miasis, por medio de la boleta VE-01, para el
+año 2026 a la SE 34, se tienen los siguientes datos:
+
+
+         − Casos acumulados de miasis por gusano barrenado en humanos suman un
+                         total de 54 casos
+         − Casos por grupos de edad tienen un predominio en las personas de 20 a 64
+                         años (25/54) y las adultas de 65 y más años con más casos reportados
+                         (26/54)
+
+Gráfico 1
+Costa Rica: Casos notificados de miasis de gusano barrenador según SE de
+la 01 a la 34, 2026
+                     8
+
+                     7
+
+                     6
+   Número de casos
+
+
+
+
+                     5
+
+                     4
+
+                     3
+
+                     2
+
+                     1
+
+                     0
+                          1 2 3 4 5 6 7 8 9 10111213141516171819202122232425262728293031323334353637383940
+                                                      Semana epidemiológica
+
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+                                                                                                             40
+Gráfico 2
+Costa Rica: Casos notificados de miasis por gusano barrenador según grupos
+de edad quinquenal, de la SE 01 a la 34, 2026
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+
+El comportamiento de la miasis por gusano barrenador en humanos, en el año 2026,
+presenta un predominio en los hombres con 38 casos notificados con una tasa de
+1,5 por 100.000 habitantes y en las mujeres con 16 casos notificados con una tasa
+de 0,6 por 100.000 habitantes.
+
+
+
+
+                                                                                                     41
+Tabla 1
+Costa Rica: Casos notificados de miasis por gusano barrenador por número
+de casos y tasas (tasa p/100.000 habitantes) según provincia de procedencia,
+de la SE 01 a 34, 2026
+
+Provincias                                                 Casos                   Tasas
+Total                                                       54                      1,0
+
+San José                                                    9                       0,5
+Alajuela                                                    11                      1,0
+Cartago                                                     4                       0,7
+Heredia                                                     4                       0,7
+Guanacaste                                                  9                       2,2
+Puntarenas                                                  11                      2,2
+Limón                                                       6                       1,3
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+
+
+En la tabla 1, se presenta el comportamiento de esta enfermedad por número de
+casos notificados a la SE 34 según provincia de procedencia, presentando mayor
+número de casos la provincia de Alajuela (11/54) y Puntarenas (11/54).
+
+Gráfico 3
+Costa Rica: Casos notificados de miasis por gusano barrenador por número
+de casos según región del Ministerio de Salud de procedencia, de la SE 01 a
+34, 2026
+
+                              Central Occidente
+   Región del Ministerio de
+
+
+
+
+                                   Central Este
+                                 Huetar Caribe
+                                  Central Norte
+           Salud
+
+
+
+
+                                         Brunca
+                                    Central Sur
+                                Pacifico Central
+                                   Huetar Norte
+                                     Chorotega
+                                                   0   2           4         6        8              10
+                                                                 Número de casos                          42
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+En el gráfico 3 se muestra el comportamiento de esta enfermedad en las nueve
+regiones del Ministerio de Salud, destacándose la Región Chorotega (9/54) con el
+mayor número de casos notificados.
+
+En el gráfico 4 se puede observar el comportamiento de la miasis por gusano
+barrenador en humanos durante la SE 01 a 34 de los años 2025 y 2026. Para el
+2026 se notificó un total de 54 casos confirmados por esta enfermedad. De forma
+comparativa, para la SE 34 del 2025 se habían confirmado 73 casos de miasis por
+gusano barrenador en el país.
+
+Gráfico 4
+Costa Rica: Casos notificados de miasis de gusano barrenador, según SE, de
+la SE 01 a la 34 del 2025 y del 2026
+                     6
+
+                     5
+   Número de casos
+
+
+
+
+                     4
+
+                     3
+
+                     2
+
+                     1
+
+                     0
+                         1   3   5   7   9   11   13   15   17   19   21   23   25   27   29   31   33   35   37   39
+                                                       Semana epidemiológica
+
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2025 y 2026
+
+
+En atención a la declaratoria de Emergencia Nacional Sanitaria Epidémica para el
+control y erradicación del Gusano Barrenador (Cochliomyia hominivorax),
+establecida mediante el Decreto Ejecutivo N° 44382–MAG, y considerando que la
+mosca continúa circulando en el territorio nacional, resulta de suma importancia que,
+ante la detección de un caso sospechoso en humanos, se active de manera
+inmediata la coordinación interinstitucional e intersectorial bajo el enfoque de Una
+Sola Salud.                                                                                                             43
+Dicha coordinación involucra la participación del Ministerio de Salud, la Caja
+Costarricense de Seguro Social, el Ministerio de Agricultura y Ganadería a través
+del Servicio Nacional de Salud Animal (SENASA), y el Ministerio de Ambiente y
+Energía (MINAE), según corresponda. El propósito es identificar oportunamente
+casos sospechosos en humanos y/o animales y garantizar su atención conforme a
+lo establecido en el Lineamiento Nacional para la Vigilancia de Miasis por
+Gusano Barrenador en Humanos.
+
+A continuación, se presentan las disposiciones generales para la prevención y
+control de la enfermedad:
+
+   − Acudir oportunamente a los servicios de salud públicos o privados ante la
+      presencia de síntomas compatibles con la enfermedad, tales como dolor,
+      malestar y picazón en el sitio de la lesión, enrojecimiento de la piel, herida
+      con secreción, sensación que se mueve y con frecuencia, se pueden
+      observar huevecillos y/o larvas visibles en la lesión.
+   − Mantener una adecuada higiene personal, incluyendo el lavado frecuente de
+      manos con agua y jabón.
+   − Realizar el control, tratamiento y cuidado higiénico de las lesiones conforme
+      a las indicaciones del médico tratante.
+   − Mantener vigilancia y control en el cuidado de los animales, efectuando
+      revisiones periódicas y la curación de todas las heridas. Asimismo, se deberá
+      notificar a las autoridades de salud animal (MAG-SENASA y/o MINAE) la
+      aparición de animales con gusaneras, a fin de garantizar su atención
+      oportuna.
+
+
+
+
+                                                                                       44
+  Informe técnico de seguimiento de los brotes de
+                    Hepatitis A.
+Introducción
+
+La Hepatitis A es una infección hepática aguda causada por el virus de la Hepatitis
+A (VHA), un Hepatovirus de la familia Picornaviridae transmitido principalmente por
+vía fecal-oral mediante el consumo de agua o alimentos contaminados, o por
+contacto directo entre personas. Representa un desafío crítico en salud pública
+debido a su alta transmisibilidad en entornos con brechas en saneamiento básico y
+acceso a agua potable.
+
+De acuerdo con las estimaciones de la Organización Panamericana de la Salud
+(OPS), América Latina y el Caribe registra miles de infecciones anuales, donde la
+Hepatitis A aguda contribuye significativamente a la morbilidad hepatobiliar y, en
+menor proporción, a casos de insuficiencia hepática fulminante.
+
+En el contexto nacional, este año en particular, se ha observado un comportamiento
+endémico con picos epidémicos periódicos, concentrados con mayor frecuencia en
+la Gran Área Metropolitana (GAM) y en cantones con problemas intermitentes en la
+calidad o suministro de agua potable. En cuanto al grupo etario más afectado se
+habla de población pediátrica pero también hay adolescentes y adultos jóvenes,
+grupo donde la probabilidad de ictericia y complicación sintomática es mayor.
+Costa Rica cuenta con el seguimiento obligante de casos mediante la boleta VE-01
+y esfuerzos hacia el saneamiento ambiental, higiene de alimentos, una adecuada
+manipulación de alimentos en servicios de alimentación al público y lavado de
+manos.
+
+Datos
+
+
+
+
+                                                                                      45
+Gráfico 1
+Costa Rica: Distribución de casos confirmados de Hepatitis A, 2017-2026
+
+           2500                                                             2301
+
+
+           2000
+                                   1584
+           1500
+   Casos
+
+
+
+
+                           1080
+                                                                                    1000
+           1000
+                                                                                                   772
+
+
+           500    342                          407                                         373
+                                                           154       120
+             0
+                  2017     2018    2019       2020         2021     2022    2023    2024   2025    2026*
+                                                              Años
+COSTA RICA: CASOS CONFIRMADOS DE HEPATITIS A
+Gráfico 2.
+SEGÚN PROVINCIA
+NÚMEROS ABSOLUTOS
+Costa Rica: Casos confirmados de Hepatitis A según província. Números
+AÑO 2017-2026
+Absolutos, Año 2017-2026
+
+                        2017   2018    2019      2020             2021     2022    2023    2024       2025     2026*
+   PROVINCIA         Total     Total   Total     Total            Total    Total   Total   Total      Total    Total
+
+  TOTAL PAIS             342   1080    1584          407          154      120     2301    1000          373   772
+
+San Jose             209     794      819      127        102    71     1462     529        189        562
+Alajuela              47     116      282       79          9     7     228       76         51         60
+Cartago                9      45       99       28          2     9     222      178         22         61
+Heredia               11      80       72       20         12     8     154       66         36         46
+Guanacaste            30       2       10        1          1     1     121       61         25         14
+Puntarenas            26      13      130       31          2     6      55       35         19         12
+Limon                 10      30      172      121         26    18      59       55         31         17
+Ignorado               0       0        0        0          0     0       0        0         0           0
+Extranjero             0       0        0        0          0     0       0        0         0           0
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud.
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud. Información proporcionada por establecimientos
+*Datos
+de CCSS.preliminares de las semana
+           *Datos preliminares   a la32.
+                                      semana epidemiológica 32.
+                                                                                                                       46
+Gráfico 3
+Costa Rica: Casos                               confirmados               por   Hepatitis            A,    según      semana
+epidemiológica, 2026
+
+
+
+
+            100
+            90
+            80
+            70
+            60
+    casos
+
+
+
+
+            50
+            40
+            30
+            20
+            10
+             0
+                    1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53
+                                                          semana epidemiológica
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud. Información proporcionada por establecimientos
+de CCSS. *Datos preliminares a la semana epidemiológica 32.
+
+
+Gráfico 4
+Costa Rica: Distribución de casos según sexo, 2023- 2026
+
+
+  AÑO                             2023                            2024                        2025                         2026*
+
+             TOTAL       Femenino Masculino     TOTAL    Femenino Masculino TOTAL     Femenino Masculino TOTAL    Femenino Masculino
+
+  SEXO            2301      882          1419     1000      456          544    373     183          190    772      264           508
+
+
+
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud. Información proporcionada por establecimientos
+de CCSS. *Datos preliminares a la semana epidemiológica 32.
+
+
+
+
+                                                                                                                                         47
+Gráfico 5
+Costa Rica: Distribución de casos por provincia, 2026
+
+                                        Año 2026
+                 Provincia                                        Total
+                 San José                                          562
+                 Alajuela                                           60
+                 Cartago                                            61
+                  Heredia                                           46
+                Guanacaste                                          14
+                Puntarenas                                          12
+                  Limón                                             17
+               Total del país                                      772
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud. Información proporcionada por establecimientos
+de CCSS. *Datos preliminares a la semana epidemiológica 32.
+
+Gráfico 6
+Costa Rica: Distribución de casos por grupos de edad, 2026
+                                               Año 2026
+              Grupo de edad                                                  Casos
+             Menores de 1 año                                                  3
+           < 1 año a > de 10 años                                             26
+            <10 años a >20 años                                               111
+            <20 años a >64 años                                               601
+                   < 65 años                                                  31
+              Total de Casos                                                  772
+
+Fuente: Dirección Vigilancia de la Salud, Ministerio de Salud. Información proporcionada por establecimientos
+de CCSS. *Datos preliminares a la semana epidemiológica 32.
+
+
+
+
+                                                                                                                48
+Brote de Hepatitis A – Sector Progreso, Precario Siglo XXI, León XIII, Tibás
+
+   •   Evento: Brote de Hepatitis A notificado el 1 de julio de 2026 en el Sector
+       Progreso, Precario Siglo XXI, distrito de León XIII, cantón de Tibás.
+   •   Magnitud: Se identificaron 5 casos confirmados de Hepatitis A, todos en
+       personas menores de edad, con edades entre 10 y 16 años, vinculados
+       principalmente por relaciones familiares y proximidad domiciliar.
+   •   Factores de riesgo identificados: Durante la investigación de campo se
+       evidenciaron hacinamiento, condiciones deficientes de saneamiento,
+       conexiones informales a la red de agua potable, interrupciones del
+       suministro y almacenamiento de agua en recipientes domésticos,
+       condiciones que pueden favorecer la transmisión fecal-oral.
+   •   Acciones realizadas: Se efectuó investigación epidemiológica y búsqueda
+       de contactos, seguimiento de los casos, intervenciones domiciliares,
+       educación sobre higiene y lavado de manos, manejo seguro del agua y
+       medidas para evitar la transmisión. Además, se verificaron los servicios de
+       alimentación y condiciones sanitarias de los dos centros educativos
+       relacionados con los casos, sin identificarse incumplimientos.
+   •   Articulación: Se mantuvo coordinación entre el Área de Salud, DARS Tibás,
+       CILOVIS y centros educativos, reforzando la vigilancia y la comunicación de
+       riesgo en la comunidad.
+   •   Situación actual: Al 19 de agosto de 2026 no se identificaron nuevos casos
+       asociados al brote. Considerando el tiempo transcurrido desde el inicio de
+       síntomas del último caso y el período de incubación de la enfermedad, se
+       determinó técnicamente el cierre del brote.
+   •   Seguimiento: Se mantiene vigilancia epidemiológica intensificada ante
+       el incremento de casos de Hepatitis A observado en Tibás y otros cantones
+       cercanos, con énfasis en detección temprana, educación sanitaria, higiene,
+       agua segura y coordinación interinstitucional.
+
+El brote de León XIII, conformado por cinco casos pediátricos confirmados, se
+encuentra cerrado y sin nuevos casos asociados identificados. La
+investigación permitió implementar oportunamente medidas de control; no obstante,
+las condiciones de saneamiento y acceso/almacenamiento de agua identificadas en
+el sector constituyen factores que requieren atención preventiva y vigilancia
+                                                                                     49
+sostenida.
+Hepatitis A – Distrito de Hatillo
+
+   •   Situación actual: Se registra un aumento de casos de Hepatitis A, con 91
+       casos notificados, de los cuales 68 están confirmados por laboratorio y
+       23 se encuentran pendientes de resultado. El aumento se concentra
+       principalmente en Sagrada Familia, Hatillo 1 y Colonia 15 de Setiembre.
+   •   La investigación epidemiológica no ha identificado una fuente común de
+       transmisión. Algunos casos presentan transmisión intrafamiliar, mientras
+       que la mayoría no presenta vínculo epidemiológico entre sí.
+   •   Se mantiene vigilancia epidemiológica intensificada, seguimiento e
+       investigación de los casos, así como coordinación con la Dirección
+       Regional.
+   •   Se han reforzado las medidas de prevención y control en centros
+       educativos y de cuido, incluyendo lavado de manos, higiene, limpieza y
+       desinfección, consumo de agua segura y adecuada manipulación de
+       alimentos.
+
+Hepatitis A – Distrito Hospital, San José
+
+   •   Situación actual: Se confirma un brote de Hepatitis A, con 70 casos
+       confirmados por laboratorio al cierre de la semana epidemiológica 31,
+       frente a 15 casos en 2024 y 1 caso en 2025. La incidencia acumulada
+       estimada es de 287,1 casos por 100.000 habitantes. No se registran
+       hospitalizaciones ni fallecimientos asociados al evento.
+   •   Comportamiento epidemiológico: El aumento se inició a partir de la
+       semana epidemiológica 20, con mayor concentración entre las semanas 26
+       y 29. El patrón observado es compatible con transmisión propagada de
+       persona a persona, sin identificación hasta el momento de una fuente
+       común específica.
+   •   Distribución: Los casos se concentran principalmente en Barrio Cuba y
+       Cristo Rey, seguidos por El Pochote y Barrio Los Ángeles. La mayor
+       afectación corresponde a adolescentes y adultos jóvenes, particularmente
+       de 20 a 34 años, con predominio masculino (71,4 %).
+   •   Acciones: Se mantiene vigilancia epidemiológica activa, búsqueda y
+       seguimiento de casos y contactos, investigación de cadenas de transmisión
+                                                                                   50
+       y evaluaciones sanitarias focalizadas en las comunidades más afectadas,
+      incluyendo inspecciones de establecimientos de alimentos y verificación de
+      prácticas de manipulación.
+  •   Se refuerzan las medidas de prevención y control, principalmente lavado de
+      manos, higiene y manipulación segura de alimentos, limpieza y desinfección
+      de superficies y acciones específicas en centros educativos y
+      establecimientos de alimentación.
+
+Hepatitis A – Aserrí y San Juan de Dios de Desamparados
+
+  •   Situación actual: Se mantiene un brote de Hepatitis A con 17 casos
+      confirmados, distribuidos principalmente entre Aserrí (8 casos) y San Juan
+      de Dios de Desamparados (7 casos). No se reportan hospitalizaciones ni
+      fallecimientos. Se observa una disminución de casos en las últimas semanas.
+  •   Investigación epidemiológica: No se ha establecido hasta el momento una
+      relación epidemiológica directa entre la mayoría de los casos. Se mantiene
+      la investigación de posibles fuentes de exposición y seguimiento de
+      contactos.
+  •   Hallazgos ambientales: En el sistema Lourdes del Acueducto Municipal de
+      Aserrí se identificó contaminación fecal, presencia de coliformes fecales y E.
+      coli y niveles insuficientes de cloro residual, por lo que el agua fue clasificada
+      como no apta para consumo humano. Estos resultados no demuestran por
+      sí mismos que el agua sea la fuente de los casos de Hepatitis A, ya que no
+      se detectó específicamente el virus de Hepatitis A.
+  •   Acciones: Se mantiene vigilancia activa, búsqueda comunitaria de casos,
+      investigación epidemiológica, seguimiento de contactos, comunicación de
+      riesgo, inspecciones sanitarias y monitoreo de la calidad del agua. Además,
+      se emitió orden sanitaria a la Municipalidad de Aserrí para corregir las
+      deficiencias identificadas.
+  •   El brote continúa bajo vigilancia epidemiológica y ambiental, con tendencia
+      descendente de casos y seguimiento de las medidas sanitarias
+      implementadas.
+
+
+
+                                                                                           51
+Valoración epidemiológica y respuesta institucional de la Dirección de
+Vigilancia de la Salud
+
+La Dirección de Vigilancia de la Salud mantiene el seguimiento integrado de la
+situación epidemiológica de Hepatitis A, en articulación con la Región Central Sur,
+las Áreas Rectoras de Salud y las Áreas de Salud, fortaleciendo el análisis conjunto
+de los casos y la respuesta territorial.
+Como parte de este seguimiento, se han realizado reuniones de coordinación con
+las Áreas Rectoras de Salud y la Región Central Sur, con participación de los
+componentes de vigilancia epidemiológica, salud ambiental y regulación sanitaria,
+con el propósito de integrar los hallazgos, identificar patrones de transmisión y
+fortalecer las medidas de prevención y control.
+Desde el componente epidemiológico, el análisis de los eventos muestra patrones
+diferenciados de transmisión. Se han identificado situaciones compatibles con
+transmisión intrafamiliar y propagada de persona a persona, mientras que en otros
+sectores no se ha logrado establecer un nexo epidemiológico entre la mayoría de
+los casos.
+
+De manera integrada, la evidencia disponible hasta el momento no permite
+establecer una fuente hídrica común que explique el aumento de casos observado
+en las diferentes localidades. En consecuencia, se mantiene la investigación de
+posibles mecanismos de transmisión asociados al contacto persona a persona,
+transmisión intrafamiliar y prácticas de higiene y manipulación de alimentos, sin
+descartar otras fuentes de exposición que puedan identificarse mediante la
+vigilancia.
+En el componente ambiental se mantiene la evaluación de la calidad del agua y de
+las condiciones sanitarias cuando los hallazgos epidemiológicos lo justifican, así
+como la coordinación con las instancias responsables para la atención de las
+situaciones identificadas.
+A nivel poblacional, se han reforzado las medidas de comunicación de riesgo y
+prevención, con énfasis en el lavado correcto de manos con agua y jabón, higiene
+personal, manipulación segura de alimentos, limpieza y desinfección de superficies
+y consumo de agua segura, particularmente en comunidades, centros educativos,
+centros de cuido y establecimientos de alimentación.
+La DVS mantendrá el seguimiento epidemiológico intensificado y el análisis
+                                                                                       52
+integrado de la situación, con especial atención a la aparición de nuevos casos,
+identificación de posibles nexos, comportamiento temporal y geográfico de la
+enfermedad y evolución de los eventos actualmente bajo vigilancia, con el fin de
+orientar oportunamente las medidas de control y prevenir la expansión de la
+transmisión.
+Asimismo, se ha fortalecido la comunicación de riesgo a través de medios de
+comunicación, con información desarrollada desde esta Dirección y en coordinación
+con la Oficina de Prensa del MINSA para los medios de comunicación y que,
+además, se ha publicado en redes sociales institucionales, con difusión de mensajes
+dirigidos a la población sobre las medidas de prevención y control de la Hepatitis A.
+
+
+
+
+                                                                                        53
+

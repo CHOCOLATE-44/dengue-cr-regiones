@@ -1,0 +1,118 @@
+"anio","region","casos","fuente","poblacion","poblacion_fuente","tasa"
+2012,"Brunca",188,"Excel ASIS 2012, hoja Region",350374,"ASIS 2012, hoja Regiones (casos / tasa)",53.6569494311793
+2012,"C.Este",68,"Excel ASIS 2012, hoja Region",507141.999999998,"ASIS 2012, hoja Regiones (casos / tasa)",13.4084733664339
+2012,"Central Norte",4645,"Excel ASIS 2012, hoja Region",890229.000000001,"ASIS 2012, hoja Regiones (casos / tasa)",521.775857672576
+2012,"Central Sur",909,"Excel ASIS 2012, hoja Region",1405113,"ASIS 2012, hoja Regiones (casos / tasa)",64.6923058857188
+2012,"Chorotega",3177,"Excel ASIS 2012, hoja Region",396520,"ASIS 2012, hoja Regiones (casos / tasa)",801.220619388682
+2012,"H. Caribe",7981,"Excel ASIS 2012, hoja Region",416906,"ASIS 2012, hoja Regiones (casos / tasa)",1914.34040287259
+2012,"H.Norte",220,"Excel ASIS 2012, hoja Region",220442,"ASIS 2012, hoja Regiones (casos / tasa)",99.7994937443863
+2012,"Occidente",20,"Excel ASIS 2012, hoja Region",199691,"ASIS 2012, hoja Regiones (casos / tasa)",10.0154739071866
+2012,"Pacífico Central",4995,"Excel ASIS 2012, hoja Region",266034,"ASIS 2012, hoja Regiones (casos / tasa)",1877.57955750017
+2013,"Brunca",5910,"Excel ASIS 2013, hoja Region",353179.666666666,"interpolada 2012–2015 (sin tasas en ASIS)",1673.36926720017
+2013,"C.Este",743,"Excel ASIS 2013, hoja Region",524760.666666666,"interpolada 2012–2015 (sin tasas en ASIS)",141.588355834597
+2013,"Central Norte",8151,"Excel ASIS 2013, hoja Region",903841.333333334,"interpolada 2012–2015 (sin tasas en ASIS)",901.817575651183
+2013,"Central Sur",3863,"Excel ASIS 2013, hoja Region",1407418.33333333,"interpolada 2012–2015 (sin tasas en ASIS)",274.474185003038
+2013,"Chorotega",14887,"Excel ASIS 2013, hoja Region",403015.333333333,"interpolada 2012–2015 (sin tasas en ASIS)",3693.90411944624
+2013,"H. Caribe",6758,"Excel ASIS 2013, hoja Region",422445,"interpolada 2012–2015 (sin tasas en ASIS)",1599.73487672952
+2013,"H.Norte",353,"Excel ASIS 2013, hoja Region",224593.333333333,"interpolada 2012–2015 (sin tasas en ASIS)",157.172964469115
+2013,"Occidente",226,"Excel ASIS 2013, hoja Region",202415.333333333,"interpolada 2012–2015 (sin tasas en ASIS)",111.651620595278
+2013,"Pacífico Central",9102,"Excel ASIS 2013, hoja Region",270707.333333333,"interpolada 2012–2015 (sin tasas en ASIS)",3362.30270821379
+2014,"Brunca",1945,"Excel ASIS 2014, hoja Region",355985.333333333,"interpolada 2012–2015 (sin tasas en ASIS)",546.370824266168
+2014,"C.Este",96,"Excel ASIS 2014, hoja Region",542379.333333333,"interpolada 2012–2015 (sin tasas en ASIS)",17.6997894462547
+2014,"Central Norte",1815,"Excel ASIS 2014, hoja Region",917453.666666667,"interpolada 2012–2015 (sin tasas en ASIS)",197.830153820665
+2014,"Central Sur",628,"Excel ASIS 2014, hoja Region",1409723.66666667,"interpolada 2012–2015 (sin tasas en ASIS)",44.547737606259
+2014,"Chorotega",2221,"Excel ASIS 2014, hoja Region",409510.666666667,"interpolada 2012–2015 (sin tasas en ASIS)",542.354615101601
+2014,"H. Caribe",2215,"Excel ASIS 2014, hoja Region",427984,"interpolada 2012–2015 (sin tasas en ASIS)",517.54271187708
+2014,"H.Norte",113,"Excel ASIS 2014, hoja Region",228744.666666667,"interpolada 2012–2015 (sin tasas en ASIS)",49.4000588720466
+2014,"Occidente",18,"Excel ASIS 2014, hoja Region",205139.666666667,"interpolada 2012–2015 (sin tasas en ASIS)",8.77450972426915
+2014,"Pacífico Central",2089,"Excel ASIS 2014, hoja Region",275380.666666667,"interpolada 2012–2015 (sin tasas en ASIS)",758.586296302573
+2015,"Brunca",2752,"Excel ASIS 2015, hoja Region",358791,"modelo (bloques_region_anio)",767.0203544682
+2015,"C.Este",76,"Excel ASIS 2015, hoja Region",559998,"modelo (bloques_region_anio)",13.5714770409894
+2015,"Central Norte",2643,"Excel ASIS 2015, hoja Region",931066,"modelo (bloques_region_anio)",283.868168314599
+2015,"Central Sur",953,"Excel ASIS 2015, hoja Region",1412029,"modelo (bloques_region_anio)",67.491531689505
+2015,"Chorotega",6958,"Excel ASIS 2015, hoja Region",416006,"modelo (bloques_region_anio)",1672.5720302111
+2015,"H. Caribe",637,"Excel ASIS 2015, hoja Region",433523,"modelo (bloques_region_anio)",146.935687379908
+2015,"H.Norte",56,"Excel ASIS 2015, hoja Region",232896,"modelo (bloques_region_anio)",24.0450673261885
+2015,"Occidente",70,"Excel ASIS 2015, hoja Region",207864,"modelo (bloques_region_anio)",33.6758649886464
+2015,"Pacífico Central",3113,"Excel ASIS 2015, hoja Region",280054,"modelo (bloques_region_anio)",1111.57133981304
+2016,"Brunca",4296,"Excel ASIS 2016, hoja Region",361143,"modelo (bloques_region_anio)",1189.55649147291
+2016,"C.Este",91,"Excel ASIS 2016, hoja Region",564586,"modelo (bloques_region_anio)",16.1180050514891
+2016,"Central Norte",7110,"Excel ASIS 2016, hoja Region",944829,"modelo (bloques_region_anio)",752.517122145912
+2016,"Central Sur",2524,"Excel ASIS 2016, hoja Region",1426017,"modelo (bloques_region_anio)",176.996487419154
+2016,"Chorotega",2826,"Excel ASIS 2016, hoja Region",422573,"modelo (bloques_region_anio)",668.760190546959
+2016,"H. Caribe",1601,"Excel ASIS 2016, hoja Region",439013,"modelo (bloques_region_anio)",364.681683685905
+2016,"H.Norte",244,"Excel ASIS 2016, hoja Region",237073,"modelo (bloques_region_anio)",102.921884820287
+2016,"Occidente",65,"Excel ASIS 2016, hoja Region",210432,"modelo (bloques_region_anio)",30.8888381995134
+2016,"Pacífico Central",4562,"Excel ASIS 2016, hoja Region",284706,"modelo (bloques_region_anio)",1602.35470977078
+2017,"Brunca",306,"Excel ASIS 2017, hoja Region",363471,"modelo (bloques_region_anio)",84.1882846224321
+2017,"C.Este",91,"Excel ASIS 2017, hoja Region",569046,"modelo (bloques_region_anio)",15.9916772984961
+2017,"Central Norte",1382,"Excel ASIS 2017, hoja Region",958330,"modelo (bloques_region_anio)",144.209197249382
+2017,"Central Sur",351,"Excel ASIS 2017, hoja Region",1439614,"modelo (bloques_region_anio)",24.3815356060722
+2017,"Chorotega",415,"Excel ASIS 2017, hoja Region",429066,"modelo (bloques_region_anio)",96.721716472524
+2017,"H. Caribe",2223,"Excel ASIS 2017, hoja Region",444447,"modelo (bloques_region_anio)",500.172124010287
+2017,"H.Norte",35,"Excel ASIS 2017, hoja Region",241213,"modelo (bloques_region_anio)",14.5099973882005
+2017,"Occidente",21,"Excel ASIS 2017, hoja Region",212950,"modelo (bloques_region_anio)",9.86146982859826
+2017,"Pacífico Central",737,"Excel ASIS 2017, hoja Region",289344,"modelo (bloques_region_anio)",254.714111922141
+2018,"Brunca",104,"Excel ASIS 2018, hoja Region",365772,"modelo (bloques_region_anio)",28.4330129151493
+2018,"C.Este",79,"Excel ASIS 2018, hoja Region",573398,"modelo (bloques_region_anio)",13.7775157918235
+2018,"Central Norte",1082,"Excel ASIS 2018, hoja Region",971638,"modelo (bloques_region_anio)",111.358345392008
+2018,"Central Sur",113,"Excel ASIS 2018, hoja Region",1452752,"modelo (bloques_region_anio)",7.7783406940758
+2018,"Chorotega",318,"Excel ASIS 2018, hoja Region",435472,"modelo (bloques_region_anio)",73.0242128081714
+2018,"H. Caribe",688,"Excel ASIS 2018, hoja Region",449781,"modelo (bloques_region_anio)",152.96333104333
+2018,"H.Norte",13,"Excel ASIS 2018, hoja Region",245253,"modelo (bloques_region_anio)",5.30064871785462
+2018,"Occidente",0,"Excel ASIS 2018, hoja Region",215378,"modelo (bloques_region_anio)",0
+2018,"Pacífico Central",338,"Excel ASIS 2018, hoja Region",293903,"modelo (bloques_region_anio)",115.003929868018
+2019,"Brunca",112,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",367971,"modelo (bloques_region_anio)",30.4371811909091
+2019,"C.Este",667,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",577545,"modelo (bloques_region_anio)",115.488836367729
+2019,"Central Norte",3295,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",984656,"modelo (bloques_region_anio)",334.634633821355
+2019,"Central Sur",505,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",1465625,"modelo (bloques_region_anio)",34.456289978678
+2019,"Chorotega",984,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",441758,"modelo (bloques_region_anio)",222.746390557726
+2019,"H. Caribe",1958,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",455024,"modelo (bloques_region_anio)",430.306972819016
+2019,"H.Norte",471,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",249221,"modelo (bloques_region_anio)",188.988889379306
+2019,"Occidente",46,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",217806,"modelo (bloques_region_anio)",21.1197120373176
+2019,"Pacífico Central",1362,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",298393,"modelo (bloques_region_anio)",456.445023844393
+2020,"Brunca",2345,"Boletín semanal N°2 de 2021 (SE 53), p. 2",369977,"modelo (bloques_region_anio)",633.823183603305
+2020,"C.Este",236,"Boletín semanal N°2 de 2021 (SE 53), p. 2",562341,"modelo (bloques_region_anio)",41.967418345808
+2020,"Central Norte",811,"Boletín semanal N°2 de 2021 (SE 53), p. 2",996850,"modelo (bloques_region_anio)",81.3562722576115
+2020,"Central Sur",408,"Boletín semanal N°2 de 2021 (SE 53), p. 2",1496124,"modelo (bloques_region_anio)",27.2704668864345
+2020,"Chorotega",317,"Boletín semanal N°2 de 2021 (SE 53), p. 2",447699,"modelo (bloques_region_anio)",70.8065016897514
+2020,"H. Caribe",4588,"Boletín semanal N°2 de 2021 (SE 53), p. 2",460099,"modelo (bloques_region_anio)",997.176694580949
+2020,"H.Norte",425,"Boletín semanal N°2 de 2021 (SE 53), p. 2",253032,"modelo (bloques_region_anio)",167.962945398211
+2020,"Occidente",25,"Boletín semanal N°2 de 2021 (SE 53), p. 2",219512,"modelo (bloques_region_anio)",11.3888990123547
+2020,"Pacífico Central",901,"Boletín semanal N°2 de 2021 (SE 53), p. 2",302885,"modelo (bloques_region_anio)",297.472638129983
+2021,"Brunca",493,"Boletín semanal N°3 de 2022 (SE 52), p. 2",369970,"modelo (bloques_region_anio)",133.254047625483
+2021,"C.Este",1673,"Boletín semanal N°3 de 2022 (SE 52), p. 2",562614,"modelo (bloques_region_anio)",297.361956865631
+2021,"Central Norte",554,"Boletín semanal N°3 de 2022 (SE 52), p. 2",1e+06,"modelo (bloques_region_anio)",55.4
+2021,"Central Sur",159,"Boletín semanal N°3 de 2022 (SE 52), p. 2",1494382,"modelo (bloques_region_anio)",10.6398497840579
+2021,"Chorotega",133,"Boletín semanal N°3 de 2022 (SE 52), p. 2",447964,"modelo (bloques_region_anio)",29.6898857943942
+2021,"H. Caribe",1126,"Boletín semanal N°3 de 2022 (SE 52), p. 2",460084,"modelo (bloques_region_anio)",244.737917423775
+2021,"H.Norte",814,"Boletín semanal N°3 de 2022 (SE 52), p. 2",253089,"modelo (bloques_region_anio)",321.6259892765
+2021,"Occidente",11,"Boletín semanal N°3 de 2022 (SE 52), p. 2",221111,"modelo (bloques_region_anio)",4.97487687179742
+2021,"Pacífico Central",212,"Boletín semanal N°3 de 2022 (SE 52), p. 2",302839,"modelo (bloques_region_anio)",70.0041936474496
+2022,"Brunca",229,"Boletín semanal N°2 de 2023 (SE 52), p. 2",373626,"modelo (bloques_region_anio)",61.291237761826
+2022,"C.Este",2222,"Boletín semanal N°2 de 2023 (SE 52), p. 2",569154,"modelo (bloques_region_anio)",390.404003134477
+2022,"Central Norte",916,"Boletín semanal N°2 de 2023 (SE 52), p. 2",1022321,"modelo (bloques_region_anio)",89.6000375615878
+2022,"Central Sur",345,"Boletín semanal N°2 de 2023 (SE 52), p. 2",1519824,"modelo (bloques_region_anio)",22.6999968417396
+2022,"Chorotega",254,"Boletín semanal N°2 de 2023 (SE 52), p. 2",459760,"modelo (bloques_region_anio)",55.2462154167392
+2022,"H. Caribe",2916,"Boletín semanal N°2 de 2023 (SE 52), p. 2",469797,"modelo (bloques_region_anio)",620.693618733198
+2022,"H.Norte",350,"Boletín semanal N°2 de 2023 (SE 52), p. 2",260994,"modelo (bloques_region_anio)",134.10269967892
+2022,"Occidente",15,"Boletín semanal N°2 de 2023 (SE 52), p. 2",225000,"modelo (bloques_region_anio)",6.66666666666667
+2022,"Pacífico Central",238,"Boletín semanal N°2 de 2023 (SE 52), p. 2",311927,"modelo (bloques_region_anio)",76.2999035030632
+2023,"Brunca",486,"Boletín semanal N°2 de 2024 (SE 52), p. 3",375476,"modelo (bloques_region_anio)",129.435702947725
+2023,"C.Este",1308,"Boletín semanal N°2 de 2024 (SE 52), p. 3",572150,"modelo (bloques_region_anio)",228.611378135104
+2023,"Central Norte",6719,"Boletín semanal N°2 de 2024 (SE 52), p. 3",1034455,"modelo (bloques_region_anio)",649.520762140451
+2023,"Central Sur",2988,"Boletín semanal N°2 de 2024 (SE 52), p. 3",1531915,"modelo (bloques_region_anio)",195.049986454862
+2023,"Chorotega",6197,"Boletín semanal N°2 de 2024 (SE 52), p. 3",466220,"modelo (bloques_region_anio)",1329.20080648621
+2023,"H. Caribe",6210,"Boletín semanal N°2 de 2024 (SE 52), p. 3",474525,"modelo (bloques_region_anio)",1308.67709815078
+2023,"H.Norte",1988,"Boletín semanal N°2 de 2024 (SE 52), p. 3",264886,"modelo (bloques_region_anio)",750.511540813784
+2023,"Occidente",418,"Boletín semanal N°2 de 2024 (SE 52), p. 3",226734,"modelo (bloques_region_anio)",184.356999832403
+2023,"Pacífico Central",4335,"Boletín semanal N°2 de 2024 (SE 52), p. 3",316217,"modelo (bloques_region_anio)",1370.89403795495
+2024,"Brunca",3115,"Boletín semanal N°1 de 2025 (SE 52), p. 3",377162,"modelo (bloques_region_anio)",825.905048758889
+2024,"C.Este",3863,"Boletín semanal N°1 de 2025 (SE 52), p. 3",574995,"modelo (bloques_region_anio)",671.831928973295
+2024,"Central Norte",6422,"Boletín semanal N°1 de 2025 (SE 52), p. 3",1046298,"modelo (bloques_region_anio)",613.783071362079
+2024,"Central Sur",10458,"Boletín semanal N°1 de 2025 (SE 52), p. 3",1542004,"modelo (bloques_region_anio)",678.208357436167
+2024,"Chorotega",1418,"Boletín semanal N°1 de 2025 (SE 52), p. 3",472076,"modelo (bloques_region_anio)",300.375363288962
+2024,"H. Caribe",1380,"Boletín semanal N°1 de 2025 (SE 52), p. 3",479089,"modelo (bloques_region_anio)",288.046688611093
+2024,"H.Norte",1744,"Boletín semanal N°1 de 2025 (SE 52), p. 3",268663,"modelo (bloques_region_anio)",649.140372883501
+2024,"Occidente",594,"Boletín semanal N°1 de 2025 (SE 52), p. 3",228820,"modelo (bloques_region_anio)",259.592692946421
+2024,"Pacífico Central",2265,"Boletín semanal N°1 de 2025 (SE 52), p. 3",320490,"modelo (bloques_region_anio)",706.730319198727

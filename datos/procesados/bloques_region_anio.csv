@@ -1,0 +1,217 @@
+﻿anio,region,bloque,se_inicio,se_fin,semanas_bloque,casos_crudos,casos_escalados,poblacion,fuente_corte_inicio,fuente_corte_fin,dif_ops_rel_corte_fin
+2015,Brunca,seco,1,18,18,98,98,358791,Inicio de año,Excel ASIS 2015 (SE 18),-0.0009
+2015,C.Este,seco,1,18,18,4,4,559998,Inicio de año,Excel ASIS 2015 (SE 18),-0.0009
+2015,Central Norte,seco,1,18,18,187,187,931066,Inicio de año,Excel ASIS 2015 (SE 18),-0.0009
+2015,Central Sur,seco,1,18,18,117,117,1412029,Inicio de año,Excel ASIS 2015 (SE 18),-0.0009
+2015,Chorotega,seco,1,18,18,400,400,416006,Inicio de año,Excel ASIS 2015 (SE 18),-0.0009
+2015,H. Caribe,seco,1,18,18,110,110,433523,Inicio de año,Excel ASIS 2015 (SE 18),-0.0009
+2015,H.Norte,seco,1,18,18,2,2,232896,Inicio de año,Excel ASIS 2015 (SE 18),-0.0009
+2015,Occidente,seco,1,18,18,4,4,207864,Inicio de año,Excel ASIS 2015 (SE 18),-0.0009
+2015,Pacífico Central,seco,1,18,18,192,192,280054,Inicio de año,Excel ASIS 2015 (SE 18),-0.0009
+2015,Brunca,lluvioso,19,40,22,1823,1823,358791,Excel ASIS 2015 (SE 18),Excel ASIS 2015 (SE 40),-0.0001
+2015,C.Este,lluvioso,19,40,22,19,19,559998,Excel ASIS 2015 (SE 18),Excel ASIS 2015 (SE 40),-0.0001
+2015,Central Norte,lluvioso,19,40,22,671,671,931066,Excel ASIS 2015 (SE 18),Excel ASIS 2015 (SE 40),-0.0001
+2015,Central Sur,lluvioso,19,40,22,319,319,1412029,Excel ASIS 2015 (SE 18),Excel ASIS 2015 (SE 40),-0.0001
+2015,Chorotega,lluvioso,19,40,22,2182,2182,416006,Excel ASIS 2015 (SE 18),Excel ASIS 2015 (SE 40),-0.0001
+2015,H. Caribe,lluvioso,19,40,22,425,425,433523,Excel ASIS 2015 (SE 18),Excel ASIS 2015 (SE 40),-0.0001
+2015,H.Norte,lluvioso,19,40,22,35,35,232896,Excel ASIS 2015 (SE 18),Excel ASIS 2015 (SE 40),-0.0001
+2015,Occidente,lluvioso,19,40,22,50,50,207864,Excel ASIS 2015 (SE 18),Excel ASIS 2015 (SE 40),-0.0001
+2015,Pacífico Central,lluvioso,19,40,22,1111,1111,280054,Excel ASIS 2015 (SE 18),Excel ASIS 2015 (SE 40),-0.0001
+2016,Brunca,seco,1,18,18,1028,1028,361143,Inicio de año,Excel ASIS 2016 (SE 18),0.0
+2016,C.Este,seco,1,18,18,34,34,564586,Inicio de año,Excel ASIS 2016 (SE 18),0.0
+2016,Central Norte,seco,1,18,18,2557,2557,944829,Inicio de año,Excel ASIS 2016 (SE 18),0.0
+2016,Central Sur,seco,1,18,18,635,635,1426017,Inicio de año,Excel ASIS 2016 (SE 18),0.0
+2016,Chorotega,seco,1,18,18,1088,1088,422573,Inicio de año,Excel ASIS 2016 (SE 18),0.0
+2016,H. Caribe,seco,1,18,18,213,213,439013,Inicio de año,Excel ASIS 2016 (SE 18),0.0
+2016,H.Norte,seco,1,18,18,72,72,237073,Inicio de año,Excel ASIS 2016 (SE 18),0.0
+2016,Occidente,seco,1,18,18,28,28,210432,Inicio de año,Excel ASIS 2016 (SE 18),0.0
+2016,Pacífico Central,seco,1,18,18,1483,1483,284706,Inicio de año,Excel ASIS 2016 (SE 18),0.0
+2016,Brunca,lluvioso,19,40,22,2815,2815,361143,Excel ASIS 2016 (SE 18),Excel ASIS 2016 (SE 40),0.0
+2016,C.Este,lluvioso,19,40,22,30,30,564586,Excel ASIS 2016 (SE 18),Excel ASIS 2016 (SE 40),0.0
+2016,Central Norte,lluvioso,19,40,22,3079,3079,944829,Excel ASIS 2016 (SE 18),Excel ASIS 2016 (SE 40),0.0
+2016,Central Sur,lluvioso,19,40,22,1402,1402,1426017,Excel ASIS 2016 (SE 18),Excel ASIS 2016 (SE 40),0.0
+2016,Chorotega,lluvioso,19,40,22,1096,1096,422573,Excel ASIS 2016 (SE 18),Excel ASIS 2016 (SE 40),0.0
+2016,H. Caribe,lluvioso,19,40,22,1009,1009,439013,Excel ASIS 2016 (SE 18),Excel ASIS 2016 (SE 40),0.0
+2016,H.Norte,lluvioso,19,40,22,152,152,237073,Excel ASIS 2016 (SE 18),Excel ASIS 2016 (SE 40),0.0
+2016,Occidente,lluvioso,19,40,22,34,34,210432,Excel ASIS 2016 (SE 18),Excel ASIS 2016 (SE 40),0.0
+2016,Pacífico Central,lluvioso,19,40,22,2564,2564,284706,Excel ASIS 2016 (SE 18),Excel ASIS 2016 (SE 40),0.0
+2017,Brunca,seco,1,18,18,52,52,363471,Inicio de año,Excel ASIS 2017 (SE 18),0.0
+2017,C.Este,seco,1,18,18,11,11,569046,Inicio de año,Excel ASIS 2017 (SE 18),0.0
+2017,Central Norte,seco,1,18,18,518,518,958330,Inicio de año,Excel ASIS 2017 (SE 18),0.0
+2017,Central Sur,seco,1,18,18,162,162,1439614,Inicio de año,Excel ASIS 2017 (SE 18),0.0
+2017,Chorotega,seco,1,18,18,117,117,429066,Inicio de año,Excel ASIS 2017 (SE 18),0.0
+2017,H. Caribe,seco,1,18,18,389,389,444447,Inicio de año,Excel ASIS 2017 (SE 18),0.0
+2017,H.Norte,seco,1,18,18,23,23,241213,Inicio de año,Excel ASIS 2017 (SE 18),0.0
+2017,Occidente,seco,1,18,18,12,12,212950,Inicio de año,Excel ASIS 2017 (SE 18),0.0
+2017,Pacífico Central,seco,1,18,18,168,168,289344,Inicio de año,Excel ASIS 2017 (SE 18),0.0
+2017,Brunca,lluvioso,19,40,22,200,200,363471,Excel ASIS 2017 (SE 18),Excel ASIS 2017 (SE 40),0.0
+2017,C.Este,lluvioso,19,40,22,31,31,569046,Excel ASIS 2017 (SE 18),Excel ASIS 2017 (SE 40),0.0
+2017,Central Norte,lluvioso,19,40,22,707,707,958330,Excel ASIS 2017 (SE 18),Excel ASIS 2017 (SE 40),0.0
+2017,Central Sur,lluvioso,19,40,22,147,147,1439614,Excel ASIS 2017 (SE 18),Excel ASIS 2017 (SE 40),0.0
+2017,Chorotega,lluvioso,19,40,22,221,221,429066,Excel ASIS 2017 (SE 18),Excel ASIS 2017 (SE 40),0.0
+2017,H. Caribe,lluvioso,19,40,22,1583,1583,444447,Excel ASIS 2017 (SE 18),Excel ASIS 2017 (SE 40),0.0
+2017,H.Norte,lluvioso,19,40,22,10,10,241213,Excel ASIS 2017 (SE 18),Excel ASIS 2017 (SE 40),0.0
+2017,Occidente,lluvioso,19,40,22,9,9,212950,Excel ASIS 2017 (SE 18),Excel ASIS 2017 (SE 40),0.0
+2017,Pacífico Central,lluvioso,19,40,22,462,462,289344,Excel ASIS 2017 (SE 18),Excel ASIS 2017 (SE 40),0.0
+2018,Brunca,seco,1,18,18,31,31,365772,Inicio de año,Excel ASIS 2018 (SE 18),0.0
+2018,C.Este,seco,1,18,18,10,10,573398,Inicio de año,Excel ASIS 2018 (SE 18),0.0
+2018,Central Norte,seco,1,18,18,290,290,971638,Inicio de año,Excel ASIS 2018 (SE 18),0.0
+2018,Central Sur,seco,1,18,18,20,20,1452752,Inicio de año,Excel ASIS 2018 (SE 18),0.0
+2018,Chorotega,seco,1,18,18,62,62,435472,Inicio de año,Excel ASIS 2018 (SE 18),0.0
+2018,H. Caribe,seco,1,18,18,197,197,449781,Inicio de año,Excel ASIS 2018 (SE 18),0.0
+2018,H.Norte,seco,1,18,18,6,6,245253,Inicio de año,Excel ASIS 2018 (SE 18),0.0
+2018,Occidente,seco,1,18,18,0,0,,Inicio de año,Excel ASIS 2018 (SE 18),0.0
+2018,Pacífico Central,seco,1,18,18,55,55,293903,Inicio de año,Excel ASIS 2018 (SE 18),0.0
+2018,Brunca,lluvioso,19,40,22,34,34,365772,Excel ASIS 2018 (SE 18),Excel ASIS 2018 (SE 40),0.0
+2018,C.Este,lluvioso,19,40,22,31,31,573398,Excel ASIS 2018 (SE 18),Excel ASIS 2018 (SE 40),0.0
+2018,Central Norte,lluvioso,19,40,22,595,595,971638,Excel ASIS 2018 (SE 18),Excel ASIS 2018 (SE 40),0.0
+2018,Central Sur,lluvioso,19,40,22,63,63,1452752,Excel ASIS 2018 (SE 18),Excel ASIS 2018 (SE 40),0.0
+2018,Chorotega,lluvioso,19,40,22,133,133,435472,Excel ASIS 2018 (SE 18),Excel ASIS 2018 (SE 40),0.0
+2018,H. Caribe,lluvioso,19,40,22,341,341,449781,Excel ASIS 2018 (SE 18),Excel ASIS 2018 (SE 40),0.0
+2018,H.Norte,lluvioso,19,40,22,3,3,245253,Excel ASIS 2018 (SE 18),Excel ASIS 2018 (SE 40),0.0
+2018,Occidente,lluvioso,19,40,22,0,0,,Excel ASIS 2018 (SE 18),Excel ASIS 2018 (SE 40),0.0
+2018,Pacífico Central,lluvioso,19,40,22,135,135,293903,Excel ASIS 2018 (SE 18),Excel ASIS 2018 (SE 40),0.0
+2019,Brunca,seco,1,18,18,7,7,367971,Inicio de año,Excel ASIS 2019 (SE 18),0.0049
+2019,C.Este,seco,1,18,18,4,4,577545,Inicio de año,Excel ASIS 2019 (SE 18),0.0049
+2019,Central Norte,seco,1,18,18,344,342,984656,Inicio de año,Excel ASIS 2019 (SE 18),0.0049
+2019,Central Sur,seco,1,18,18,37,37,1465625,Inicio de año,Excel ASIS 2019 (SE 18),0.0049
+2019,Chorotega,seco,1,18,18,93,93,441758,Inicio de año,Excel ASIS 2019 (SE 18),0.0049
+2019,H. Caribe,seco,1,18,18,215,214,455024,Inicio de año,Excel ASIS 2019 (SE 18),0.0049
+2019,H.Norte,seco,1,18,18,4,4,249221,Inicio de año,Excel ASIS 2019 (SE 18),0.0049
+2019,Occidente,seco,1,18,18,5,5,217806,Inicio de año,Excel ASIS 2019 (SE 18),0.0049
+2019,Pacífico Central,seco,1,18,18,114,113,298393,Inicio de año,Excel ASIS 2019 (SE 18),0.0049
+2019,Brunca,lluvioso,19,40,22,30,30,367971,Excel ASIS 2019 (SE 18),Excel ASIS 2019 (SE 40),-0.0017
+2019,C.Este,lluvioso,19,40,22,632,633,577545,Excel ASIS 2019 (SE 18),Excel ASIS 2019 (SE 40),-0.0017
+2019,Central Norte,lluvioso,19,40,22,2294,2300,984656,Excel ASIS 2019 (SE 18),Excel ASIS 2019 (SE 40),-0.0017
+2019,Central Sur,lluvioso,19,40,22,245,246,1465625,Excel ASIS 2019 (SE 18),Excel ASIS 2019 (SE 40),-0.0017
+2019,Chorotega,lluvioso,19,40,22,384,385,441758,Excel ASIS 2019 (SE 18),Excel ASIS 2019 (SE 40),-0.0017
+2019,H. Caribe,lluvioso,19,40,22,1216,1219,455024,Excel ASIS 2019 (SE 18),Excel ASIS 2019 (SE 40),-0.0017
+2019,H.Norte,lluvioso,19,40,22,309,310,249221,Excel ASIS 2019 (SE 18),Excel ASIS 2019 (SE 40),-0.0017
+2019,Occidente,lluvioso,19,40,22,40,40,217806,Excel ASIS 2019 (SE 18),Excel ASIS 2019 (SE 40),-0.0017
+2019,Pacífico Central,lluvioso,19,40,22,658,660,298393,Excel ASIS 2019 (SE 18),Excel ASIS 2019 (SE 40),-0.0017
+2020,Brunca,seco,1,18,18,264,263,369977,Inicio de año,Excel ASIS 2020 (SE 18),0.0025
+2020,C.Este,seco,1,18,18,59,59,562341,Inicio de año,Excel ASIS 2020 (SE 18),0.0025
+2020,Central Norte,seco,1,18,18,463,462,996850,Inicio de año,Excel ASIS 2020 (SE 18),0.0025
+2020,Central Sur,seco,1,18,18,198,198,1496124,Inicio de año,Excel ASIS 2020 (SE 18),0.0025
+2020,Chorotega,seco,1,18,18,148,148,447699,Inicio de año,Excel ASIS 2020 (SE 18),0.0025
+2020,H. Caribe,seco,1,18,18,874,872,460099,Inicio de año,Excel ASIS 2020 (SE 18),0.0025
+2020,H.Norte,seco,1,18,18,125,125,253032,Inicio de año,Excel ASIS 2020 (SE 18),0.0025
+2020,Occidente,seco,1,18,18,6,6,219512,Inicio de año,Excel ASIS 2020 (SE 18),0.0025
+2020,Pacífico Central,seco,1,18,18,269,268,302885,Inicio de año,Excel ASIS 2020 (SE 18),0.0025
+2020,Brunca,lluvioso,19,40,22,1890,1873,369977,Excel ASIS 2020 (SE 18),Excel ASIS 2020 (SE 40),0.0083
+2020,C.Este,lluvioso,19,40,22,154,152,562341,Excel ASIS 2020 (SE 18),Excel ASIS 2020 (SE 40),0.0083
+2020,Central Norte,lluvioso,19,40,22,159,155,996850,Excel ASIS 2020 (SE 18),Excel ASIS 2020 (SE 40),0.0083
+2020,Central Sur,lluvioso,19,40,22,172,169,1496124,Excel ASIS 2020 (SE 18),Excel ASIS 2020 (SE 40),0.0083
+2020,Chorotega,lluvioso,19,40,22,149,147,447699,Excel ASIS 2020 (SE 18),Excel ASIS 2020 (SE 40),0.0083
+2020,H. Caribe,lluvioso,19,40,22,3339,3306,460099,Excel ASIS 2020 (SE 18),Excel ASIS 2020 (SE 40),0.0083
+2020,H.Norte,lluvioso,19,40,22,291,288,253032,Excel ASIS 2020 (SE 18),Excel ASIS 2020 (SE 40),0.0083
+2020,Occidente,lluvioso,19,40,22,12,12,219512,Excel ASIS 2020 (SE 18),Excel ASIS 2020 (SE 40),0.0083
+2020,Pacífico Central,lluvioso,19,40,22,506,500,302885,Excel ASIS 2020 (SE 18),Excel ASIS 2020 (SE 40),0.0083
+2021,Brunca,seco,1,18,18,189,183,369970,Inicio de año,Boletín N°18 (SE 18),0.0312
+2021,C.Este,seco,1,18,18,26,25,562614,Inicio de año,Boletín N°18 (SE 18),0.0312
+2021,Central Norte,seco,1,18,18,118,114,1000000,Inicio de año,Boletín N°18 (SE 18),0.0312
+2021,Central Sur,seco,1,18,18,54,52,1494382,Inicio de año,Boletín N°18 (SE 18),0.0312
+2021,Chorotega,seco,1,18,18,64,62,447964,Inicio de año,Boletín N°18 (SE 18),0.0312
+2021,H. Caribe,seco,1,18,18,455,441,460084,Inicio de año,Boletín N°18 (SE 18),0.0312
+2021,H.Norte,seco,1,18,18,203,197,253089,Inicio de año,Boletín N°18 (SE 18),0.0312
+2021,Occidente,seco,1,18,18,3,3,221111,Inicio de año,Boletín N°18 (SE 18),0.0312
+2021,Pacífico Central,seco,1,18,18,79,77,302839,Inicio de año,Boletín N°18 (SE 18),0.0312
+2021,Brunca,lluvioso,19,40,22,278,321,369970,Boletín N°18 (SE 18),Boletín N°40 (SE 40),-0.0748
+2021,C.Este,lluvioso,19,40,22,1013,1098,562614,Boletín N°18 (SE 18),Boletín N°40 (SE 40),-0.0748
+2021,Central Norte,lluvioso,19,40,22,57,75,1000000,Boletín N°18 (SE 18),Boletín N°40 (SE 40),-0.0748
+2021,Central Sur,lluvioso,19,40,22,70,82,1494382,Boletín N°18 (SE 18),Boletín N°40 (SE 40),-0.0748
+2021,Chorotega,lluvioso,19,40,22,45,56,447964,Boletín N°18 (SE 18),Boletín N°40 (SE 40),-0.0748
+2021,H. Caribe,lluvioso,19,40,22,388,470,460084,Boletín N°18 (SE 18),Boletín N°40 (SE 40),-0.0748
+2021,H.Norte,lluvioso,19,40,22,355,406,253089,Boletín N°18 (SE 18),Boletín N°40 (SE 40),-0.0748
+2021,Occidente,lluvioso,19,40,22,5,6,221111,Boletín N°18 (SE 18),Boletín N°40 (SE 40),-0.0748
+2021,Pacífico Central,lluvioso,19,40,22,73,88,302839,Boletín N°18 (SE 18),Boletín N°40 (SE 40),-0.0748
+2022,Brunca,seco,1,18,18,66,65,373626,Inicio de año,Boletín N°19 (SE 18),0.0097
+2022,C.Este,seco,1,18,18,196,194,569154,Inicio de año,Boletín N°19 (SE 18),0.0097
+2022,Central Norte,seco,1,18,18,119,118,1022321,Inicio de año,Boletín N°19 (SE 18),0.0097
+2022,Central Sur,seco,1,18,18,34,34,1519824,Inicio de año,Boletín N°19 (SE 18),0.0097
+2022,Chorotega,seco,1,18,18,19,19,459760,Inicio de año,Boletín N°19 (SE 18),0.0097
+2022,H. Caribe,seco,1,18,18,482,477,469797,Inicio de año,Boletín N°19 (SE 18),0.0097
+2022,H.Norte,seco,1,18,18,69,68,260994,Inicio de año,Boletín N°19 (SE 18),0.0097
+2022,Occidente,seco,1,18,18,1,1,225000,Inicio de año,Boletín N°19 (SE 18),0.0097
+2022,Pacífico Central,seco,1,18,18,50,50,311927,Inicio de año,Boletín N°19 (SE 18),0.0097
+2022,Brunca,lluvioso,19,40,22,114,126,373626,Boletín N°19 (SE 18),Boletín N°41 (SE 40),-0.0596
+2022,C.Este,lluvioso,19,40,22,1496,1605,569154,Boletín N°19 (SE 18),Boletín N°41 (SE 40),-0.0596
+2022,Central Norte,lluvioso,19,40,22,372,404,1022321,Boletín N°19 (SE 18),Boletín N°41 (SE 40),-0.0596
+2022,Central Sur,lluvioso,19,40,22,188,202,1519824,Boletín N°19 (SE 18),Boletín N°41 (SE 40),-0.0596
+2022,Chorotega,lluvioso,19,40,22,96,103,459760,Boletín N°19 (SE 18),Boletín N°41 (SE 40),-0.0596
+2022,H. Caribe,lluvioso,19,40,22,1984,2145,469797,Boletín N°19 (SE 18),Boletín N°41 (SE 40),-0.0596
+2022,H.Norte,lluvioso,19,40,22,237,257,260994,Boletín N°19 (SE 18),Boletín N°41 (SE 40),-0.0596
+2022,Occidente,lluvioso,19,40,22,10,11,225000,Boletín N°19 (SE 18),Boletín N°41 (SE 40),-0.0596
+2022,Pacífico Central,lluvioso,19,40,22,143,156,311927,Boletín N°19 (SE 18),Boletín N°41 (SE 40),-0.0596
+2023,Brunca,seco,1,18,18,85,64,375476,Inicio de año,Boletín N°19 (SE 18),0.3367
+2023,C.Este,seco,1,18,18,161,120,572150,Inicio de año,Boletín N°19 (SE 18),0.3367
+2023,Central Norte,seco,1,18,18,215,161,1034455,Inicio de año,Boletín N°19 (SE 18),0.3367
+2023,Central Sur,seco,1,18,18,163,122,1531915,Inicio de año,Boletín N°19 (SE 18),0.3367
+2023,Chorotega,seco,1,18,18,47,35,466220,Inicio de año,Boletín N°19 (SE 18),0.3367
+2023,H. Caribe,seco,1,18,18,566,423,474525,Inicio de año,Boletín N°19 (SE 18),0.3367
+2023,H.Norte,seco,1,18,18,111,83,264886,Inicio de año,Boletín N°19 (SE 18),0.3367
+2023,Occidente,seco,1,18,18,14,10,226734,Inicio de año,Boletín N°19 (SE 18),0.3367
+2023,Pacífico Central,seco,1,18,18,107,80,316217,Inicio de año,Boletín N°19 (SE 18),0.3367
+2023,Brunca,lluvioso,19,40,22,191,206,375476,Boletín N°19 (SE 18),Boletín N°40 (SE 40),0.0253
+2023,C.Este,lluvioso,19,40,22,333,361,572150,Boletín N°19 (SE 18),Boletín N°40 (SE 40),0.0253
+2023,Central Norte,lluvioso,19,40,22,3159,3130,1034455,Boletín N°19 (SE 18),Boletín N°40 (SE 40),0.0253
+2023,Central Sur,lluvioso,19,40,22,906,921,1531915,Boletín N°19 (SE 18),Boletín N°40 (SE 40),0.0253
+2023,Chorotega,lluvioso,19,40,22,1724,1692,466220,Boletín N°19 (SE 18),Boletín N°40 (SE 40),0.0253
+2023,H. Caribe,lluvioso,19,40,22,4283,4306,474525,Boletín N°19 (SE 18),Boletín N°40 (SE 40),0.0253
+2023,H.Norte,lluvioso,19,40,22,1059,1058,264886,Boletín N°19 (SE 18),Boletín N°40 (SE 40),0.0253
+2023,Occidente,lluvioso,19,40,22,167,166,226734,Boletín N°19 (SE 18),Boletín N°40 (SE 40),0.0253
+2023,Pacífico Central,lluvioso,19,40,22,2204,2174,316217,Boletín N°19 (SE 18),Boletín N°40 (SE 40),0.0253
+2024,Brunca,seco,1,18,18,673,602,377162,Inicio de año,Boletín N°18 (SE 18),0.1177
+2024,C.Este,seco,1,18,18,665,595,574995,Inicio de año,Boletín N°18 (SE 18),0.1177
+2024,Central Norte,seco,1,18,18,2021,1808,1046298,Inicio de año,Boletín N°18 (SE 18),0.1177
+2024,Central Sur,seco,1,18,18,1369,1225,1542004,Inicio de año,Boletín N°18 (SE 18),0.1177
+2024,Chorotega,seco,1,18,18,865,774,472076,Inicio de año,Boletín N°18 (SE 18),0.1177
+2024,H. Caribe,seco,1,18,18,732,655,479089,Inicio de año,Boletín N°18 (SE 18),0.1177
+2024,H.Norte,seco,1,18,18,669,599,268663,Inicio de año,Boletín N°18 (SE 18),0.1177
+2024,Occidente,seco,1,18,18,151,135,228820,Inicio de año,Boletín N°18 (SE 18),0.1177
+2024,Pacífico Central,seco,1,18,18,906,811,320490,Inicio de año,Boletín N°18 (SE 18),0.1177
+2024,Brunca,lluvioso,19,40,22,2763,2717,377162,Boletín N°18 (SE 18),Boletín N°40 (SE 40),0.0353
+2024,C.Este,lluvioso,19,40,22,2731,2685,574995,Boletín N°18 (SE 18),Boletín N°40 (SE 40),0.0353
+2024,Central Norte,lluvioso,19,40,22,4006,4013,1046298,Boletín N°18 (SE 18),Boletín N°40 (SE 40),0.0353
+2024,Central Sur,lluvioso,19,40,22,5769,5670,1542004,Boletín N°18 (SE 18),Boletín N°40 (SE 40),0.0353
+2024,Chorotega,lluvioso,19,40,22,150,206,472076,Boletín N°18 (SE 18),Boletín N°40 (SE 40),0.0353
+2024,H. Caribe,lluvioso,19,40,22,444,481,479089,Boletín N°18 (SE 18),Boletín N°40 (SE 40),0.0353
+2024,H.Norte,lluvioso,19,40,22,1042,1054,268663,Boletín N°18 (SE 18),Boletín N°40 (SE 40),0.0353
+2024,Occidente,lluvioso,19,40,22,353,352,228820,Boletín N°18 (SE 18),Boletín N°40 (SE 40),0.0353
+2024,Pacífico Central,lluvioso,19,40,22,1434,1450,320490,Boletín N°18 (SE 18),Boletín N°40 (SE 40),0.0353
+2025,Brunca,seco,1,18,18,260,133,378144,Inicio de año,Boletín N°17 (SE 18),0.9602
+2025,C.Este,seco,1,18,18,199,102,573850,Inicio de año,Boletín N°17 (SE 18),0.9602
+2025,Central Norte,seco,1,18,18,344,175,1056110,Inicio de año,Boletín N°17 (SE 18),0.9602
+2025,Central Sur,seco,1,18,18,932,475,1551122,Inicio de año,Boletín N°17 (SE 18),0.9602
+2025,Chorotega,seco,1,18,18,150,77,476834,Inicio de año,Boletín N°17 (SE 18),0.9602
+2025,H. Caribe,seco,1,18,18,208,106,482684,Inicio de año,Boletín N°17 (SE 18),0.9602
+2025,H.Norte,seco,1,18,18,125,64,271354,Inicio de año,Boletín N°17 (SE 18),0.9602
+2025,Occidente,seco,1,18,18,17,9,229986,Inicio de año,Boletín N°17 (SE 18),0.9602
+2025,Pacífico Central,seco,1,18,18,225,115,324412,Inicio de año,Boletín N°17 (SE 18),0.9602
+2025,Brunca,lluvioso,19,40,22,27,120,378144,Boletín N°17 (SE 18),Boletín N°39 (SE 40),0.1372
+2025,C.Este,lluvioso,19,40,22,-76,7,573850,Boletín N°17 (SE 18),Boletín N°39 (SE 40),0.1372
+2025,Central Norte,lluvioso,19,40,22,210,312,1056110,Boletín N°17 (SE 18),Boletín N°39 (SE 40),0.1372
+2025,Central Sur,lluvioso,19,40,22,877,1115,1551122,Boletín N°17 (SE 18),Boletín N°39 (SE 40),0.1372
+2025,Chorotega,lluvioso,19,40,22,347,361,476834,Boletín N°17 (SE 18),Boletín N°39 (SE 40),0.1372
+2025,H. Caribe,lluvioso,19,40,22,5,81,482684,Boletín N°17 (SE 18),Boletín N°39 (SE 40),0.1372
+2025,H.Norte,lluvioso,19,40,22,5,51,271354,Boletín N°17 (SE 18),Boletín N°39 (SE 40),0.1372
+2025,Occidente,lluvioso,19,40,22,28,31,229986,Boletín N°17 (SE 18),Boletín N°39 (SE 40),0.1372
+2025,Pacífico Central,lluvioso,19,40,22,436,466,324412,Boletín N°17 (SE 18),Boletín N°39 (SE 40),0.1372
+2026,Brunca,seco,1,18,18,41,36,353132,Inicio de año,Boletín N°18 (SE 18),0.1519
+2026,C.Este,seco,1,18,18,30,26,553398,Inicio de año,Boletín N°18 (SE 18),0.1519
+2026,Central Norte,seco,1,18,18,129,112,1047198,Inicio de año,Boletín N°18 (SE 18),0.1519
+2026,Central Sur,seco,1,18,18,211,183,1514396,Inicio de año,Boletín N°18 (SE 18),0.1519
+2026,Chorotega,seco,1,18,18,210,182,474457,Inicio de año,Boletín N°18 (SE 18),0.1519
+2026,H. Caribe,seco,1,18,18,140,122,457928,Inicio de año,Boletín N°18 (SE 18),0.1519
+2026,H.Norte,seco,1,18,18,34,30,271429,Inicio de año,Boletín N°18 (SE 18),0.1519
+2026,Occidente,seco,1,18,18,18,16,224490,Inicio de año,Boletín N°18 (SE 18),0.1519
+2026,Pacífico Central,seco,1,18,18,120,104,321874,Inicio de año,Boletín N°18 (SE 18),0.1519
+2026,Brunca,lluvioso,19,40,22,170,179,353132,Boletín N°18 (SE 18),Boletín N°39 (SE 40),-0.0162
+2026,C.Este,lluvioso,19,40,22,38,43,553398,Boletín N°18 (SE 18),Boletín N°39 (SE 40),-0.0162
+2026,Central Norte,lluvioso,19,40,22,1657,1703,1047198,Boletín N°18 (SE 18),Boletín N°39 (SE 40),-0.0162
+2026,Central Sur,lluvioso,19,40,22,380,418,1514396,Boletín N°18 (SE 18),Boletín N°39 (SE 40),-0.0162
+2026,Chorotega,lluvioso,19,40,22,597,638,474457,Boletín N°18 (SE 18),Boletín N°39 (SE 40),-0.0162
+2026,H. Caribe,lluvioso,19,40,22,338,364,457928,Boletín N°18 (SE 18),Boletín N°39 (SE 40),-0.0162
+2026,H.Norte,lluvioso,19,40,22,292,302,271429,Boletín N°18 (SE 18),Boletín N°39 (SE 40),-0.0162
+2026,Occidente,lluvioso,19,40,22,229,235,224490,Boletín N°18 (SE 18),Boletín N°39 (SE 40),-0.0162
+2026,Pacífico Central,lluvioso,19,40,22,1180,1217,321874,Boletín N°18 (SE 18),Boletín N°39 (SE 40),-0.0162

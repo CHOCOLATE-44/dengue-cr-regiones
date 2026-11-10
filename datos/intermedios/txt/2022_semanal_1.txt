@@ -1,0 +1,562 @@
+                            Boletín Epidemiológico N° 1 de 2022
+                                 Semana epidemiológica 2
+                                    Dirección de Vigilancia de la Salud
+                                                      Ministerio de Salud
+
+
+
+
+                                  Tabla de contenido
+
+Dengue ................................................................................................................................... 2
+Chikungunya ........................................................................................................................... 5
+Zika ......................................................................................................................................... 6
+Vigilancia Nutricional ............................................................................................................. 7
+Intentos de suicidio .............................................................................................................. 14
+                                                     Dengue
+                                                                                    Adriana Alfaro Nájera
+                                                                                      Unidad de Epidemiología
+                                                                               Dirección de Vigilancia de Salud
+                                                                             adriana.alfaro@misalud.go.cr
+
+Se reportan a la semana epidemiológica 51 a través de notificación obligatoria por
+boleta VE01, 5081 casos de dengue. Como se observa en el cuadro 1 la región
+Central Este presenta el mayor número de casos sospechosos (1649) y la tasa más
+alta 293,1/100.000 habitantes.
+Cuadro 1.
+Costa Rica: Casos y tasas de dengue por Región a la semana epidemiológica
+51, 2021 (Tasa por 100.000 hab.)
+           Región               Casos            Tasa
+Central Este                                    1649                       293,1
+Huetar Caribe                                   1089                       236,7
+Huetar Norte                                    809                        319,7
+Central norte                                   555                         55,6
+Brunca                                          463                        125,1
+Pacífico Central                                207                         68,4
+Central Sur                                     163                         10,9
+Chorotega                                       135                         30,1
+Occidente                                        11                         5,0
+Total                                           5081                       99,4
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+Gráfico 1.
+Costa Rica: Casos y tasas de dengue por región por 100.000 habitantes a la
+semana epidemiológica 51, 2021.
+
+                  Occidente
+                  Chorotega
+                Central Sur
+            Pacífico Central
+   Región
+
+
+
+
+                     Brunca
+              Central norte
+              Huetar Norte
+             Huetar Caribe
+               Central Este
+                               0             500             1000            1500        2000
+
+                                           Tasa       Casos
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+A continuación, se enlistan los 20 cantones prioritarios, Turrialba presenta el mayor
+número de casos reportados y la mayor tasa por 100.000 habitantes.
+
+Cuadro 2.
+Costa Rica: Casos y tasas de dengue por cantones prioritarios a la semana
+epidemiológica 51, 2021 (Tasa por 100.000 hab.)
+
+            Cantón                   Casos            Tasa
+Turrialba                                1530            2077,1
+San Carlos                                679             339,2
+Talamanca                                 344             797,2
+Sarapiquí                                 336             404,7
+Guácimo                                   317             575,0
+Osa                                       255             818,9
+Pococí                                    226             150,0
+Los Chiles                                130             385,9
+Limón                                     103             103,2
+Puntarenas                                102              72,8
+Alajuela                                   93              29,6
+Siquirres                                  90             138,6
+Jiménez                                    77             471,8
+Pérez Zeledón                              70              48,9
+Corredores                                 69             131,6
+Buenos Aires                               63             117,9
+Río Cuarto                                 59              N/D
+San José                                   48              13,8
+Orotina                                    42             176,6
+Desamparados                                34              13,9
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+Gráfico 2.
+Costa Rica: Casos de dengue comparativa año 2020 con el 2021 a la semana
+epidemiológica 51, 2021.
+
+                    500
+                    450
+                    400
+                    350
+  Número de casos
+
+
+
+
+                    300
+                    250
+                    200
+                    150
+                    100
+                    50
+                     0
+                          1   3   5   7   9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53
+                                                            Semana epidemiológica     Año 2020      Año 2021
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+                                           Chikungunya
+Se registran 38 casos a través de notificación obligatoria por boleta VE01 a la
+semana epidemiológica 51.
+
+Cuadro 3.
+Costa Rica: Casos y tasas de Chikungunya por Región a la semana
+epidemiológica 51, 2021 (Tasa por 100.000 hab.)
+
+      Región                       Casos          Tasa
+Pacífico Central                    13             4,3
+Central Norte                        9             0,9
+Chorotega                            7             1,6
+Central Este                         2             0,4
+Central Sur                          5             0,3
+Huetar Caribe                        1             0,2
+Huetar Norte                         1             0,4
+Brunca                               0             0,0
+Occidente                            0             0,0
+Total                               38             0,7
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+Gráfico 3.
+Costa Rica: Casos y tasas de chikungunya por región por 100.000 habitantes
+a la semana epidemiológica 51, 2021
+
+                  Occidente
+                     Brunca
+              Huetar Norte
+             Huetar Caribe
+   Región
+
+
+
+
+                Central Sur
+               Central Este
+                 Chorotega
+              Central Norte
+            Pacífico Central
+                               0       2        4          6          8     10   12   14
+                                                           Título del eje
+
+                                              Tasa      Casos
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+                                                   Zika
+Se registran 58 casos a través de notificación obligatoria por boleta VE01 a la
+semana epidemiológica 51.
+
+Cuadro 4.
+Costa Rica: Casos y tasas de Zika por Región a la semana epidemiológica 51,
+2021 (Tasa por 100.000 hab.)
+
+      Región                  Casos               Tasa
+Central Sur                    23                  1,5
+Chorotega                       7                  1,6
+Brunca                          6                  1,6
+Central Norte                   5                  0,5
+Huetar Norte                    5                  2,0
+Huetar Caribe                   4                  0,9
+Pacífico Central                4                  1,3
+Central Este                    2                  0,4
+Occidente                       2                  0,9
+Total                          58                  1,1
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+Gráfico 4.
+Costa Rica: Casos y tasas de zika por región por 100.000 habitantes a la
+semana epidemiológica 51, 2021.
+
+       Occidente
+    Central Este
+ Pacífico Central
+  Huetar Caribe
+   Huetar Norte
+   Central Norte
+          Brunca
+       Chorotega
+     Central Sur
+                        0               5              10              15   20   25
+                                              Tasa        Casos
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+                             Vigilancia Nutricional
+                           Tema: Inseguridad Alimentaria
+
+
+
+                                                      Ivannia Caravaca Rodríguez
+                                                           Unidad de Epidemiología
+                                                    Dirección de Vigilancia de Salud
+                                                     ivannia.caravaca@misalud.go.cr
+El propósito de este boletín es difundir los resultados de la Escala de Experiencia
+de Inseguridad Alimentaria en Costa Rica, 2020, como un evento de salud pública
+que tiene implicaciones en todo el territorio nacional.
+
+Las Actualizaciones Epidemiológicas presentes constituyen a los datos
+oficializados y comunicados por el Ministerio de Salud el 8 de diciembre 2021,
+cuyo informe completo puede ser descargado de la página web del Ministerios de
+Salud:
+
+https://www.ministeriodesalud.go.cr/index.php/vigilancia-de-la-salud/vigilancia-
+nutricional/censo-escolar-peso-talla/5419-prevalencias-de-inseguridad-alimentaria-
+en-costa-rica-2020
+
+
+                                 INTRODUCCIÓN
+
+
+La seguridad alimentaria y nutricional (SAN) es la garantía de que “todas las
+personas tienen en todo momento acceso físico y económico a suficientes alimentos
+inocuos y nutritivos para satisfacer sus necesidades alimenticias y sus preferencias
+en cuanto a los alimentos a fin de llevar una vida activa y sana” (Cumbre Mundial
+sobre la Alimentación, 1996 en FAO, 2006).
+La Escala de Inseguridad Alimentaria (FIES) mide el acceso de las personas o los
+hogares a los alimentos y la gravedad de la inseguridad alimentaria.
+La inseguridad alimentaria (IA) se define como la disponibilidad o capacidad limitada
+o incierta de adquirir alimentos nutricionalmente adecuados e inocuos (Castell et al.,
+2015).
+Los resultados de este estudio denotan que la inseguridad alimentaria es un tema
+creciente y significativo, en Costa Rica y que las poblaciones vulnerables están
+siendo amenazadas ante las crisis en los sistemas alimentarios aunados a la
+pandemia sanitaria por coronavirus (COVID-19).
+                                ANTECEDENTES
+
+
+En Costa Rica es la primera vez que se realiza la Escala de Inseguridad alimentaria,
+cuya medición se realizó entre el último semestre del 2019 y los primeros 6 meses
+del 2020 comprendiendo el inicio de la pandemia por Covid-19 en el país. Estos
+resultados generan la línea base nacional en el tema de inseguridad alimentaria.
+Por esta razón no existen datos para comparar previo a la pandemia ni se puede
+conocer cómo afectó el COVID 19 los niveles de Inseguridad alimentaria.
+A nivel nacional se cuenta con la iniciativa del Sistema Nacional de Información en
+Seguridad Alimentaria y Nutricional (SINSAN) en la plataforma del INEC, el cual
+“tiene como propósito poner a disposición información estadística aunada al tema
+de seguridad alimentaria, y un estudio de “Seguridad alimentaria y el cambio
+climático en Costa Rica” del Instituto Meteorológico Nacional, 2014.
+
+
+
+
+                         ASPECTOS METODOLOGICOS
+
+
+El módulo de la Escala de experiencia de inseguridad alimentaria consta de ocho
+preguntas sobre las limitaciones a la capacidad de obtener alimentos suficientes a
+las personas u hogares. Las preguntas se centran en experiencias y
+comportamiento relativos a la alimentación y se basa en un concepto bien fundado
+de la experiencia de inseguridad alimentaria estructurado en tres niveles:
+incertidumbre/preocupación, cambios en la calidad de los alimentos y cambios en
+la cantidad de los alimentos (FAO, s.f). La FIES es una escala de referencia
+internacional basada y validada sobre datos recogidos en más de 140 países.
+En Costa Rica el módulo FIES se incluyó en la Encuesta de Hogares del 2020
+implementada por el INEC.
+Se usó la versión del módulo FIES dirigido al hogar por lo que una persona /
+informante idóneo respondió en representación de todos los miembros del hogar.
+Los resultados se analizaron en conjunto con FAO, las respuestas a las preguntas
+se analizaron siempre juntas como una escala, no como ítems separados. a través
+de escalas de medida basadas sobre las experiencias utilizando el modelo de Rasch
+y las características de las métricas producidas con estas escalas utilizando el
+puntaje bruto que refiere al número de respuestas afirmativas dadas por los hogares
+al módulo FIES, por lo tanto, será un numero entre 0 y 8. Aquellos hogares con
+puntajes brutos más altos serán los que estén experimentando mayores dificultades
+en el acceso a los alimentos. La escala FIES usa este puntaje bruto como insumo
+para la estimación de las prevalencias de inseguridad alimentaria.
+Posterior a ello se determina la calibración de medidas nacionales con la escala de
+referencia internacional existente, para la comparabilidad de los resultados entre
+países con técnicas estadísticas tomadas de las herramientas de los modelos
+basados en la teoría de respuesta al ítem (TRI).
+Los indicadores presentes en el informe son los que dan respuesta al indicador
+2.1.2. Prevalencia de inseguridad alimentaria, de los Objetivos de Desarrollo
+Sostenible para Costa Rica, indicador referido del marco global de indicadores para
+la Agenda 2030.
+
+Muestra:
+
+La muestra consto de 13.440 viviendas en todo el país, distribuidas por región de
+planificación y zona, se realizaron 4.987 entrevistas presenciales y 3.137 entrevistas
+telefónicas, la pérdida de muestra fue 5. 428 viviendas, por problemas de no
+disponer de los números telefónicos, números telefónicos erróneos y la no
+respuesta o desactualización de la muestra (problemas de marco).
+Se obtuvo información en 8.124 hogares lo que representa una tasa de respuesta
+del 61,8 %, se realizó un ajuste al factor por no repuesta por el INEC con la
+asistencia técnica de la Comisión Económica para América Latina y el Caribe
+(CEPAL). La proporción de respuestas faltantes en el módulo FIES fue del 0,12%.
+                       PRINCIPALES RESULTADOS
+
+
+
+   El 16,42% (±1,2) de los hogares se vieron afectados por inseguridad
+    alimentaria moderada-severa en los últimos 12 meses. (16 de cada 100
+    hogares en Costa Rica se han visto.
+   Se estima que 2,33 % (± 0,4) de los hogares se vieron afectados por
+    inseguridad alimentaria severa en los últimos 12 meses (2 de cada 100
+    hogares tuvieron que haber pasado un día entero sin comer, debido a la falta
+    de dinero u otros recursos para conseguir alimentos durante los últimos 12
+    meses).
+   Las regiones con mayor prevalencia de inseguridad alimentaria en Costa
+    Rica son: Huetar Norte, Chorotega, Pacifico Central y la Huetar Caribe.
+   Los hogares de Huetar Norte sufren más inseguridad alimentaria moderada
+    severa que los hogares del resto del país.
+   Las mujeres jefas de hogar en Costa Rica sufren más de inseguridad
+    alimentaria moderada-severa que los hombres en la misma condición.
+   En el Primer Quintil de ingreso “36 de cada 100” hogares en Costa Rica se
+    han visto obligados a reducir la calidad y / o cantidad de alimentos que
+    consumen debido a la falta de dinero u otros recursos en los últimos 12
+    meses.
+   En los hogares del Primer Quintil de ingreso en Costa Rica 6 de cada 100
+    hogares tuvieron que haber pasado un día entero sin comer, debido a la falta
+    de dinero u otros recursos para conseguir alimentos durante los últimos 12
+    meses.
+   Los hogares del segundo Quintil de ingreso sufren 5 puntos porcentuales
+    más de inseguridad alimentaria que los hogares del resto del país.
+   22 de cada 100 los hogares con niños menores de 5 años (21% en niños de
+    6-12 años) en Costa Rica presentan inseguridad alimentaria nutricional
+    (obligados a reducir la calidad y / o cantidad de alimentos que consumen
+    debido a la falta de dinero u otros recursos).
+                              RECOMENDACIONES
+
+
+
+   •   Periodicidad del módulo Escala FIES en ENAHO al menos cada 4 años.
+
+   •   Uso de los datos para fortalecer e implementar programas que aprovechen
+       el potencial nutritivo y económico de productos nacionales para educar a la
+       población en el uso de alimentos locales creando una cultura de
+       autoabastecimiento sostenible y nutritivo, adaptada a la zona y cambios
+       climáticos actuales.
+   •   Actualizar el PLAN SAN con la evidencia generada.
+
+   •   Decisiones políticas, para mejorar la seguridad alimentaria se debe orientar
+       a entornos rurales y costeros del país donde las personas pobres y en riesgo
+       de hambre son las más afectadas, priorizando la población vulnerable como
+       mujeres jefas de hogar y hogares con niños de 0 a 12 años.
+
+   •   Empoderar a las mujeres permitirá aumentar la capacidad productiva del
+       país.
+
+
+
+
+                              CONCLUSIONES
+
+
+Ninguna herramienta de medición puede por sí sola reflejar las muchas dimensiones
+de la seguridad alimentaria y nutricional por lo que los resultados de la FIES son un
+complemento al conjunto existente de indicadores de seguridad alimentaria y
+nutricional de Costa Rica.
+En Costa Rica, se vive una emergencia debido a la pandemia del COVD-19, a pesar
+de no plantearse riesgos de desabastecimiento de alimentos y existir estabilidad en
+la producción, la falta de ingresos en muchos hogares del país estima afectar el
+acceso a los alimentos.
+La coyuntura de inseguridad alimentaria nutricional de la población no garantiza la
+equidad, es decir, “que todas las personas en especial los más vulnerables, tengan
+acceso a una alimentación culturalmente aceptada, nutricionalmente adecuada,
+variada y suficiente para desarrollar su vida”. Dicha inequidad compromete la salud
+de amplios sectores, siendo la población infantil la más vulnerable.
+La Malnutrición infantil e inseguridad alimentaria son parte de la expresión de las
+condiciones socio-económicas familiares, que resulta en el acceso limitado a una
+dieta adecuada, es una de las causas inmediatas reconocidas de la malnutrición de
+los niños menores de cinco años, teniendo efectos adversos en la salud y el
+desarrollo de la población y el país, de ahí la importancia de su prevención y control.
+                             Intentos de suicidio
+
+                                                           Gloriela Brenes Murillo
+                                                           Unidad de Epidemiología
+                                                    Dirección Vigilancia de la Salud
+                                                   gloriela.brenes@misalud.go.cr
+
+                                                          Siany Cordero Abarca
+                                      Unidad Seguimiento de Indicadores en Salud
+                                                  Dirección Vigilancia de la Salud
+                                                    siany.cordero@misalud.go.cr
+
+Introducción
+Se estima que una de cada cuatro personas en el mundo experimentará afecciones
+a su salud mental a lo largo de su vida y que cerca de un millón de personas se
+suicidan anualmente. Esta última es la segunda causa de muerte entre las personas
+de 15 a 29 años y ha sobrepasado a la mortalidad materna como principal causa de
+muerte en niñas de 15 a 19 años en todo el mundo. Además, es importante notar
+que el suicidio no es un problema cuyo impacto se limita al ámbito médico, sino que
+tiene una serie de repercusiones en la economía nacional, la seguridad social y las
+dinámicas familiares. El suicidio es indudablemente un problema de salud pública,
+el cual los gobiernos están fallando en afrontar.
+Con el fin de apoyar a los países en sus esfuerzos, la OMS ofrece orientaciones
+integrales para aplicar el enfoque “LIVE LIFE” de prevención del suicidio centrado
+en varios aspectos entre ellos; detectar tempranamente, evaluar, gestionar y hacer
+seguimiento de las personas con comportamientos suicidas.
+El cual implica la adecuada gestión de la información estadística y epidemiológica
+basada en evidencia mediante los instrumentos de recolección de información esto
+implica fortalecer los sistemas de información, los datos científicos y las
+investigaciones sobre la salud mental.
+El intento de suicidio previo sigue siendo el factor de riesgo más importante para el
+suicidio. Si bien el vínculo entre el suicidio y los trastornos mentales, como la
+depresión y el trastorno por consumo de alcohol, está bien establecido, muchos
+suicidios ocurren impulsivamente en momentos de crisis, como problemas
+financieros, ruptura de relaciones o dolor y enfermedad crónica.
+En este sentido Costa Rica no ha estado exenta de esta situación aún más dada la
+emergencia nacional por Covid-19, y es a través de la notificación de los casos
+atendidos en los servicios de salud y en otros espacios privados y de consulta en
+los que se ha reflejado que la población vive situaciones de estrés con diversas
+variantes que se materializan en intentos de suicidio o ideaciones suicidas.
+A continuación, se presenta la información de los casos enviados por las Regiones
+Rectoras de Salud de todo el país, según la notificación obligatoria (Decreto de
+Vigilancia de la Salud 40556-S, 2017) durante la semana epidemiológica N°51 (19
+al 25 de diciembre 2021).
+El primer gráfico refleja que las mujeres siguen siendo el grupo de población con la
+mayor cantidad de casos notificados, ellas reportaron más casos de intentos de
+suicidio durante ese período, de un total de 2156 casos notificados 1401
+correspondieron a este grupo de población, lo cual representa una tasa del 55,3
+contrastando con la de la población masculina que fue de 29,3 para un total de 755
+casos.
+
+Gráfico N° 1.
+Costa Rica: porcentaje de casos notificados de intentos de suicidio según
+sexo, a la SE 51 del 2021.
+
+                                             Mujeres             Hombres
+
+
+
+
+                                        35%
+
+
+
+                                                                    65%
+
+
+
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud.
+El gráfico N°2 brinda información de los grupos de edad que representaron las
+incidencias más altas, en esta SE 51 las mujeres (adolescentes), entre los 15-19
+años presentaron la tasa más alta, la cual fue de 213,4 y los hombres también en el
+mismo grupo de edad pero con una tasa muy inferior de 86,0 es importante dar a
+conocer esta tendencia que se mantiene constante en esta población, para plantear
+acciones de intervención y prevención que permitan dotar a nuestros adolescentes
+de herramientas y recursos apropiados para que ellos puedan hacer una buena
+gestión de sus emociones, de su dolor, de su sufrimiento de las situaciones vitales
+que le son complejas de resolver” una forma puede ser determinando aquellas redes
+de apoyo, familiar, social y personal que les brinde opciones para sostener la vida y
+por ende disminuir las intenciones de autoeliminación.
+
+Gráfico N° 2.
+Costa Rica: incidencia de casos notificados de intentos de suicidio, según
+grupos de edad a la SE 51 del año 2021 (tasa por 100 000 habitantes)
+       250,0
+
+
+       200,0
+                                                                  Mujeres
+
+       150,0
+Tasa
+
+
+
+
+       100,0
+
+
+        50,0
+
+
+         0,0
+
+
+                                                      Grupos de edad
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud.
+Con relación al comportamiento del evento según provincia, se mantiene
+Puntarenas con la tasa más alta de casos, este importante puerto tiene el mayor
+índice de pobreza en el país, un 29.9%, y un 9.8% de pobreza extrema (INEC, 2017)
+y el desempleo es la principal razón de ello se conjugan con la situación de
+emergencia sanitaria para que su población no vea más allá de sus posibilidades
+socioeconómicas y educativas, propiciando el aumento en los intentos de
+autoeliminación en sus pobladores.
+
+
+Gráfico N° 3.
+Costa Rica: incidencia de casos notificados de intentos de suicidio según
+provincia a la SE 51, en el año 2021 (tasa por 100 000 habitantes)
+          80
+
+          70
+
+          60
+                                                                                     67,2
+
+          50
+                49,8
+   Tasa
+
+
+
+
+          40                   43,7
+
+          30                                  34,4
+                                                                                                28,3
+          20                                                 24,1        25,4
+
+
+          10
+
+          0
+               San José      Alajuela       Cartago        Heredia    Guanacaste   Puntarenas   Limón
+                                                          Provincia
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud.
+
+Paralela a la información de los casos de intentos de suicidio notificados según la
+provincia de ocurrencia, se ha tomado en cuenta el comportamiento del evento en
+los diferentes cantones del país, es así como en el gráfico 4, Poás de Alajuela
+encabeza con la tasa más alta, seguido de Parrita de Puntarenas y en una tercera
+posición se ubica León Cortés de la provincia de San José
+Gráfico N° 4.
+Costa Rica: incidencia de casos notificados de intentos de suicidio según
+cantón con tasa más alta a la SE 51, en el año 2021 (tasa por 100 000
+habitantes)
+         180
+
+         160
+                                 161,7
+         140
+                                                                                138,6
+         120
+                   116,2
+         100
+  Tasa
+
+
+
+
+          80                                                            91,8
+
+          60
+                                                                 55,1                       53,3
+          40                                    45,4
+
+          20
+
+            0
+                León Cortés       Poás        Alvarado       Santo      Cañas   Parrita   Talamanca
+                                                            Domingo
+                                                           Cantón
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud.
+

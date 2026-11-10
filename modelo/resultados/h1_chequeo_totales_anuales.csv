@@ -1,0 +1,14 @@
+"anio","fuente","semanas","suma_regiones","total_fila_hoja","regiones_coinciden_fila_total","total_columna","total_resumen"
+2012,"Excel ASIS 2012, hoja Region",52,22203,22203,TRUE,22203,22243
+2013,"Excel ASIS 2013, hoja Region",52,49993,49993,TRUE,49993,49993
+2014,"Excel ASIS 2014, hoja Region",53,11140,11140,TRUE,11140,11140
+2015,"Excel ASIS 2015, hoja Region",52,17258,17258,TRUE,17258,17258
+2016,"Excel ASIS 2016, hoja Region",52,23319,23319,TRUE,23319,23319
+2017,"Excel ASIS 2017, hoja Region",52,5561,5561,TRUE,5561,5561
+2018,"Excel ASIS 2018, hoja Region",52,2735,2735,TRUE,2735,2735
+2019,"Boletín N°1 de 2020, Cuadro 1 (SE 52)",52,9400,9400,TRUE,NA,NA
+2020,"Boletín semanal N°2 de 2021 (SE 53), p. 2",53,10056,10056,TRUE,NA,NA
+2021,"Boletín semanal N°3 de 2022 (SE 52), p. 2",52,5175,5175,TRUE,NA,NA
+2022,"Boletín semanal N°2 de 2023 (SE 52), p. 2",52,7485,7485,TRUE,NA,NA
+2023,"Boletín semanal N°2 de 2024 (SE 52), p. 3",52,30649,30649,TRUE,NA,NA
+2024,"Boletín semanal N°1 de 2025 (SE 52), p. 3",52,31259,31259,TRUE,NA,NA

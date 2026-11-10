@@ -1,0 +1,3 @@
+"esquema","respuesta","modelo","referencia","anios","n_anios","dif_crps","ic_crps_inf","ic_crps_sup","dif_ecm","dif_r2_dentro","ic_r2_inf","ic_r2_sup","replicas_r2_descartadas","anios_mejor_crps","veredicto"
+"hacia_adelante","anual","Seleccion_ISLR","M0","2019–2025",7,-0.0596040295168021,-0.221445726263876,0.0573138129476265,-0.250752700701751,-0.0152181457558609,-0.664554663700679,0.287413428438262,0,3,"no se distingue de la referencia"
+"hacia_adelante","anual","Seleccion_ISLR","M1","2019–2025",7,0.0322862708209866,-0.170353434920991,0.191059210493232,0.11543706184287,-0.170592302651679,-0.514610851012919,0.374140156945132,0,2,"no se distingue de la referencia"

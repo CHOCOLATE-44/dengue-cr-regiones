@@ -1,0 +1,1855 @@
+                                          Boletín Epidemiológico N°20 de 2023
+                                                     Dirección de Vigilancia de la Salud
+                                                             Ministerio de Salud
+
+
+
+
+                                                                           Tabla de contenido
+
+
+
+Dengue ........................................................................................................................................................................................ 2
+Chikungunya............................................................................................................................................................................ 6
+Zika ............................................................................................................................................................................................... 7
+Malaria ........................................................................................................................................................................................ 8
+Leptospirosis ......................................................................................................................................................................... 14
+Influenza y otras virosis respiratorias, IRAS y ETI .......................................................................................... 17
+Mpox........................................................................................................................................................................................... 21
+Meningitis ............................................................................................................................................................................... 23
+Intoxicación por metanol ............................................................................................................................................... 27
+Enfermedad por COVID-19 ............................................................................................................................................ 31
+Infecciones de Transmisión Sexual .......................................................................................................................... 35
+Accidentes Laborales ........................................................................................................................................................ 46
+
+
+
+
+                                                                                                  1
+                                                 Dengue
+                                                                                      Adriana Alfaro Nájera
+                                                                                    Unidad de Epidemiología
+                                                                             Dirección de Vigilancia de Salud
+                                                                                adriana.alfaro@misalud.go.cr
+
+                                                                                     Adrián Montero Bonilla
+                                                                              Unidad de Indicadores de Salud
+                                                                           Dirección de Vigilancia de la Salud
+                                                                               adrian.montero@misalud.go.cr
+
+Se reportan a la semana epidemiológica 19 a través de notificación obligatoria por boleta
+VE01, 1576 casos de dengue. Como se observa en el cuadro 1 la región Huetar Caribe
+presenta el mayor número de casos sospechosos (582) y la tasa más alta 122,6/100.000
+habitantes.
+
+Cuadro 1.
+Costa Rica: Casos y tasas de dengue por Región a la semana epidemiológica 19,
+2023 (Tasa por 100.000 hab.)
+Región                          Casos              Tasa
+Huetar Caribe                    582               122,6
+Central Norte                    216               20,9
+Central Este                     203               35,5
+Central Sur                      166               10,8
+Pacífico Central                 132               41,7
+Huetar Norte                     118               44,5
+Brunca                           100               26,6
+Chorotega                         45                9,7
+Occidente                         14                6,2
+Total                            1576              29,9
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+
+
+                                                         2
+Gráfico 1.
+Costa Rica: Casos y tasas de dengue por región por 100.000 habitantes a la semana
+epidemiológica 19, 2023.
+
+            Occidente
+               Brunca
+            Chorotega
+          Huetar Norte
+Región
+
+
+
+
+     Pacífico Central
+         Central Norte
+           Central Sur
+          Central Este
+         Huetar Caribe
+                         0        100          200          300            400   500   600
+                                               Tasa      Casos
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+Figura 1.
+Mapa del número de casos de dengue por cantón a la semana epidemiológica 19,
+Costa Rica 2023
+
+
+
+
+Fuente: DVS-Unidad indicadores salud
+                                                        3
+El CNRV-INCIENSA reporta 189 muestras positivas confirmadas por dengue virus por
+técnica de PCR entre estos 32 serotipos 3 y 38 serotipos 4.
+
+Figura 2.
+Distribución espacial de los serotipos de dengue, Costa Rica mayo 2023.
+
+
+
+
+Fuente: CNRV-INCIENSA
+
+
+
+
+                                       4
+Figura 3.
+Distribución espacial de los serotipos 3 de dengue, Costa Rica mayo 2023.
+
+
+
+
+Fuente: CNRV-INCIENSA
+
+Figura 4.
+Distribución espacial de los serotipos 4 de dengue, Costa Rica mayo 2023.
+
+
+
+
+Fuente: CNRV-INCIENSA
+
+                                       5
+                                                        Chikungunya
+
+Se registran 27 casos reportados a través de notificación obligatoria por boleta VE01 de
+chikungunya a la semana epidemiológica 19.
+
+Cuadro 2.
+Costa Rica: Casos y tasas de Chikungunya por Región a la semana epidemiológica
+19, 2023 (Tasa por 100.000 hab.)
+            Región                       Casos                    Tasa
+ Central Este                               15                      2,6
+ Central Sur                                5                       0,3
+ Brunca                                     4                       1,1
+ Occidente                                  2                       0,9
+ Central Norte                              1                       0,1
+ Chorotega                                  0                       0,0
+ Huetar Caribe                              0                       0,0
+ Huetar Norte                               0                       0,0
+ Pacífico Central                           0                       0,0
+ Total                                      27                      0,5
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+
+
+Figura 5.
+Distribución espacial de los casos de chikungunya, Costa Rica semana 19, 2023.
+
+
+
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+                                                                           6
+                                                     Zika
+
+Se registran 22 casos a través de notificación obligatoria por boleta VE01 de zika, a la
+semana epidemiológica 19.
+
+Cuadro 3.
+Costa Rica: Casos y tasas de Zika por Región a la semana epidemiológica 19, 2023
+(Tasa por 100.000 hab.)
+         Región                 Casos              Tasa
+Central Este                      15                2,6
+Chorotega                         2                 0,4
+Pacífico Central                  2                 0,6
+Brunca                            1                 0,3
+Central Norte                     1                 0,1
+Central Sur                       1                 0,1
+Huetar Caribe                     0                 0,0
+Huetar Norte                      0                 0,0
+Occidente                         0                 0,0
+Total                             22                0,4
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+
+Figura 5.
+Distribución espacial de los casos de zika, Costa Rica semana 19, 2023.
+
+
+
+
+Fuente: Dirección Vigilancia de la Salud, Unidad de Indicadores de Salud
+                                                          7
+                                                     Malaria
+                                                                                         Isaac Vargas Roldán
+                                                                             Dirección de Vigilancia de la Salud
+                                                                                   isaac.vargas@misalud.go.cr
+
+Antecedentes
+
+El comportamiento de la malaria en el país ha tenido un crecimiento de casos sostenido
+desde el año 2015. A la semana epidemiológica 20 del año 2023 se reportan 319 casos
+de malaria.
+
+Gráfico 1.
+Costa Rica: casos de malaria, del año 2015 a la SE20 del 2023.
+                       500
+
+                       450                                                                455
+
+                       400
+
+                       350
+   Cantidad de casos
+
+
+
+
+                                                                                                    319
+                       300
+
+                       250
+                                                                                 228
+                       200
+
+                       150                                     140    138
+                       100                          109
+
+                        50
+                                             25
+                                8     13
+                         0
+                                                                                                 2023_SE
+                               2015   2016   2017   2018       2019   2020       2021    2022
+                                                                                                   20
+                       Total    8     13     25     109        140    138        228      455       319
+
+Fuente: Coordinación Nacional de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+
+                                                           8
+En la tabla a continuación, se compara el comportamiento de la malaria durante este año
+con la cantidad de casos reportados por semana epidemiológica en el 2022. A la semana
+20, la variación relativa es de un 47%, lo cual responde a los recientes brotes
+identificados en la Región Huetar Caribe y al fortalecimiento en la capacidad diagnóstica
+en los diferentes focos del país tanto con recurso humado como con dotación de pruebas
+rápidas en todos los servicios de salud con el propósito de tener un diagnóstico oportuno.
+
+Tabla 1.
+Comparativo de casos de malaria reportados por semana epidemiológica, 2022-
+2023
+
+                        Semana                   Año             Año
+                        Epidemiológica           2022            2023
+                        1                        12              11
+                        2                        11              8
+                        3                        17              9
+                        4                        6               12
+                        5                        16              7
+                        6                        12              8
+                        7                        11              6
+                        8                        8               8
+                        9                        5               13
+                        10                       10              14
+                        11                       14              11
+                        12                       5               23
+                        13                       11              32
+                        14                       11              55
+                        15                       10              36
+                        16                       7               22
+                        17                       11              11
+                        18                       14              11
+                        19                       10              16
+                        20                       15              20
+                        Total                    216             319
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+                                                          9
+Inventario de focos
+
+En el país se cuenta con un inventario de focos en constante actualización, actualmente
+se tienen 9 focos activos, 4 focos residuales inactivos y 3 focos eliminados. Actualmente
+se están realizando investigaciones ya que se estima la apertura de un nuevo foco activo
+en la Región Chorotega y en la Región Huetar Caribe ante el reciente brote en el cantón
+de Limón. La próxima actualización en la estratificación de riesgo esta planificada para
+junio de 2023.
+
+Figura 1.
+Costa Rica: Inventario de focos de Malaria, actualización de noviembre 2022.
+
+
+
+
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+
+                                                         10
+Clasificación del estado histórico y actual de los focos maláricos.
+
+Para que un foco sea declarado como residual inactivo debe transcurrir 1 año sin
+aparición de casos autóctonos, paralelamente, para que un foco sea declarado como
+eliminado, debe transcurrir 3 años sin transmisión autóctona del parásito.
+
+Tabla 2.
+Clasificación del estado Histórico de los focos maláricos, Costa Rica.
+
+
+
+
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+
+Estratificación del riesgo
+
+Se cuenta en el país con una estratificación de riesgo de malaria, con actualización a
+noviembre de 2022. La estratificación se realiza según criterios de vulnerabilidad y
+receptividad, a nivel nacional se cuenta con ubicaciones geográficas clasificadas en el
+estrato 1, el cual es no receptivo y no vulnerable, hasta estratos 4, los cuales son
+receptivos, vulnerables y con transmisión autóctona del parásito.
+
+
+
+
+                                                         11
+Figura 2.
+Costa Rica: Estratificación del riesgo de malaria.
+
+
+
+
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+
+                                                         12
+Comportamiento
+
+       A la semana epidemiológica 20, se han reportado a nivel nacional un total de 319
+       casos confirmados por malaria.
+       La Región con la mayor cantidad de casos en el 2023 es la Huetar Caribe, con
+       un total de 158 casos, seguido de la Región Huetar Norte con un total de 131
+       casos, en la Región Brunca se han reportado 14 casos, la Región Central Norte
+       reporta 7 casos, Región Central Sur 4 casos, Región Pacifico Central 4 casos y
+       en la Región Chorotega se reporta también 1 caso.
+
+
+Gráfico 2.
+Costa Rica: casos de malaria a la SE20, 2023.
+                  60
+                                                                                     55
+                  50
+
+
+                  40
+Número de casos
+
+
+
+
+                                                                                           36
+                                                                                32
+                  30
+
+
+                                                                           22                   22
+                  20
+                                                                                                                 16
+                                                           13   14
+                       11            12                              12                                11   11
+                  10             9
+                             8            7   8       8
+                                                  6                                                                   6
+
+                   0
+                        1    2   3   4    5   6   7   8    9    10   11    12   13    14   15   16     17   18   19   20
+                  Total 11   8   9   12   7   8   6   8    13   14   12    22   32    55   36   22     11   11   16   6
+Fuente: Control de Vectores, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+
+
+
+
+                                                          13
+                                            Leptospirosis
+
+                                                                                               Nancy Mesén Arce
+                                                                                 Dirección de Vigilancia de la Salud
+                                                                                      nancy.mesen@misalud.go.cr
+
+                                                                                    Humberto Espinoza Fonseca
+                                                                                            Unidad Epidemiología
+                                                                                 humberto.espinoza@misalud.go.cr
+
+
+En Costa Rica, en el presente año a la semana epidemiológica 19, se han notificado por
+medio de la boleta VE.01, un acumulado de 169 casos sospechosos por leptospirosis.
+La distribución por grupos etarios que presentan la mayor cantidad de casos
+sospechosos reportados es la siguiente:
+
+
+     ▪          De 40 a 49 años: n = 36
+     ▪          De 30 a 39 años: n= 30
+     ▪          De 20 a 29 años: n= 27
+
+
+Gráfico1.
+Casos sospechosos de Leptospirosis notificados por boleta VE.01, a Semana
+epidemiológica 19, en Costa Rica, 2023.
+
+           20
+
+           15
+   CASOS
+
+
+
+
+           10
+
+            5
+
+            0
+                  1   2   3   4    5    6     7    8     9        10   11   12     13   14   15   16   17   18   19
+
+                                                       SEMANA EPIDEMIOLÓGICA
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud.
+
+
+
+
+                                                             14
+En el gráfico 1 se observa la distribución por semana epidemiológica de los casos
+notificados por Leptospirosis en el país, donde se observa un comportamiento constante
+en el reporte. El gráfico 2 muestra la notificación por regiones del Ministerio de Salud,
+donde se observa que la mayoría de los casos se notifican en la Región Central Este, la
+Región Brunca, la Región Huetar Caribe y la Región Central Norte.
+
+Gráfico 2.
+Casos de leptospirosis según Región de Ministerio de Salud a SE 19, en Costa
+Rica.
+
+
+                      CENTRAL ESTE
+
+                            BRUNCA
+
+                     HUETAR CARIBE
+   Región del MS
+
+
+
+
+                    CENTRAL NORTE
+
+                       CENTRAL SUR
+
+                     HUETAR NORTE
+
+                        CHOROTEGA
+
+                   PACIFICO CENTRAL
+
+                        OCCIDENTAL
+
+                                      0   10       20          30   40   50
+                                                    No. Casos
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud.
+
+
+
+
+El gráfico 3 muestra que las provincias con más casos reportados son Cartago con la
+mayoría de los casos en el cantón de Cartago, San José con la mayoría de los casos en
+Pérez Zeledón, Puntarenas con la mayor cantidad de casos en Golfito, Limón con la
+mayoría de los casos en el cantón de Matina y Alajuela con la mayoría de los casos en
+el cantón de Alajuela. Las provincias con menos casos reportados son Heredia y
+Guanacaste.
+
+
+
+                                                          15
+Gráfico 3.
+Casos de leptospirosis según Región de Ministerio de Salud a SE 18, en Costa
+Rica.
+
+
+                  Cartago
+                 San José
+   PROVINCIA
+
+
+
+
+               Puntarenas
+                   Limón
+                 Alajuela
+                  Heredia
+               Guanacaste
+
+                            0      10              20               30   40
+                                               No. Casos
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud.
+
+
+
+
+                                                           16
+    Influenza y otras virosis respiratorias, IRAS y ETI
+
+                                                                      Nancy Mesén Arce
+                                                        Dirección de Vigilancia de la Salud
+                                                             nancy.mesen@misalud.go.cr
+
+                                                                 Roberto Arroba Tijerino
+                                                        Dirección de Vigilancia de la Salud
+                                                             roberto.arroba@misalud.go.cr
+
+
+A continuación, se presentan los datos para la semana epidemiológica 19 de las
+Infecciones Respiratorias Agudas Superiores (IRAS) y Enfermedad Tipo Influenza (ETI),
+que según establece el Decreto de Vigilancia de la Salud No. 40556-S del 07 julio del
+2017, son eventos de notificación obligatoria al Ministerio de Salud.
+
+En cuanto a la notificación de IRAS, por medio de la boleta VE02, se tiene:
+   - Los casos acumulados a la semana epidemiológica (SE) 19 son 297.811.
+   - Los grupos por edad quinquenal con más casos notificados son:
+       ▪ 1-4 años: n = 54543
+       ▪ 5-9 años: n= 45548
+       ▪ 20 a 29 años: n= 43605
+
+En el gráfico 1, se observa las regiones del Ministerio de Salud que presentan más casos
+de IRAS notificados de a la semana 19, corresponden a la Región Central Sur, Región
+Central Norte, Región Chorotega, Región Pacífico Central y la Central Este. Las regiones
+con menos casos corresponden a la Huetar Caribe, Huetar Norte, Brunca y Occidental.
+
+
+
+
+                                           17
+Gráfico 1.
+Casos de IRAS notificados por Región del Ministerio de Salud en Costa Rica,
+Semana epidemiológica 19, 2023.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Mapa 1.
+Costa Rica: Incidencia de IRAS* según región del Ministerio de Salud, acumulada
+a la semana epidemiológica 19 del 2023. (tasa p/100.000 habitantes)
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+
+
+                                                          18
+En el mapa 1 se puede observar la incidencia más alta de IRAS corresponde a la
+Región Pacífico Central.
+En cuanto a la notificación de ETI, por medio de la boleta VE02, se tiene:
+   - Los casos acumulados a la semana epidemiológica (SE) 19 son n= 4486.
+   - Los grupos por edad quinquenal con más casos notificados son:
+         ▪ 1-4 años: n = 759
+         ▪ 5 a 9 años: n= 577
+         ▪ 20 a 39 años: n= 1248
+En el gráfico 2, se observa las regiones del Ministerio de Salud que presentan casos de
+ETI notificados a la semana 19, las Regiones con más casos son la Huetar Norte,
+Pacífico Central, Central Norte, Chorotega y Central Sur. Con menos casos se presenta
+la Central Este, Occidental, Huetar Caribe y Brunca.
+
+Gráfico 2.
+Casos de ETI notificados por Región del Ministerio de Salud en Costa Rica,
+Semana Epidemiológica 19, 2023.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+
+
+                                                          19
+Imagen 1.
+Distribución de Virus Circulantes, según Sitios Centinela, Semana 22-2022 a
+Semana 19-2023, en Costa Rica.
+
+
+
+
+Fuente: Matrices de Excel de DRIPSS notificadoras e informe Paneles Respiratorios SAVE. Autor Subárea de
+Vigilancia Epidemiológica. SE 1-19 Fecha de actualización 19 de mayo 2023.
+
+
+En la imagen 1 puede observarse en cuanto a la distribución de los virus circulantes
+predomina aún la circulación del Rinovirus, en Semana 19 principalmente en las
+provincias de Puntarenas, Limón y San José. Se observa también la tendencia al
+aumento de la circulación del Adenovirus en Cartago y Puntarenas y el aumento de la
+Influenza en las provincias de San José, Heredia y Puntarenas principalmente. En las
+últimas semanas no se ha registrado circulación del Metaneumovirus.
+En cuanto a las hospitalizaciones por causas de IRAG en el Hospital Nacional de Niños
+al 1 de junio se reporta un 78% de ocupación en camas para pacientes no COVID-19 y
+un 40% de ocupación en camas de pacientes COVID-19. Por lo que se hace un llamado
+a la población para continuar practicando las medidas de prevención de lavado de
+manos, técnica de estornudo y tos y consultar al centro médico en caso de presentar
+síntomas respiratorios.
+
+
+
+
+                                                      20
+                                                              Mpox
+                                                                                                    Nancy Mesén Arce
+                                                                                      Dirección de Vigilancia de la Salud
+                                                                                           nancy.mesen@misalud.go.cr
+
+En Costa Rica, desde el reporte del primer caso de Mpox en junio 2022 al 30 mayo 2023,
+se han confirmado un total de 225 casos por laboratorio lo que representa el 45% del
+total de casos estudiados. Del total de casos estudiados 271 se han descartado.
+
+Gráfico 1.
+Distribución de casos descartados y confirmados de Mpox, en Costa Rica, por
+semana epidemiológica 15-21 del 2023.
+           35
+                      DESCARTADO
+           30
+                      CONFIRMADO
+           25
+
+           20
+   CASOS
+
+
+
+
+           15
+
+           10
+
+            5
+
+            0
+                                                                                               11
+                15
+                     18
+                          21
+                               24
+                                    27
+                                         30
+                                              33
+                                                    36
+                                                         39
+                                                              42
+                                                                   45
+                                                                        48
+                                                                             51
+                                                                                  2
+                                                                                       5
+                                                                                           8
+
+
+                                                                                                    14
+                                                                                                         17
+                                                                                                              20
+
+
+
+
+                                                   SEMANA EPIDEMIOLÓGICA
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud.
+
+
+
+La semana epidemiológica 52 del 2022 fue en la que se registraron más casos con un
+total de 22. En este año, se mantiene la tendencia a la disminución de casos confirmados
+desde la SE 9 hasta las últimas semanas, siendo que los últimos casos confirmados por
+laboratorio se presentaron en la SE 15 y 16.
+Los casos se caracterizan por ser en su mayoría masculinos con una edad promedio de
+33 y una mediana de 32 años. A la fecha se han presentado un total de 3 casos en
+menores de edad y 5 casos en sexo femenino.
+
+
+                                                                   21
+En el mes de enero se registraron preliminarmente dos hospitalizaciones en centros
+médicos y en el mes de febrero tres asociadas con requerimientos en el manejo de las
+lesiones. En semana 8 se reportó la defunción de una persona hospitalizada con
+antecedente de varias patologías de fondo, dentro de ellas Mpox. A esta semana no se
+reportan otras defunciones relacionadas con la enfermedad.
+Del total de los casos el 6.8% son extranjeros y un 71% corresponde a costarricenses.
+El 52.9% de los casos confirmados tienen antecedentes de patologías que comprometen
+el sistema inmune.
+Como puede apreciarse en el siguiente gráfico los casos confirmados se ubican
+principalmente en la provincia de San José, Heredia, Alajuela y en menor cantidad en
+Cartago, Puntarenas y Guanacaste.
+
+Gráfico 2.
+Casos de Mpox confirmados según provincia, al 30 mayo 2023, en Costa Rica.
+
+     San José
+
+     Heredia
+
+     Alajuela
+
+     Cartago
+
+ Puntarenas
+
+ Guanacaste
+
+      Limón
+
+                0      20       40       60       80       100      120   140   160
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud.
+
+
+Los casos confirmados inician con signos y síntomas, caracterizados por cefalea,
+mialgias y fiebre, posteriormente, presentan un rash o erupción en brazos, piernas, tórax
+y área anogenital, que progresa en etapas secuenciales de maculas a pápulas, luego a
+vesículas, pústulas, y finalmente a costras (estas lesiones en piel o mucosa desaparecen
+en un rango de 11 a 35 días).
+Los esfuerzos y resultados para mantener una vigilancia epidemiológica activa se deben
+al trabajo en equipo de los profesionales de las instituciones C.C.S.S, el Inciensa, el
+sector privado y el Ministerio de Salud en los tres niveles de gestión.
+
+                                                          22
+                                  Meningitis
+
+                                                              Franchina Murillo Picado
+                                                               Unidad de Epidemiología
+                                                      Dirección de Vigilancia de la Salud
+                                                        franchina.murillo@misalud.go.cr
+
+                                                                 Paola Pérez Espinoza
+                                                                  Unidad de Indicadores
+                                                      Dirección de Vigilancia de la Salud
+                                                             paola.perez@misalud.go.cr
+
+
+La meningitis es una peligrosa inflamación de las membranas que rodean el cerebro y la
+médula espinal, causada principalmente por una infección bacteriana o vírica.
+La meningitis causada por una infección bacteriana suele ser la más grave que provoca
+unas 250,000 muertes por año y posibles epidemias de rápida propagación. Ocasiona la
+muerte de una de cada diez personas infectadas, en su mayoría niños y jóvenes y deja
+a una de cada cinco con discapacidades duraderas, como convulsiones, pérdida de
+audición y visión, daños neurológicos y deterioro cognitivo.
+En Costa Rica, a la semana epidemiológica 19 del año 2023, se han notificado un total
+de 70 casos a través de boleta VE01 por sospecha de meningitis y en el año 2022 se
+reportó un total de 38 casos de meningitis con respecto a la misma semana lo que
+representa un aumento del 84,21%.
+De las 9 Regiones del Ministerio de Salud, la Región Central Este notificó el 24,3% de
+los casos (17/70), seguido de la Región Central Sur con el 20,0% de los casos (14/70).
+En el año 2022 también la Región Central Este reportó la mayor cantidad de casos con
+un 28,9% (11/38).
+
+
+
+
+                                          23
+Figura 1.
+Costa Rica: Casos sospechosos de meningitis comparativa año 2022 con el
+2023 a la semana epidemiológica 19, 2023
+           8
+           7
+           6
+           5
+n° casos
+
+
+
+
+           4
+           3
+           2
+           1
+           0
+               1   3   5    7   9   11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47
+                                                Semana epidemiológica
+                                                     2022        2023
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+
+A la semana epidemiológica 19 del 2023, el 62,86% (44/68) de las notificaciones por
+boletas VE01 son de meningitis bacterianas. En el año 2022 para esta misma semana,
+también las meningitis bacterianas superaban en notificación a las virales en el 52,63%
+(20/38) de los casos notificados.
+
+Tabla 1.
+Costa Rica: Casos de meningitis virales y meningitis bacterianas por año 2023 y
+2023 a la semana epidemiológica 19
+
+Año                    Meningitis       Porcentaje     Meningitis     Porcentaje
+                       virales          según total    bacterianas    según total
+                                        de casos                      de casos
+2022                   18               47,37          20             52,63
+2023                   26               37,14          44             62,86
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+En la tabla 2 se enlista los cantones con casos de meningitis a la semana epidemiológica 19. El
+cantón de Bagaces en la provincia de Guanacaste presenta la tasa más alta de meningitis (7,9)
+por cien mil habitantes.
+
+
+                                                         24
+Tabla 2.
+Costa Rica: Casos sospechosos y tasas de meningitis según cantón de procedencia, a la
+semana epidemiológica 19, 2023. (tasa p/100.000 habitantes)
+ Cantón             casos        tasas
+ Bagaces            2            7,9
+ La Cruz            2            7
+ El Guarco          3            6,3
+ Palmares           2            4,7
+ Parrita            1            4,7
+ Tilarán            1            4,5
+ Golfito            2            4,3
+ Cartago            7            4,2
+ Turrialba          3            4,1
+ San Ramón          4            4,1
+ Oreamuno           2            3,9
+ Flores             1            3,9
+ Paraíso            2            3,1
+ Los Chiles         1            2,8
+ Escazú             2            2,8
+ Coto Brus          1            2,3
+ Talamanca          1            2,2
+ Barva              1            2,1
+ Carillo            1            2,1
+ Grecia             2            2,1
+ Corredores         1            1,9
+ Buenos Aires       1            1,8
+ Montes de Oca      1            1,6
+ Santa Ana          1            1,6
+ Perez Zeledón      2            1,4
+ Coronado           1            1,4
+ Heredia            2            1,4
+ Pococí             2            1,3
+ Curridabat         1            1,2
+ Desamparados       3            1,2
+ San José           4            1,1
+ San Carlos         2            1
+ Alajuela           3            0,9
+ Puntarenas         1            0,7
+                                         25
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+
+
+La figura 2, indica la distribución de los casos sospechosos según sexo y grupo de edad. Para la
+semana epidemiológica 19, el 54,28% de los casos (38/70) son hombres y el 45,71% (32/70) son
+mujeres, una razón de 1,1 hombres.
+El 10,00% de los casos (7/70) son menores de 1 años y el 54,28% (38/70) de los casos se
+encuentran entre las edades 20-64, grupo económicamente productivo.
+
+
+
+Figura 2.
+Costa Rica: Casos sospechosos por meningitis según sexo y edad, a la semana
+epidemiológica 19, 2023
+
+      14                                                                                                                                                                                                                                                                  mujer                               hombre
+      12
+      10
+   n° casos
+
+
+
+
+              8
+              6
+              4
+              2
+              0
+                                   de 1 a 4 años
+
+                                                   de 5 a 9 años
+                  Menos de 1 año
+
+
+
+
+                                                                                     de 15 a 19 años
+
+
+
+
+                                                                                                                                                                                                                                                                                                                75 años y más
+                                                                   de 10 a 14 años
+
+
+
+
+                                                                                                       de 20 a 24 años
+
+                                                                                                                         de 25 a 29 años
+
+                                                                                                                                           de 30 a 34 años
+
+                                                                                                                                                              de 35 a 39 años
+
+                                                                                                                                                                                de 40 a 44 años
+
+                                                                                                                                                                                                  de 45 a 49 años
+
+                                                                                                                                                                                                                    de 50 a 54 años
+
+                                                                                                                                                                                                                                      de 55 a 59 años
+
+                                                                                                                                                                                                                                                        de 60 a 64 años
+
+                                                                                                                                                                                                                                                                          de 65 a 69 años
+
+                                                                                                                                                                                                                                                                                            de 70 a 74 años
+
+
+
+
+                                                                                                                                             Grupo de edad
+
+
+
+
+Fuente: Ministerio de Salud, Dirección Vigilancia de la Salud, USIS
+
+
+
+
+                                                                                                                                                             26
+                        Intoxicación por metanol
+                              Actualizado al 31 de mayo 2023
+
+                                                                       Ted Alpízar Calvo
+                                                                Unidad de Epidemiología
+                                                          Dirección Vigilancia de la Salud
+                                                               ted.alpizar@misalud.go.cr
+
+La intoxicación por metanol un alcohol tóxico, no apto para bebidas es una de las
+patologías de más alta mortalidad en urgencias. Al ser una patología no común y con
+síntomas y signos no específicos muchas veces la pasamos por alto y con esto
+aumentamos su mortalidad. Este es uno de los padecimientos que ante la alta sospecha
+en la historia clínica y sintomatología debemos abordar de inmediato con el fin de evitar
+un desenlace fatal. Sus síntomas se deben principalmente al acúmulo de ácido fórmico
+que causa alteraciones pulmonares, metabólicas, neurológicas y renales. Es un
+padecimiento el cual debe notificarse una vez confirmado el diagnóstico con el fin de
+realizar un barrido y encontrar los causantes, antes de evitar brotes mayores.
+
+El Decreto de Vigilancia de la Salud N° 40556-S, indica que la intoxicación con metanol
+es de notificación obligatoria al Ministerio de Salud debido a su impacto en la salud
+pública; ya que puede causar un cuadro grave de intoxicación, discapacidad en la
+persona e inclusive la muerte, si no se trata oportunamente. Por este motivo, el
+diagnóstico temprano y el tratamiento adecuado son cruciales para mejorar el pronóstico.
+
+El Ministerio de Salud de Costa Rica haciendo uso de sus potestades, que le confiere la
+legislación, establece los lineamientos que deben seguir los establecimientos de salud
+públicos y privados, cuando se presenten casos de intoxicación con metanol. Se
+pretende con los lineamientos orientar al personal de salud, en los procedimientos a
+seguir para evitar las discapacidades y la mortalidad que podrían producir este tipo de
+intoxicación.
+
+
+
+
+                                            27
+Cuadro 1
+Costa Rica: Casos y fallecidos sospechosos por Intoxicación por metanol según
+fecha de registro, indicador seleccionado por sexo. Del 1 de enero al 31 de mayo
+2023.
+Indicador                                                                         Sexo biológico notificado
+Morbilidad                                                                  Mujeres                 Hombres               Total
+Número de casos (vivos)                                                          0                       1                  1
+Porcentaje (%) del total                                                         0                      100                100
+Rango edad (años)                                                                0                      44                  44
+Promedio edad (años)                                                             0                      44                  44
+Edad desconocido ( incluidos total)                                              0                        0                    0
+Mortalidad
+Número ( fallecidos)                                                             0                       5                  5
+Porcentaje (%)                                                                   0                      100                100
+Rango edad (años)                                                                0                     34-60              34-60
+Promedio de edad (años)                                                          0                      46,6               46,6
+Edad desconocido                                                                 0                        0                 0
+Total ( número de vivos y fallecidos)                                            0                        6                 6
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la CCSS y el OIJ.
+
+
+Cuadro 2
+Costa Rica: Casos y fallecidos sospechosos por Intoxicación por metanol según
+fecha de registro, por provincia, cantón y condición de egreso. Del 1 de enero al
+31 de mayo 2023.
+ Provincia                                                             Condición de egreso                              Total
+                                   Cantón
+                                                                    Fallecidos                         Vivos
+ San José
+                           San José                                        1                               1              2
+
+ Alajuela
+                           Alajuela                                        3                                              3
+
+ Guanacaste
+                           Liberia                                         1                                              1
+
+ Total(2023)                                                               5                               1              6
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la CCSS
+y el OIJ.
+                                                               28
+Cuadro 3
+Costa Rica: Casos y fallecidos sospechosos por Intoxicación por metanol según
+fecha de registro por grupos de edad y por condición egreso. Del 1 de enero al 31
+de mayo 2023.
+                                                         Condición de egreso
+ Grupos de edad ( años)                               Fallecido           Vivo                       Total
+ 20-29                                                    0                0                          0
+ 30-39                                                    1                0                          1
+ 40-49                                                    2                1                          3
+ 50-59                                                    1                0                          1
+ 60-69                                                    1                0                          1
+ 70 y mas                                                 0                0                          0
+ Desconocido                                              0                0                          0
+ Total                                                    5                1                          6
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la CCSS
+y el OIJ.
+
+
+
+
+Cuadro 4
+Costa Rica: Casos y fallecidos sospechosos por Intoxicación por metanol según
+fecha de registro por condición y año de ocurrencia. Del 1 de enero al 31 de mayo
+2023.
+ Condición                                Año de ocurrencia                                                     Total
+
+                                   2019                      2020              2021           2022      2023
+
+ Fallecido                           75                       52                 22              6        5      160
+ Casos (Vivo)                        51                       46                 27              6        1      131
+ Total (2019-2023)                  126                       98                 49             12        6      291
+Fuente: Dirección Vigilancia de la Salud con información proporcionada de los establecimientos de salud de la CCSS
+y el OIJ.
+
+
+
+
+                                                        29
+30
+                              Enfermedad por COVID-19
+                                                                             Pamela Domínguez Saavedra
+                                                                          Dirección de Vigilancia de la Salud
+                                                                          pamela.dominguez@misalud.go.cr
+
+
+El comportamiento de la Enfermedad COVID-19 a la semana epidemiológica 21, que
+abarca del 21 al 27 de mayo del 2023, se reportan un total de casos confirmados de 906
+casos lo que representa un descenso del -8,20% (n= 81), en comparación con la semana
+epidemiológica 20 con 987 casos, con una tendencia a la baja desde la semana 14 a la
+semana 21.
+
+Gráfico 1.
+Costa Rica: Casos COVID-19, según semana 21-2022 a 21-2023
+
+
+
+
+Datos sujetos a actualización en semana epidemiológica correspondiente.
+Fuente: Subárea de Vigilancia Epidemiología, C.C.S.S. / Dirección de Vigilancia de Salud, Ministerio de Salud, 2023.
+
+
+Con respecto a las hospitalizaciones por trece semanas epidemiológicas continúa con
+una tendencia a la disminución desde la semana 9 con un promedio total de
+hospitalizados de 201 a la semana 21 con 68.
+
+
+
+
+                                                         31
+ Gráfico 2.
+ Costa Rica: Promedio de hospitalizados en salón y Unidad de Cuidados
+ Intensivos, según reporte de semana epidemiológica 27-2022 a 21-2023
+
+
+
+
+Fuente: Área de Estadística en Salud, C.C.S.S. / Ministerio de Salud, Dirección de Vigilancia de Salud 2023. Semana
+epidemiológica 27 se inicia reporte de hospitalizados por CCSS, post ciber ataque.
+
+
+El comportamiento de las personas fallecidas durante la semana epidemiológica 21, se
+reportaron 5 personas fallecidas.
+
+Gráfico 3.
+Costa Rica: Personas Fallecidas asociadas a COVID-19, según semana
+epidemiológica de 23-2022 a 21 -2023
+
+
+
+
+Fuente: Área de Estadística en Salud, C.C.S.S. / Ministerio de Salud, Dirección de Vigilancia de Salud 2023.
+                                                         32
+ Las alertas de brotes por COVID-19, desde la semana 1 a la 21, se han reportado treinta
+ y cinco. Por ende, se llevan seis semanas sin reporte de brotes, aunque se mantiene
+ el predomino de los brotes, en los Servicios de Salud con 40% (n=14), Hogares de larga
+ estancia 31.43% (n=11) y Centros de atención institucional (CAI) un 20% (n=7).
+
+ Gráfico 4.
+ Costa Rica: Brotes de COVID-19, por semana epidemiológica durante los años
+ 2022 y 2023
+
+
+
+
+     Fuente: Dirección de Vigilancia de la Salud, Ministerio de Salud, 2023.
+
+
+Cobertura de vacunación por COVID-19
+
+ La Caja Costarricense del Seguro Social, en el informe del 29 de mayo del 2023 reportó
+ las coberturas de vacunación en el país, a la fecha se han aplicado 13,364,453 dosis,
+ para una población de 5.163.021 de 0 a 100 años. Para la población de más de 6
+ meses con 4,799,835, se reportan las coberturas de I dosis de 90,5%; II dosis 85 %; III
+ dosis 57.7%, IV 23.1% y V dosis 4.3%. Las coberturas en mayores de 18 años son: I
+ dosis 95,9%, II dosis 91.8%, III dosis 66,7%, IV dosis 30,8%, V dosis 5,8%. (Caja
+ Costarricense del Seguro Social, 2023)
+ Variantes genómicas: En la semana epidemiológica 19 del año en curso, INCIENSA
+ reporta la circulación del sublinaje de Variante de Ómicron (VOC), con predominio de
+
+                                                        33
+ las variantes de interés (VOI), XBB.1.5 con 77.8%, la otra variante genómica de interés
+ es XBB.1.16 con 5.6%, las variantes bajo monitoreo (VUM) son: XBB 2.3 con 5.6%,
+ XBB.1.9.2 con 5.6%y XBB con 5.6%. (Instituto Costarricense de Investigación y
+ Enseñanza en Nutrición y Salud, 2023)
+
+Imagen 1.
+Costa Rica: Proporción relativa de sublinaje de VOC Ómicron por semana
+epidemiológico. SE 1-19 2023, n:1851
+
+
+
+
+Fuente: Sistema de Información de INCIENSA, CCSS actualizado el 18 de mayo 2023.
+
+
+
+Bibliografía
+
+Caja Costarricense del Seguro Social. (2023). Avance Institucional de la Jornada
+Vacunación en la Semana 21. San José: CCSS.
+
+Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud. (2023).
+Informe semanal de Vigilancia genómica del virus SARS-CoV-2. San José: INCIENSA.
+
+
+
+
+                                                    34
+                Infecciones de Transmisión Sexual
+
+                                                                  Lennya Centeno Víctor
+                                                                 Unidad de Epidemiología
+                                                            lennya.centeno@misalud.go.cr
+
+                                                              Stephany Alvarado Garita
+                                            Unidad de Seguimiento de Indicadores en Salud
+                                                        stephany.alvarado@misalud.go.cr
+
+                                                          Rafael Alberto Chaves Méndez
+                                            Unidad de Seguimiento de Indicadores en Salud
+                                                             rafael.chaves@misalud.go.cr
+
+Las Infecciones de Transmisión Sexual (ITS) pueden desencadenar importantes
+consecuencias para salud tanto de adultos como en niños, razón por la cual la vigilancia
+de las ITS resulta importante para disminuir y contener la transmisión de estas patologías
+y así poder contener la epidemia de las ITS.
+A nivel mundial, los esfuerzos para detener la epidemia de ITS están guiados por la
+Estrategia Mundial de la Salud del Sector de Salud de las ITS, 2016-2021, que
+proporciona objetivos, metas y acciones prioritarias. A nivel regional, el Plan de Acción
+para la Prevención y el Control del VIH y de las Infecciones de Transmisión Sexual 2016-
+2021 apoya una respuesta acelerada, enfocada, más eficaz, innovadora y sostenible por
+los países de las Américas, allanando el camino hacia el objetivo de poner fin a las
+epidemias de SIDA y de las ITS como problemas de salud pública para 2030
+contemplados en los Objetivos del Desarrollo sostenible (ODS) y para los cuales nuestro
+país ha adquirido compromisos en el control y erradicación de estas enfermedades
+(OPS, 2023).
+Los eventos de Clamidiasis y Tricomoniasis no se describen en este aparto debido a que
+no se notifican en este momento según lo establecido por el Decreto 40556-S. La
+notificación y vigilancia de las ITS esta descrita en el Protocolo nacional de vigilancia
+de la infección por VIH y las infecciones de transmisión sexual el cual es de es de
+acatamiento obligatorio, de aplicación en todo el territorio nacional, e involucra a todas
+las instituciones, entidades u organizaciones del sector salud público y privado que
+presten servicios de salud; asimismo, este instrumento incluye la Vigilancia de las ITS
+sujetas a la eliminación según recomendaciones de la OMS/OPS como se mencionó
+anteriormente.
+                                            35
+Sífilis todas sus formas
+
+La Sífilis es una enfermedad causada por una espiroqueta llamada Treponema pallidum,
+exclusiva del ser humano, se transmite por vía sexual a través de mucosas y por
+transmisión vertical; genera un importante problema de salud pública e incluso puede
+generar la muerte en algunos casos, la Sífilis es la ITS más reportada en nuestro país.
+En relación con esa enfermedad, el rango de edad con más notificación es el de 20 a 34
+años. Según el sexo se reportan en hombres una tasa de 20,5 con respecto a la mujer
+que reporta una incidencia de 13,6 al cierre de la semana 20 del 2023.
+
+Gráfico 1.
+Costa Rica. Casos notificados de Sífilis todas sus formas, según semana
+epidemiológica. 2023.
+                  70                       65
+                                      61
+                  60   52                            54   54            52             54
+                            50   51                                          49   51                       51
+ Total de casos
+
+
+
+
+                  50                            40             38                                               36
+                  40                                                                                  35             33
+                                                                                            28
+                  30                                                                                                      23
+                                                                                                 20
+                  20
+                  10
+                  0
+                       1    2    3    4    5    6    7    8    9        10   11   12   13   14   15   16   17   18   19   20
+
+                                                          Semana epidemiológica
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud. Datos preliminares.
+
+
+
+
+                                                                   36
+Gráfico 2.
+Costa Rica: Incidencia de Sífilis todas formas, según Región Rectora de Salud,
+2023. (Tasa p/100.000 habitantes).
+                30
+                                                               26,1
+                                                                                      25,1
+                25
+
+                20
+   Incidencia
+
+
+
+
+                                  16,4                                                                                   16,4
+                       13,8
+                15
+                                                 10                        10,9
+                10                                                                                        7,1
+                                                                                               3,8
+                 5
+
+                 0
+                      BRUNCA     CENTRAL       CENTRAL    CENTRAL SUR CHOROTEGA      HUETAR   HUETAR   OCCIDENTAL      PACIFICO
+                                   ESTE         NORTE                                CARIBE   NORTE                    CENTRAL
+
+                                                         Región Rectora de Salud
+Datos preliminares.
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud.
+
+
+
+La provincia con la tasa de incidencia más alta a la semana 18, es la provincia de Limón
+con una tasa de 25,1. Así como la Región Central Sur es la que concentra la tasa más
+alta con un 26,1, ver gráfico 2 y gráfico 3.
+
+Gráfico 3.
+Costa Rica. Casos de Sífilis todas sus formas según Provincia. 2023. (Tasa
+p/100.000 habitantes)
+                500
+                        24,5
+                                                                                              Total de casos      Tasa
+                450
+                400
+                350
+                300
+  Casos
+
+
+
+
+                250
+                200     415
+                                                                                                                25,1
+                150
+                                                         1              17,6                    16,7
+                100
+                                         3,5                                         11,7                       119
+                50                                       96               96                     86
+                                         37                                           48
+                 0
+                      SAN JOSE     ALAJUELA           CARTAGO         HEREDIA     GUANACASTE PUNTARENAS        LIMON
+
+                                                              Provincia
+Datos preliminares.
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud.
+                                                                          37
+Se finaliza la semana con un total preliminar de 879 casos de Sífilis todas sus formas y
+una tasa total del 17,0 por cada 100.000 habitantes, siendo del total reportado 542 casos
+de sexo masculino y 355 casos para el sexo femenino.
+
+Gonorrea
+La Gonorrea es una infección bacteriana que causas por Neisseria gonorrhoeae y genera
+problemas en muchos órganos del cuerpo humano, es la segunda ITS más frecuente.
+Según semana epidemiológica (SE) a la semana 20 del 2023 se han reportado 339 casos
+en total.
+
+Gráfico 4.
+Costa Rica. Casos notificados de Gonorrea según semana epidemiológica. 2023.
+                    30              25
+                          23                        22
+                    25                                                      21 22
+                                                                    19 20                    20
+   Total de casos
+
+
+
+
+                                                         18                         17 16         17
+                    20         16         16                                                                      16
+                                               13                                                            13
+                    15                                        10
+                                                                                                        8              7
+                    10
+                     5                                                                                                     0   0   0   0   0
+                     0
+                           1   2    3     4    5     6   7    8     9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+                                                                        Semana epidemiólogica
+
+Datos preliminares.
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud.
+
+
+Gráfico 5.
+Costa Rica. Casos notificados de Gonorrea según Provincia. 2023. (Tasa p/100.000
+habitantes)
+                         200        9,8                                                                           Tasa         Casos
+                         150
+   Casos
+
+
+
+
+                         100
+                                                                                                                  13,3
+                                                                                                       8,1
+                          50                        2             3,6       3,5
+                                    166             21            20        19           2             42          63
+                           0                                                             8
+
+
+
+
+                                                                        Provincia
+
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud
+                                                                                    38
+Se puede observar en el gráfico 5 y 6 respectivamente, que la provincia con la tasa de
+incidencia más alta es la provincia de Limón con 13,3 y San José con 9,8. La Región
+Caribe con una tasa de 13,3 al cierre de la semana 20 es la región con la incidencia por
+Sífilis más alta.
+
+Gráfico 6.
+Costa Rica. Incidencia de Gonorrea según Región Rectora de Salud. 2023. (Tasa
+p/100.000 habitantes)
+             14                                                                                 13,3
+             12                                                                                                                     10,8
+                                                                       10
+             10
+Incidencia
+
+
+
+
+             8
+                       5,9
+             6
+                                   3,7                                                                                      3,1
+             4                                           2,5                        2,4
+             2                                                                                                0,8
+             0
+                     BRUNCA     CENTRAL             CENTRAL          CENTRAL     CHOROTEGA     HUETAR        HUETAR   OCCIDENTAL   PACIFICO
+                                  ESTE               NORTE             SUR                     CARIBE        NORTE                 CENTRAL
+                                                                      Region Rectora de Salud
+Datos preliminares.
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud.
+
+
+La edad de presentación más frecuente corresponde al rango de edad entre los 20 a 29
+años, lo que coincide con las edades sexualmente más activas.
+
+Gráfico 7.
+Costa Rica. Casos de Gonorrea según grupo de edad quinquenal para ambos
+sexos. 2023
+                      75 años y más        1
+                                                    5
+                     de 65 a 69 años                5
+                                                     6
+                     de 55 a 59 años                       11
+                                                          10
+                     de 45 a 49 años                                  20
+         Edad
+
+
+
+
+                                                                15
+                     de 35 a 39 años                                               35
+                                                                                          40
+                     de 25 a 29 años                                                                                  72
+                                                                                                                       73
+                     de 15 a 19 años                                                      41
+                                           0
+                       de 5 a 9 años           2
+                                                3
+                  de Menos de 1 año        0
+                                       0             10          20         30      40         50       60      70          80
+                                                                               Total de casos
+
+Datos preliminares.
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud.
+                                                                                    39
+Herpes Virus
+El herpes genital es causado por los virus del Herpes simple tipo 1 (VHS-1) y el herpes
+simple tipo 2 (VHS-2). Es importante mencionar en este sentido que el herpes oral
+causado por el VHS-1 se puede transmitir de la boca a los genitales mediante las
+relaciones sexuales orales.
+
+Gráfico 8.
+Costa Rica. Casos notificados de Herpes, según semana epidemiológica. 2023.
+
+                               13                                              13
+                     14   12        12                 12             12
+                                                                                    11            11
+                     12                      10   10        10   10                          10
+   Edad quinquenal
+
+
+
+
+                                         9                                                             9
+                     10                                                                                        8
+                     8                                                                   6                         6
+                                                                           5                               5
+                     6
+                     4
+                     2                                                                                                 0   0   0   0   0
+                     0
+                          1    2    3    4   5    6    7    8    9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+                                                                 Semana epidemiológica
+
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud
+
+
+
+
+En el gráfico 9, se puede observar a la Región Central Sur con una incidencia de 7,2 y la
+Pacifico Central con 4,7; datos corresponden al cierre de la semana 20.
+
+
+
+
+                                                                                    40
+Gráfico 9.
+Costa Rica. Incidencia de Herpes Virus, según Región Rectora de Salud. 2023.
+(Tasa p/100.000 habitantes)
+                8                                            7,2
+                7
+                6
+                                                                                                                        4,7
+   Incidencia
+
+
+
+
+                5
+                                                                                      4
+                4         3,5
+                                        2,8
+                3
+                2                                                                                  1,5
+                                                      1                 1,1
+                1                                                                                            0,4
+                0
+                         BRUNCA       CENTRAL    CENTRAL   CENTRAL   CHOROTEGA      HUETAR     HUETAR    OCCIDENTAL   PACIFICO
+                                        ESTE      NORTE      SUR                    CARIBE     NORTE                  CENTRAL
+
+                                                            Region Rectora de Salud
+
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud
+
+
+La provincia con mayor cantidad de casos reportados a la semana 20 son las provincias
+de San José y las provincias de Puntarenas y Limón.
+
+Gráfico 10.
+Costa Rica. Casos de Herpes virus, según Provincia. 2023. (Tasa p/100.000
+habitantes)
+                150                                                                                                   Casos        Tasa
+                                  7
+
+                100
+   Casos
+
+
+
+
+                    50
+                                                 1           3,1                                            3,7               4
+                                                                              1,5            0,5     2
+                                118                          17                                             19                19
+                                                 11                            8
+                    0
+                            SAN JOSE          ALAJUELA     CARTAGO       HEREDIA          GUANACASTE     PUNTARENAS      LIMON
+
+
+
+                                                               Provincia
+
+Datos preliminares.
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud.
+
+
+
+
+                                                                         41
+Gráfico 11.
+Costa Rica. Total, de casos de Herpes Virus según grupos de edad, ambos sexos.
+2023
+                         75 años y más                        5
+                                                          3
+                       de 65 a 69 años            1
+                                                              5
+                       de 55 a 59 años                2
+   Edad quinquenal
+
+
+
+
+                                                                  8
+                       de 45 a 49 años                                 11
+                                                                                   19
+                       de 35 a 39 años                                                   22
+                                                                                                29
+                       de 25 a 29 años                                                         28
+                                                                                                          38
+                       de 15 a 19 años                                                   22
+                                                  1
+                          de 5 a 9 años       0
+                                              0
+                     de Menos de 1 año        0
+                                          0               5       10        15    20      25   30    35   40
+                                                                                 Casos
+
+Cifras preliminares.
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud,
+
+
+
+
+En relación con el grupo etario más afectado, corresponde al rango entre 20 y 24 años,
+el cual coincide con las edades sexualmente más activas, ver gráfico 11. Se cierra la
+semana 20 con 82 casos en hombres y 112 casos en mujeres.
+
+
+
+Virus del Papiloma Humano
+
+La infección por el Virus del Papiloma Humano (VPH) es muy común, se transmite por
+contacto íntimo piel con piel y a través de relaciones sexuales vaginales, anales y orales
+con alguien que porte el virus ya sea con presencia o no de signos o síntomas.
+
+A continuación, se presentan los casos al corte de la semana 18, para el evento VPH.
+
+
+
+
+                                                                                 42
+Gráfico 12.
+Costa Rica. Casos notificados de Virus del Papiloma Humano según semana
+epidemiológica. 2023.
+
+                    20                   19
+                    18
+                    16   14 14
+                    14                                    12
+   Total de casos
+
+
+
+
+                    12
+                    10
+                                 7
+                     8
+                                     5                                             5
+                     6                        4   4   4
+                                                                 3
+                     4                                                2                       2
+                                                                                       1                  1
+                     2                                                         0                  0   0       0   0   0   0   0   0
+                     0
+                         1   2   3   4   5    6   7   8    9    10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+                                                                 Semana epidemiológica
+
+Cifras preliminares
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud.
+
+
+
+
+El VPH en nuestro país afecta con mayor frecuencia al rango entre los 20- 59 años.
+Representa una tasa total al corte de la semana 18 de 1.8 (Tasa p/100.000 habitantes).
+Sin embargo, a diferencia de otras ITS el VPH es una patología que se presenta con más
+frecuencia en el sexo femenino con una tasa de 2.9 contra el 0.8 en el hombre (Tasa
+p/100.000 habitantes), esto obedece en gran parte a los programas de tamizaje y
+detección del Cáncer cervicouterino que se realiza a través del Papanicolau.
+En el gráfico 13, se puede observar que la Región Chorotega es la región que concentra
+la tasa la más alta con 14,8 seguido de la Región Central Sur.
+
+
+
+
+                                                                          43
+Gráfico 13.
+Costa Rica. Incidencia de Herpes Virus, según Región Rectora de Salud. 2023.
+(Tasa p/100.000 habitantes)
+
+             16                                                             14,8
+
+             14
+             12
+Incidencia
+
+
+
+
+             10
+             8
+             6
+             4
+                                                                1,3
+             2                       0,2            0,1
+                                                                                       0,6                                      0,9
+                        0                                                                             0            0
+             0
+                      BRUNCA       CENTRAL        CENTRAL   CENTRAL SUR CHOROTEGA     HUETAR        HUETAR   OCCIDENTAL    PACIFICO
+                                     ESTE          NORTE                              CARIBE        NORTE                  CENTRAL
+
+                                                               Región Rectora de Salud
+
+
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud
+
+
+
+Gráfico 14.
+Costa Rica. Casos notificados de Virus del Papiloma Humano, según provincia.
+2023.(Tasa p/100.000 habitantes)
+                                                                                                                       Casos          Tasa
+
+             100
+              90
+              80                                                                             16,8
+              70
+              60
+Casos
+
+
+
+
+              50
+              40
+                                                                                               69
+              30
+              20            1,1
+
+              10            19
+                                             0,1              0,4               0,2                          0,4                0,6
+                  0                           1                2                 1                            2                  3
+                        SAN JOSE           ALAJUELA         CARTAGO        HEREDIA      GUANACASTE        PUNTARENAS           LIMON
+
+                                                                    Provincia
+
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Seguimiento de Indicadores en Salud
+                                                         44
+La provincia con casos reportados a la semana 18 son las provincias de Guanacaste y
+la provincia de San José. Como se aprecia en el gráfico 14, la región que concentra la
+mayor incidencia es la Región Chorotega con una tasa de 14.8 (Tasa p/100.000
+habitantes). Esta región junto con la Pacifico Central son objeto de estudio por parte del
+llamado antiguamente como Proyecto Epidemiológico Guanacaste; hoy Agencia
+Costarricense de Investigaciones Biomédicas (ACIB), con el objetivo de investigar el
+papel que desempeña la infección por el virus del papiloma humano (VPH) y sus
+cofactores en el desarrollo de neoplasias cervicouterinas y para evaluar nuevas
+tecnologías de tamizaje del cáncer del cuello de útero y determinar por qué mujeres
+infectadas por el VPH desarrollan neoplasias cervicouterinas (PAHO,2022).En este
+sentido podemos determinar que la notificación de esta patología resulta importante para
+realizar los análisis epidemiológicos respectivos que nos permita orientar acciones en el
+control y erradicación de enfermedades mediante el desarrollo de fármacos en los que
+se incluye la vacuna contra el VPH.
+
+
+
+
+                                            45
+                                 Accidentes Laborales
+                                                                                         Jorge Emilio Arce
+                                                                                  Unidad de Epidemiología
+                                                                        Dirección de Vigilancia de la Salud
+                                                                               jorge.arcear@misalud.go.cr
+
+Según datos suministrados por el Instituto Nacional de Seguros de acuerdo con la
+atención que ellos prestan y que también son reportados por los servicios de salud
+nacionales, para el primer trimestre del año 2022, se reportan un total de 24924 personas
+lesionadas mientras permanecían ejecutando de forma subordinada y remunerada
+alguna labor, siendo la semana numero 12 la que más casos de accidentes presentó con
+un total de 2279 accidentes.
+
+Para este trimestre, San José fue la provincia donde más accidentes se presentaron para
+un total de 7694, siendo a su vez los ciudadanos de dicha provincia los que más
+accidentes sufrieron con un total de 7440, en ese mismo orden Cartago es la provincia
+donde menos accidentes laborales sucedieron (2150) y los Guanacastecos los que
+menos se accidentaron (2141)
+
+Cuadro 1.
+Costa Rica: Accidentalidad por provincia según lugar de trabajo y de residencia
+para el primer trimestre del año 2023.
+
+ Provincia                          Casos por lugar de trabajo Casos por                 lugar   de
+                                                               Residencia
+ San José                           7694                       7440
+ Alajuela                           5158                       5331
+ Limón                              2747                       2748
+ Heredia                            2465                       2319
+ Puntarenas                         2408                       2240
+ Guanacaste                         2302                       2141
+ Cartago                            2150                       2705
+ Total                              24924                      24924
+
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Epidemiología.
+
+
+                                                       46
+Para el mismo periodo las 10 primeras principales lesiones fueron los Traumatismos no
+especificados de la muñeca y de la mano y la labor donde más casos se presentaron fue
+en la que realizan los peones agropecuarios, así mismo por edad, las personas de 33
+años fueron las que más se vieron afectadas por los accidentes laborales.
+
+
+Cuadro 2.
+Costa Rica: Principales lesiones sufridas en accidentes laborales para el primer
+trimestre del año 2023.
+
+ Tipo de Lesión                                                            Casos
+ Traumatismo no especificado de la muñeca y de la mano                     2287
+ Lumbago no especificado                                                   1627
+ Traumatismo del pie y del tobillo, no especificado                        1563
+ Otros traumatismos de la pierna, especificados                            1508
+ Herida de dedo(s) de la mano, sin daño de la(s) uña(s)                    1313
+ Otras lesiones del hombro                                                 959
+ Esguinces y torceduras del tobillo (Ligamento):                           746
+ Dolor en la columna dorsal                                                672
+ Traumatismos no especificados del hombro y del brazo                      627
+ Contusión de la rodilla                                                   591
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Epidemiología.
+
+
+En cuanto a los casos registrados, el siguiente grafico nos muestra el día de la semana
+donde más accidentes laborales suceden, siendo que según lo reportado el lunes es el
+día donde más personas lesionadas aparecen y el descenso claro se ve a partir del
+miércoles, pues de martes a miércoles sucedió un aumento, pasando de 3887 personas
+lesionadas el día martes a 4388 el miércoles.
+
+
+
+
+                                                        47
+Gráfico 1.
+Costa Rica: Casos presentados en el primer trimestre del 2023 por día de la
+semana.
+ 6000
+
+
+ 5000
+
+
+ 4000
+
+
+ 3000
+
+
+ 2000
+
+
+ 1000
+
+
+     0
+           lunes     martes    miércoles    jueves    viernes     sábado   domingo
+
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Epidemiología.
+
+
+En cuanto a semana epidemiológica como se indicó al principio, la semana donde más
+personas sufrieron accidentes fue en la semana 12 con una leve diferencia de 50 casos
+con respecto a la semana 10 y con un aumento de 631 casos con respecto a la semana
+uno que fue donde menos lesionados hubo, como se aprecia en el siguiente gráfico.
+
+
+
+
+                                                        48
+Gráfico 2.
+Costa Rica: Cantidad de personas accidentadas en el primer trimestre 2023 según
+semana epidemiológica.
+
+ 2500
+
+
+
+ 2000
+
+
+
+ 1500
+
+
+
+ 1000
+
+
+
+  500
+
+
+
+    0
+          1     2     3     4     5     6     7     8     9    10       11   12   13
+
+Fuente: Dirección de Vigilancia de la Salud, Unidad de Epidemiología.
+
+
+
+
+                                                        49
+

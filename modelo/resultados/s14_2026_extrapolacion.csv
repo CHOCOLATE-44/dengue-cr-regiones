@@ -1,0 +1,28 @@
+"variable","region","valor_2026","min_2015_2025","max_2015_2025","extrapolacion"
+"arrastre","Brunca",0,0,5.463405,FALSE
+"arrastre","C.Este",2.410866,1.687084,4.989457,FALSE
+"arrastre","Central Norte",3.065927,2.855473,5.80667,FALSE
+"arrastre","Central Sur",3.7811,1.083022,5.476319,FALSE
+"arrastre","Chorotega",5.265824,1.699068,6.973395,FALSE
+"arrastre","H. Caribe",2.997089,3.213348,5.687121,TRUE
+"arrastre","H.Norte",3.111351,0.603847,5.760782,FALSE
+"arrastre","Occidente",1.972253,0,4.683637,FALSE
+"arrastre","Pacífico Central",4.133642,0,6.487991,FALSE
+"aptitud_termica_pob","Brunca",0.284035444259644,0.188734635710716,0.312387675046921,FALSE
+"aptitud_termica_pob","C.Este",0.0276880469173193,0.0180389564484358,0.04299096763134,FALSE
+"aptitud_termica_pob","Central Norte",0.109974190592766,0.0762366205453873,0.137880995869637,FALSE
+"aptitud_termica_pob","Central Sur",0.0733567029237747,0.0455357171595097,0.0907240808010101,FALSE
+"aptitud_termica_pob","Chorotega",0.74663257598877,0.615160465240479,0.756101787090302,FALSE
+"aptitud_termica_pob","H. Caribe",0.382946312427521,0.330319374799728,0.497230470180511,FALSE
+"aptitud_termica_pob","H.Norte",0.338126927614212,0.291502386331558,0.453039765357971,FALSE
+"aptitud_termica_pob","Occidente",0.183298856019974,0.120776228606701,0.213301599025726,FALSE
+"aptitud_termica_pob","Pacífico Central",0.670964121818542,0.508271515369415,0.669153869152069,TRUE
+"oni","Brunca",-0.864,-1.246,1.96,FALSE
+"oni","C.Este",-0.864,-1.246,1.96,FALSE
+"oni","Central Norte",-0.864,-1.246,1.96,FALSE
+"oni","Central Sur",-0.864,-1.246,1.96,FALSE
+"oni","Chorotega",-0.864,-1.246,1.96,FALSE
+"oni","H. Caribe",-0.864,-1.246,1.96,FALSE
+"oni","H.Norte",-0.864,-1.246,1.96,FALSE
+"oni","Occidente",-0.864,-1.246,1.96,FALSE
+"oni","Pacífico Central",-0.864,-1.246,1.96,FALSE

@@ -1,0 +1,836 @@
+                       Boletín Epidemiológico N° 3 de 2026
+                             Dirección de Vigilancia de la Salud
+                                     Ministerio de Salud
+                                                30 de enero de 2026
+
+
+
+
+                                             Tabla de contenido
+
+Arbovirosis ............................................................................................................ 3
+Situación de la malaria en Costa Rica ................................................................. 5
+Control vectorial realizado en el país en la semana epidemiológica 02 ......... 10
+Influenza y otras virosis respiratorias, IRAG, IRAS, ETI y Covid-19 ............... 11
+Meningitis............................................................................................................. 25
+Miasis por gusano barrenador en humanos ..................................................... 28
+
+
+
+
+                                                                                                                             1
+2
+                                           Arbovirosis
+Dengue
+
+A la semana epidemiológica 2 del año 2026 se notifican 143 casos de dengue de
+estos dos como dengue grave.
+
+La región central norte presenta el mayor número de casos notificados 32, y la
+región pacífico central la tasa más alta con 7,5/100.000 habitantes.
+
+Tabla 1.
+Costa Rica: Casos y tasas de dengue por región a la semana epidemiológica
+2, 2026 (Tasa por 100.000 hab.)
+
+                   Región                         Casos           Tasa
+Central Norte                                       32             3,1
+Central Sur                                         30             2,0
+Pacifico Central                                    24             7,5
+Chorotega                                           23             4,8
+Huetar Caribe                                       15             3,3
+Huetar Norte                                        10             3,7
+Central Occidente                                   4              1,8
+Brunca                                              3              0,8
+Central Este                                        2              0,4
+Total                                              143             2,7
+Fuente: Dirección de Vigilancia de la Salud.
+
+
+Tabla 2.
+Costa Rica: casos de dengue notificados por provincia y sexo, 2026
+
+                      Total
+Provincia             casos            Tasa    Femenino   Tasa   Masculino   Tasa
+Alajuela                45              4,2       28       5,2      17        3,1
+San José                30              1,8       13       1,5      17        2,1
+Puntarenas              27              5,3       13       5,2      14        5,4
+Guanacaste              23              5,5       12       5,8      11        5,2
+Limón                   15              3,3       2        0,9      13        5,6
+Cartago                  2              0,4       1        0,4      1         0,4
+Heredia                  1              0,2       0        0,0      1         0,4
+Total                  143              1,3       30       1,2      40        1,5
+                                                                                    3
+Fuente: Dirección de Vigilancia de la Salud.
+Los cantones con mayor número de casos acumulados a la semana epidemiológica
+2 son: Alajuela 29 casos, Cañas 13 casos, Puntarenas 10, Parrita 9 casos y Tibás
+8 casos.
+
+
+Tabla 3.
+Costa Rica: cantones prioritarios de dengue por tasa/100.00 habitantes a la
+semana epidemiológica 2, 2026.
+
+
+                     Cantón                          Casos                  Tasa
+
+506: Cañas                                                      13                   39,5
+609: Parrita                                                      9                  39,4
+510: La Cruz                                                      5                  17,6
+602: Esparza                                                      5                  14,0
+214: Los Chiles                                                   5                  13,2
+Fuente: Dirección de Vigilancia de la Salud
+
+
+
+Gráfico 1.
+Costa Rica: casos de dengue a la semana epidemiológica 2, 2025-2026.
+           250
+
+           200
+
+           150
+   Casos
+
+
+
+
+           100
+
+           50
+
+            0
+                 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51
+                                               Semana
+
+                                              2025    2026
+
+Fuente: Dirección de Vigilancia de la Salud
+
+
+La CCSS a través de la Gerencia Médica, Área de Estadística en Salud según datos
+recopilados mediante EDUS al 26 de enero del 2026 reporta que no hay personas               4
+hospitalizadas por dengue.
+               Situación de la malaria en Costa Rica
+                 actualización a la semana epidemiológica 02 del 2026
+
+
+
+
+Situación actual casos de transmisión Local (Autóctonos/ Introducidos)
+A semana 02 del presente año se reporta un (1) caso autóctono de P. vivax en la
+localidad de San Gerardo, Los Chiles en el foco de los Chiles, este caso fue captado
+por el Ministerio de Salud mediante búsquedas reactivas en la comunidad. El
+histórico de transmisión local de malaria en Costa Rica evidencia una tendencia
+sostenida a la disminución de casos en los últimos cuatro años en comparación con
+el mismo periodo, como se evidencia en la tabla 1 y en la figura 1.
+
+Tabla 1.
+Cantidad de casos de transmisión local (introducidos y autóctonos) a la
+semana epidemiológica actual y al cierre del año de los últimos 4 años. Costa
+Rica.
+
+            Cantidad de casos a                 Porcentaje de                   Cantidad de casos
+                   SE 02                      disminución, con                        totales
+                                               respecto al año
+                                                  anterior
+
+
+ 2023                    14                             __                                 538
+ 2024                    10                            29%                                 244
+ 2025                     3                            70%                                 29
+ 2026                     1                            67%                                  1
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+Esta tendencia positiva refleja el impacto de las intervenciones dirigidas a la
+interrupción de la transmisión local, especialmente en los focos históricos.
+
+
+
+                                                                                                          5
+Gráfico 1.
+Comportamiento de casos de transmisión local del año 2023, 2024, 2025 y
+2026, Costa Rica.
+
+
+
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+
+
+
+Situación actual casos importados
+
+A la semana epidemiológica actual se registran cuatro (4) casos importados de
+malaria asociados al foco de Crucitas, en la Región Huetar Norte, todos
+correspondientes a Plasmodium vivax, con nexo epidemiológico con Nicaragua y
+actividad minera. Estos casos se distribuyen en las localidades de Crucitas (n=2),
+El Roble (n=1) y Chamorro (n=1).
+
+
+
+
+                                                                                                          6
+     Tabla 2.
+     Resumen de casos de todas las clasificaciones por Región y especie. Costa
+     Rica, SE02.
+
+          Región            Número           Clasificación             Especie                   Foco
+                              de
+                             casos
+                               4               Importado                P. vivax           Crucitas (N=4)
+      Huetar Norte
+                                 4             En estudio               P. vivax           Crucitas (N=4)
+
+                                 1             Autóctono                P. vivax         Los Chiles (N=1)
+
+     Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+     Nota: La clasificación epidemiológica corresponde al cierre de la semana
+     epidemiológica 02 de 2026 y puede modificarse conforme avance la investigación
+     epidemiológica de los casos en estudio.
+
+I.   Inventario de focos.
+     En el país se cuenta con un inventario de focos en constante actualización,
+     actualmente se tienen 5 focos activos, 12 focos residuales inactivos y 5 focos
+     eliminados.
+
+
+
+
+                                                                                                               7
+Figura 1.
+Distribución geográfica de focos de malaria según estatus epidemiológico.
+Costa Rica, diciembre 2025.
+
+
+
+
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica
+
+Para que un foco sea declarado como residual inactivo debe transcurrir 1 año sin
+aparición de casos autóctonos, paralelamente, para que un foco sea declarado
+como eliminado, debe transcurrir 3 años sin transmisión autóctona del parásito.
+
+
+
+
+                                                                                                          8
+Tabla 3.
+Listado de focos de malaria por provincia, cantón y estado epidemiológico del
+foco. Costa Rica, diciembre 2025
+
+                                                     Nombre del
+             Provincia            Cantón               Foco                       Estado
+              Alajuela          San Carlos                Pital             Residual inactivo
+              Alajuela          San Carlos           Boca Arenal            Residual inactivo
+              Alajuela          San Carlos           Monterrey                   Eliminado
+                                                   Crucitas - Llano
+              Alajuela          San Carlos             Verde                       Activo
+              Alajuela          Los Chiles            Los Chiles                   Activo
+              Alajuela          San Carlos              Jicarito            Residual inactivo
+              Alajuela          Río Cuarto            Rìo Cuarto            Residual inactivo
+            Guanacaste            La Cruz               La Cruz             Residual inactivo
+            Guanacaste             Cañas                 Cañas              Residual inactivo
+              Heredia            Sarapiquí             Sarapiquí                 Eliminado
+              Heredia            Sarapiquí               Ticari                    Activo
+               Limón               Matina                Matina                    Activo
+               Limón               Limón                Limón                      Activo
+                                                       Barra de
+               Limón             Siquirres             Parismina               Eliminado
+               Limón              Pococí               El Jardín            Residual inactivo
+
+               Limón             Siquirres          Barra Pacuare           Residual inactivo
+            Puntarenas             Roble                El Roble                 Eliminado
+            Puntarenas          Puntarenas              Chomes                   Eliminado
+            Puntarenas            Quepos                Quepos              Residual inactivo
+            Puntarenas             Parrita               Parrita            Residual inactivo
+            Puntarenas             Golfito             La Leona             Residual inactivo
+            Puntarenas              Osa               Bahia Uvita           Residual inactivo
+Fuente: Coordinación de Malaria, Dirección de Vigilancia de la Salud, Ministerio de Salud de Costa Rica.
+                                                                                                           9
+ Control vectorial realizado en el país en la semana
+                 epidemiológica 02
+
+En la siguiente tabla se desglosa el control vectorial que se ha realizado en la
+semana epidemiológica 02 del 2026, por el personal de Control de Vectores del
+país.
+
+Tabla 1.
+Costa Rica: Control vectorial realizado en la semana epidemiológica 02
+
+     Control Realizado                                              Total
+Viviendas visitadas                                                    3.741
+
+Viviendas positivas                                                     134
+Depósitos tratados                                                     7.362
+Depósitos eliminados                                                   2.077
+Depósitos positivos                                                     186
+Viviendas fumigadas                                                   12.442
+Fuente: Consolidado Nacional de actividades de Control Vectorial.
+
+
+Tabla 2.
+Costa Rica: Consolidado de control vectorial de semana 1-2 de 2025.
+
+  Control Realizado                                                 Total
+Viviendas visitadas                                                    10.621
+
+Viviendas positivas                                                         355
+Depósitos tratados                                                     42.621
+Depósitos eliminados                                                   11.038
+Depósitos positivos                                                         600
+Viviendas fumigadas                                                    17.641      10
+Fuente: Consolidado Nacional de actividades de Control Vectorial.
+ Influenza y otras virosis respiratorias, IRAG, IRAS,
+                    ETI y Covid-19
+
+
+A continuación, se presentan los datos para la semana epidemiológica 2 de las
+Infecciones Respiratorias Agudas Graves (IRAG) y los datos de la semana
+epidemiológica 2 de las Infecciones Respiratorias Agudas Superiores (IRAS) y la
+Enfermedad Tipo Influenza (ETI), que según establece el Decreto de Vigilancia de
+la Salud No. 40556-S del 07 julio del 2017, son eventos de notificación obligatoria
+al Ministerio de Salud.
+
+En relación con la notificación de las IRAG, por medio de la boleta VE-01, se cuenta
+con los siguientes datos:
+   - Los casos acumulados a la semana epidemiológica (SE) 2 son un total de
+       71.
+   - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en los niños menores de 1 año y en los mayores de 75 años.
+
+Gráfico 1.
+Distribución de casos de IRAG por grupos por edad quinquenal, notificados a
+la semana epidemiológica 2, en Costa Rica, 2026.
+
+
+
+
+                                                                                       11
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+Según el gráfico 1, se puede apreciar como en los extremos de la vida (niños
+menores de 1 año y mayores de 75 años es donde más casos se han presentado).
+En el gráfico 2, se observa la tasa de incidencia de IRAG según las regiones del
+Ministerio de Salud a la semana 2, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Central Este y la Brunca; las regiones con menor
+incidencia corresponden a la Chorotega, Central Occidente, Huetar Norte, Central
+Sur, Central Norte, Pacífico Central y Huetar Caribe.
+
+Gráfico 2.
+Tasa de IRAG según región del Ministerio de Salud, acumulada a la semana
+epidemiológica 2 del 2026, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+Por semana epidemiológica, los casos reportados por boleta VE-01 de IRAG, en
+Costa Rica son los que se presentan en el gráfico 3; se puede observar el
+comportamiento de los casos a la semana epidemiológica 2 del año 2026.
+
+
+
+
+                                                                                   12
+Gráfico 3.
+Distribución de casos reportados por boleta VE-01 de IRAG a la semana
+epidemiológica 53, en Costa Rica, 2025.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En relación con el histórico de casos de IRAG, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2026, esto se puede apreciar en el gráfico 4.
+
+Gráfico 4.
+Distribución histórica de casos de IRAG por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+                                                                                    13
+El HNN, para la SE-2 tiene un canal endémico de IRAG que actualmente se
+encuentra por en zona de alarma, debido a la cantidad de casos que están
+presentando en este momento, tal como se puede apreciar en el gráfico 5.
+
+Gráfico 5.
+Costa Rica: Canal endémico IRAG, HNN, 2026
+
+
+
+
+Fuente: EDUS-UVEPCI HNN, 2026.
+
+
+En cuanto a la notificación de IRAS, por medio de la boleta VE02, se tiene la
+siguiente información, tal como se muestra en el gráfico 6:
+   - Los casos acumulados a la semana epidemiológica (SE) 2 son 14977.
+   - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+       distribución en personas entre 25 y 29 años y personas entre 20 y 24 años.
+
+
+
+
+                                                                                    14
+Gráfico 6.
+Distribución de casos de IRAS por grupos por edad quinquenal, notificados a
+la semana epidemiológica 2, en Costa Rica, 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+
+En el gráfico 7, se observa la tasa de incidencia de IRAS según las regiones del
+Ministerio de Salud a la semana 2, presentando mayor cantidad de casos por cada
+100.000 habitantes la Región Central Occidente y Chorotega. Las regiones con
+menor incidencia corresponden a la región Central Norte, Huetar Norte, Huetar
+Caribe, Central Sur, Central Este, Pacífico Central y Brunca.
+
+
+
+
+                                                                                   15
+Gráfico 7.
+Tasa de IRAS según región del Ministerio de Salud, acumulada a la semana
+epidemiológica 2 del 2026, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de IRAS, en
+Costa Rica son los que se presentan en el gráfico 8; se puede observar cómo los
+casos se han comportado en la segunda semana epidemiológica del año 2026.
+
+Gráfico 8.
+Distribución de casos reportados por boleta VE-02 de IRAS a la semana
+epidemiológica 2, en Costa Rica, 2026.
+
+
+
+
+                                                                                  16
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+En relación con el histórico de casos de IRAS, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2026, esto se puede apreciar en el gráfico 9.
+
+Gráfico 9.
+Distribución histórica de casos de IRAS por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+En el gráfico 10 se presenta el canal endémico de las IRAS en el Hospital Nacional
+de Niños, que muestra que a la semana 2 se encuentran en la zona de seguridad
+actualmente.
+
+Gráfico 10.
+Costa Rica: Canal endémico IRAS. HNN. 2026.
+
+
+
+
+                                                                                     17
+Fuente: Sistemas de Cubos Urgencias-UVEPCI HNN, 2025.
+En cuanto a la notificación de ETI, por medio de la boleta VE02, se tiene la siguiente
+información, tal como se muestra en el gráfico 11:
+    - Los casos acumulados a la semana epidemiológica (SE) 2 son n= 599.
+    - Los casos distribuidos por grupos por edad quinquenal tienen la mayor
+      distribución en personas entre 35 y 39 años y las personas entre 65 y más
+      años.
+
+
+Gráfico 11.
+Distribución de casos de ETI por grupos por edad quinquenal, notificados a la
+semana epidemiológica 2, en Costa Rica, 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+En el gráfico 12, se observa la tasa de incidencia por ETI, según las regiones del
+Ministerio de Salud a la semana 2, presentando mayor cantidad de casos en la
+región la Central Occidente. Las regiones con menor incidencia corresponden a la
+región Brunca, Chorotega, Central Este, Central Sur, Huetar Norte, Pacífico Central,
+Central Norte y Huetar Caribe.
+
+
+
+
+                                                                                         18
+Gráfico 12.
+Tasa de ETI por región del Ministerio de Salud, acumulada a la semana
+epidemiológica 2 del 2026, en Costa Rica.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Por semana epidemiológica, los casos reportados por boleta VE-02 de ETI, en
+Costa Rica son los que se presentan en el gráfico 13; se puede observar cómo se
+han distribuido los casos en el año 2026.
+
+Gráfico 13.
+Distribución de casos reportados por boleta VE-02 de ETI a la semana
+epidemiológica 2, en Costa Rica, 2026.
+
+
+
+
+                                                                                  19
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+En relación con el histórico de casos de ETI, por semana epidemiológica en Costa
+Rica, entre los años 2018 y 2026, esto se puede apreciar en el gráfico 14.
+
+Gráfico 14.
+Distribución histórica de casos de ETI por semana epidemiológica, en Costa
+Rica entre los años 2018 y 2026.
+
+
+
+
+Fuente: Ministerio de Salud, Dirección de Vigilancia de la Salud, UIS.
+
+Según se observa en el gráfico 15, se puede ver el comportamiento de los
+principales virus respiratorios circulantes de la semana 01 a la 03 del 2026; para la
+SE-03, en el país, el virus de Influenza A es el que más está circulando, seguido del
+Rinovirus y finalmente el Covid-19 está en tercer lugar de circulación.
+
+
+
+
+                                                                                        20
+Gráfico 15.
+Distribución de virus circulantes de la semana epidemiológica 01 a la 03 en
+Costa Rica, 2026.
+
+
+
+
+Fuente: Matriz de Resultados de Laboratorio CCSS, Subárea de Vigilancia Epidemiológica 2025.
+
+
+En relación con los datos específicos del Hospital Nacional de Niños, la situación
+que se ha presentado a la semana 4 del año 2026 es la siguiente:
+Al 22 de enero del año en curso, correspondiente a la semana 3, el total de pacientes
+respiratorios hospitalizados son 54, lo que corresponde a un porcentaje de
+ocupación del 80.60%.
+
+Gráfico 16.
+Costa Rica: Total de pacientes hospitalizados y en emergencias en la semana
+3 del año 2026, Hospital Nacional de Niños.
+
+
+
+
+                                                                                               21
+Fuente: Hospital Nacional de Niños, 2026.
+Gráfico 17.
+Costa Rica: Positividad de muestras respiratorias de pacientes hospitalizados
+según agente etiológico viral. HNN. SE 1-52. Año 2025.
+
+
+
+
+Fuente: Unidad de Vigilancia Epidemiológica-Laboratorio de microbiología e inmunología. HNN. 2026.
+
+
+Gráfico 18.
+Costa Rica: Distribución de muestras positivas por VRS en pacientes
+hospitalizados según SE y año. HNN. 2018-2026.
+
+
+
+
+                                                                                                     22
+Fuente: Unidad de Vigilancia Epidemiológica-Laboratorio de microbiología e inmunología. HNN. 2025.
+Para la enfermedad por COVID-19, durante la semana epidemiológica 3, se
+reportaron un total de 131 casos confirmados, lo que representa una disminución
+del 39.91% con respecto a la SE-2 del año 2026 que presentó 218 casos.
+
+Gráfico 19.
+Costa Rica: Casos COVID-19, según semana epidemiológica año 2026.
+
+
+
+
+Fuente: Subárea de Vigilancia Epidemiológica, C.C.S.S / Dirección de Vigilancia de Salud, Ministerio
+de Salud, 2026.
+
+Con respecto a las hospitalizaciones en la semana epidemiológica 3, se reportó un
+promedio total de 5 hospitalizados, lo que representa una disminución del 16.67%
+con respecto a la SE-2 del año 2026 donde se registraron 6 hospitalizaciones.
+
+En relación con el comportamiento de las personas fallecidas asociadas a COVID-
+19, durante la semana epidemiológica 3, hubo un fallecido; sin embargo, es
+importante indicar que estos son datos preliminares sujetos a la revisión de los
+casos.
+
+
+
+
+                                                                                                       23
+Variantes genómicas
+Según el informe interactivo de INCIENSA revisado el 29 de enero del 2026, se
+reporta lo siguiente.
+
+Gráfico 20.
+Costa Rica: Proporción de linaje identificados, para Variante de Preocupación
+(VOC) Ómicron, Variante de Interés (VOI) y Variantes Bajo Monitoreo (VUM),
+por semana epidemiológica SE 1-46 del 2025.
+
+
+
+
+Fuente: Sistema de Información de INCIENSA, CCSS, DATOS Facultad de Microbiología UCR, actualizado en
+informe interactivo en Vigilancia genómica SARS-CoV-2 al 29 de enero del 2026.
+
+
+
+
+                                                                                                        24
+                                                       Meningitis
+
+La meningitis es una peligrosa inflamación de las membranas que rodean el cerebro
+y la médula espinal, causada principalmente por una infección bacteriana o vírica.
+La meningitis causada por una infección bacteriana suele ser la más grave que
+provoca unas 250,000 muertes por año y posibles epidemias de rápida propagación.
+Ocasiona la muerte de una de cada diez personas infectadas, en su mayoría niños
+y jóvenes y deja a una de cada cinco con discapacidades duraderas, como
+convulsiones, pérdida de audición y visión, daños neurológicos y deterioro cognitivo.
+En Costa Rica, en el año 2025, se notificaron preliminarmente 184 casos
+sospechosos de meningitis reportados mediante boleta VE01, lo que representa una
+tasa de incidencia de 3,4 por cada 100.000 habitantes. En comparación con el
+mismo periodo del año anterior, cuando se reportaron 222 casos, se observa una
+disminución del 17,1%. Se identificó un único brote de origen intrafamiliar. De las
+notificaciones por sospecha el 70,6% (130/184) correspondieron a meningitis
+bacterianas.
+De las 9 Regiones del Ministerio de Salud, tanto la Región Central Norte como la
+Región Central Este presentaron la mayor cantidad de casos con un 21,7%
+respectivamente (40/184) seguido de la Región Central Sur con 20,7% (38/184).
+
+
+Gráfico 1.
+Costa Rica: Casos sospechosos de meningitis comparativa año 2024 con el
+2025
+
+                    12
+                    11
+                    10
+                     9
+                     8
+                     7
+  Número de casos
+
+
+
+
+                     6
+                     5
+                     4
+                     3
+                     2
+                     1
+                     0
+                         1   3   5   7   9   11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47
+                                                         Semana epidemiológica                          25
+                                                           2024      2025
+
+Fuente: Ministerio de Salud-Dirección de Vigilancia de la Salud. Unidad de Indicadores de la Salud.
+En la siguiente tabla se presentan los 15 cantones con las tasas más elevadas de
+meningitis. León Cortés registró la mayor tasa con un 14,0 por 100 000 habitantes,
+seguido por Turrubares con 13,8 y Dota con 12,2; los tres pertenecen a la provincia
+de San José.
+
+Tabla 1.
+Costa Rica: Casos notificados de meningitis según 15 cantones prioritarios,
+acumulado a la semana epidemiológica 53, 2025 (tasa p/100.000 habitantes)
+
+
+Cantón                                                Casos                          Tasa
+ León Cortés                                             2                            14,0
+ Turrubares                                              1                            13,8
+ Dota                                                    1                            12,2
+ Hojancha                                                1                            12,2
+ Flores                                                  3                            11,5
+ Cartago                                                 16                           9,5
+ Osa                                                     3                            9,5
+ Santa Cruz                                              7                            9,4
+ Santa Bárbara                                           4                            8,8
+ Cañas                                                   3                            8,7
+ El Guarco                                               4                            8,4
+ Pérez Zeledón                                           11                           7,7
+ Bagaces                                                 2                            7,7
+ Sarapiquí                                               7                            7,4
+ Esparza                                                 3                            7,4
+
+Fuente: Ministerio de Salud-Dirección de Vigilancia de la Salud. Unidad de Indicadores de la Salud.
+
+
+
+La figura 3 presenta la distribución de los casos sospechosos según sexo y grupo
+de edad. En el año 2025, se observó una distribución por sexo, con un 51,6% de los
+casos (95/184) en hombres y un 48,3% (89/184) en mujeres. El 23,9% de los casos
+(44/184) fueron menores de 1 año.
+
+
+
+
+                                                                                                      26
+Gráfico 2.
+Costa Rica: Casos notificados por meningitis según sexo y edad, a la semana
+epidemiológica 53, 2025
+
+
+
+
+Fuente: Ministerio de Salud-Dirección de Vigilancia de la Salud. Unidad de Indicadores de la Salud.
+
+
+
+
+                                                                                                      27
+        Miasis por gusano barrenador en humanos
+
+A continuación, se presentan los datos preliminares de miasis por gusano
+barrenador en humanos para la semana epidemiológica (SE) 04 del año 2026 (datos
+preliminares), según establece el Reglamento de Vigilancia de la Salud Decreto
+N°40556-S y el Lineamiento Nacional para la Vigilancia de Miasis por Gusano
+Barrenador en Humanos es un evento de notificación obligatoria al Ministerio de
+Salud.
+
+En relación con la notificación de esta miasis, por medio de la boleta VE-01, para el
+año 2026 a la SE 04, se tienen los siguientes datos:
+
+• Casos acumulados de miasis por gusano barrenado en humanos suman un total
+de 7 casos
+• Casos por grupos de edad tienen un predominio en las personas de 20 a 64 años
+(2/7) y las adultas de 65 y más años con más casos reportados (5/7)
+
+Gráfico 1
+Costa Rica: Casos notificados de miasis de gusano barrenador según SE de
+la 01 a la 04, 2026
+
+
+
+
+Nota: Datos preliminares a la SE 04-2026
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026   28
+Gráfico 2
+Costa Rica: Casos notificados de miasis por gusano barrenador según grupos
+de edad quinquenal, de la SE 01 a la 04, 2026
+
+
+
+
+Nota: Datos preliminares a la SE 04-2026
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+
+El comportamiento de la miasis por gusano barrenador en humanos, en el año 2026,
+presenta un predominio en los hombres con 5 casos notificados con una tasa de 0,2
+por 100.000 habitantes y en las mujeres con 2 casos notificados con una tasa de
+0,1 por 100.000 habitantes.
+
+Tabla 1
+Costa Rica: Casos notificados de miasis por gusano barrenador por número
+de casos y tasas (tasa p/100.000 habitantes) según provincia de procedencia,
+de la SE 01 a 04, 2026
+Provincias                      Casos                  Tasas
+Total                              7                     0,1
+San José                                        1                              0,1
+Alajuela                                        1                              0,1
+Cartago                                         0                              0,0
+Heredia                                         0                              0,0
+Guanacaste                                      0                              0,0
+Puntarenas                                      3                              0,6
+Limón                                           2                              0,4                   29
+Nota: Datos preliminares a la SE 04-2026
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+En el cuadro 1, se presenta el comportamiento de esta enfermedad por número de
+casos notificados a la SE 04 según provincia de procedencia, presentando mayor
+número de casos la provincia de Puntarenas (3/7) seguido por la provincia de Limón
+(2/7).
+
+Gráfico 3
+Costa Rica: Casos notificados de miasis por gusano barrenador por número
+de casos según región del Ministerio de Salud de procedencia, de la SE 01 a
+04, 2026
+
+
+
+
+Nota: Datos preliminares a la SE 04-2026
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2026
+
+
+En el gráfico 3, se presenta el comportamiento de esta enfermedad a nivel de las
+nueve regiones del Ministerio de Salud, siendo la región Pacífico Central (3/7) la
+que presenta el mayor número de casos notificados.
+
+En el gráfico 4 se puede observar el comportamiento de la miasis por gusano
+barrenador en humanos por SE 01 a 04 del 2025 y 2026, con un total de 7 casos
+confirmados por esta enfermedad para el 2026, siendo que para la SE 04 del 2025
+se confirmaron 9 casos de miasis por gusano barrenador en el país.
+                                                                                                     30
+Gráfico 4
+Costa Rica: Casos notificados de miasis de gusano barrenador, según SE, de
+la SE 01 a la 04 del 2025 y del 2026
+
+
+
+
+Nota: Datos preliminares a la SE 04-2026
+Fuente: Subárea de Vigilancia Epidemiológica, CCSS / Dirección de Vigilancia de la Salud, MS, 2025 y 2026
+
+Dado que la mosca continúa circulando en el territorio nacional y existe la
+declaratoria de Emergencia Nacional Sanitaria Epidémica para el control y
+erradicación de la enfermedad de Gusano Barrenador, Decreto Ejecutivo N° 44382–
+MAG (Cochliomyia hominivorax), es de suma importancia que, ante la identificación
+de un caso sospechoso en humanos, se realice la coordinación interinstitucional e
+intersectorial bajo el enfoque de Una Sola Salud, Ministerio de Salud-Ministerio de
+Agricultura y Ganadería-Servicio Nacional de Salud Animal (SENASA)-Ministerio de
+Ambiente y Energía (MINAE) según corresponda, para identificar casos
+sospechosos en humanos y/o animales, y puedan ser atendidos de manera
+oportuna.
+
+
+
+
+                                                                                                            31
+A continuación, se brinda algunas generalidades de prevención y control de esta
+enfermedad:
+
+• Mantener higiene personal, lavarse las manos regularmente con agua y jabón.
+• Control, tratamiento e higiene en lesiones en piel de acuerdo con la
+recomendación del médico tratante.
+• Asistir al establecimiento de salud público o privado cuando presente síntomas
+asociados a la enfermedad, tales como: dolor, malestar y picazón en el sitio de la
+lesión, enrojecimiento de la piel, herida con secreción, sensación que se mueve y
+con frecuencia, se pueden observar huevecillos y/o larvas visibles en la lesión.
+• Mantener vigilancia y control en el cuidado de los animales, realizando revisiones
+frecuentes, así como la curación de todas las heridas e informar a las autoridades
+de salud animal (SENASA-MAG y/o MINAE) sobre la aparición de animales con
+gusaneras para que reciban atención oportuna.
+
+
+
+
+                                                                                       32
+
