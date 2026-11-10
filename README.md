@@ -58,6 +58,7 @@ La descarga de ERA5-Land (script 21) requiere una cuenta del Copernicus Climate 
 
 ## Licencia
 
-Licencia: [PENDIENTE: decisión de los autores]
+- **Código** (`scripts/` y `modelo_dengue.R`): licencia MIT (`LICENSE`).
+- **Datos procesados, resultados y figuras** de los autores (`datos/procesados/`, `datos/DICCIONARIO.md`, `modelo/resultados/`, `semanal/resultados/` y `figuras/`): CC BY 4.0 (`LICENSE-datos.md`).
 
-Los datos de terceros conservan sus propias condiciones de uso: Ministerio de Salud de Costa Rica (ASIS y boletines epidemiológicos), Organización Panamericana de la Salud (portal ARBO), INCIENSA, Copernicus/ECMWF (ERA5-Land), Climate Hazards Center (CHIRPS v3), WorldPop, GADM, NOAA CPC (RONI) y Mordecai et al. 2017.
+Los datos de terceros (`datos/fuentes/`) no están cubiertos por estas licencias y conservan sus propias condiciones de uso: Ministerio de Salud de Costa Rica (ASIS y boletines epidemiológicos), Organización Panamericana de la Salud (portal ARBO), INCIENSA, Copernicus/ECMWF (ERA5-Land), Climate Hazards Center (CHIRPS v3), WorldPop, GADM, NOAA CPC (RONI) y Mordecai et al. 2017.
